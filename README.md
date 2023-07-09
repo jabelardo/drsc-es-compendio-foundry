@@ -42,7 +42,7 @@ CYPHER SYSTEM and its logo are trademarks of Monte Cook Games, LLC in the U.S.A.
 ## Créditos
 
 ### Estructura 
-Este módulo esta basado en la estructura del [Cypher SRD Compendium] (https://github.com/mrkwnzl/cyphersystem-compendium) de mrkwnzl.
+Este módulo esta basado en la estructura del [Cypher SRD Compendium](https://github.com/mrkwnzl/cyphersystem-compendium) de mrkwnzl.
 
 ### Gráficos
 
