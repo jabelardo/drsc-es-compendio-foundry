@@ -6,6 +6,8 @@ on:
 
 jobs:
   build:
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
@@ -29,9 +31,9 @@ jobs:
         #run: echo "{date}={$(date +'%Y-%m-%d')}" >> $GITHUB_ENV
 
       # Update release with zip file
-      - name: Update Release with Files
-        id: create_version_release
+      - name: Create Release
         uses: ncipollo/release-action@v1.12.0
+        id: create_version_release
         with:
           allowUpdates: true
           artifacts: './release.zip'
