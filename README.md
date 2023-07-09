@@ -1,11 +1,5 @@
 # Compendio del DRS de Cypher en Español para Foundry VTT
 
-![GitHub Latest Release](https://img.shields.io/github/release/jabelardo/drsc-es-compendio-foundry?style=flat-square)
-![GitHub Downloads Latest](https://img.shields.io/github/releases/jabelardo/drsc-es-compendio-foundry/latest/release.zip?style=flat-square)
-![License](https://img.shields.io/github/license/jabelardo/drsc-es-compendio-foundry?style=flat-square)
-
-https://github.com/jabelardo/drsc-es-compendio-foundry/releases/download/0.1.7/release.zip
-
 Este es un módulo para su uso en conjunción con el [Cypher System game system for Foundry VTT](https://foundryvtt.com/packages/cyphersystem/). Este módulo expande el sistema de juego Cypher con compendios con material del Documento de Referencia del Sistema Cypher en Español.
 
 Se incluyen todas las capacidades, equipo, vehículos, ~~cyphers, artefactos, NPJs, criaturas, y tablas aleatorias~~. Con su uso junto al [DRSC-ES ](https://jabelardo.github.io/drsc-es/DRSC-ES.html) es sencillo crear un personaje con sólo arrastrar y soltar, ademas de facilitar el trabajo del DJ.
