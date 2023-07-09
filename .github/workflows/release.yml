@@ -25,7 +25,7 @@ jobs:
           
       - name: Get current date
         id: date
-        run: echo "{date}={$(date +'%Y-%m-%d')}" >> $GITHUB_OUTPUT
+        run: echo "date={$(date +'%Y-%m-%d')}" >> $GITHUB_ENV
 
       # Update release with zip file
       - name: Update Release with Files
@@ -34,6 +34,6 @@ jobs:
         with:
           allowUpdates: true
           artifacts: './release.zip'
-          body: "Changelog: https://github.com/jabelardo/drsc-es-compendio-foundry/blob/main/CHANGELOG.md#${{steps.substitute_tag.outputs.value}}---${{steps.date.outputs.date}}"
+          body: "Changelog: https://github.com/jabelardo/drsc-es-compendio-foundry/blob/main/CHANGELOG.md#${{steps.substitute_tag.outputs.value}}---${{env.date}}"
           omitDraftDuringUpdate: true
           omitPrereleaseDuringUpdate: true
