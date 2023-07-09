@@ -1,3 +1,13 @@
-## [0.1.0] - 2022-09-07
+# Changelog
+
+All notable changes to this project will be documented in this file.
+
+The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/), and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
+
+## [0.1.1] - 2023-09-07
+### Added
 - First version including: abilities, ammo, armor-fantasy, armor-modern, armor-post-apocalyptic, armor-sci-fi, basic-skills, descriptor-characteristics, equipment-fairy-tale, equipment-fantasy, equipment-modern, equipment-post-apocalyptic, equipment-sci-fi, expanded-skills, inabilities, posthuman-packages-sci-fi, power-shifts, starships, vehicles, weapons-fantasy, weapons-modern, weapons-post-apocalyptic, weapons-sci-fi
-- Build
+
+### Changed
+
+### Fixed
