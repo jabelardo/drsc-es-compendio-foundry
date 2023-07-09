@@ -1,10 +1,11 @@
 # Compendio del DRS de Cypher en Español para Foundry VTT
 
-Este es un módulo para su uso en conjunción con el [Cypher System game system for Foundry VTT](https://foundryvtt.com/packages/cyphersystem/). Este módulo expande el sistema de juego Cypher con compendios con material del Documento de Referencia del Sistema Cypher en Español.
-
-Se incluyen todas las capacidades, equipo, vehículos, ~~cyphers, artefactos, NPJs, criaturas, y tablas aleatorias~~. Con su uso junto al [DRSC-ES ](https://jabelardo.github.io/drsc-es/DRSC-ES.html) es sencillo crear un personaje con sólo arrastrar y soltar, ademas de facilitar el trabajo del DJ.
+Este es un módulo para su uso en conjunción con el [Cypher System game system for Foundry VTT](https://foundryvtt.com/packages/cyphersystem/). Este módulo expande el sistema de juego Cypher con compendios con material del Documento de Referencia del Sistema Cypher en Español. Con su uso junto al [DRSC-ES ](https://jabelardo.github.io/drsc-es/DRSC-ES.html) es sencillo crear un personaje con sólo arrastrar y soltar, ademas de facilitar el trabajo del DJ.
 
 Ten en cuenta que los compendios, especialmente el de capacidades, contienen un gran número de items. No es aconsejable importar todo a un mundo, ya que afectaría al rendimiento e incluso podría provocar cuelgues de Foundry. Importa sólo lo que realmente necesites. En la mayoría de los casos, no es necesario importar nada.
+
+# Módulos hechos
+capacidades, munición, armadura-fantasía, armadura-moderna, armadura-post-apocalíptica, armadura-ciencia-ficción, habilidades-básicas, características-descriptoras, equipo-cuento-de-hadas, equipo-fantasía, equipo-moderno, equipo-post-apocalíptico, equipo-ciencia-ficción, habilidades-ampliadas, incapacidades, paquetes-post-humanos-ciencia-ficción, mejoras-de-poder, naves-estelares, vehículos, armas-fantasía, armas-modernas, armas-post-apocalípticas, armas-ciencia-ficción
 
 # Pendiente por hacer
 - cyphers
