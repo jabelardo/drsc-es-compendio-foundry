@@ -34,6 +34,6 @@ jobs:
         with:
           allowUpdates: true
           artifacts: './release.zip'
-          body: "Changelog: https://github.com/jabelardo/drsc-es-compendio-foundry/blob/main/CHANGELOG.md#${{steps.substitute_tag.outputs.value}}---${{env.date}}"
+          body: "Changelog: https://github.com/jabelardo/drsc-es-compendio-foundry/blob/main/CHANGELOG.md#${{steps.substitute_tag.outputs.value}}---${env.date}"
           omitDraftDuringUpdate: true
           omitPrereleaseDuringUpdate: true
