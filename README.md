@@ -5,11 +5,9 @@ Este es un módulo para su uso en conjunción con el [Cypher System game system 
 Ten en cuenta que los compendios, especialmente el de capacidades, contienen un gran número de items. No es aconsejable importar todo a un mundo, ya que afectaría al rendimiento e incluso podría provocar cuelgues de Foundry. Importa sólo lo que realmente necesites. En la mayoría de los casos, no es necesario importar nada.
 
 # Módulos hechos
-capacidades, munición, armadura-fantasía, armadura-moderna, armadura-post-apocalíptica, armadura-ciencia-ficción, habilidades-básicas, características-descriptoras, equipo-cuento-de-hadas, equipo-fantasía, equipo-moderno, equipo-post-apocalíptico, equipo-ciencia-ficción, habilidades-ampliadas, incapacidades, paquetes-post-humanos-ciencia-ficción, mejoras-de-poder, naves-estelares, vehículos, armas-fantasía, armas-modernas, armas-post-apocalípticas, armas-ciencia-ficción, cyphers, cyphers-cuento-de-hadas, cyphers-fantasía, cyphers-horror, artefactos-fairy-tale, artefactos-fantasía, artefactos-horror, artefactos-post-apocalípticos, artefactos-ciencia-ficción, artefactos-súperheroes
+capacidades, munición, armadura-fantasía, armadura-moderna, armadura-post-apocalíptica, armadura-ciencia-ficción, habilidades-básicas, características-descriptoras, equipo-cuento-de-hadas, equipo-fantasía, equipo-moderno, equipo-post-apocalíptico, equipo-ciencia-ficción, habilidades-ampliadas, incapacidades, paquetes-post-humanos-ciencia-ficción, mejoras-de-poder, naves-estelares, vehículos, armas-fantasía, armas-modernas, armas-post-apocalípticas, armas-ciencia-ficción, cyphers, cyphers-cuento-de-hadas, cyphers-fantasía, cyphers-horror, artefactos-fairy-tale, artefactos-fantasía, artefactos-horror, artefactos-post-apocalípticos, artefactos-ciencia-ficción, artefactos-súperheroes, NPJs, criaturas
 
 # Pendiente por hacer
-- NPJs
-- criaturas
 - tablas aleatorias
 - journals
 
