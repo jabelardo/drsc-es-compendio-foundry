@@ -6,6 +6,8 @@ on:
 
 jobs:
   build:
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
@@ -16,7 +18,7 @@ jobs:
       # Substitute tag for changelog
       - name: Substitute tag
         id: substitute_tag
-        uses: ashley-taylor/regex-property-action@1.2
+        uses: ashley-taylor/regex-property-action@v1.4
         with:
           value: ${{github.event.release.tag_name}}
           regex: "[v.]"
@@ -26,14 +28,15 @@ jobs:
       - name: Get current date
         id: date
         run: echo "::set-output name=date::$(date +'%Y-%m-%d')"
+        #run: echo "{date}={$(date +'%Y-%m-%d')}" >> $GITHUB_ENV
 
       # Update release with zip file
-      - name: Update Release with Files
+      - name: Create Release
+        uses: ncipollo/release-action@v1.12.0
         id: create_version_release
-        uses: ncipollo/release-action@v1
         with:
           allowUpdates: true
           artifacts: './release.zip'
-          body: "Changelog: https://github.com/jabelardo/drsc-es-compendio-foundry/blob/develop/CHANGELOG.md#${{steps.substitute_tag.outputs.value}}---${{steps.date.outputs.date}}"
+          body: "Changelog: https://github.com/jabelardo/drsc-es-compendio-foundry/blob/main/CHANGELOG.md#${{steps.substitute_tag.outputs.value}}---${{steps.date.outputs.date}}"
           omitDraftDuringUpdate: true
           omitPrereleaseDuringUpdate: true
