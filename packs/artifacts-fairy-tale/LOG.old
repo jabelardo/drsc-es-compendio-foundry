@@ -1,0 +1,7 @@
+2023/07/09-19:22:31.750 9b50 Recovering log #66
+2023/07/09-19:22:31.758 9b50 Delete type=0 #66
+2023/07/09-19:22:31.759 9b50 Delete type=3 #64
+2023/07/09-19:23:32.797 9dac Level-0 table #71: started
+2023/07/09-19:23:32.797 9dac Level-0 table #71: 0 bytes OK
+2023/07/09-19:23:32.800 9dac Delete type=0 #69
+2023/07/09-19:23:32.806 9dac Manual compaction at level-0 from 'undefined' @ 72057594037927935 : 1 .. 'undefined' @ 0 : 0; will stop at (end)
