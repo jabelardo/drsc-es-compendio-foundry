@@ -1,5 +1,5 @@
-2023/07/10-16:54:54.805 5f30 Recovering log #80
-2023/07/10-16:54:54.808 5f30 Level-0 table #82: started
-2023/07/10-16:54:54.817 5f30 Level-0 table #82: 770620 bytes OK
-2023/07/10-16:54:54.824 5f30 Delete type=0 #80
-2023/07/10-16:54:54.824 5f30 Delete type=3 #78
+2023/07/10-17:21:11.052 9df8 Recovering log #83
+2023/07/10-17:21:11.055 9df8 Level-0 table #85: started
+2023/07/10-17:21:11.065 9df8 Level-0 table #85: 769593 bytes OK
+2023/07/10-17:21:11.071 9df8 Delete type=0 #83
+2023/07/10-17:21:11.071 9df8 Delete type=3 #81
