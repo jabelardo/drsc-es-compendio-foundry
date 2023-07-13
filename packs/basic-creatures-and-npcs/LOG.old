@@ -1,0 +1,16 @@
+2023/07/17-17:38:45.550 2500 Recovering log #366
+2023/07/17-17:38:45.550 2500 Level-0 table #368: started
+2023/07/17-17:38:45.570 2500 Level-0 table #368: 135780 bytes OK
+2023/07/17-17:38:45.575 2500 Delete type=0 #366
+2023/07/17-17:38:45.580 2500 Delete type=3 #365
+2023/07/17-17:44:57.921 1f08 Level-0 table #371: started
+2023/07/17-17:44:57.921 1f08 Level-0 table #371: 0 bytes OK
+2023/07/17-17:44:57.921 1f08 Delete type=0 #369
+2023/07/17-17:44:57.929 1f08 Manual compaction at level-0 from '!actors!0WiWAbNWXRypYxjh' @ 72057594037927935 : 1 .. '!actors!zfGhfwjEU0wvE9S2' @ 0 : 0; will stop at '!actors!zfGhfwjEU0wvE9S2' @ 947 : 1
+2023/07/17-17:44:57.929 1f08 Compacting 1@0 + 1@1 files
+2023/07/17-17:44:57.937 1f08 Generated table #372@0: 159 keys, 135780 bytes
+2023/07/17-17:44:57.937 1f08 Compacted 1@0 + 1@1 files => 135780 bytes
+2023/07/17-17:44:57.937 1f08 compacted to: files[ 0 1 0 0 0 0 0 ]
+2023/07/17-17:44:57.937 1f08 Delete type=2 #148
+2023/07/17-17:44:57.937 1f08 Delete type=2 #368
+2023/07/17-17:44:57.945 1f08 Manual compaction at level-0 from '!actors!zfGhfwjEU0wvE9S2' @ 947 : 1 .. '!actors!zfGhfwjEU0wvE9S2' @ 0 : 0; will stop at (end)

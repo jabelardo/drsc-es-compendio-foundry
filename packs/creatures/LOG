@@ -1,5 +1,7 @@
-2023/07/10-17:21:11.052 9df8 Recovering log #83
-2023/07/10-17:21:11.055 9df8 Level-0 table #85: started
-2023/07/10-17:21:11.065 9df8 Level-0 table #85: 769593 bytes OK
-2023/07/10-17:21:11.071 9df8 Delete type=0 #83
-2023/07/10-17:21:11.071 9df8 Delete type=3 #81
+2023/07/17-18:31:25.037 2780 Recovering log #379
+2023/07/17-18:31:25.045 2780 Delete type=0 #379
+2023/07/17-18:31:25.045 2780 Delete type=3 #375
+2023/07/17-18:32:05.446 1f08 Level-0 table #384: started
+2023/07/17-18:32:05.446 1f08 Level-0 table #384: 0 bytes OK
+2023/07/17-18:32:05.448 1f08 Delete type=0 #382
+2023/07/17-18:32:05.448 1f08 Manual compaction at level-0 from '!actors!02LotzBPq6hZTu2N' @ 72057594037927935 : 1 .. '!actors.items!4dIvoNg3PN9MC6Nl.S29Nxh0DbY3gheKl' @ 0 : 0; will stop at (end)
