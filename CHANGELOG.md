@@ -6,7 +6,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 ## [1.0.0] - 2023-07-17
 ### Added
-- everithing from the DRSC-ES at 2023-07-17 should has been included.
+- Journals finished, everything from the DRSC-ES at 2023-07-17 should have been included.
 
 ### Fixed
 - lots of small typos
