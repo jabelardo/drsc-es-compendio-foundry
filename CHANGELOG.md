@@ -10,7 +10,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 ### Fixed
 - lots of small typos
-- two formate broken foci
+- two format broken foci
 
 ### Changed
 - foci & descriptors sorted in alphabetical order in the compendiums 
