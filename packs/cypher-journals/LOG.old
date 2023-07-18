@@ -1,5 +1,21 @@
-2023/07/17-18:31:01.889 1f18 Recovering log #1094
-2023/07/17-18:31:01.894 1f18 Level-0 table #1096: started
-2023/07/17-18:31:01.906 1f18 Level-0 table #1096: 830156 bytes OK
-2023/07/17-18:31:01.912 1f18 Delete type=0 #1094
-2023/07/17-18:31:01.912 1f18 Delete type=3 #1093
+2023/07/18-18:52:57.612 5548 Recovering log #1195
+2023/07/18-18:52:57.620 5548 Delete type=0 #1195
+2023/07/18-18:52:57.620 5548 Delete type=3 #1193
+2023/07/18-19:33:50.135 2cac Level-0 table #1199: started
+2023/07/18-19:33:50.157 2cac Level-0 table #1199: 2029392 bytes OK
+2023/07/18-19:33:50.160 2cac Delete type=0 #1197
+2023/07/18-19:44:10.684 2cac Level-0 table #1201: started
+2023/07/18-19:44:10.709 2cac Level-0 table #1201: 2046048 bytes OK
+2023/07/18-19:44:10.711 2cac Delete type=0 #1198
+2023/07/18-19:44:10.712 2cac Compacting 4@0 + 1@1 files
+2023/07/18-19:44:10.747 2cac Generated table #1202@0: 75 keys, 845604 bytes
+2023/07/18-19:44:10.747 2cac Compacted 4@0 + 1@1 files => 845604 bytes
+2023/07/18-19:44:10.749 2cac compacted to: files[ 0 1 0 0 0 0 0 ]
+2023/07/18-19:44:10.749 2cac Delete type=2 #1190
+2023/07/18-19:44:10.749 2cac Delete type=2 #1192
+2023/07/18-19:44:10.750 2cac Delete type=2 #1194
+2023/07/18-19:44:10.750 2cac Delete type=2 #1199
+2023/07/18-19:44:10.750 2cac Delete type=2 #1201
+2023/07/18-19:47:49.420 2cac Level-0 table #1204: started
+2023/07/18-19:47:49.443 2cac Level-0 table #1204: 2046289 bytes OK
+2023/07/18-19:47:49.445 2cac Delete type=0 #1200

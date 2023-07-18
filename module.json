@@ -392,7 +392,44 @@
       "type": "RollTable",
       "private": false,
       "flags": {}
+    },
+    {
+      "label": "Descriptores",
+      "name": "descriptors",
+      "path": "packs/descriptors",
+      "system": "cyphersystem",
+      "type": "JournalEntry",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "Rasgos",
+      "name": "foci",
+      "path": "packs/foci",
+      "system": "cyphersystem",
+      "type": "JournalEntry",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "Tipos",
+      "name": "types",
+      "path": "packs/types",
+      "system": "cyphersystem",
+      "type": "JournalEntry",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "Aspectos",
+      "name": "flavors",
+      "path": "packs/flavors",
+      "system": "cyphersystem",
+      "type": "JournalEntry",
+      "private": false,
+      "flags": {}
     }
+				
   ],
   "packFolders": [
     {
@@ -409,8 +446,12 @@
         },
         {
           "name": "Creación de Personaje",
-          "sorting": "a",
+          "sorting": "m",
           "packs": [
+            "types",
+            "descriptors",
+            "foci",
+            "flavors",
             "abilities",
             "descriptor-characteristics",
             "inabilities",
