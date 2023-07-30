@@ -1,0 +1,54 @@
+{
+  "img": "systems/cyphersystem/icons/items/ability.svg",
+  "effects": [],
+  "folder": null,
+  "system": {
+    "archived": false,
+    "settings": {
+      "general": {
+        "spellTier": "low",
+        "sorting": "Ability",
+        "unmaskedForm": "Mask"
+      },
+      "rollButton": {
+        "stepModifier": "eased",
+        "damage": 0,
+        "damagePerLOE": 3,
+        "bonus": 0,
+        "pool": "Pool",
+        "teen": "",
+        "additionalSteps": 0,
+        "effort1": 0,
+        "effort3": 0,
+        "assets": 0,
+        "effort2": 0,
+        "skill": "Practiced",
+        "additionalCost": 0
+      }
+    },
+    "description": "<p>Anulas una fuente de peligro potencial relacionada con una criatura u objeto que conozcas a una distancia inmediata durante una ronda. Puede tratarse de un arma o dispositivo en poder de alguien, una trampa activada por una placa de presión o una habilidad natural de una criatura (algo especial, innato y peligroso, como el aliento ardiente de un dragón o el veneno de una cobra gigante). También puedes intentar frustrar una acción mundana de un enemigo (como un ataque con un arma o una garra), para que la acción no se realice en esta ronda. Haz tu tirada contra el nivel del ataque, peligro o criatura. Acción.<\/p>",
+    "basic": {
+      "cost": "2",
+      "pool": "Intellect"
+    },
+    "version": 2
+  },
+  "ownership": {
+    "default": 0,
+    "k2TkElLx959B0lm5": 3
+  },
+  "_stats": {
+    "modifiedTime": 1664959718407,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "rLeavHPrdkq6xjNt",
+    "createdTime": null,
+    "systemVersion": "2.0.0-a1",
+    "coreVersion": "10.286"
+  },
+  "name": "Detener el peligro",
+  "flags": {"core": {"sourceId": "Compendium.cyphersystem-compendium.abilities.U7chr7wLj7r5y0LT"}},
+  "_id": "U7chr7wLj7r5y0LT",
+  "sort": 0,
+  "type": "ability",
+  "_key": "!items!U7chr7wLj7r5y0LT"
+}

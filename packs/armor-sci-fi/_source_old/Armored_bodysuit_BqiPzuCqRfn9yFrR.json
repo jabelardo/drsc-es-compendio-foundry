@@ -1,0 +1,56 @@
+{
+  "name": "Traje blindado",
+  "type": "armor",
+  "img": "systems/cyphersystem/icons/items/armor.svg",
+  "effects": [],
+  "folder": "8S590DKmDHn117ny",
+  "sort": 100000,
+  "flags": {},
+  "_id": "BqiPzuCqRfn9yFrR",
+  "system": {
+    "version": 2,
+    "description": "<p>Funciona como armadura media (+2 Armadura), estorba como si no llevara armadura. Nivel 4.</p>",
+    "archived": false,
+    "basic": {
+      "type": "medium armor",
+      "rating": 2,
+      "cost": 0,
+      "notes": "estorba como si no llevara armadura"
+    },
+    "settings": {
+      "general": {
+        "unmaskedForm": "Mask"
+      }
+    },
+    "active": true,
+    "price": "",
+    "rollButton": {
+      "pool": "Pool",
+      "skill": "Practiced",
+      "assets": 0,
+      "effort1": 0,
+      "effort2": 0,
+      "effort3": 0,
+      "stepModifier": "eased",
+      "additionalSteps": 0,
+      "additionalCost": 0,
+      "damage": 0,
+      "damagePerLOE": 3,
+      "teen": "",
+      "bonus": 0
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "k2TkElLx959B0lm5": 3
+  },
+  "_stats": {
+    "systemId": "cyphersystem",
+    "systemVersion": "2.6.2",
+    "coreVersion": "11.299",
+    "createdTime": null,
+    "modifiedTime": 1685560873132,
+    "lastModifiedBy": "7luxagQiisUFvSQn"
+  },
+  "_key": "!items!BqiPzuCqRfn9yFrR"
+}

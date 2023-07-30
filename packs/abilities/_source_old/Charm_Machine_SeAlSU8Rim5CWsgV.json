@@ -1,0 +1,54 @@
+{
+  "img": "systems/cyphersystem/icons/items/ability.svg",
+  "effects": [],
+  "folder": null,
+  "system": {
+    "archived": false,
+    "settings": {
+      "general": {
+        "spellTier": "low",
+        "sorting": "Ability",
+        "unmaskedForm": "Mask"
+      },
+      "rollButton": {
+        "stepModifier": "eased",
+        "damage": 0,
+        "damagePerLOE": 3,
+        "bonus": 0,
+        "pool": "Pool",
+        "teen": "",
+        "additionalSteps": 0,
+        "effort1": 0,
+        "effort3": 0,
+        "assets": 0,
+        "effort2": 0,
+        "skill": "Practiced",
+        "additionalCost": 0
+      }
+    },
+    "description": "<p>Convences a una máquina no inteligente de que \"le gustes\". Una máquina a la que le gustas tiene un 50% menos de probabilidades de funcionar si dicha función pudiera causarte daño. Así, si un enemigo intenta detonar una bomba cerca de ti controlada por un detonador al que le gustas, hay un 50% de posibilidades de que no explote. Acción para iniciar.<\/p>",
+    "basic": {
+      "cost": "2",
+      "pool": "Intellect"
+    },
+    "version": 2
+  },
+  "ownership": {
+    "default": 0,
+    "k2TkElLx959B0lm5": 3
+  },
+  "_stats": {
+    "modifiedTime": 1664959715048,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "rLeavHPrdkq6xjNt",
+    "createdTime": null,
+    "systemVersion": "2.0.0-a1",
+    "coreVersion": "10.286"
+  },
+  "name": "Encantar máquina",
+  "flags": {"core": {"sourceId": "Compendium.cyphersystem-compendium.abilities.SeAlSU8Rim5CWsgV"}},
+  "_id": "SeAlSU8Rim5CWsgV",
+  "sort": 0,
+  "type": "ability",
+  "_key": "!items!SeAlSU8Rim5CWsgV"
+}

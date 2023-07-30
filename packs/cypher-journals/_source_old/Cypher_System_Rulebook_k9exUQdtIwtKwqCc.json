@@ -1,0 +1,50 @@
+{
+  "name": "Reglamento del Sistema Cypher",
+  "pages": [
+    "P9XAXn2jU0Odewiy",
+    "tCf5xQ6RpQ3PF3Et",
+    "Jp7hNpnUc0qCfI8c",
+    "NgiK7sSsF9czBCRy",
+    "9ZDlIEtwXjxzyyrZ",
+    "gUBd9dvLJ8qY0iZx",
+    "gK5t9ActY73rBLe5",
+    "9x56c0G5TMOl1Arn",
+    "0VwlyyylqvFgJjZw",
+    "YRhX8KikaF361373",
+    "CSHlAboV1tzyC1Kz",
+    "kL1WYB17GtLujcMp",
+    "5tBpQHxLFK0uSx7O",
+    "o0jvZmIaxk8vSE4i",
+    "VFJ6kCCgRGTzpWp0",
+    "L90rsf6J1WHnk7rN",
+    "pd2PrHViZ1edOZ7f",
+    "tIyemzsYdcYDslG1",
+    "ARG20fxwzr0OBZjH",
+    "BW4rWFL1jsU98e0B",
+    "hdLllcWxZ4VdDhlr",
+    "ljjovWdF2f0UgQ4l",
+    "xLSayIO5g61IGlUa",
+    "UvvvJnsSL3Ck1U6K"
+  ],
+  "flags": {
+    "core": {
+      "sourceId": "JournalEntry.DPqNQ0vd7NYr3uQ2"
+    }
+  },
+  "_stats": {
+    "systemId": "cyphersystem",
+    "systemVersion": "2.6.2",
+    "coreVersion": "11.299",
+    "createdTime": 1664960719139,
+    "modifiedTime": 1685561532243,
+    "lastModifiedBy": "7luxagQiisUFvSQn"
+  },
+  "folder": null,
+  "sort": 100000,
+  "ownership": {
+    "default": 0,
+    "rLeavHPrdkq6xjNt": 3
+  },
+  "_id": "k9exUQdtIwtKwqCc",
+  "_key": "!journal!k9exUQdtIwtKwqCc"
+}

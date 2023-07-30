@@ -1,0 +1,128 @@
+{
+  "img": "modules/drsc-es-compendio-foundry/img/tokens/giant.webp",
+  "_stats": {
+    "modifiedTime": 1676797809171,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "yThCrv1jSfPXOC2U",
+    "createdTime": 1676280675368,
+    "systemVersion": "2.3.0",
+    "coreVersion": "10.291"
+  },
+  "flags": {"core": {"sourceId": "Actor.xlKdlQ2nBuhUFY8N"}},
+  "sort": 0,
+  "type": "npc",
+  "_key": "!actors!YCWxXPw3Rwo3MODs",
+  "prototypeToken": {
+    "displayBars": 40,
+    "displayName": 20,
+    "actorLink": false,
+    "texture": {
+      "scaleX": 1,
+      "offsetX": 0,
+      "scaleY": 1,
+      "offsetY": 0,
+      "src": "icons/svg/mystery-man.svg",
+      "rotation": 0,
+      "tint": null
+    },
+    "lockRotation": false,
+    "rotation": 0,
+    "detectionModes": [],
+    "flags": {},
+    "randomImg": false,
+    "bar1": {"attribute": "pools.health"},
+    "bar2": {"attribute": "basic.level"},
+    "disposition": 0,
+    "light": {
+      "attenuation": 0.5,
+      "color": null,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "animation": {
+        "intensity": 5,
+        "type": null,
+        "reverse": false,
+        "speed": 5
+      },
+      "saturation": 0,
+      "alpha": 0.5,
+      "contrast": 0,
+      "angle": 360,
+      "luminosity": 0.5,
+      "shadows": 0,
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "alpha": 1,
+    "name": "Jotunn de hielo",
+    "width": 1,
+    "sight": {
+      "saturation": 0,
+      "attenuation": 0.1,
+      "brightness": 0,
+      "color": null,
+      "visionMode": "basic",
+      "contrast": 0,
+      "range": null,
+      "angle": 360,
+      "enabled": false
+    },
+    "height": 1
+  },
+  "effects": [],
+  "system": {
+    "settings": {
+      "general": {
+        "initiativeBonus": 0,
+        "hideArchive": false
+      },
+      "equipment": {
+        "ammo": {"active": false},
+        "armor": {"active": false},
+        "attacks": {"active": false},
+        "materials": {
+          "active": false,
+          "label": ""
+        },
+        "cyphers": {
+          "active": false,
+          "label": ""
+        },
+        "oddities": {
+          "active": false,
+          "label": ""
+        },
+        "artifacts": {
+          "active": false,
+          "label": ""
+        }
+      }
+    },
+    "notes": "<p>Los jotunns de hielo suelen llamarse gigantes de hielo. Su piel es de color blanco pálido, rosa o azul, y su pelo suele ser blanco, rubio pálido o de hielo. Prefieren las montañas frías y la tundra, visten cota de malla y pieles, y utilizan hachas de metal que canalizan el poderoso frío de sus cuerpos.<\/p>\n<p><strong>Motivación:<\/strong> Destrucción, alimentación (carne], honor.<\/p>\n<p><strong>Entorno:<\/strong> Montañas y llanuras frías<\/p>\n<p><strong>Salud:<\/strong> 30<\/p>\n<p><strong>Daño que inflige:<\/strong> 6 puntos 3 puntos de frío<\/p>\n<p><strong>Armadura:<\/strong> 2 (inmune al frío)<\/p>\n<p><strong>Movimiento:<\/strong> Corto; largo al esquiar<\/p>\n<p><strong>Ajustes: <\/strong>Nivel 5 para Defensa por Velocidad debido al tamaño; nivel 8 para romper y lanzar objetos<\/p>\n<p><strong>Combate:<\/strong> Un jotunn de hielo utiliza armas adecuadas a su tamaño (que serían a dos manos para un humano, pero que el gigante puede blandir a una mano), infligiendo 6 puntos de daño más otros 3 puntos de daño por frío ambiental conducido desde el cuerpo del jotunn. Los jotunn lanzan rocas o trozos de hielo hasta muy larga distancia, infligiendo 6 puntos de daño más 3 puntos de daño por frío.<\/p>\n<p>Un jotunn puede infligir 1 punto de daño de frío con un toque, y cualquiera que lo toque sin protección contra el frío recibe daño como si el jotunn lo hubiera tocado. Un jotunn de escarcha muerto y su equipo siguen demasiado fríos para tocarlos con seguridad durante varios minutos.<\/p>\n<p>Los jotunn de escarcha son inmunes al daño por frío, pero reciben daño adicional por fuego (igual al daño normal del ataque, hasta un máximo de 5 puntos adicionales de daño por fuego).<\/p>\n<p>Los líderes jotunn de escarcha a veces tienen poderes mágicos, normalmente relacionados con las ilusiones y el clima.<\/p>\n<p><strong>Interacción:<\/strong> Los jotunn de hielo tienden a ser hostiles, pero si están de humor generoso, pueden permitir que los visitantes cenen con ellos o descansen en sus salones. Una vez que conceden hospitalidad a alguien, son reacios a romperla a menos que sean atacados, robados o engañados.<\/p>\n<p><strong>Uso:<\/strong> Un jotunn de hielo lanza una roca sólo para ser amenazador. Un jotunn astuto se ofrece a compartir una historia a cambio de comida y conversación. Un clan de jotunns aprovecha la cobertura de una tormenta para asaltar una aldea.<\/p>\n<p><strong>Botín:<\/strong> A los jotunns les gustan las cosas finas, y sus hogares suelen tener utensilios, platos, armas y trofeos hechos de materiales preciosos y decorados con gemas. Pueden tener Cyphers, y un líder puede llevar un artefacto.<\/p>\n<p><strong>Intromisiones del DJ:<\/strong> El ataque del jotunn entumece uno de los miembros del personaje, obstaculizando todas las acciones con él en dos grados hasta que se cure.<\/p>",
+    "pools": {"health": {
+      "max": 30,
+      "value": 30
+    }},
+    "description": "",
+    "combat": {
+      "damage": 9,
+      "armor": 2
+    },
+    "basic": {
+      "level": 6,
+      "biography": "<p>Los jotunns de hielo suelen llamarse gigantes de hielo. Su piel es de color blanco pálido, rosa o azul, y su pelo suele ser blanco, rubio pálido o de hielo. Prefieren las montañas frías y la tundra, visten cota de malla y pieles, y utilizan hachas de metal que canalizan el poderoso frío de sus cuerpos.<\/p>\n<p><strong>Motivación:<\/strong> Destrucción, alimentación (carne], honor.<\/p>\n<p><strong>Entorno:<\/strong> Montañas y llanuras frías<\/p>\n<p><strong>Salud:<\/strong> 30<\/p>\n<p><strong>Daño que inflige:<\/strong> 6 puntos 3 puntos de frío<\/p>\n<p><strong>Armadura:<\/strong> 2 (inmune al frío)<\/p>\n<p><strong>Movimiento:<\/strong> Corto; largo al esquiar<\/p>\n<p><strong>Ajustes: <\/strong>Nivel 5 para Defensa por Velocidad debido al tamaño; nivel 8 para romper y lanzar objetos<\/p>\n<p><strong>Combate:<\/strong> Un jotunn de hielo utiliza armas adecuadas a su tamaño (que serían a dos manos para un humano, pero que el gigante puede blandir a una mano), infligiendo 6 puntos de daño más otros 3 puntos de daño por frío ambiental conducido desde el cuerpo del jotunn. Los jotunn lanzan rocas o trozos de hielo hasta muy larga distancia, infligiendo 6 puntos de daño más 3 puntos de daño por frío.<\/p>\n<p>Un jotunn puede infligir 1 punto de daño de frío con un toque, y cualquiera que lo toque sin protección contra el frío recibe daño como si el jotunn lo hubiera tocado. Un jotunn de escarcha muerto y su equipo siguen demasiado fríos para tocarlos con seguridad durante varios minutos.<\/p>\n<p>Los jotunn de escarcha son inmunes al daño por frío, pero reciben daño adicional por fuego (igual al daño normal del ataque, hasta un máximo de 5 puntos adicionales de daño por fuego).<\/p>\n<p>Los líderes jotunn de escarcha a veces tienen poderes mágicos, normalmente relacionados con las ilusiones y el clima.<\/p>\n<p><strong>Interacción:<\/strong> Los jotunn de hielo tienden a ser hostiles, pero si están de humor generoso, pueden permitir que los visitantes cenen con ellos o descansen en sus salones. Una vez que conceden hospitalidad a alguien, son reacios a romperla a menos que sean atacados, robados o engañados.<\/p>\n<p><strong>Uso:<\/strong> Un jotunn de hielo lanza una roca sólo para ser amenazador. Un jotunn astuto se ofrece a compartir una historia a cambio de comida y conversación. Un clan de jotunns aprovecha la cobertura de una tormenta para asaltar una aldea.<\/p>\n<p><strong>Botín:<\/strong> A los jotunns les gustan las cosas finas, y sus hogares suelen tener utensilios, platos, armas y trofeos hechos de materiales preciosos y decorados con gemas. Pueden tener Cyphers, y un líder puede llevar un artefacto.<\/p>\n<p><strong>Intromisiones del DJ:<\/strong> El ataque del jotunn entumece uno de los miembros del personaje, obstaculizando todas las acciones con él en dos grados hasta que se cure.<\/p>"
+    },
+    "version": 2
+  },
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "name": "Jotunn de hielo",
+  "_id": "YCWxXPw3Rwo3MODs",
+  "items": []
+}

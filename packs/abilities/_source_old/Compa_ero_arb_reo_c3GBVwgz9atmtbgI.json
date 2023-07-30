@@ -1,0 +1,58 @@
+{
+  "img": "systems/cyphersystem/icons/items/ability.svg",
+  "effects": [],
+  "system": {
+    "archived": false,
+    "settings": {
+      "general": {
+        "spellTier": "low",
+        "sorting": "Ability",
+        "unmaskedForm": "Mask"
+      },
+      "rollButton": {
+        "stepModifier": "eased",
+        "damage": 0,
+        "damagePerLOE": 3,
+        "bonus": 0,
+        "pool": "Pool",
+        "teen": "",
+        "additionalSteps": 0,
+        "effort1": "0",
+        "effort3": "0",
+        "assets": "0",
+        "effort2": "0",
+        "skill": "Practiced",
+        "additionalCost": 0
+      }
+    },
+    "description": "<p>Animas un árbol de aproximadamente tu tamaño o más pequeño, creando una criatura de nivel 3 con 1 de Armadura. El árbol sigue tus órdenes verbales durante una hora, tras la cual vuelve a ser un árbol normal (y echa raíces donde se encuentra). A menos que el árbol muera por algún daño, puedes animarlo de nuevo cuando la duración de la capacidad expire, pero cualquier daño que haya sufrido se traslada a su nuevo estado animado. Además de las opciones normales para utilizar Esfuerzo, puedes elegir utilizar Esfuerzo para afectar a más árboles; cada nivel de Esfuerzo utilizado afecta a un árbol adicional. Acción.</p>",
+    "basic": {
+      "cost": "0",
+      "pool": "Pool"
+    },
+    "version": 2
+  },
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "_stats": {
+    "modifiedTime": 1676106777425,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "yThCrv1jSfPXOC2U",
+    "createdTime": 1676106753680,
+    "systemVersion": "2.3.0",
+    "coreVersion": "10.291"
+  },
+  "name": "Compañero arbóreo",
+  "flags": {
+    "core": {
+      "sourceId": "Item.g1bdMdnxN455ZJhR"
+    }
+  },
+  "sort": 0,
+  "_id": "c3GBVwgz9atmtbgI",
+  "type": "ability",
+  "_key": "!items!c3GBVwgz9atmtbgI"
+}

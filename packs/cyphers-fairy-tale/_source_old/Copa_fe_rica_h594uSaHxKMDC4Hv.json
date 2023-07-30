@@ -1,0 +1,37 @@
+{
+  "img": "systems/cyphersystem/icons/items/cypher.svg",
+  "effects": [],
+  "system": {
+    "archived": false,
+    "settings": {
+      "general": {
+        "nameUnidentified": ""
+      }
+    },
+    "description": "<p><strong>Nivel:</strong> 1d6 + 1</p>\n<p><strong>Aspecto:</strong> Vasija decorada hecha de materiales preciosos</p>\n<p><strong>Efecto:</strong> Cuando la copa se entierra en el suelo, otorga protección a la persona que la enterró. Gana +2 de Armadura contra todos los ataques físicos y mentales durante un día.</p>\n<p>Se cree que enterrar una copa de hada la devuelve a sus legítimos dueños bajo tierra, y son ellos quienes ofrecen protección a modo de agradecimiento.</p>",
+    "basic": {
+      "identified": true,
+      "level": "1d6+1"
+    },
+    "version": 2
+  },
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "_stats": {
+    "modifiedTime": 1685280982955,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "yThCrv1jSfPXOC2U",
+    "createdTime": 1685277374766,
+    "systemVersion": "2.6.0",
+    "coreVersion": "10.291"
+  },
+  "name": "Copa feérica",
+  "flags": {},
+  "_id": "h594uSaHxKMDC4Hv",
+  "sort": 0,
+  "type": "cypher",
+  "_key": "!items!h594uSaHxKMDC4Hv"
+}

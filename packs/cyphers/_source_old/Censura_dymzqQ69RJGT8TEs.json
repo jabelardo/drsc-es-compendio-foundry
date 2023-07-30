@@ -1,0 +1,47 @@
+{
+  "img": "systems/cyphersystem/icons/items/cypher.svg",
+  "effects": [],
+  "folder": null,
+  "system": {
+    "archived": false,
+    "rollButton": {
+      "stepModifier": "eased",
+      "damage": 0,
+      "damagePerLOE": 3,
+      "bonus": 0,
+      "pool": "Pool",
+      "teen": "",
+      "additionalSteps": 0,
+      "effort1": 0,
+      "effort3": 0,
+      "assets": 0,
+      "effort2": 0,
+      "skill": "Practiced",
+      "additionalCost": 0
+    },
+    "description": "<p><strong>Nivel:</strong> 1d6 + 2</p>\n<p><strong>Efecto:</strong> Un área dentro del alcance inmediato del usuario se vuelve segura contra cualquier efecto fuera del área que vea, oiga o perciba lo que ocurre dentro. Para los observadores externos, el área está \"borrosa\" para cualquier sentido empelado. Escuchas telefónicas, sensores de escaneo y otros métodos de vigilancia directa tampóco funcionan en dl área durante un día.</p>",
+    "basic": {
+      "identified": true,
+      "level": "1d6 + 2"
+    },
+    "version": 2
+  },
+  "ownership": {
+    "default": 0,
+    "k2TkElLx959B0lm5": 3
+  },
+  "_stats": {
+    "modifiedTime": 1664959727890,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "rLeavHPrdkq6xjNt",
+    "createdTime": null,
+    "systemVersion": "2.0.0-a1",
+    "coreVersion": "10.286"
+  },
+  "name": "Censura",
+  "flags": {},
+  "sort": 0,
+  "_id": "dymzqQ69RJGT8TEs",
+  "type": "cypher",
+  "_key": "!items!dymzqQ69RJGT8TEs"
+}

@@ -1,0 +1,36 @@
+{
+  "name": "Ganzúas",
+  "type": "equipment",
+  "img": "systems/cyphersystem/icons/items/equipment.svg",
+  "system": {
+    "version": 2,
+    "description": "<p>También conocidas como herramientas de ladrón, este juego proporciona todo lo que una persona experta necesita para forzar cerraduras y desarmar trampas.</p>",
+    "archived": false,
+    "basic": {
+      "level": null,
+      "quantity": 1
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Item.x2F2JKluLwKJJz7r"
+    }
+  },
+  "_stats": {
+    "systemId": "cyphersystem",
+    "systemVersion": "2.3.0",
+    "coreVersion": "10.291",
+    "createdTime": 1676110459046,
+    "modifiedTime": 1676110472671,
+    "lastModifiedBy": "yThCrv1jSfPXOC2U"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "pxPNd1KwLSHRqvps",
+  "_key": "!items!pxPNd1KwLSHRqvps"
+}

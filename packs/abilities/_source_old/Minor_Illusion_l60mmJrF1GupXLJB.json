@@ -1,0 +1,54 @@
+{
+  "img": "systems/cyphersystem/icons/items/ability.svg",
+  "effects": [],
+  "folder": null,
+  "system": {
+    "archived": false,
+    "settings": {
+      "general": {
+        "spellTier": "low",
+        "sorting": "Ability",
+        "unmaskedForm": "Mask"
+      },
+      "rollButton": {
+        "stepModifier": "eased",
+        "damage": 0,
+        "damagePerLOE": 3,
+        "bonus": 0,
+        "pool": "Pool",
+        "teen": "",
+        "additionalSteps": 0,
+        "effort1": 0,
+        "effort3": 0,
+        "assets": 0,
+        "effort2": 0,
+        "skill": "Practiced",
+        "additionalCost": 0
+      }
+    },
+    "description": "<p>Creas una única imagen de una criatura u objeto dentro del alcance inmediato. La imagen debe caber dentro de un cubo de 3 m [10 pies]. La imagen puede moverse (por ejemplo, puedes hacer que la ilusión de una persona camine o ataque), pero no puede salir del área definida por el cubo. La ilusión incluye sonido pero no olor. Dura diez minutos, pero si quieres cambiar la ilusión original de forma significativa -como hacer que una criatura parezca estar herida- debes concentrarte en ella de nuevo (aunque hacerlo no cuesta puntos de Intelecto adicionales). Si te mueves más allá del alcance inmediato del cubo, la ilusión se desvanece. Acción para crear; acción para modificar.<\/p>",
+    "basic": {
+      "cost": "1",
+      "pool": "Intellect"
+    },
+    "version": 2
+  },
+  "ownership": {
+    "default": 0,
+    "k2TkElLx959B0lm5": 3
+  },
+  "_stats": {
+    "modifiedTime": 1664959721571,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "rLeavHPrdkq6xjNt",
+    "createdTime": null,
+    "systemVersion": "2.0.0-a1",
+    "coreVersion": "10.286"
+  },
+  "name": "Ilusión menor",
+  "flags": {"core": {"sourceId": "Compendium.cyphersystem-compendium.abilities.l60mmJrF1GupXLJB"}},
+  "_id": "l60mmJrF1GupXLJB",
+  "sort": 0,
+  "type": "ability",
+  "_key": "!items!l60mmJrF1GupXLJB"
+}

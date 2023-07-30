@@ -1,0 +1,59 @@
+{
+  "img": "systems/cyphersystem/icons/items/ability.svg",
+  "effects": [],
+  "system": {
+    "archived": false,
+    "settings": {
+      "general": {
+        "spellTier": "low",
+        "sorting": "Ability",
+        "unmaskedForm": "Mask"
+      },
+      "linkedItems": {
+        "attack": "",
+        "skill": "",
+        "ability": ""
+      },
+      "rollButton": {
+        "stepModifier": "eased",
+        "damage": 0,
+        "damagePerLOE": 3,
+        "bonus": 0,
+        "pool": "Pool",
+        "teen": "",
+        "additionalSteps": 0,
+        "effort1": "0",
+        "effort3": "0",
+        "assets": "0",
+        "effort2": "0",
+        "skill": "Practiced",
+        "additionalCost": 0
+      }
+    },
+    "description": "<p>Aplicas tu capacidad de cambio de forma a otra criatura de tu tamaño o menor, dándole una forma que tú eres capaz de asumir. Esto dura unos diez minutos.<\/p><p>Además de las opciones normales para usar Esfuerzo, puedes elegir usar Esfuerzo para aumentar la duración; un nivel de Esfuerzo lo aumenta a una hora, dos lo aumenta a un día. Una criatura puede volver a su forma normal como acción, pero no puede volver a cambiar a la forma alterada. Acción.<\/p><p>Probablemente no puedas usar Disfrazar a otro para disfrazar a un tipo de criatura muy diferente a ti, como un humano disfrazando a un robot, animal o alienígena cristalino.<\/p>",
+    "basic": {
+      "cost": "4+",
+      "pool": "Intellect"
+    },
+    "version": 2
+  },
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "_stats": {
+    "modifiedTime": 1681933794378,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "yThCrv1jSfPXOC2U",
+    "createdTime": 1681931801280,
+    "systemVersion": "2.5.0",
+    "coreVersion": "10.291"
+  },
+  "name": "Disfrazar a otro",
+  "flags": {"core": {"sourceId": "Item.S4FlCC3tLdqYntny"}},
+  "sort": 0,
+  "_id": "NzRnWhbbZGjco13V",
+  "type": "ability",
+  "_key": "!items!NzRnWhbbZGjco13V"
+}

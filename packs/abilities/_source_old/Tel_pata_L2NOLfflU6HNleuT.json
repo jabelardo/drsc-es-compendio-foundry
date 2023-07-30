@@ -1,0 +1,58 @@
+{
+  "img": "systems/cyphersystem/icons/items/ability.svg",
+  "effects": [],
+  "folder": null,
+  "system": {
+    "archived": false,
+    "settings": {
+      "general": {
+        "spellTier": "low",
+        "sorting": "Ability",
+        "unmaskedForm": "Mask"
+      },
+      "rollButton": {
+        "stepModifier": "eased",
+        "damage": 0,
+        "damagePerLOE": 3,
+        "bonus": 0,
+        "pool": "Pool",
+        "teen": "",
+        "additionalSteps": 0,
+        "effort1": 0,
+        "effort3": 0,
+        "assets": 0,
+        "effort2": 0,
+        "skill": "Practiced",
+        "additionalCost": 0
+      }
+    },
+    "description": "<p>Puedes hablar telepáticamente con otros que estén a corto alcance. La comunicación es bidireccional, pero la otra parte debe estar dispuesta y ser capaz de comunicarse. No tienes que ver al objetivo, pero debes saber que está dentro del alcance. Puedes tener más de un contacto activo a la vez, pero debes establecer contacto con cada objetivo individualmente. Cada contacto dura hasta diez minutos. Si aplicas un nivel de Esfuerzo para aumentar la duración en lugar de aliviar la tarea, el contacto dura 24 horas. Acción para establecer el contacto.</p>",
+    "basic": {
+      "cost": "1+",
+      "pool": "Intellect"
+    },
+    "version": 2
+  },
+  "ownership": {
+    "default": 0,
+    "k2TkElLx959B0lm5": 3
+  },
+  "_stats": {
+    "modifiedTime": 1664959725211,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "rLeavHPrdkq6xjNt",
+    "createdTime": null,
+    "systemVersion": "2.0.0-a1",
+    "coreVersion": "10.286"
+  },
+  "name": "Telépata",
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.cyphersystem-compendium.abilities.L2NOLfflU6HNleuT"
+    }
+  },
+  "_id": "L2NOLfflU6HNleuT",
+  "sort": 0,
+  "type": "ability",
+  "_key": "!items!L2NOLfflU6HNleuT"
+}

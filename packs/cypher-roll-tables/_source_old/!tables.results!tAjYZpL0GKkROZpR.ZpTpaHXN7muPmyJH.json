@@ -1,0 +1,16 @@
+{
+  "img": "systems/cyphersystem/icons/items/cypher.svg",
+  "flags": {},
+  "documentCollection": "cyphersystem-compendium.cyphers",
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "documentId": "gXzG3cEX6b15T7fh",
+  "_id": "ZpTpaHXN7muPmyJH",
+  "text": "01",
+  "type": 2,
+  "drawn": false,
+  "_key": "!tables.results!tAjYZpL0GKkROZpR.ZpTpaHXN7muPmyJH"
+}

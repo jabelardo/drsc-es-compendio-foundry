@@ -1,0 +1,38 @@
+{
+  "img": "systems/cyphersystem/icons/items/artifact.svg",
+  "effects": [],
+  "system": {
+    "archived": false,
+    "settings": {
+      "general": {
+        "nameUnidentified": ""
+      }
+    },
+    "description": "<p><strong>Nivel:</strong> 1d6</p>\n<p><strong>Aspecto:</strong> Trozo de madera tallado en forma de oso</p>\n<p><strong>Efecto:</strong> Cuando se coloca en la boca, transforma al portador en una osa. Mientras está en esta forma, el usuario gana +4 a su Reserva de Vigor, +4 a su Reserva de Velocidad, y +1 a Armadura. También puede comunicarse con otros osos. El efecto dura diez minutos.</p>\n<p><strong>Agotamiento:</strong> 1 en 1d6</p>",
+    "basic": {
+      "depletion": "1 in [[/r d6]]",
+      "identified": true,
+      "level": "1d6"
+    },
+    "version": 2
+  },
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "_stats": {
+    "modifiedTime": 1685302332335,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "yThCrv1jSfPXOC2U",
+    "createdTime": 1685301160309,
+    "systemVersion": "2.6.0",
+    "coreVersion": "10.291"
+  },
+  "name": "Osa",
+  "flags": {},
+  "_id": "n6he3GNmrQZ0Qbbx",
+  "sort": 0,
+  "type": "artifact",
+  "_key": "!items!n6he3GNmrQZ0Qbbx"
+}

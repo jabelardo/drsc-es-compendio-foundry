@@ -1,0 +1,54 @@
+{
+  "img": "systems/cyphersystem/icons/items/ability.svg",
+  "effects": [],
+  "folder": null,
+  "system": {
+    "archived": false,
+    "settings": {
+      "general": {
+        "spellTier": "low",
+        "sorting": "Ability",
+        "unmaskedForm": "Mask"
+      },
+      "rollButton": {
+        "stepModifier": "eased",
+        "damage": 0,
+        "damagePerLOE": 3,
+        "bonus": 0,
+        "pool": "Pool",
+        "teen": "",
+        "additionalSteps": 0,
+        "effort1": 0,
+        "effort3": 0,
+        "assets": 0,
+        "effort2": 0,
+        "skill": "Practiced",
+        "additionalCost": 0
+      }
+    },
+    "description": "<p>Extiendes tu capacidad de Absorción de energía cinética hasta treinta criaturas a corto alcance para que también puedan absorber la energía de los ataques físicos e impactos durante una hora. Si tienes Absorber energía pura o Absorción de energía cinética mejorada, estas criaturas también pueden usar esas capacidades. Las criaturas, sin embargo, no pueden liberar el exceso de energía como una explosión. Acción para iniciar.<\/p>",
+    "basic": {
+      "cost": "9",
+      "pool": "Might"
+    },
+    "version": 2
+  },
+  "ownership": {
+    "default": 0,
+    "k2TkElLx959B0lm5": 3
+  },
+  "_stats": {
+    "modifiedTime": 1664959717122,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "rLeavHPrdkq6xjNt",
+    "createdTime": null,
+    "systemVersion": "2.0.0-a1",
+    "coreVersion": "10.286"
+  },
+  "name": "Energizar multitud",
+  "flags": {"core": {"sourceId": "Compendium.cyphersystem-compendium.abilities.5i6TqVJQQ4sTvqTm"}},
+  "_id": "5i6TqVJQQ4sTvqTm",
+  "sort": 0,
+  "type": "ability",
+  "_key": "!items!5i6TqVJQQ4sTvqTm"
+}

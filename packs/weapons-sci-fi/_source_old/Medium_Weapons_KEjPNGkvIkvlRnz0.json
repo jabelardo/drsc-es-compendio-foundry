@@ -1,0 +1,19 @@
+{
+  "name": "Armas Medias",
+  "sorting": "a",
+  "folder": "uIhwHA63CQ5aTTcw",
+  "type": "Item",
+  "_id": "KEjPNGkvIkvlRnz0",
+  "sort": -50000,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "systemId": "cyphersystem",
+    "systemVersion": "2.6.2",
+    "coreVersion": "11.301",
+    "createdTime": null,
+    "modifiedTime": 1686392428522,
+    "lastModifiedBy": "ZyqFG5NpQtVrpwj7"
+  },
+  "_key": "!folders!KEjPNGkvIkvlRnz0"
+}

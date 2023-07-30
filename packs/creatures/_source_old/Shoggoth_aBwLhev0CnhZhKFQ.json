@@ -1,0 +1,128 @@
+{
+  "img": "modules/drsc-es-compendio-foundry/img/tokens/outsider_cthulhuesque.webp",
+  "_stats": {
+    "modifiedTime": 1683060373447,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "yThCrv1jSfPXOC2U",
+    "createdTime": 1683059982953,
+    "systemVersion": "2.5.0",
+    "coreVersion": "10.291"
+  },
+  "flags": {},
+  "sort": 0,
+  "type": "npc",
+  "_key": "!actors!aBwLhev0CnhZhKFQ",
+  "prototypeToken": {
+    "displayBars": 40,
+    "displayName": 20,
+    "actorLink": false,
+    "texture": {
+      "scaleX": 1,
+      "offsetX": 0,
+      "scaleY": 1,
+      "offsetY": 0,
+      "src": "icons/svg/mystery-man.svg",
+      "rotation": 0,
+      "tint": null
+    },
+    "lockRotation": false,
+    "rotation": 0,
+    "detectionModes": [],
+    "flags": {},
+    "randomImg": false,
+    "bar1": {"attribute": "pools.health"},
+    "bar2": {"attribute": "basic.level"},
+    "disposition": 0,
+    "light": {
+      "attenuation": 0.5,
+      "color": null,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "animation": {
+        "intensity": 5,
+        "type": null,
+        "reverse": false,
+        "speed": 5
+      },
+      "saturation": 0,
+      "alpha": 0.5,
+      "contrast": 0,
+      "angle": 360,
+      "luminosity": 0.5,
+      "shadows": 0,
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "alpha": 1,
+    "name": "Shoggoth",
+    "width": 1,
+    "sight": {
+      "saturation": 0,
+      "attenuation": 0.1,
+      "brightness": 0,
+      "color": null,
+      "visionMode": "basic",
+      "contrast": 0,
+      "range": null,
+      "angle": 360,
+      "enabled": false
+    },
+    "height": 1
+  },
+  "effects": [],
+  "system": {
+    "settings": {
+      "general": {
+        "initiativeBonus": 0,
+        "hideArchive": false
+      },
+      "equipment": {
+        "ammo": {"active": false},
+        "armor": {"active": false},
+        "attacks": {"active": false},
+        "materials": {
+          "active": false,
+          "label": ""
+        },
+        "cyphers": {
+          "active": false,
+          "label": ""
+        },
+        "oddities": {
+          "active": false,
+          "label": ""
+        },
+        "artifacts": {
+          "active": false,
+          "label": ""
+        }
+      }
+    },
+    "notes": "<p>Los Shoggoths varían de tamaño, pero los más pequeños suelen medir al menos 3 m [10 pies]. Son el producto de una bioingeniería increíblemente avanzada llevada a cabo por una extraña especie en un pasado lejano. Son depredadores furiosos y despiadados, temidos por cualquiera que haya oído hablar de estas raras criaturas (o que se haya topado con ellas y haya sobrevivido para contarlo). Fueron creados por los Primordiales, pero derrocaron a sus amos y ahora vagan por las vastas y antiguas ciudades que han reclamado para ellos mismos.<\/p>\n<p>Hay rumores de unos pocos shoggoths muy raros y particularmente inteligentes que reducen intencionadamente su propia masa y aprenden a adoptar formas humanas para poder integrarse en la sociedad (y cazar humanos a su antojo).<\/p>\n<p><strong>Motivación:<\/strong> Alimentación (carne)<\/p>\n<p><strong>Entorno:<\/strong> Cualquier lugar<\/p>\n<p><strong>Salud:<\/strong> 35<\/p>\n<p><strong>Daño que inflige:<\/strong> 10 puntos<\/p>\n<p><strong>Armadura:<\/strong> 10 contra fuego, frío y electricidad<\/p>\n<p><strong>Movimiento:<\/strong> Largo<\/p>\n<p><strong>Ajustes:<\/strong> Defensa por Velocidad como nivel 6 debido al tamaño<\/p>\n<p><strong>Combate:<\/strong> A los shoggoths les brotan zarcillos y bocas y extienden sus amplias y amorfas formas, lo que les permite atacar a todos los enemigos dentro de su alcance inmediato. Los alcanzados por el ataque de un shoggoth son atrapados y engullidos por el cuerpo gelatinoso de la cosa y sufren daño cada ronda hasta que consiguen liberarse (las criaturas engullidas no pueden realizar ninguna otra acción física mientras estén atrapadas). En cada ronda de aprisionamiento, un objeto en posesión de la víctima es destruido por los asquerosos jugos del horror amorfo.<\/p>\n<p>Los Shoggoths regeneran 5 puntos de salud cada asalto. Tienen protección contra el fuego, el frío y la electricidad.<\/p>\n<p><strong>Interacción:<\/strong> No se puede razonar con un shoggoth.<\/p>\n<p><strong>Uso:<\/strong> Los PJs encuentran una antigua estructura de metal y piedra. Deambulando por ella, observan que todas las superficies están limpias de suciedad y escombros. Pronto descubren por qué: un shoggoth se arrastra por los pasillos, absorbiendo todo lo que encuentra (y llena los pasadizos por los que se mueve, de suelo a techo, de pared a pared).<\/p>\n<p><strong>Botín:<\/strong> El interior de un shoggoth podría contener un Cyphers.<\/p>\n<p><strong>Intromisiones del DJ:<\/strong> El personaje es engullido por el shoggoth, su equipo desperdigado por la ondulante forma de la cosa, y su cuerpo de cabeza de modo que sus intentos de escape se ven obstaculizados.<\/p>",
+    "pools": {"health": {
+      "max": 35,
+      "value": 35
+    }},
+    "description": "",
+    "combat": {
+      "damage": 10,
+      "armor": 0
+    },
+    "basic": {
+      "level": 7,
+      "biography": "<p>Los Shoggoths varían de tamaño, pero los más pequeños suelen medir al menos 3 m [10 pies]. Son el producto de una bioingeniería increíblemente avanzada llevada a cabo por una extraña especie en un pasado lejano. Son depredadores furiosos y despiadados, temidos por cualquiera que haya oído hablar de estas raras criaturas (o que se haya topado con ellas y haya sobrevivido para contarlo). Fueron creados por los Primordiales, pero derrocaron a sus amos y ahora vagan por las vastas y antiguas ciudades que han reclamado para ellos mismos.<\/p>\n<p>Hay rumores de unos pocos shoggoths muy raros y particularmente inteligentes que reducen intencionadamente su propia masa y aprenden a adoptar formas humanas para poder integrarse en la sociedad (y cazar humanos a su antojo).<\/p>\n<p><strong>Motivación:<\/strong> Alimentación (carne)<\/p>\n<p><strong>Entorno:<\/strong> Cualquier lugar<\/p>\n<p><strong>Salud:<\/strong> 35<\/p>\n<p><strong>Daño que inflige:<\/strong> 10 puntos<\/p>\n<p><strong>Armadura:<\/strong> 10 contra fuego, frío y electricidad<\/p>\n<p><strong>Movimiento:<\/strong> Largo<\/p>\n<p><strong>Ajustes:<\/strong> Defensa por Velocidad como nivel 6 debido al tamaño<\/p>\n<p><strong>Combate:<\/strong> A los shoggoths les brotan zarcillos y bocas y extienden sus amplias y amorfas formas, lo que les permite atacar a todos los enemigos dentro de su alcance inmediato. Los alcanzados por el ataque de un shoggoth son atrapados y engullidos por el cuerpo gelatinoso de la cosa y sufren daño cada ronda hasta que consiguen liberarse (las criaturas engullidas no pueden realizar ninguna otra acción física mientras estén atrapadas). En cada ronda de aprisionamiento, un objeto en posesión de la víctima es destruido por los asquerosos jugos del horror amorfo.<\/p>\n<p>Los Shoggoths regeneran 5 puntos de salud cada asalto. Tienen protección contra el fuego, el frío y la electricidad.<\/p>\n<p><strong>Interacción:<\/strong> No se puede razonar con un shoggoth.<\/p>\n<p><strong>Uso:<\/strong> Los PJs encuentran una antigua estructura de metal y piedra. Deambulando por ella, observan que todas las superficies están limpias de suciedad y escombros. Pronto descubren por qué: un shoggoth se arrastra por los pasillos, absorbiendo todo lo que encuentra (y llena los pasadizos por los que se mueve, de suelo a techo, de pared a pared).<\/p>\n<p><strong>Botín:<\/strong> El interior de un shoggoth podría contener un Cyphers.<\/p>\n<p><strong>Intromisiones del DJ:<\/strong> El personaje es engullido por el shoggoth, su equipo desperdigado por la ondulante forma de la cosa, y su cuerpo de cabeza de modo que sus intentos de escape se ven obstaculizados.<\/p>"
+    },
+    "version": 3
+  },
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "name": "Shoggoth",
+  "_id": "aBwLhev0CnhZhKFQ",
+  "items": []
+}

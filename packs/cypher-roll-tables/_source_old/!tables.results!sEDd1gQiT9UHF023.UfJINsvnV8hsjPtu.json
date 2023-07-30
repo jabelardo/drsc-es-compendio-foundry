@@ -1,0 +1,16 @@
+{
+  "img": "icons/svg/d20-black.svg",
+  "documentCollection": "",
+  "flags": {},
+  "weight": 1,
+  "range": [
+    5,
+    5
+  ],
+  "documentId": null,
+  "_id": "UfJINsvnV8hsjPtu",
+  "text": "Entrenaste en un monasterio aislado. Los monjes te ven como un hermano, pero eres un extraño para los demás.",
+  "type": 0,
+  "drawn": false,
+  "_key": "!tables.results!sEDd1gQiT9UHF023.UfJINsvnV8hsjPtu"
+}

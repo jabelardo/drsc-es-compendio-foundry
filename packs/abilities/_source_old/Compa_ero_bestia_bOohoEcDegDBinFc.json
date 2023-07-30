@@ -1,0 +1,58 @@
+{
+  "img": "systems/cyphersystem/icons/items/ability.svg",
+  "effects": [],
+  "folder": null,
+  "system": {
+    "archived": false,
+    "settings": {
+      "general": {
+        "spellTier": "low",
+        "sorting": "Ability",
+        "unmaskedForm": "Mask"
+      },
+      "rollButton": {
+        "stepModifier": "eased",
+        "damage": 0,
+        "damagePerLOE": 3,
+        "bonus": 0,
+        "pool": "Pool",
+        "teen": "",
+        "additionalSteps": 0,
+        "effort1": 0,
+        "effort3": 0,
+        "assets": 0,
+        "effort2": 0,
+        "skill": "Practiced",
+        "additionalCost": 0
+      }
+    },
+    "description": "<p>Una criatura de nivel 2 de tu tamaño o menor te acompaña y sigue tus instrucciones. Tú y el DJ deben concretar los detalles de tu criatura, y probablemente harás tiradas por ella en combate o cuando ella realice acciones. El compañero bestia actúa en tu turno. Como criatura de nivel 2, tiene un número objetivo de 6 y 6 de salud e inflige 2 puntos de daño. Su movimiento se basa en su tipo de criatura (aviar, nadador, etc.). Si tu compañero bestia muere, puedes buscar en la naturaleza durante 1d6 días para encontrar uno nuevo. Capacitador. (El nivel de una criatura determina su número de objetivo, salud y daño, a menos que se indique lo contrario. Así, un compañero bestia de nivel 2 tiene un número objetivo de 6 y una salud de 6, e inflige 2 puntos de daño. Un compañero bestia de nivel 4 tiene un objetivo de 12 y una salud de 12, e inflige 4 puntos de daño. Y así sucesivamente).</p>",
+    "basic": {
+      "cost": "0",
+      "pool": "Pool"
+    },
+    "version": 2
+  },
+  "ownership": {
+    "default": 0,
+    "k2TkElLx959B0lm5": 3
+  },
+  "_stats": {
+    "modifiedTime": 1664959713814,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "rLeavHPrdkq6xjNt",
+    "createdTime": null,
+    "systemVersion": "2.0.0-a1",
+    "coreVersion": "10.286"
+  },
+  "name": "Compañero bestia",
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.cyphersystem-compendium.abilities.bOohoEcDegDBinFc"
+    }
+  },
+  "_id": "bOohoEcDegDBinFc",
+  "sort": 0,
+  "type": "ability",
+  "_key": "!items!bOohoEcDegDBinFc"
+}

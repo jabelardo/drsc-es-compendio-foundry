@@ -1,0 +1,16 @@
+{
+  "img": "icons/svg/d20-black.svg",
+  "documentCollection": "",
+  "flags": {},
+  "weight": 1,
+  "range": [
+    20,
+    20
+  ],
+  "documentId": null,
+  "_id": "muxh8ZLqXtumTFxd",
+  "text": "Estrella caída o naipe",
+  "type": 0,
+  "drawn": false,
+  "_key": "!tables.results!hy0jsSmX6GtsL6Ky.muxh8ZLqXtumTFxd"
+}

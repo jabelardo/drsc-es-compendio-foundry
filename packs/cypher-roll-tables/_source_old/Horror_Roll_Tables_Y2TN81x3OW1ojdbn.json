@@ -1,0 +1,19 @@
+{
+  "name": "Tablas Aleatorias de Horror",
+  "sorting": "a",
+  "folder": null,
+  "type": "RollTable",
+  "_id": "Y2TN81x3OW1ojdbn",
+  "sort": 100000,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "systemId": "cyphersystem",
+    "systemVersion": "2.6.2",
+    "coreVersion": "11.299",
+    "createdTime": null,
+    "modifiedTime": 1685560292628,
+    "lastModifiedBy": "7luxagQiisUFvSQn"
+  },
+  "_key": "!folders!Y2TN81x3OW1ojdbn"
+}

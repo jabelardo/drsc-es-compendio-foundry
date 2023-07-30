@@ -1,0 +1,16 @@
+{
+  "img": "icons/svg/d20-black.svg",
+  "documentCollection": "",
+  "flags": {},
+  "weight": 3,
+  "range": [
+    27,
+    29
+  ],
+  "documentId": null,
+  "_id": "t2C6YVRHRMBrCatV",
+  "text": "Poción con grumos",
+  "type": 0,
+  "drawn": false,
+  "_key": "!tables.results!4VuLxh1RZ2Hdm6p7.t2C6YVRHRMBrCatV"
+}

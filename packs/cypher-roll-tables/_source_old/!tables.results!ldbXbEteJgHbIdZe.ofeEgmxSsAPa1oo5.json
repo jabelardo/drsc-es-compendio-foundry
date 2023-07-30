@@ -1,0 +1,16 @@
+{
+  "img": "icons/svg/d20-black.svg",
+  "documentCollection": "",
+  "flags": {},
+  "weight": 1,
+  "range": [
+    10,
+    10
+  ],
+  "documentId": null,
+  "_id": "ofeEgmxSsAPa1oo5",
+  "text": "Te entrenaste como Guerrero, pero tus predilecciones de Adepto te llevaron finalmente por un camino diferente. Tus antiguos compañeros no te entienden, pero te respetan.",
+  "type": 0,
+  "drawn": false,
+  "_key": "!tables.results!ldbXbEteJgHbIdZe.ofeEgmxSsAPa1oo5"
+}

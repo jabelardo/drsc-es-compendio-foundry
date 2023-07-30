@@ -1,0 +1,63 @@
+{
+  "img": "systems/cyphersystem/icons/items/ability.svg",
+  "effects": [],
+  "system": {
+    "archived": false,
+    "settings": {
+      "general": {
+        "spellTier": "low",
+        "sorting": "Ability",
+        "unmaskedForm": "Mask"
+      },
+      "linkedItems": {
+        "attack": "",
+        "skill": "",
+        "ability": ""
+      },
+      "rollButton": {
+        "stepModifier": "eased",
+        "damage": 0,
+        "damagePerLOE": 3,
+        "bonus": 0,
+        "pool": "Pool",
+        "teen": "",
+        "additionalSteps": 0,
+        "effort1": "0",
+        "effort3": "0",
+        "assets": "0",
+        "effort2": "0",
+        "skill": "Practiced",
+        "additionalCost": 0
+      }
+    },
+    "description": "<p>Ganas una criatura de compañía de nivel 3 que puede volar a la misma velocidad que tú; dependiendo de otros aspectos de tu personaje, podría ser un pájaro entrenado, una máquina dron o una criatura extraña útil como un familiar. Esta criatura te acompaña y actúa como tú le indiques. Como acompañante de nivel 3, tiene un número objetivo de 9 y 9 puntos de vida, e inflige 3 puntos de daño. Si muere o es destruido, tardas un mes en encontrar o crear un sustituto adecuado. Capacitador.</p>",
+    "basic": {
+      "cost": "0",
+      "pool": "Pool"
+    },
+    "version": 2
+  },
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "_stats": {
+    "modifiedTime": 1681934131419,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "yThCrv1jSfPXOC2U",
+    "createdTime": 1681932057172,
+    "systemVersion": "2.5.0",
+    "coreVersion": "10.291"
+  },
+  "name": "Compañero volador",
+  "flags": {
+    "core": {
+      "sourceId": "Item.j3myeDp5czuWYLhW"
+    }
+  },
+  "sort": 0,
+  "_id": "fvo6lKyRZ5aeRIdY",
+  "type": "ability",
+  "_key": "!items!fvo6lKyRZ5aeRIdY"
+}

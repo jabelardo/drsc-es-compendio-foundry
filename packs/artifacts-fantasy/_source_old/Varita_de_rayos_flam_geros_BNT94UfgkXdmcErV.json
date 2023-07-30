@@ -1,0 +1,48 @@
+{
+  "img": "systems/cyphersystem/icons/items/artifact.svg",
+  "effects": [],
+  "folder": null,
+  "system": {
+    "archived": false,
+    "rollButton": {
+      "stepModifier": "eased",
+      "damage": 0,
+      "damagePerLOE": 3,
+      "bonus": 0,
+      "pool": "Pool",
+      "teen": "",
+      "additionalSteps": 0,
+      "effort1": 0,
+      "effort3": 0,
+      "assets": 0,
+      "effort2": 0,
+      "skill": "Practiced",
+      "additionalCost": 0
+    },
+    "description": "<p><strong>Nivel:</strong> 1d6 + 2</p>\n<p><strong>Aspecto:</strong> Vara de madera roja de 20 cm [8 pulgadas] de largo, tallada con intrincadas imágenes flamígeras</p>\n<p><strong>Efecto:</strong> Cuando se activa, la varita suelta una ráfaga de fuego contra un objetivo elegido a corto alcance, infligiendo un daño igual al nivel del artefacto.</p>\n<p><strong>Agotamiento:</strong> 1 en 1d20</p>",
+    "basic": {
+      "depletion": "1 in [[/r 1d20]]",
+      "identified": true,
+      "level": "1d6 + 2"
+    },
+    "version": 2
+  },
+  "ownership": {
+    "default": 0,
+    "k2TkElLx959B0lm5": 3
+  },
+  "_stats": {
+    "modifiedTime": 1664959727539,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "rLeavHPrdkq6xjNt",
+    "createdTime": null,
+    "systemVersion": "2.0.0-a1",
+    "coreVersion": "10.286"
+  },
+  "name": "Varita de rayos flamígeros",
+  "flags": {},
+  "_id": "BNT94UfgkXdmcErV",
+  "sort": 0,
+  "type": "artifact",
+  "_key": "!items!BNT94UfgkXdmcErV"
+}

@@ -1,0 +1,58 @@
+{
+  "img": "systems/cyphersystem/icons/items/ability.svg",
+  "effects": [],
+  "folder": null,
+  "system": {
+    "archived": false,
+    "settings": {
+      "general": {
+        "spellTier": "low",
+        "sorting": "Ability",
+        "unmaskedForm": "Mask"
+      },
+      "rollButton": {
+        "stepModifier": "eased",
+        "damage": 0,
+        "damagePerLOE": 3,
+        "bonus": 0,
+        "pool": "Pool",
+        "teen": "",
+        "additionalSteps": 0,
+        "effort1": 0,
+        "effort3": 0,
+        "assets": 0,
+        "effort2": 0,
+        "skill": "Practiced",
+        "additionalCost": 0
+      }
+    },
+    "description": "<p>Tu cuerpo se disuelve en una nube de fotones que viajan instantáneamente a un lugar que elijas y luego se reforma. Puedes elegir cualquier espacio abierto lo suficientemente grande como para contenerte y que puedas ver a muy larga distancia, o cualquier lugar que hayas iluminado con Toque iluminador y que siga brillando. Desapareces y vuelves a aparecer casi instantáneamente en el espacio que has elegido. Tu cuerpo tarda en volverse completamente sólido hasta el final de la ronda, por lo que hasta el comienzo de la siguiente ronda, recibes un máximo de 1 punto de daño de cualquier ataque o fuente de daño. Cada nivel de Esfuerzo que aplicas te permite llevar a una persona adicional, además de a ti, siempre que esté dentro del alcance inmediato cuando partas. Acción.</p>",
+    "basic": {
+      "cost": "6+",
+      "pool": "Intellect"
+    },
+    "version": 2
+  },
+  "ownership": {
+    "default": 0,
+    "k2TkElLx959B0lm5": 3
+  },
+  "_stats": {
+    "modifiedTime": 1664959720857,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "rLeavHPrdkq6xjNt",
+    "createdTime": null,
+    "systemVersion": "2.0.0-a1",
+    "coreVersion": "10.286"
+  },
+  "name": "Luz viva",
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.cyphersystem-compendium.abilities.cE7JPRHLqIdM3b9V"
+    }
+  },
+  "_id": "cE7JPRHLqIdM3b9V",
+  "sort": 0,
+  "type": "ability",
+  "_key": "!items!cE7JPRHLqIdM3b9V"
+}

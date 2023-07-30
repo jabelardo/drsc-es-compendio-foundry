@@ -1,0 +1,19 @@
+{
+  "name": "Armas Ligeras",
+  "sorting": "a",
+  "folder": null,
+  "type": "Item",
+  "_id": "Mc5ZVwKa7auAvVlw",
+  "sort": 100000,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "systemId": "cyphersystem",
+    "systemVersion": "2.6.2",
+    "coreVersion": "11.301",
+    "createdTime": null,
+    "modifiedTime": 1686393510059,
+    "lastModifiedBy": "ZyqFG5NpQtVrpwj7"
+  },
+  "_key": "!folders!Mc5ZVwKa7auAvVlw"
+}

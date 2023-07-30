@@ -1,0 +1,44 @@
+{
+  "name": "Armadura ligera",
+  "type": "armor",
+  "img": "systems/cyphersystem/icons/items/armor.svg",
+  "system": {
+    "version": 2,
+    "description": "",
+    "archived": false,
+    "basic": {
+      "type": "light armor",
+      "rating": 1,
+      "cost": 1,
+      "notes": "El olor obstaculiza las tareas de sigilo"
+    },
+    "settings": {
+      "general": {
+        "unmaskedForm": "Mask"
+      }
+    },
+    "active": true
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "rLeavHPrdkq6xjNt": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Item.oi9qycdROx8TumcK"
+    }
+  },
+  "_stats": {
+    "systemId": "cyphersystem",
+    "systemVersion": "2.0.0-b3",
+    "coreVersion": "10.288",
+    "createdTime": 1667122137451,
+    "modifiedTime": 1667122151681,
+    "lastModifiedBy": "rLeavHPrdkq6xjNt"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "Hv5mU9dKhfQJA76Q",
+  "_key": "!items!Hv5mU9dKhfQJA76Q"
+}

@@ -1,0 +1,135 @@
+{
+  "img": "modules/drsc-es-compendio-foundry/img/tokens/undead_oblivious.webp",
+  "_stats": {
+    "modifiedTime": 1676797809292,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "yThCrv1jSfPXOC2U",
+    "createdTime": null,
+    "systemVersion": "2.3.0",
+    "coreVersion": "10.291"
+  },
+  "flags": {},
+  "sort": 0,
+  "type": "npc",
+  "_key": "!actors!MQI4Poo9zZKrgKhc",
+  "prototypeToken": {
+    "displayBars": 40,
+    "displayName": 20,
+    "actorLink": false,
+    "lockRotation": false,
+    "texture": {
+      "scaleX": 1,
+      "offsetX": 0,
+      "scaleY": 1,
+      "offsetY": 0,
+      "src": "icons/svg/mystery-man.svg",
+      "rotation": 0,
+      "tint": null
+    },
+    "rotation": 0,
+    "detectionModes": [],
+    "flags": {},
+    "randomImg": false,
+    "bar1": {"attribute": "pools.health"},
+    "bar2": {"attribute": "basic.level"},
+    "disposition": 0,
+    "light": {
+      "attenuation": 0.5,
+      "color": null,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "animation": {
+        "intensity": 5,
+        "reverse": false,
+        "type": null,
+        "speed": 5
+      },
+      "saturation": 0,
+      "alpha": 0.5,
+      "contrast": 0,
+      "angle": 360,
+      "luminosity": 0.5,
+      "shadows": 0,
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "alpha": 1,
+    "name": "Esqueleto",
+    "width": 1,
+    "sight": {
+      "saturation": 0,
+      "brightness": 1,
+      "attenuation": 0.1,
+      "color": null,
+      "visionMode": "basic",
+      "contrast": 0,
+      "angle": 360,
+      "range": 0,
+      "enabled": false
+    },
+    "height": 1
+  },
+  "effects": [],
+  "folder": null,
+  "system": {
+    "settings": {
+      "skills": {},
+      "abilities": {},
+      "general": {
+        "initiativeBonus": 0,
+        "hideArchive": false
+      },
+      "equipment": {
+        "ammo": {"active": false},
+        "armor": {"active": false},
+        "attacks": {"active": false},
+        "materials": {
+          "active": false,
+          "label": ""
+        },
+        "cyphers": {
+          "active": false,
+          "label": ""
+        },
+        "oddities": {
+          "active": false,
+          "label": ""
+        },
+        "artifacts": {
+          "active": false,
+          "label": ""
+        }
+      }
+    },
+    "notes": "<p>Los esqueletos son huesos animados sin mucho sentido de la autoconservación. Disfrutan de una ventaja crucial sobre las criaturas vivas en un área importante y a menudo explotada: los esqueletos son tiradores mortales con armas a distancia. No tienen aliento, ni latidos del corazón, ni manos temblorosas con las que lidiar cuando lanzan un disparo, lo que significa que los esqueletos armados con armas a distancia son algo que hay que temer.<\/p>\n<p><strong>Motivación:<\/strong> Defensa u ofensiva<\/p>\n<p><strong>Entorno:<\/strong> Casi en cualquier lugar, en formaciones de cuatro a diez<\/p>\n<p><strong>Salud:<\/strong> 6<\/p>\n<p><strong>Daño que inflige:<\/strong> 3 puntos (garra) o 5 puntos (arma a distancia)<\/p>\n<p><strong>Armadura:<\/strong> 1<\/p>\n<p><strong>Movimiento:<\/strong> Corto<\/p>\n<p><strong>Ajustes: <\/strong>Nivel 5 para ataques a distancia; nivel 5 para Defensa por Velocidad contra la mayoría de los ataques a distancia; nivel 1 para resistir artimañas<\/p>\n<p><strong>Combate:<\/strong> Los esqueletos pueden atacar con una garra ósea si no tienen otra arma, pero la mayoría ataca con un arma de largo alcance. Si un esqueleto puede ver cualquier parte de su objetivo, éste pierde los beneficios de la cobertura que podría haber disfrutado de otra manera.<\/p>\n<p>Cuando están en formación, un grupo de cuatro o más esqueletos con armas a distancia pueden concentrar sus ataques en un solo objetivo y hacer una tirada de ataque como una sola criatura de nivel 7, infligiendo 7 puntos de daño.<\/p>\n<p>Los esqueletos pueden ver en la oscuridad.<\/p>\n<p><strong>Reanimadores:<\/strong> Algunos esqueletos fueron creados por una maldición, y el simple hecho de golpearlos hasta convertirlos en un montón de huesos no es suficiente para acabar con su existencia. Dos rondas después de \"matar\" a los esqueletos reanimadores, recuperan toda su salud en un destello de iluminación mágica. Esta regeneración puede evitarse si el eje de la maldición animadora se separa del esqueleto tras su caída. Dicho elemento suele ser obvio y puede adoptar la forma de un pincho de plomo que atraviese el cráneo, un amuleto de ébano, una espada sin filo que atraviese las costillas, una corona, etc.<\/p>\n<p><strong>Interacción:<\/strong> Un esqueleto suele interactuar sólo atacando. A no ser que estén animados por un espíritu pensante capaz de comunicarse por medio de la magia, los esqueletos carecen de mecanismos para hablar. Sin embargo, pueden oír y ver el mundo que les rodea.<\/p>\n<p><strong>Uso:<\/strong> Los esqueletos son unidades ideales en los ejércitos, especialmente cuando se requiere arquería o artillería. Una formación de cuatro o más esqueletos con armas a distancia sobre una torre proporciona una defensa sorprendentemente robusta.<\/p>\n<p><strong>Botín:<\/strong> A veces, el elemento Cypher necesario para crear un esqueleto reanimador es valioso.<\/p>\n<p><strong>Intromisiones del DJ:<\/strong> Un esqueleto destruido por un ataque melé explota como una granada. La metralla ósea inflige 5 puntos de daño a todas las criaturas en el rango inmediato.<\/p>",
+    "pools": {"health": {
+      "max": 6,
+      "value": 6
+    }},
+    "description": "",
+    "combat": {
+      "damage": 3,
+      "armor": 1
+    },
+    "basic": {
+      "level": 2,
+      "biography": "<p>Los esqueletos son huesos animados sin mucho sentido de la autoconservación. Disfrutan de una ventaja crucial sobre las criaturas vivas en un área importante y a menudo explotada: los esqueletos son tiradores mortales con armas a distancia. No tienen aliento, ni latidos del corazón, ni manos temblorosas con las que lidiar cuando lanzan un disparo, lo que significa que los esqueletos armados con armas a distancia son algo que hay que temer.<\/p>\n<p><strong>Motivación:<\/strong> Defensa u ofensiva<\/p>\n<p><strong>Entorno:<\/strong> Casi en cualquier lugar, en formaciones de cuatro a diez<\/p>\n<p><strong>Salud:<\/strong> 6<\/p>\n<p><strong>Daño que inflige:<\/strong> 3 puntos (garra) o 5 puntos (arma a distancia)<\/p>\n<p><strong>Armadura:<\/strong> 1<\/p>\n<p><strong>Movimiento:<\/strong> Corto<\/p>\n<p><strong>Ajustes: <\/strong>Nivel 5 para ataques a distancia; nivel 5 para Defensa por Velocidad contra la mayoría de los ataques a distancia; nivel 1 para resistir artimañas<\/p>\n<p><strong>Combate:<\/strong> Los esqueletos pueden atacar con una garra ósea si no tienen otra arma, pero la mayoría ataca con un arma de largo alcance. Si un esqueleto puede ver cualquier parte de su objetivo, éste pierde los beneficios de la cobertura que podría haber disfrutado de otra manera.<\/p>\n<p>Cuando están en formación, un grupo de cuatro o más esqueletos con armas a distancia pueden concentrar sus ataques en un solo objetivo y hacer una tirada de ataque como una sola criatura de nivel 7, infligiendo 7 puntos de daño.<\/p>\n<p>Los esqueletos pueden ver en la oscuridad.<\/p>\n<p><strong>Reanimadores:<\/strong> Algunos esqueletos fueron creados por una maldición, y el simple hecho de golpearlos hasta convertirlos en un montón de huesos no es suficiente para acabar con su existencia. Dos rondas después de \"matar\" a los esqueletos reanimadores, recuperan toda su salud en un destello de iluminación mágica. Esta regeneración puede evitarse si el eje de la maldición animadora se separa del esqueleto tras su caída. Dicho elemento suele ser obvio y puede adoptar la forma de un pincho de plomo que atraviese el cráneo, un amuleto de ébano, una espada sin filo que atraviese las costillas, una corona, etc.<\/p>\n<p><strong>Interacción:<\/strong> Un esqueleto suele interactuar sólo atacando. A no ser que estén animados por un espíritu pensante capaz de comunicarse por medio de la magia, los esqueletos carecen de mecanismos para hablar. Sin embargo, pueden oír y ver el mundo que les rodea.<\/p>\n<p><strong>Uso:<\/strong> Los esqueletos son unidades ideales en los ejércitos, especialmente cuando se requiere arquería o artillería. Una formación de cuatro o más esqueletos con armas a distancia sobre una torre proporciona una defensa sorprendentemente robusta.<\/p>\n<p><strong>Botín:<\/strong> A veces, el elemento Cypher necesario para crear un esqueleto reanimador es valioso.<\/p>\n<p><strong>Intromisiones del DJ:<\/strong> Un esqueleto destruido por un ataque melé explota como una granada. La metralla ósea inflige 5 puntos de daño a todas las criaturas en el rango inmediato.<\/p>"
+    },
+    "teen": {
+      "settings": {},
+      "pools": {},
+      "basic": {}
+    },
+    "version": 2
+  },
+  "ownership": {
+    "N1n5f3sdQOJFmoJe": 3,
+    "default": 0
+  },
+  "name": "Esqueleto",
+  "_id": "MQI4Poo9zZKrgKhc",
+  "items": []
+}

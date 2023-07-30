@@ -1,0 +1,32 @@
+{
+  "name": "Contactos AR",
+  "type": "equipment",
+  "img": "systems/cyphersystem/icons/items/equipment.svg",
+  "system": {
+    "version": 2,
+    "description": "<p>Como las gafas de realidad aumentada, pero son lentes que se ajustan al ojo. También llamadas &ldquo;smartacs&rdquo;.</p>",
+    "archived": false,
+    "basic": {
+      "level": 4,
+      "quantity": 1
+    }
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "cyphersystem",
+    "systemVersion": "2.6.2",
+    "coreVersion": "11.301",
+    "createdTime": 1676537431811,
+    "modifiedTime": 1686393631709,
+    "lastModifiedBy": "ZyqFG5NpQtVrpwj7"
+  },
+  "_id": "V9QaDYUlLwKUZMb1",
+  "folder": "40FMwVrL57gMPm5j",
+  "sort": 300000,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "_key": "!items!V9QaDYUlLwKUZMb1"
+}

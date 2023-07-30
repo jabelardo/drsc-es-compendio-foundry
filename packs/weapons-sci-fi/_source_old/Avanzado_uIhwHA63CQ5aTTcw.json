@@ -1,0 +1,19 @@
+{
+  "name": "Avanzado",
+  "sorting": "m",
+  "folder": null,
+  "type": "Item",
+  "_id": "uIhwHA63CQ5aTTcw",
+  "sort": 0,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "systemId": "cyphersystem",
+    "systemVersion": "2.6.2",
+    "coreVersion": "11.299",
+    "createdTime": null,
+    "modifiedTime": 1685561568826,
+    "lastModifiedBy": "7luxagQiisUFvSQn"
+  },
+  "_key": "!folders!uIhwHA63CQ5aTTcw"
+}

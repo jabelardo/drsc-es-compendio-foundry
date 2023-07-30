@@ -1,0 +1,33 @@
+{
+  "img": "systems/cyphersystem/icons/items/cypher.svg",
+  "effects": [],
+  "system": {
+    "archived": false,
+    "settings": {"general": {"nameUnidentified": ""}},
+    "description": "<p><strong>Nivel:<\/strong> 1d6 + 3<\/p>\n<p><strong>Aspecto:<\/strong> Arma que puedes sostener con una mano<\/p>\n<p><strong>Efecto:<\/strong> El arma extiende tentáculos, piel, cables, nervios u otro material dentro y a través de la mano del usuario, conectándose físicamente al usuario durante una hora por nivel de Cypher. Mientras está conectada, el usuario obtiene un recurso en los ataques con el arma y no puede ser desarmado, pero no puede usar esa mano para nada excepto empuñar el arma. El usuario puede desconectar o volver a conectar el arma dedicando un minuto completo a concentrarse en su conexión física con su cuerpo. Cuando finaliza la duración, el arma se desprende y se convierte en un arma normal de su tipo. Tira un d20 para determinar el tipo de arma:<\/p>\n<table class=\"table table-dark table-striped table-sm\">\n <thead>\n  <tr>\n   <th scope=\"col\" class=\"text-center\">d20<\/th>\n   <th>Arma<\/th>\n  <\/tr>\n <\/thead>\n <tbody>\n  <tr>\n   <td scope=\"row\" class=\"text-center fw-normal\">1-4<\/td>\n   <td>Cuchillo de caza<\/td>\n  <\/tr>\n  <tr>\n   <td scope=\"row\" class=\"text-center fw-normal\">5-8<\/td>\n   <td>Machete<\/td>\n  <\/tr>\n  <tr>\n   <td scope=\"row\" class=\"text-center fw-normal\">9-12<\/td>\n   <td>Porra de policía<\/td>\n  <\/tr>\n  <tr>\n   <td scope=\"row\" class=\"text-center fw-normal\">13-16<\/td>\n   <td>Pistola ligera<\/td>\n  <\/tr>\n  <tr>\n   <td scope=\"row\" class=\"text-center fw-normal\">17-20<\/td>\n   <td>Pistola media<\/td>\n  <\/tr>\n <\/tbody>\n<\/table>",
+    "basic": {
+      "identified": true,
+      "level": "1d6+3"
+    },
+    "version": 2
+  },
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "_stats": {
+    "modifiedTime": 1683655050998,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "yThCrv1jSfPXOC2U",
+    "createdTime": 1683653705028,
+    "systemVersion": "2.5.0",
+    "coreVersion": "10.291"
+  },
+  "name": "Arma integrada horrible",
+  "flags": {},
+  "_id": "uKEOYKOxp5stDhm5",
+  "sort": 0,
+  "type": "cypher",
+  "_key": "!items!uKEOYKOxp5stDhm5"
+}

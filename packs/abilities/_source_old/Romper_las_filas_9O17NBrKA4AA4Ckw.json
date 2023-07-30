@@ -1,0 +1,58 @@
+{
+  "img": "systems/cyphersystem/icons/items/ability.svg",
+  "effects": [],
+  "folder": null,
+  "system": {
+    "archived": false,
+    "settings": {
+      "general": {
+        "spellTier": "low",
+        "sorting": "Ability",
+        "unmaskedForm": "Mask"
+      },
+      "rollButton": {
+        "stepModifier": "eased",
+        "damage": 0,
+        "damagePerLOE": 3,
+        "bonus": 0,
+        "pool": "Pool",
+        "teen": "",
+        "additionalSteps": 0,
+        "effort1": 0,
+        "effort3": 0,
+        "assets": 0,
+        "effort2": 0,
+        "skill": "Practiced",
+        "additionalCost": 0
+      }
+    },
+    "description": "<p>Te mueves hasta una distancia corta y atacas hasta cuatro enemigos diferentes como una sola acción siempre que estén todos en tu camino. Cualquier modificador que se aplique a un ataque se aplica a todos los ataques que realices. Si tienes otra capacidad especial que te permita moverte y realizar una acción, cuando uses Romper las filas, ganas un recurso para atacar a estos enemigos. Acción.</p>",
+    "basic": {
+      "cost": "6",
+      "pool": "Speed"
+    },
+    "version": 2
+  },
+  "ownership": {
+    "default": 0,
+    "k2TkElLx959B0lm5": 3
+  },
+  "_stats": {
+    "modifiedTime": 1664959714403,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "rLeavHPrdkq6xjNt",
+    "createdTime": null,
+    "systemVersion": "2.0.0-a1",
+    "coreVersion": "10.286"
+  },
+  "name": "Romper las filas",
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.cyphersystem-compendium.abilities.9O17NBrKA4AA4Ckw"
+    }
+  },
+  "_id": "9O17NBrKA4AA4Ckw",
+  "sort": 0,
+  "type": "ability",
+  "_key": "!items!9O17NBrKA4AA4Ckw"
+}

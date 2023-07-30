@@ -1,0 +1,16 @@
+{
+  "img": "icons/svg/d20-black.svg",
+  "documentCollection": "",
+  "flags": {},
+  "weight": 1,
+  "range": [
+    13,
+    13
+  ],
+  "documentId": null,
+  "_id": "06T5rYZ8HhxRulpz",
+  "text": "Te entrenaste durante un tiempo con un grupo de Adeptos influyentes, y todavía te miran con cariño.",
+  "type": 0,
+  "drawn": false,
+  "_key": "!tables.results!ldbXbEteJgHbIdZe.06T5rYZ8HhxRulpz"
+}

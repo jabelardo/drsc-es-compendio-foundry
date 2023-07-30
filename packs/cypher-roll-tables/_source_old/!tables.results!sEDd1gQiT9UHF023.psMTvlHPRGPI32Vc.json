@@ -1,0 +1,16 @@
+{
+  "img": "icons/svg/d20-black.svg",
+  "documentCollection": "",
+  "flags": {},
+  "weight": 1,
+  "range": [
+    10,
+    10
+  ],
+  "documentId": null,
+  "_id": "psMTvlHPRGPI32Vc",
+  "text": "Trabajaste de policía o agente de algún tipo. Todos te conocen, mas sus opiniones sobre ti varían.",
+  "type": 0,
+  "drawn": false,
+  "_key": "!tables.results!sEDd1gQiT9UHF023.psMTvlHPRGPI32Vc"
+}

@@ -1,0 +1,135 @@
+{
+  "img": "modules/drsc-es-compendio-foundry/img/tokens/aberration.webp",
+  "_stats": {
+    "modifiedTime": 1676797808944,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "yThCrv1jSfPXOC2U",
+    "createdTime": null,
+    "systemVersion": "2.3.0",
+    "coreVersion": "10.291"
+  },
+  "flags": {},
+  "sort": 0,
+  "type": "npc",
+  "_key": "!actors!GcRpFtcOQDpGvU4H",
+  "prototypeToken": {
+    "displayBars": 40,
+    "displayName": 20,
+    "actorLink": false,
+    "lockRotation": false,
+    "texture": {
+      "scaleX": 1,
+      "offsetX": 0,
+      "scaleY": 1,
+      "offsetY": 0,
+      "src": "icons/svg/mystery-man.svg",
+      "rotation": 0,
+      "tint": null
+    },
+    "rotation": 0,
+    "detectionModes": [],
+    "flags": {},
+    "randomImg": false,
+    "bar1": {"attribute": "pools.health"},
+    "bar2": {"attribute": "basic.level"},
+    "disposition": 0,
+    "light": {
+      "attenuation": 0.5,
+      "color": null,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "animation": {
+        "intensity": 5,
+        "reverse": false,
+        "type": null,
+        "speed": 5
+      },
+      "saturation": 0,
+      "alpha": 0.5,
+      "contrast": 0,
+      "angle": 360,
+      "luminosity": 0.5,
+      "shadows": 0,
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "alpha": 1,
+    "name": "Abominación",
+    "width": 1,
+    "sight": {
+      "saturation": 0,
+      "brightness": 1,
+      "attenuation": 0.1,
+      "color": null,
+      "visionMode": "basic",
+      "contrast": 0,
+      "angle": 360,
+      "range": 0,
+      "enabled": false
+    },
+    "height": 1
+  },
+  "effects": [],
+  "folder": null,
+  "system": {
+    "settings": {
+      "skills": {},
+      "abilities": {},
+      "general": {
+        "initiativeBonus": 0,
+        "hideArchive": false
+      },
+      "equipment": {
+        "ammo": {"active": false},
+        "armor": {"active": false},
+        "attacks": {"active": false},
+        "materials": {
+          "active": false,
+          "label": ""
+        },
+        "cyphers": {
+          "active": false,
+          "label": ""
+        },
+        "oddities": {
+          "active": false,
+          "label": ""
+        },
+        "artifacts": {
+          "active": false,
+          "label": ""
+        }
+      }
+    },
+    "notes": "<p>Una abominación es un horrible humanoide bestial cubierto de gruesas placas de carne escarlata. Sus ojos brillan con el resplandor estancado de los vertederos tóxicos. De al menos 2 m [7 pies] de altura, las abominaciones se sienten atraídas por el movimiento. Siempre hambrientas, consumen presas vivas con grandes mordiscos desgarradores.<\/p>\n<p><strong>Motivación:<\/strong> Alimentación (carne)<\/p>\n<p><strong>Entorno:<\/strong> Casi en cualquier lugar, cazando solo o en pareja<\/p>\n<p><strong>Salud:<\/strong> 22<\/p>\n<p><strong>Daño que inflige:<\/strong> 6 puntos<\/p>\n<p><strong>Armadura:<\/strong> 2<\/p>\n<p><strong>Movimiento:<\/strong> Corto<\/p>\n<p><strong>Ajustes: <\/strong>Nivel 6 para Defensa por Vigor; nivel 3 para ver a través del engaño<\/p>\n<p><strong>Combate:<\/strong> Las abominaciones usan armas recuperadas de la chatarra de para atacar a sus presas a distancia, pero probablemente pasen a morder a los objetivos que estén a su alcance. Los objetivos dañados por un mordisco deben tener éxito en una tarea de Defensa por Vigor o descender un grado en el Registro de Daño cuando la abominación arranca un gran trozo de carne y lo engulle. Aquellos que sobreviven a un ataque deben tener éxito en una tirada de Defensa por Vigor un día después, cuando se encuentran con síntomas similares a los de la gripe. Los que fallan comienzan el proceso de transformación a una nueva abominación.<\/p>\n<p>Las abominaciones recuperan 2 puntos de salud por ronda y tienen +5 de Armadura contra el daño infligido por la energía (radiación, rayos X, rayos gamma, etc.).<\/p>\n<p><strong>Interacción:<\/strong> La mayoría de las abominaciones pueden hablar y tienen vagos recuerdos de las personas que eran antes de transformarse. Sin embargo, esos recuerdos, motivaciones y esperanzas suelen estar sumergidos en un hambre que nunca puede ser saciada.<\/p>\n<p><strong>Uso:<\/strong> Las abominaciones cazan en yermos devastados y restos de naves espaciales bombardeadas, acechan en los sótanos donde científicos locos han llevado a cabo experimentos ilícitos, y persiguen los sueños de los niños que se han metido en problemas.<\/p>\n<p><strong>Intromisiones del DJ:<\/strong> La abominación no está muerta; se levanta en la siguiente ronda con salud completa.<\/p>",
+    "pools": {"health": {
+      "max": 22,
+      "value": 22
+    }},
+    "description": "",
+    "combat": {
+      "damage": 6,
+      "armor": 2
+    },
+    "basic": {
+      "level": 5,
+      "biography": "<p>Una abominación es un horrible humanoide bestial cubierto de gruesas placas de carne escarlata. Sus ojos brillan con el resplandor estancado de los vertederos tóxicos. De al menos 2 m [7 pies] de altura, las abominaciones se sienten atraídas por el movimiento. Siempre hambrientas, consumen presas vivas con grandes mordiscos desgarradores.<\/p>\n<p><strong>Motivación:<\/strong> Alimentación (carne)<\/p>\n<p><strong>Entorno:<\/strong> Casi en cualquier lugar, cazando solo o en pareja<\/p>\n<p><strong>Salud:<\/strong> 22<\/p>\n<p><strong>Daño que inflige:<\/strong> 6 puntos<\/p>\n<p><strong>Armadura:<\/strong> 2<\/p>\n<p><strong>Movimiento:<\/strong> Corto<\/p>\n<p><strong>Ajustes: <\/strong>Nivel 6 para Defensa por Vigor; nivel 3 para ver a través del engaño<\/p>\n<p><strong>Combate:<\/strong> Las abominaciones usan armas recuperadas de la chatarra de para atacar a sus presas a distancia, pero probablemente pasen a morder a los objetivos que estén a su alcance. Los objetivos dañados por un mordisco deben tener éxito en una tarea de Defensa por Vigor o descender un grado en el Registro de Daño cuando la abominación arranca un gran trozo de carne y lo engulle. Aquellos que sobreviven a un ataque deben tener éxito en una tirada de Defensa por Vigor un día después, cuando se encuentran con síntomas similares a los de la gripe. Los que fallan comienzan el proceso de transformación a una nueva abominación.<\/p>\n<p>Las abominaciones recuperan 2 puntos de salud por ronda y tienen +5 de Armadura contra el daño infligido por la energía (radiación, rayos X, rayos gamma, etc.).<\/p>\n<p><strong>Interacción:<\/strong> La mayoría de las abominaciones pueden hablar y tienen vagos recuerdos de las personas que eran antes de transformarse. Sin embargo, esos recuerdos, motivaciones y esperanzas suelen estar sumergidos en un hambre que nunca puede ser saciada.<\/p>\n<p><strong>Uso:<\/strong> Las abominaciones cazan en yermos devastados y restos de naves espaciales bombardeadas, acechan en los sótanos donde científicos locos han llevado a cabo experimentos ilícitos, y persiguen los sueños de los niños que se han metido en problemas.<\/p>\n<p><strong>Intromisiones del DJ:<\/strong> La abominación no está muerta; se levanta en la siguiente ronda con salud completa.<\/p>"
+    },
+    "teen": {
+      "settings": {},
+      "pools": {},
+      "basic": {}
+    },
+    "version": 2
+  },
+  "ownership": {
+    "N1n5f3sdQOJFmoJe": 3,
+    "default": 0
+  },
+  "name": "Abominación",
+  "_id": "GcRpFtcOQDpGvU4H",
+  "items": []
+}

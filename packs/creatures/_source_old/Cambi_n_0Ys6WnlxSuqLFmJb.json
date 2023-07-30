@@ -1,0 +1,128 @@
+{
+  "img": "modules/drsc-es-compendio-foundry/img/tokens/outsider_fiend.webp",
+  "_stats": {
+    "modifiedTime": 1676797808954,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "yThCrv1jSfPXOC2U",
+    "createdTime": 1676222091010,
+    "systemVersion": "2.3.0",
+    "coreVersion": "10.291"
+  },
+  "flags": {"core": {"sourceId": "Actor.xKIEJMZd0WfMtoRG"}},
+  "sort": 0,
+  "type": "npc",
+  "_key": "!actors!0Ys6WnlxSuqLFmJb",
+  "prototypeToken": {
+    "displayBars": 40,
+    "displayName": 20,
+    "actorLink": false,
+    "texture": {
+      "scaleX": 1,
+      "offsetX": 0,
+      "scaleY": 1,
+      "offsetY": 0,
+      "src": "icons/svg/mystery-man.svg",
+      "rotation": 0,
+      "tint": null
+    },
+    "lockRotation": false,
+    "rotation": 0,
+    "detectionModes": [],
+    "flags": {},
+    "randomImg": false,
+    "bar1": {"attribute": "pools.health"},
+    "bar2": {"attribute": "basic.level"},
+    "disposition": 0,
+    "light": {
+      "attenuation": 0.5,
+      "color": null,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "animation": {
+        "intensity": 5,
+        "type": null,
+        "reverse": false,
+        "speed": 5
+      },
+      "saturation": 0,
+      "alpha": 0.5,
+      "contrast": 0,
+      "angle": 360,
+      "luminosity": 0.5,
+      "shadows": 0,
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "alpha": 1,
+    "name": "Cambión",
+    "width": 1,
+    "sight": {
+      "saturation": 0,
+      "attenuation": 0.1,
+      "brightness": 0,
+      "color": null,
+      "visionMode": "basic",
+      "contrast": 0,
+      "range": null,
+      "angle": 360,
+      "enabled": false
+    },
+    "height": 1
+  },
+  "effects": [],
+  "system": {
+    "settings": {
+      "general": {
+        "initiativeBonus": 0,
+        "hideArchive": false
+      },
+      "equipment": {
+        "ammo": {"active": false},
+        "armor": {"active": false},
+        "attacks": {"active": false},
+        "materials": {
+          "active": false,
+          "label": ""
+        },
+        "cyphers": {
+          "active": false,
+          "label": ""
+        },
+        "oddities": {
+          "active": false,
+          "label": ""
+        },
+        "artifacts": {
+          "active": false,
+          "label": ""
+        }
+      }
+    },
+    "notes": "<p>Finas escamas de ébano cubren la figura perfectamente atlética de un cambión. Dos cuernos rojizos crecen de su frente, y las puntas de sus colmillos emergen de entre sus oscuros labios. Sus ojos, sin iris ni pupila, son del color de la nieve. Los cambiones son criaturas malditas, nacidas de padres mortales y demoníacos, y a veces también se les llama inferniano. La mayoría de los cambiones ceden a lo que todos esperan de ellos y abrazan el mal.<\/p>\n<p><strong>Motivación:<\/strong> Defensa, conquista, venganza contra un mundo que los ha rechazado.<\/p>\n<p><strong>Entorno:<\/strong> En cualquier lugar, a menudo ocultos a plena vista<\/p>\n<p><strong>Salud:<\/strong> 25<\/p>\n<p><strong>Daño que inflige:<\/strong> 6 puntos<\/p>\n<p><strong>Armadura:<\/strong> 1<\/p>\n<p><strong>Movimiento:<\/strong> Corto<\/p>\n<p><strong>Ajustes: <\/strong>Nivel 7 para disfraz<\/p>\n<p><strong>Combate:<\/strong> Los cambiones a veces empuñan armas pesadas en combate, sobre todo si encuentran un artefacto que pueda potenciar sus ataques. Algunos cambiones desarrollan sus habilidades naturales y mágicas para convertirse en poderosos hechiceros, pero la mayoría puede invocar la energía infernal con sólo desearlo al menos una vez al día, como se indica a continuación.<\/p>\n<p><strong>Dedo de tortura:<\/strong> Un rayo rubí sale del dedo del cambión para golpear con un dolor torturante que derriba a un enemigo en una tirada fallida de Defensa por Vigor. El objetivo recibe automáticamente 6 puntos de daño cada asalto hasta que pueda escapar del efecto con una tarea de Intelecto.<\/p>\n<p><strong>Explosión de fuego del alma: <\/strong>Una explosión de fuego negro y carmesí que desgarra el alma estalla alrededor de hasta tres objetivos situados uno junto al otro a corta distancia, infligiendo 4 puntos de daño y aturdiendo a los objetivos para que pierdan su siguiente acción en una tarea fallida de Defensa por Velocidad.<\/p>\n<p><strong>Interacción:<\/strong> Los cambiones son sombríos, depresivos e incomprendidos. La mayoría se han convertido al mal, pero unos pocos pueden redimirse.<\/p>\n<p><strong>Uso:<\/strong> Se ve un gran incendio ardiendo en el horizonte. Al día siguiente, los viajeros se encuentran con una región quemada con un cráter que ha destruido una granja. En el centro del cráter hay un humano inconsciente con crecimientos en forma de cuerno en la cabeza.<\/p>\n<p><strong>Botín:<\/strong> Los cambiones poderosos a veces empuñan artefactos como armas.<\/p>\n<p><strong>Intromisiones del DJ:<\/strong> El Cypher del personaje explota al ser tocado por fuego demoníaco del cambión en una tarea fallida de Defensa por Velocidad.<\/p>",
+    "pools": {"health": {
+      "max": 25,
+      "value": 25
+    }},
+    "description": "",
+    "combat": {
+      "damage": 6,
+      "armor": 1
+    },
+    "basic": {
+      "level": 5,
+      "biography": "<p>Finas escamas de ébano cubren la figura perfectamente atlética de un cambión. Dos cuernos rojizos crecen de su frente, y las puntas de sus colmillos emergen de entre sus oscuros labios. Sus ojos, sin iris ni pupila, son del color de la nieve. Los cambiones son criaturas malditas, nacidas de padres mortales y demoníacos, y a veces también se les llama inferniano. La mayoría de los cambiones ceden a lo que todos esperan de ellos y abrazan el mal.<\/p>\n<p><strong>Motivación:<\/strong> Defensa, conquista, venganza contra un mundo que los ha rechazado.<\/p>\n<p><strong>Entorno:<\/strong> En cualquier lugar, a menudo ocultos a plena vista<\/p>\n<p><strong>Salud:<\/strong> 25<\/p>\n<p><strong>Daño que inflige:<\/strong> 6 puntos<\/p>\n<p><strong>Armadura:<\/strong> 1<\/p>\n<p><strong>Movimiento:<\/strong> Corto<\/p>\n<p><strong>Ajustes: <\/strong>Nivel 7 para disfraz<\/p>\n<p><strong>Combate:<\/strong> Los cambiones a veces empuñan armas pesadas en combate, sobre todo si encuentran un artefacto que pueda potenciar sus ataques. Algunos cambiones desarrollan sus habilidades naturales y mágicas para convertirse en poderosos hechiceros, pero la mayoría puede invocar la energía infernal con sólo desearlo al menos una vez al día, como se indica a continuación.<\/p>\n<p><strong>Dedo de tortura:<\/strong> Un rayo rubí sale del dedo del cambión para golpear con un dolor torturante que derriba a un enemigo en una tirada fallida de Defensa por Vigor. El objetivo recibe automáticamente 6 puntos de daño cada asalto hasta que pueda escapar del efecto con una tarea de Intelecto.<\/p>\n<p><strong>Explosión de fuego del alma: <\/strong>Una explosión de fuego negro y carmesí que desgarra el alma estalla alrededor de hasta tres objetivos situados uno junto al otro a corta distancia, infligiendo 4 puntos de daño y aturdiendo a los objetivos para que pierdan su siguiente acción en una tarea fallida de Defensa por Velocidad.<\/p>\n<p><strong>Interacción:<\/strong> Los cambiones son sombríos, depresivos e incomprendidos. La mayoría se han convertido al mal, pero unos pocos pueden redimirse.<\/p>\n<p><strong>Uso:<\/strong> Se ve un gran incendio ardiendo en el horizonte. Al día siguiente, los viajeros se encuentran con una región quemada con un cráter que ha destruido una granja. En el centro del cráter hay un humano inconsciente con crecimientos en forma de cuerno en la cabeza.<\/p>\n<p><strong>Botín:<\/strong> Los cambiones poderosos a veces empuñan artefactos como armas.<\/p>\n<p><strong>Intromisiones del DJ:<\/strong> El Cypher del personaje explota al ser tocado por fuego demoníaco del cambión en una tarea fallida de Defensa por Velocidad.<\/p>"
+    },
+    "version": 2
+  },
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "name": "Cambión",
+  "_id": "0Ys6WnlxSuqLFmJb",
+  "items": []
+}

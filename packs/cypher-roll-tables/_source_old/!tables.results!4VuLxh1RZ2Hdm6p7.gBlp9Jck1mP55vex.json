@@ -1,0 +1,16 @@
+{
+  "img": "icons/svg/d20-black.svg",
+  "documentCollection": "",
+  "flags": {},
+  "weight": 3,
+  "range": [
+    16,
+    18
+  ],
+  "documentId": null,
+  "_id": "gBlp9Jck1mP55vex",
+  "text": "Palo tallado",
+  "type": 0,
+  "drawn": false,
+  "_key": "!tables.results!4VuLxh1RZ2Hdm6p7.gBlp9Jck1mP55vex"
+}

@@ -1,0 +1,63 @@
+{
+  "img": "systems/cyphersystem/icons/items/ability.svg",
+  "effects": [],
+  "system": {
+    "archived": false,
+    "settings": {
+      "general": {
+        "spellTier": "low",
+        "sorting": "Ability",
+        "unmaskedForm": "Mask"
+      },
+      "linkedItems": {
+        "attack": "",
+        "skill": "",
+        "ability": ""
+      },
+      "rollButton": {
+        "stepModifier": "eased",
+        "damage": 0,
+        "damagePerLOE": 3,
+        "bonus": 0,
+        "pool": "Pool",
+        "teen": "",
+        "additionalSteps": 0,
+        "effort1": "0",
+        "effort3": "0",
+        "assets": "0",
+        "effort2": "0",
+        "skill": "Practiced",
+        "additionalCost": 0
+      }
+    },
+    "description": "<p>Cuando usas Copiar poder para copiar una capacidad, la criatura de la que la copiaste pierde el acceso a esa capacidad durante aproximadamente un minuto. Mientras tengas su capacidad, cualquier intento de la criatura de usar su capacidad requiere que tenga éxito en una tarea (Vigor, Velocidad o Intelecto, según corresponda a la capacidad robada) opuesta a tu tarea de Intelecto aliviada. Si la criatura tiene éxito, recupera el uso de su capacidad y tú lo pierdes. Capacitador.</p><p>Si quieres dificultar que alguien recupere su poder robado, entrena la capacidad Robar poder o coloca una mejora de poder en ella.</p>",
+    "basic": {
+      "cost": "0",
+      "pool": "Pool"
+    },
+    "version": 2
+  },
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "_stats": {
+    "modifiedTime": 1681933541039,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "yThCrv1jSfPXOC2U",
+    "createdTime": 1681932838311,
+    "systemVersion": "2.5.0",
+    "coreVersion": "10.291"
+  },
+  "name": "Robar poder",
+  "flags": {
+    "core": {
+      "sourceId": "Item.2efWuGdDkv3qYdfJ"
+    }
+  },
+  "sort": 0,
+  "_id": "lscDqx2Wr01LQYYS",
+  "type": "ability",
+  "_key": "!items!lscDqx2Wr01LQYYS"
+}

@@ -1,0 +1,128 @@
+{
+  "img": "modules/drsc-es-compendio-foundry/img/tokens/elemental_air.webp",
+  "_stats": {
+    "modifiedTime": 1676797809003,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "yThCrv1jSfPXOC2U",
+    "createdTime": 1676278215795,
+    "systemVersion": "2.3.0",
+    "coreVersion": "10.291"
+  },
+  "flags": {"core": {"sourceId": "Actor.tF2tRhBpdupd0uUL"}},
+  "sort": 0,
+  "type": "npc",
+  "_key": "!actors!DKWzvrVoexGSQ6E9",
+  "prototypeToken": {
+    "displayBars": 40,
+    "displayName": 20,
+    "actorLink": false,
+    "texture": {
+      "scaleX": 1,
+      "offsetX": 0,
+      "scaleY": 1,
+      "offsetY": 0,
+      "src": "icons/svg/mystery-man.svg",
+      "rotation": 0,
+      "tint": null
+    },
+    "lockRotation": false,
+    "rotation": 0,
+    "detectionModes": [],
+    "flags": {},
+    "randomImg": false,
+    "bar1": {"attribute": "pools.health"},
+    "bar2": {"attribute": "basic.level"},
+    "disposition": 0,
+    "light": {
+      "attenuation": 0.5,
+      "color": null,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "animation": {
+        "intensity": 5,
+        "type": null,
+        "reverse": false,
+        "speed": 5
+      },
+      "saturation": 0,
+      "alpha": 0.5,
+      "contrast": 0,
+      "angle": 360,
+      "luminosity": 0.5,
+      "shadows": 0,
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "alpha": 1,
+    "name": "Elemental de aire",
+    "width": 1,
+    "sight": {
+      "saturation": 0,
+      "attenuation": 0.1,
+      "brightness": 0,
+      "color": null,
+      "visionMode": "basic",
+      "contrast": 0,
+      "range": null,
+      "angle": 360,
+      "enabled": false
+    },
+    "height": 1
+  },
+  "effects": [],
+  "system": {
+    "settings": {
+      "general": {
+        "initiativeBonus": 0,
+        "hideArchive": false
+      },
+      "equipment": {
+        "ammo": {"active": false},
+        "armor": {"active": false},
+        "attacks": {"active": false},
+        "materials": {
+          "active": false,
+          "label": ""
+        },
+        "cyphers": {
+          "active": false,
+          "label": ""
+        },
+        "oddities": {
+          "active": false,
+          "label": ""
+        },
+        "artifacts": {
+          "active": false,
+          "label": ""
+        }
+      }
+    },
+    "notes": "<p>Los elementales de aire son cúmulos de aire caprichosos con mentes simples. Aparecen espontáneamente en nubes y montañas altas, y a menudo se asemejan a una zona de niebla o a una forma humanoide parecida a una nube.<\/p>\n<p><strong>Motivación:<\/strong> Travesura y destrucción<\/p>\n<p><strong>Entorno:<\/strong> Donde sople el viento<\/p>\n<p><strong>Salud:<\/strong> 24<\/p>\n<p><strong>Daño que inflige:<\/strong> 4 puntos<\/p>\n<p><strong>Movimiento:<\/strong> Largo al volar<\/p>\n<p><strong>Ajustes: <\/strong>Nivel 6 para sigilo<\/p>\n<p><strong>Combate:<\/strong> Los elementales de aire rebanan a los enemigos hasta una corta distancia con cuchillas de viento feroz, o utilizan ráfagas de aire para lanzar objetos pequeños. Una vez cada dos rondas, un elemental de aire puede transformarse en un vórtice en forma de tornado que inflige 4 puntos de daño a todas las criaturas dentro de su alcance inmediato. En esta forma, el elemental gana +1 a Armadura y un +2 adicional a Armadura contra armas de proyectiles físicos como flechas y jabalinas. El elemental vuelve a su forma normal al inicio de su siguiente turno.<\/p>\n<p>Un elemental de aire puede dispersarse en un área corta como acción. En esta forma es invisible, incapaz de atacar y no puede ser atacado excepto con ataques de área. El elemental puede permanecer en esta forma indefinidamente, pero debe utilizar una acción para volver a su forma normal.<\/p>\n<p>Los elementales de aire son oponentes escurridizos y difíciles de destruir. Si un elemental de aire queda reducido a 0 puntos de vida, hay un 50% de chance de que se recupere unas rondas más tarde con 6 puntos de salud. Entonces, el elemental sigue luchando o huye para causar problemas en otra parte.<\/p>\n<p><strong>Interacción:<\/strong> Los elementales de aire ven y oyen muchas cosas, pero son huidizos y lo que recuerdan no suele ser importante o relevante. Pueden ser invocados con magia, pero no les gusta ser controlados, y hay un 10% de posibilidades de que se liberen y ataquen por su cuenta.<\/p>\n<p><strong>Uso:<\/strong> Un sendero de montaña seguro se ha vuelto peligroso debido a vientos intempestivos que amenazan con empujar a los viajeros por un precipicio. Un viejo árbol está rodeado de susurros de conversaciones que tuvieron lugar recientemente y ha empezado a lanzar palos y fruta a cualquiera que se acerque demasiado.<\/p>\n<p><strong>Intromisiones del DJ:<\/strong> Una violenta ráfaga de viento desarma a un personaje y lanza lo que estaba sosteniendo a una distancia larga (dependiendo del tamaño y peso del objeto).<\/p>",
+    "pools": {"health": {
+      "max": 24,
+      "value": 24
+    }},
+    "description": "",
+    "combat": {
+      "damage": 4,
+      "armor": 0
+    },
+    "basic": {
+      "level": 4,
+      "biography": "<p>Los elementales de aire son cúmulos de aire caprichosos con mentes simples. Aparecen espontáneamente en nubes y montañas altas, y a menudo se asemejan a una zona de niebla o a una forma humanoide parecida a una nube.<\/p>\n<p><strong>Motivación:<\/strong> Travesura y destrucción<\/p>\n<p><strong>Entorno:<\/strong> Donde sople el viento<\/p>\n<p><strong>Salud:<\/strong> 24<\/p>\n<p><strong>Daño que inflige:<\/strong> 4 puntos<\/p>\n<p><strong>Movimiento:<\/strong> Largo al volar<\/p>\n<p><strong>Ajustes: <\/strong>Nivel 6 para sigilo<\/p>\n<p><strong>Combate:<\/strong> Los elementales de aire rebanan a los enemigos hasta una corta distancia con cuchillas de viento feroz, o utilizan ráfagas de aire para lanzar objetos pequeños. Una vez cada dos rondas, un elemental de aire puede transformarse en un vórtice en forma de tornado que inflige 4 puntos de daño a todas las criaturas dentro de su alcance inmediato. En esta forma, el elemental gana +1 a Armadura y un +2 adicional a Armadura contra armas de proyectiles físicos como flechas y jabalinas. El elemental vuelve a su forma normal al inicio de su siguiente turno.<\/p>\n<p>Un elemental de aire puede dispersarse en un área corta como acción. En esta forma es invisible, incapaz de atacar y no puede ser atacado excepto con ataques de área. El elemental puede permanecer en esta forma indefinidamente, pero debe utilizar una acción para volver a su forma normal.<\/p>\n<p>Los elementales de aire son oponentes escurridizos y difíciles de destruir. Si un elemental de aire queda reducido a 0 puntos de vida, hay un 50% de chance de que se recupere unas rondas más tarde con 6 puntos de salud. Entonces, el elemental sigue luchando o huye para causar problemas en otra parte.<\/p>\n<p><strong>Interacción:<\/strong> Los elementales de aire ven y oyen muchas cosas, pero son huidizos y lo que recuerdan no suele ser importante o relevante. Pueden ser invocados con magia, pero no les gusta ser controlados, y hay un 10% de posibilidades de que se liberen y ataquen por su cuenta.<\/p>\n<p><strong>Uso:<\/strong> Un sendero de montaña seguro se ha vuelto peligroso debido a vientos intempestivos que amenazan con empujar a los viajeros por un precipicio. Un viejo árbol está rodeado de susurros de conversaciones que tuvieron lugar recientemente y ha empezado a lanzar palos y fruta a cualquiera que se acerque demasiado.<\/p>\n<p><strong>Intromisiones del DJ:<\/strong> Una violenta ráfaga de viento desarma a un personaje y lanza lo que estaba sosteniendo a una distancia larga (dependiendo del tamaño y peso del objeto).<\/p>"
+    },
+    "version": 2
+  },
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "name": "Elemental de aire",
+  "_id": "DKWzvrVoexGSQ6E9",
+  "items": []
+}

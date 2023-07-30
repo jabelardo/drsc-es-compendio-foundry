@@ -1,0 +1,16 @@
+{
+  "img": "systems/cyphersystem/icons/items/cypher.svg",
+  "documentCollection": "cyphersystem-compendium.cyphers-horror",
+  "flags": {},
+  "weight": 4,
+  "range": [
+    1,
+    4
+  ],
+  "documentId": "epb1U7y6EZrrGYj2",
+  "text": "Sirena anatema (demonios)",
+  "_id": "anW9cQuBfiTMCis1",
+  "type": 2,
+  "drawn": false,
+  "_key": "!tables.results!VfcaKLI7i8Ey5pXV.anW9cQuBfiTMCis1"
+}

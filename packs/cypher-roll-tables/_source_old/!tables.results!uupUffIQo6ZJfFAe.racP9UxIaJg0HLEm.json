@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 3,
+  "range": [
+    73,
+    75
+  ],
+  "drawn": false,
+  "text": "Casco de escudo mental",
+  "img": "systems/cyphersystem/icons/items/artifact.svg",
+  "documentCollection": "cyphersystem-compendium.artifacts-fantasy",
+  "documentId": "uJcBalDKhMRuhoda",
+  "_id": "racP9UxIaJg0HLEm",
+  "flags": {},
+  "_key": "!tables.results!uupUffIQo6ZJfFAe.racP9UxIaJg0HLEm"
+}

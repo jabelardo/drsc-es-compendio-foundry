@@ -1,0 +1,32 @@
+{
+  "name": "Shipmind",
+  "type": "equipment",
+  "img": "systems/cyphersystem/icons/items/equipment.svg",
+  "system": {
+    "version": 2,
+    "description": "<p>Una shipmind es una IA simulada que existe dentro de una sola nave espacial o nave estelar, con la capacidad de controlar muchos aspectos de las funciones del vehículo según sea necesario para complementar a una tripulación, o a veces en lugar de una tripulación. Cada shipmind tiene su propia personalidad simulada, emulando la conciencia, aunque en la mayoría de los casos, no son realmente conscientes. Tener una shipmind instalada en una nave espacial es inmensamente útil, ya que puede supervisar muchas funciones básicas. Una shipmind suele realizar tareas al nivel de la nave en la que está instalada.</p>",
+    "archived": false,
+    "basic": {
+      "level": 3,
+      "quantity": 1
+    }
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "cyphersystem",
+    "systemVersion": "2.6.2",
+    "coreVersion": "11.301",
+    "createdTime": 1676620321057,
+    "modifiedTime": 1686394083082,
+    "lastModifiedBy": "ZyqFG5NpQtVrpwj7"
+  },
+  "_id": "C3rqnGEp96TvbcBT",
+  "folder": "40FMwVrL57gMPm5j",
+  "sort": 4600000,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "_key": "!items!C3rqnGEp96TvbcBT"
+}

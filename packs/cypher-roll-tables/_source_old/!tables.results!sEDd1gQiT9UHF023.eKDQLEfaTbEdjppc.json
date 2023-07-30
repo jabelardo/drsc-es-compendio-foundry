@@ -1,0 +1,16 @@
+{
+  "img": "icons/svg/d20-black.svg",
+  "documentCollection": "",
+  "flags": {},
+  "weight": 1,
+  "range": [
+    9,
+    9
+  ],
+  "documentId": null,
+  "_id": "eKDQLEfaTbEdjppc",
+  "text": "Has servido de guardaespaldas a un poderoso criminal que ahora te debe la vida.",
+  "type": 0,
+  "drawn": false,
+  "_key": "!tables.results!sEDd1gQiT9UHF023.eKDQLEfaTbEdjppc"
+}

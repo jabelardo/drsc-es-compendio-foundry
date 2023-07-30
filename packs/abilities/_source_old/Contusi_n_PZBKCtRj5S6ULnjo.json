@@ -1,0 +1,58 @@
+{
+  "img": "systems/cyphersystem/icons/items/ability.svg",
+  "effects": [],
+  "folder": null,
+  "system": {
+    "archived": false,
+    "settings": {
+      "general": {
+        "spellTier": "low",
+        "sorting": "Ability",
+        "unmaskedForm": "Mask"
+      },
+      "rollButton": {
+        "stepModifier": "eased",
+        "damage": 0,
+        "damagePerLOE": 3,
+        "bonus": 0,
+        "pool": "Pool",
+        "teen": "",
+        "additionalSteps": 0,
+        "effort1": 0,
+        "effort3": 0,
+        "assets": 0,
+        "effort2": 0,
+        "skill": "Practiced",
+        "additionalCost": 0
+      }
+    },
+    "description": "<p>Provocas un pulso de fuerza contundente que estalla desde un punto que elijas a largo alcance. El pulso se extiende hasta corto alcance en todas las direcciones, infligiendo 5 puntos de daño a todo lo que se encuentre en la zona. Incluso si fallas la tirada de ataque, los objetivos en el área reciben 1 punto de daño. Acción.</p>",
+    "basic": {
+      "cost": "7",
+      "pool": "Intellect"
+    },
+    "version": 2
+  },
+  "ownership": {
+    "default": 0,
+    "k2TkElLx959B0lm5": 3
+  },
+  "_stats": {
+    "modifiedTime": 1664959715321,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "rLeavHPrdkq6xjNt",
+    "createdTime": null,
+    "systemVersion": "2.0.0-a1",
+    "coreVersion": "10.286"
+  },
+  "name": "Contusión",
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.cyphersystem-compendium.abilities.PZBKCtRj5S6ULnjo"
+    }
+  },
+  "_id": "PZBKCtRj5S6ULnjo",
+  "sort": 0,
+  "type": "ability",
+  "_key": "!items!PZBKCtRj5S6ULnjo"
+}

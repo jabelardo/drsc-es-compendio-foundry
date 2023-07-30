@@ -1,0 +1,33 @@
+{
+  "img": "systems/cyphersystem/icons/items/cypher.svg",
+  "effects": [],
+  "system": {
+    "archived": false,
+    "settings": {"general": {"nameUnidentified": ""}},
+    "description": "<p><strong>Nivel:<\/strong> 1d6<\/p>\n<p><strong>Efecto:<\/strong> Anima un cadáver como un esqueleto o zombi no muerto de nivel 1 (o nivel 2 para el nivel 5 de Cypher y superiores), dependiendo del estado del cuerpo. El cadáver no puede ser más grande que un humano normal. El cadáver animado no tiene la inteligencia, los recuerdos ni las habilidades especiales que tenía en vida. La criatura sigue las órdenes verbales del usuario durante una hora, tras la cual se convierte en un cadáver inerte. A menos que la criatura muera por daño, el usuario puede reanimarla de nuevo cuando expire su tiempo, pero cualquier daño que tuviera cuando quedó inerte se aplica a su nuevo estado reanimado.<\/p>",
+    "basic": {
+      "identified": true,
+      "level": "1d6"
+    },
+    "version": 2
+  },
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "_stats": {
+    "modifiedTime": 1676304543368,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "yThCrv1jSfPXOC2U",
+    "createdTime": 1676300184371,
+    "systemVersion": "2.3.0",
+    "coreVersion": "10.291"
+  },
+  "name": "Cadáver andante",
+  "flags": {"core": {"sourceId": "Item.maBLgVh0syYE86pC"}},
+  "_id": "nFDUuvVkQ6wpTchS",
+  "sort": 0,
+  "type": "cypher",
+  "_key": "!items!nFDUuvVkQ6wpTchS"
+}

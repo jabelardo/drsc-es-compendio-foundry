@@ -1,0 +1,135 @@
+{
+  "img": "modules/drsc-es-compendio-foundry/img/tokens/humanoid_magical.webp",
+  "_stats": {
+    "modifiedTime": 1676797809276,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "yThCrv1jSfPXOC2U",
+    "createdTime": null,
+    "systemVersion": "2.3.0",
+    "coreVersion": "10.291"
+  },
+  "flags": {},
+  "sort": 0,
+  "type": "npc",
+  "_key": "!actors!qB1fv8beRDJG465z",
+  "prototypeToken": {
+    "displayBars": 40,
+    "displayName": 20,
+    "actorLink": false,
+    "lockRotation": false,
+    "texture": {
+      "scaleX": 1,
+      "offsetX": 0,
+      "scaleY": 1,
+      "offsetY": 0,
+      "src": "icons/svg/mystery-man.svg",
+      "rotation": 0,
+      "tint": null
+    },
+    "rotation": 0,
+    "detectionModes": [],
+    "flags": {},
+    "randomImg": false,
+    "bar1": {"attribute": "pools.health"},
+    "bar2": {"attribute": "basic.level"},
+    "disposition": 0,
+    "light": {
+      "attenuation": 0.5,
+      "color": null,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "animation": {
+        "intensity": 5,
+        "reverse": false,
+        "type": null,
+        "speed": 5
+      },
+      "saturation": 0,
+      "alpha": 0.5,
+      "contrast": 0,
+      "angle": 360,
+      "luminosity": 0.5,
+      "shadows": 0,
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "alpha": 1,
+    "name": "Elfo de la sombra",
+    "width": 1,
+    "sight": {
+      "saturation": 0,
+      "brightness": 1,
+      "attenuation": 0.1,
+      "color": null,
+      "visionMode": "basic",
+      "contrast": 0,
+      "angle": 360,
+      "range": 0,
+      "enabled": false
+    },
+    "height": 1
+  },
+  "effects": [],
+  "folder": null,
+  "system": {
+    "settings": {
+      "skills": {},
+      "abilities": {},
+      "general": {
+        "initiativeBonus": 0,
+        "hideArchive": false
+      },
+      "equipment": {
+        "ammo": {"active": false},
+        "armor": {"active": false},
+        "attacks": {"active": false},
+        "materials": {
+          "active": false,
+          "label": ""
+        },
+        "cyphers": {
+          "active": false,
+          "label": ""
+        },
+        "oddities": {
+          "active": false,
+          "label": ""
+        },
+        "artifacts": {
+          "active": false,
+          "label": ""
+        }
+      }
+    },
+    "notes": "<p>Los elfos que se desvanecieron de la superficie para escapar de la justicia de sus primos feéricos por crímenes incontables se denominan a veces elfos de la sombra, elfos oscuros o simplemente trow. Se supone que los elfos de la sombra huyeron a nuevos reinos en las profundidades de la tierra y, de hecho, las rutas que llevan a sus verdaderas moradas son en su mayoría subterráneas e incluyen muchas grandes fortalezas subterráneas. Sin embargo, el corazón del reino de los elfos de la sombra se encuentra en la propia dimensión incolora de la Sombra, donde todas las cosas existen como un tenue reflejo del mundo real.<\/p>\n<p>A veces, los elfos de la sombra aparecen en la superficie, saliendo de los túneles oscuros o, en algunos casos, de las propias sombras. Hacen incursiones en busca de botín, esclavos frescos y sacrificios. Los sacrificios se hacen a su diosa, una araña viuda negra de tamaño monstruoso que trama en la oscuridad.<\/p>\n<p>Cuando un elfo de la sombra regresa al mundo de la luz, puede elegir aparecer sólo como una silueta: un esbelto contorno humanoide que acecha como si estuviera en el nadir de un pozo.<\/p>\n<p><strong>Motivación:<\/strong> Torturar por placer, servir a la diosa elfa de la sombra<\/p>\n<p><strong>Entorno:<\/strong> Prácticamente en cualquier lugar con luz tenue, individualmente o en grupos de hasta cuatro<\/p>\n<p><strong>Salud:<\/strong> 15<\/p>\n<p><strong>Daño que inflige:<\/strong> 5 puntos<\/p>\n<p><strong>Armadura:<\/strong> 1<\/p>\n<p><strong>Movimiento:<\/strong> Corto<\/p>\n<p><strong>Ajustes: <\/strong>Nivel 6 para sigilo y percepción; nivel 6 para Defensa por Velocidad debido a la naturaleza sombría<\/p>\n<p><strong>Combate:<\/strong> Los elfos de la sombra atacan con espadas cortas, cuchillos y ballestas de sombra dura como el acero. Pueden ver en la luz tenue y en la oscuridad absoluta como si fuera de día.<\/p>\n<p>Algunos elfos de la sombra pueden lanzar hechizos, incluyendo los siguientes. Cada hechizo requiere una acción para ser lanzado.<\/p>\n<table class=\"table table-dark table-striped table-sm\">\n <thead>\n  <tr>\n   <th scope=\"col\" class=\"text-center\">d6<\/th>\n   <th scope=\"col\">Hechizo de Elfo de la sombra<\/th>\n  <\/tr>\n <\/thead>\n <tbody>\n  <tr>\n   <td scope=\"row\" class=\"fw-normal text-center\">1<\/td>\n   <td>Encantar el arma para infligir 3 puntos de daño adicional (8 en total)<\/td>\n  <\/tr>\n  <tr>\n   <td scope=\"row\" class=\"fw-normal text-center\">2<\/td>\n   <td>El arma encantada inflige 1 punto adicional de daño de Velocidad (veneno, ignora la Armadura), más 2 puntos de daño de Velocidad cada ronda adicional hasta que la víctima tenga éxito en una tirada de Defensa por Vigor<\/td>\n  <\/tr>\n  <tr>\n   <td scope=\"row\" class=\"fw-normal text-center\">3<\/td>\n   <td>Vuela a larga distancia cada ronda durante diez minutos<\/td>\n  <\/tr>\n  <tr>\n   <td scope=\"row\" class=\"fw-normal text-center\">4<\/td>\n   <td>Gana +2 a la Armadura (total de 3 Armaduras) durante diez minutos<\/td>\n  <\/tr>\n  <tr>\n   <td scope=\"row\" class=\"fw-normal text-center\">5<\/td>\n   <td>El hechizo de largo alcance deja al sujeto ciego durante diez minutos si falla la tirada de Defensa por Vigor<\/td>\n  <\/tr>\n  <tr>\n   <td scope=\"row\" class=\"fw-normal text-center\">6<\/td>\n   <td>El hechizo de largo alcance se dirige a un máximo de tres criaturas contiguas; las mantiene inmóviles en una red de sombras durante un minuto si se fallan las tiradas de Defensa por Velocidad<\/td>\n  <\/tr>\n <\/tbody>\n<\/table>\n<p>Si está sometido a la luz del día, un elfo de la sombra pierde sus ajustes de defensa de sigilo, percepción y Velocidad, y es probable que se retire.<\/p>\n<p><strong>Interacción:<\/strong> Los elfos de la sombra pueden negociar e incluso aliarse con otras criaturas durante un tiempo. Pero solo lo hacen hasta que se presenta la mejor oportunidad para una traición.<\/p>\n<p><strong>Uso:<\/strong> Los elfos de la sombra han invadido un torreón periférico, e incluso a plena luz del día, el castillo está envuelto en la oscuridad y en redes de sombra. Los tesoros que se dice que hay en los cofres del torreón pueden estar ya en manos de los elfos oscuros.<\/p>\n<p><strong>Botín:<\/strong> Un elfo de la sombra lleva una cantidad de dinero equivalente a un objeto caro, además de armas, armadura ligera y uno o dos Cyphers. Los líderes elfos de la sombra pueden llevar un artefacto.<\/p>\n<p><strong>Intromisiones del DJ:<\/strong> El elfo de la sombra lanza un hechizo que encanta a un personaje con una tirada de Defensa por Intelecto fallida. El personaje lucha del lado del elfo de la sombra hasta un minuto, aunque puede hacer otra tirada de Defensa por Intelecto cada ronda para intentar romper la influencia.<\/p>",
+    "pools": {"health": {
+      "max": 15,
+      "value": 15
+    }},
+    "description": "",
+    "combat": {
+      "damage": 5,
+      "armor": 1
+    },
+    "basic": {
+      "level": 4,
+      "biography": "<p>Los elfos que se desvanecieron de la superficie para escapar de la justicia de sus primos feéricos por crímenes incontables se denominan a veces elfos de la sombra, elfos oscuros o simplemente trow. Se supone que los elfos de la sombra huyeron a nuevos reinos en las profundidades de la tierra y, de hecho, las rutas que llevan a sus verdaderas moradas son en su mayoría subterráneas e incluyen muchas grandes fortalezas subterráneas. Sin embargo, el corazón del reino de los elfos de la sombra se encuentra en la propia dimensión incolora de la Sombra, donde todas las cosas existen como un tenue reflejo del mundo real.<\/p>\n<p>A veces, los elfos de la sombra aparecen en la superficie, saliendo de los túneles oscuros o, en algunos casos, de las propias sombras. Hacen incursiones en busca de botín, esclavos frescos y sacrificios. Los sacrificios se hacen a su diosa, una araña viuda negra de tamaño monstruoso que trama en la oscuridad.<\/p>\n<p>Cuando un elfo de la sombra regresa al mundo de la luz, puede elegir aparecer sólo como una silueta: un esbelto contorno humanoide que acecha como si estuviera en el nadir de un pozo.<\/p>\n<p><strong>Motivación:<\/strong> Torturar por placer, servir a la diosa elfa de la sombra<\/p>\n<p><strong>Entorno:<\/strong> Prácticamente en cualquier lugar con luz tenue, individualmente o en grupos de hasta cuatro<\/p>\n<p><strong>Salud:<\/strong> 15<\/p>\n<p><strong>Daño que inflige:<\/strong> 5 puntos<\/p>\n<p><strong>Armadura:<\/strong> 1<\/p>\n<p><strong>Movimiento:<\/strong> Corto<\/p>\n<p><strong>Ajustes: <\/strong>Nivel 6 para sigilo y percepción; nivel 6 para Defensa por Velocidad debido a la naturaleza sombría<\/p>\n<p><strong>Combate:<\/strong> Los elfos de la sombra atacan con espadas cortas, cuchillos y ballestas de sombra dura como el acero. Pueden ver en la luz tenue y en la oscuridad absoluta como si fuera de día.<\/p>\n<p>Algunos elfos de la sombra pueden lanzar hechizos, incluyendo los siguientes. Cada hechizo requiere una acción para ser lanzado.<\/p>\n<table class=\"table table-dark table-striped table-sm\">\n <thead>\n  <tr>\n   <th scope=\"col\" class=\"text-center\">d6<\/th>\n   <th scope=\"col\">Hechizo de Elfo de la sombra<\/th>\n  <\/tr>\n <\/thead>\n <tbody>\n  <tr>\n   <td scope=\"row\" class=\"fw-normal text-center\">1<\/td>\n   <td>Encantar el arma para infligir 3 puntos de daño adicional (8 en total)<\/td>\n  <\/tr>\n  <tr>\n   <td scope=\"row\" class=\"fw-normal text-center\">2<\/td>\n   <td>El arma encantada inflige 1 punto adicional de daño de Velocidad (veneno, ignora la Armadura), más 2 puntos de daño de Velocidad cada ronda adicional hasta que la víctima tenga éxito en una tirada de Defensa por Vigor<\/td>\n  <\/tr>\n  <tr>\n   <td scope=\"row\" class=\"fw-normal text-center\">3<\/td>\n   <td>Vuela a larga distancia cada ronda durante diez minutos<\/td>\n  <\/tr>\n  <tr>\n   <td scope=\"row\" class=\"fw-normal text-center\">4<\/td>\n   <td>Gana +2 a la Armadura (total de 3 Armaduras) durante diez minutos<\/td>\n  <\/tr>\n  <tr>\n   <td scope=\"row\" class=\"fw-normal text-center\">5<\/td>\n   <td>El hechizo de largo alcance deja al sujeto ciego durante diez minutos si falla la tirada de Defensa por Vigor<\/td>\n  <\/tr>\n  <tr>\n   <td scope=\"row\" class=\"fw-normal text-center\">6<\/td>\n   <td>El hechizo de largo alcance se dirige a un máximo de tres criaturas contiguas; las mantiene inmóviles en una red de sombras durante un minuto si se fallan las tiradas de Defensa por Velocidad<\/td>\n  <\/tr>\n <\/tbody>\n<\/table>\n<p>Si está sometido a la luz del día, un elfo de la sombra pierde sus ajustes de defensa de sigilo, percepción y Velocidad, y es probable que se retire.<\/p>\n<p><strong>Interacción:<\/strong> Los elfos de la sombra pueden negociar e incluso aliarse con otras criaturas durante un tiempo. Pero solo lo hacen hasta que se presenta la mejor oportunidad para una traición.<\/p>\n<p><strong>Uso:<\/strong> Los elfos de la sombra han invadido un torreón periférico, e incluso a plena luz del día, el castillo está envuelto en la oscuridad y en redes de sombra. Los tesoros que se dice que hay en los cofres del torreón pueden estar ya en manos de los elfos oscuros.<\/p>\n<p><strong>Botín:<\/strong> Un elfo de la sombra lleva una cantidad de dinero equivalente a un objeto caro, además de armas, armadura ligera y uno o dos Cyphers. Los líderes elfos de la sombra pueden llevar un artefacto.<\/p>\n<p><strong>Intromisiones del DJ:<\/strong> El elfo de la sombra lanza un hechizo que encanta a un personaje con una tirada de Defensa por Intelecto fallida. El personaje lucha del lado del elfo de la sombra hasta un minuto, aunque puede hacer otra tirada de Defensa por Intelecto cada ronda para intentar romper la influencia.<\/p>"
+    },
+    "teen": {
+      "settings": {},
+      "pools": {},
+      "basic": {}
+    },
+    "version": 2
+  },
+  "ownership": {
+    "N1n5f3sdQOJFmoJe": 3,
+    "default": 0
+  },
+  "name": "Elfo de la sombra",
+  "_id": "qB1fv8beRDJG465z",
+  "items": []
+}

@@ -1,0 +1,16 @@
+{
+  "img": "systems/cyphersystem/icons/items/cypher.svg",
+  "documentCollection": "cyphersystem-compendium.cyphers-fairy-tale",
+  "flags": {},
+  "weight": 1,
+  "range": [
+    22,
+    22
+  ],
+  "documentId": "IR3jkz9cLxkpLmLQ",
+  "text": "Aguja de zurcir",
+  "_id": "aky3bHGEeY7Kx0gb",
+  "type": 2,
+  "drawn": false,
+  "_key": "!tables.results!CkH6ebWiUPmhjbw0.aky3bHGEeY7Kx0gb"
+}

@@ -1,0 +1,53 @@
+{
+  "img": "systems/cyphersystem/icons/items/artifact.svg",
+  "effects": [],
+  "folder": null,
+  "system": {
+    "archived": false,
+    "settings": {
+      "general": {
+        "nameUnidentified": ""
+      }
+    },
+    "rollButton": {
+      "stepModifier": "eased",
+      "damage": 0,
+      "damagePerLOE": 3,
+      "bonus": 0,
+      "pool": "Pool",
+      "teen": "",
+      "additionalSteps": 0,
+      "effort1": 0,
+      "effort3": 0,
+      "assets": 0,
+      "effort2": 0,
+      "skill": "Practiced",
+      "additionalCost": 0
+    },
+    "description": "<p><strong>Nivel:</strong> 1d6 + 4</p>\n<p><strong>Aspecto:</strong> Serie de tubos y mangueras cortas y redondeadas de unos 30 cm [12 pulgadas] de largo</p>\n<p><strong>Efecto:</strong> El dispositivo solidifica el aire en un cubo de 3 m [10 pies] de espacio, cuyo centro debe estar a corta distancia. El aire se convierte en una sustancia parecida al ámbar, y los atrapados en él probablemente se asfixiarán o morirán de hambre.</p>\n<p><strong>Agotamiento:</strong> 1-4 en 1d6</p>",
+    "basic": {
+      "depletion": "1–4 in [[/r 1d6]]",
+      "identified": true,
+      "level": "1d6+4"
+    },
+    "version": 2
+  },
+  "ownership": {
+    "default": 0,
+    "k2TkElLx959B0lm5": 3
+  },
+  "_stats": {
+    "modifiedTime": 1676818705059,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "yThCrv1jSfPXOC2U",
+    "createdTime": null,
+    "systemVersion": "2.3.0",
+    "coreVersion": "10.291"
+  },
+  "name": "Recuadro ámbar",
+  "flags": {},
+  "sort": 0,
+  "_id": "aV9zEHENEDgFu5r9",
+  "type": "artifact",
+  "_key": "!items!aV9zEHENEDgFu5r9"
+}

@@ -1,0 +1,32 @@
+{
+  "name": "Drone sonda",
+  "type": "equipment",
+  "img": "systems/cyphersystem/icons/items/equipment.svg",
+  "system": {
+    "version": 2,
+    "description": "<p>Versión más avanzada de un dron de investigación contemporáneo que puede desplegarse en otros planetas e incluso sistemas estelares para recopilar información ambiental y táctica, que se transmite de vuelta. Si se ve obligado a defenderse, este robot de nivel 6 tiene Armadura 3 y dos explosiones de energía de largo alcance cada ronda que infligen 8 puntos de daño cada una.</p>",
+    "archived": false,
+    "basic": {
+      "level": 6,
+      "quantity": 1
+    }
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "cyphersystem",
+    "systemVersion": "2.6.2",
+    "coreVersion": "11.301",
+    "createdTime": 1676538542601,
+    "modifiedTime": 1686394144591,
+    "lastModifiedBy": "ZyqFG5NpQtVrpwj7"
+  },
+  "_id": "Ek6jJKVjNoNgQFDs",
+  "folder": "7rmYjOb7uxsMhqw2",
+  "sort": 400000,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "_key": "!items!Ek6jJKVjNoNgQFDs"
+}

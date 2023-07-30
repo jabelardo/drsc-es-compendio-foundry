@@ -1,0 +1,19 @@
+{
+  "name": "Básico",
+  "sorting": "a",
+  "folder": null,
+  "type": "Item",
+  "_id": "9DJH3FNH007eXPB5",
+  "sort": -100000,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "systemId": "cyphersystem",
+    "systemVersion": "2.6.2",
+    "coreVersion": "11.301",
+    "createdTime": null,
+    "modifiedTime": 1686394288681,
+    "lastModifiedBy": "ZyqFG5NpQtVrpwj7"
+  },
+  "_key": "!folders!9DJH3FNH007eXPB5"
+}

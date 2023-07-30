@@ -1,0 +1,54 @@
+{
+  "img": "systems/cyphersystem/icons/items/ability.svg",
+  "effects": [],
+  "folder": null,
+  "system": {
+    "archived": false,
+    "settings": {
+      "general": {
+        "spellTier": "low",
+        "sorting": "Ability",
+        "unmaskedForm": "Mask"
+      },
+      "rollButton": {
+        "stepModifier": "eased",
+        "damage": 0,
+        "damagePerLOE": 3,
+        "bonus": 0,
+        "pool": "Pool",
+        "teen": "",
+        "additionalSteps": 0,
+        "effort1": 0,
+        "effort3": 0,
+        "assets": 0,
+        "effort2": 0,
+        "skill": "Practiced",
+        "additionalCost": 0
+      }
+    },
+    "description": "<p>ganas un seguidor de nivel 3. No tiene restricciones en sus ajustes. Puedes utilizar esta capacidad varias veces, ganando cada vez otro seguidor de nivel 3. Alternativamente, puedes elegir avanzar un seguidor de nivel 2 que ya tienes al nivel 3 y luego ganar un nuevo seguidor de nivel 2. Capacitador.<\/p>",
+    "basic": {
+      "cost": "0",
+      "pool": "Pool"
+    },
+    "version": 2
+  },
+  "ownership": {
+    "default": 0,
+    "k2TkElLx959B0lm5": 3
+  },
+  "_stats": {
+    "modifiedTime": 1664959717632,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "rLeavHPrdkq6xjNt",
+    "createdTime": null,
+    "systemVersion": "2.0.0-a1",
+    "coreVersion": "10.286"
+  },
+  "name": "Seguidor experto",
+  "flags": {"core": {"sourceId": "Compendium.cyphersystem-compendium.abilities.ETGBAqAc1ApFH5cx"}},
+  "_id": "ETGBAqAc1ApFH5cx",
+  "sort": 0,
+  "type": "ability",
+  "_key": "!items!ETGBAqAc1ApFH5cx"
+}

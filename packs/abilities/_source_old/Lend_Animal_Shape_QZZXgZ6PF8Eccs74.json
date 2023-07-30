@@ -1,0 +1,54 @@
+{
+  "img": "systems/cyphersystem/icons/items/ability.svg",
+  "effects": [],
+  "system": {
+    "archived": false,
+    "settings": {
+      "general": {
+        "spellTier": "low",
+        "sorting": "Ability",
+        "unmaskedForm": "Mask"
+      },
+      "rollButton": {
+        "stepModifier": "eased",
+        "damage": 0,
+        "damagePerLOE": 3,
+        "bonus": 0,
+        "pool": "Pool",
+        "teen": "",
+        "additionalSteps": 0,
+        "effort1": "0",
+        "effort3": "0",
+        "assets": "0",
+        "effort2": "0",
+        "skill": "Practiced",
+        "additionalCost": 0
+      }
+    },
+    "description": "<p>Te transformas en un animal, y una criatura dispuesta dentro del alcance inmediato también se transforma en un animal de ese tipo (oso, tigre, lobo, etc.) durante diez minutos, como si estuviera usando tu capacidad Forma animal. Por cada nivel de Esfuerzo aplicado, puedes afectar a una criatura adicional. Todas las criaturas que se transformen contigo deben ser de tu tamaño o más pequeñas. Una criatura puede volver a su forma normal como acción, pero no puede volver a transformarse en la Forma animal. Una criatura (ya seas tú u otra persona) que cambie de forma no afecta a ninguna otra criatura afectada con esta capacidad. Acción.<\/p><p>Una criatura que toma Forma animal con Prestar forma animal cuenta como un animal para el uso de Clarividencia animal.<\/p><p>Un personaje podría ser capaz de tomar la forma de una criatura que es similar a un animal común, como un unicornio en lugar de un caballo o un basilisco en lugar de un lagarto, pero hacerlo requeriría aplicar al menos un nivel de Esfuerzo al cambio, y el personaje no ganaría ninguna de las capacidades mágicas de la criatura.<\/p>",
+    "basic": {
+      "cost": "6+",
+      "pool": "Intellect"
+    },
+    "version": 2
+  },
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "_stats": {
+    "modifiedTime": 1676106309520,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "yThCrv1jSfPXOC2U",
+    "createdTime": 1676106216630,
+    "systemVersion": "2.3.0",
+    "coreVersion": "10.291"
+  },
+  "name": "Prestar forma animal",
+  "flags": {"core": {"sourceId": "Item.iYHmYrQuMKL2Z51O"}},
+  "sort": 0,
+  "_id": "QZZXgZ6PF8Eccs74",
+  "type": "ability",
+  "_key": "!items!QZZXgZ6PF8Eccs74"
+}

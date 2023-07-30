@@ -1,0 +1,19 @@
+{
+  "name": "Armadura Especial",
+  "sorting": "a",
+  "folder": null,
+  "type": "Item",
+  "_id": "nD9Ciu9kxqxREut6",
+  "sort": 175000,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "systemId": "cyphersystem",
+    "systemVersion": "2.6.2",
+    "coreVersion": "11.301",
+    "createdTime": null,
+    "modifiedTime": 1686393459220,
+    "lastModifiedBy": "ZyqFG5NpQtVrpwj7"
+  },
+  "_key": "!folders!nD9Ciu9kxqxREut6"
+}

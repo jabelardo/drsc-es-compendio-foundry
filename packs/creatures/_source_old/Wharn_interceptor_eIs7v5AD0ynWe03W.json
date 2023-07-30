@@ -1,0 +1,128 @@
+{
+  "img": "modules/drsc-es-compendio-foundry/img/tokens/aberration.webp",
+  "_stats": {
+    "modifiedTime": 1676797809350,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "yThCrv1jSfPXOC2U",
+    "createdTime": 1676462296258,
+    "systemVersion": "2.3.0",
+    "coreVersion": "10.291"
+  },
+  "flags": {"core": {"sourceId": "Actor.uyPSeXt8nThsnmd4"}},
+  "sort": 0,
+  "type": "npc",
+  "_key": "!actors!eIs7v5AD0ynWe03W",
+  "prototypeToken": {
+    "displayBars": 40,
+    "displayName": 20,
+    "actorLink": false,
+    "texture": {
+      "scaleX": 1,
+      "offsetX": 0,
+      "scaleY": 1,
+      "offsetY": 0,
+      "src": "icons/svg/mystery-man.svg",
+      "rotation": 0,
+      "tint": null
+    },
+    "lockRotation": false,
+    "rotation": 0,
+    "detectionModes": [],
+    "flags": {},
+    "randomImg": false,
+    "bar1": {"attribute": "pools.health"},
+    "bar2": {"attribute": "basic.level"},
+    "disposition": 0,
+    "light": {
+      "attenuation": 0.5,
+      "color": null,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "animation": {
+        "intensity": 5,
+        "type": null,
+        "reverse": false,
+        "speed": 5
+      },
+      "saturation": 0,
+      "alpha": 0.5,
+      "contrast": 0,
+      "angle": 360,
+      "luminosity": 0.5,
+      "shadows": 0,
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "alpha": 1,
+    "name": "Interceptor Wharn",
+    "width": 1,
+    "sight": {
+      "saturation": 0,
+      "attenuation": 0.1,
+      "brightness": 0,
+      "color": null,
+      "visionMode": "basic",
+      "contrast": 0,
+      "range": null,
+      "angle": 360,
+      "enabled": false
+    },
+    "height": 1
+  },
+  "effects": [],
+  "system": {
+    "settings": {
+      "general": {
+        "initiativeBonus": 0,
+        "hideArchive": false
+      },
+      "equipment": {
+        "ammo": {"active": false},
+        "armor": {"active": false},
+        "attacks": {"active": false},
+        "materials": {
+          "active": false,
+          "label": ""
+        },
+        "cyphers": {
+          "active": false,
+          "label": ""
+        },
+        "oddities": {
+          "active": false,
+          "label": ""
+        },
+        "artifacts": {
+          "active": false,
+          "label": ""
+        }
+      }
+    },
+    "notes": "<p>Los interceptores wharn son behemoths adaptados al vacío de varios cientos de metros de longitud. Se cree que son autómatas de combate vivientes creados por antiguos ultras, aunque no está claro contra qué enemigo desaparecido hace mucho tiempo. Ahora, un puñado (esperemos que no más) se deslizan por las profundidades del espacio como semillas latentes, pareciendo para toda la galaxia como un extraño asteroide o planetesimal. ¿Quién sabe cuántos milenios han pasado en este estado de aparente hibernación? Pero cuando esa hibernación termina, tal vez porque alguna antigua cuenta regresiva se acerca a su fin, o porque un minero de asteroides intentó extraer una muestra, abren ojos ardientes de energía mortal y flexionan garras de furia de rayos de partículas.<\/p>\n<p>Los interceptores wharn pueden estar relacionados de algún modo con los omworwars, hasta el punto de que los humanos a veces llaman a estos últimos \"cogitadores wharn\". Sin embargo, es imposible que los omworwars simplemente se \"apropien\" de los interceptores wharn que encuentren.<\/p>\n<p><strong>Motivación: <\/strong>Defenza<\/p>\n<p><strong>Entorno:<\/strong> Cualquier lugar flotando en el vacío<\/p>\n<p><strong>Salud:<\/strong> 53<\/p>\n<p><strong>Daño que inflige: <\/strong>15 puntos<\/p>\n<p><strong>Armadura: <\/strong>5<\/p>\n<p><strong>Movimiento: <\/strong>Vuela una distancia muy larga cada ronda; puede maniobrar como una nave espacial autónoma de nivel 5 si se usan las reglas de combate vehicular ampliado. Capaz de velocidad superlumínica.<\/p>\n<p><strong>Ajustes<\/strong>: Defensa por Velocidad de nivel 3 debido a su tamaño.<\/p>\n<p><strong>Combate: <\/strong>La mayor parte del tiempo, los wharns están inactivos y pueden parecer rocas tambaleantes. En este estado, los viajeros espaciales pueden despertar parcialmente a uno en un intento de negociar. Sin embargo, si un wharn resulta dañado, o si los sentidos pasivos profundos de su cuerpo lo despiertan por razones propias, se vuelve agresivo.<\/p>\n<p>Las principales armas de un wharn son sus garras, que pueden extenderse en un instante, convirtiéndose en rayos de materia exótica capaces de alcanzar un objetivo hasta a un segundo luz de distancia. A menos que el objetivo esté protegido por algún tipo de campo de fuerza, los 15 puntos de daño infligidos ignoran la Armadura. Los ojos de un wharn pueden atravesar la mayoría de las formas de camuflaje, efectos de ocultación y coberturas de menos de 200 m [650 pies] de grosor.<\/p>\n<p><strong>Interacción:<\/strong> A pesar de su aspecto feroz y sus orígenes de máquina de guerra, los interceptores wharn no destruyen todas las naves espaciales (y criaturas adaptadas al vacío) que encuentran, ni siquiera la mayoría. De hecho, a veces un wharn puede intentar iniciar la comunicación a través de varios canales de máquinas. Pero lo que consiguen son sonidos y tonos sin sentido, y a veces fórmulas matemáticas.<\/p>\n<p><strong>Uso:<\/strong> Los PJs, intentando entrar en una estación espacial o nave espacial abandonada, se distraen cuando un wharn intenta destruir el mismo objeto.<\/p>\n<p><strong>Intromisiones del DJ:<\/strong> El wharn se mueve inesperadamente, golpeando el vehículo en el que viajan los PJs, infligiendo 8 puntos de daño a todos los que van a bordo.<\/p>",
+    "pools": {"health": {
+      "max": 53,
+      "value": 53
+    }},
+    "description": "",
+    "combat": {
+      "damage": 15,
+      "armor": 5
+    },
+    "basic": {
+      "level": 8,
+      "biography": "<p>Los interceptores wharn son behemoths adaptados al vacío de varios cientos de metros de longitud. Se cree que son autómatas de combate vivientes creados por antiguos ultras, aunque no está claro contra qué enemigo desaparecido hace mucho tiempo. Ahora, un puñado (esperemos que no más) se deslizan por las profundidades del espacio como semillas latentes, pareciendo para toda la galaxia como un extraño asteroide o planetesimal. ¿Quién sabe cuántos milenios han pasado en este estado de aparente hibernación? Pero cuando esa hibernación termina, tal vez porque alguna antigua cuenta regresiva se acerca a su fin, o porque un minero de asteroides intentó extraer una muestra, abren ojos ardientes de energía mortal y flexionan garras de furia de rayos de partículas.<\/p>\n<p>Los interceptores wharn pueden estar relacionados de algún modo con los omworwars, hasta el punto de que los humanos a veces llaman a estos últimos \"cogitadores wharn\". Sin embargo, es imposible que los omworwars simplemente se \"apropien\" de los interceptores wharn que encuentren.<\/p>\n<p><strong>Motivación: <\/strong>Defenza<\/p>\n<p><strong>Entorno:<\/strong> Cualquier lugar flotando en el vacío<\/p>\n<p><strong>Salud:<\/strong> 53<\/p>\n<p><strong>Daño que inflige: <\/strong>15 puntos<\/p>\n<p><strong>Armadura: <\/strong>5<\/p>\n<p><strong>Movimiento: <\/strong>Vuela una distancia muy larga cada ronda; puede maniobrar como una nave espacial autónoma de nivel 5 si se usan las reglas de combate vehicular ampliado. Capaz de velocidad superlumínica.<\/p>\n<p><strong>Ajustes<\/strong>: Defensa por Velocidad de nivel 3 debido a su tamaño.<\/p>\n<p><strong>Combate: <\/strong>La mayor parte del tiempo, los wharns están inactivos y pueden parecer rocas tambaleantes. En este estado, los viajeros espaciales pueden despertar parcialmente a uno en un intento de negociar. Sin embargo, si un wharn resulta dañado, o si los sentidos pasivos profundos de su cuerpo lo despiertan por razones propias, se vuelve agresivo.<\/p>\n<p>Las principales armas de un wharn son sus garras, que pueden extenderse en un instante, convirtiéndose en rayos de materia exótica capaces de alcanzar un objetivo hasta a un segundo luz de distancia. A menos que el objetivo esté protegido por algún tipo de campo de fuerza, los 15 puntos de daño infligidos ignoran la Armadura. Los ojos de un wharn pueden atravesar la mayoría de las formas de camuflaje, efectos de ocultación y coberturas de menos de 200 m [650 pies] de grosor.<\/p>\n<p><strong>Interacción:<\/strong> A pesar de su aspecto feroz y sus orígenes de máquina de guerra, los interceptores wharn no destruyen todas las naves espaciales (y criaturas adaptadas al vacío) que encuentran, ni siquiera la mayoría. De hecho, a veces un wharn puede intentar iniciar la comunicación a través de varios canales de máquinas. Pero lo que consiguen son sonidos y tonos sin sentido, y a veces fórmulas matemáticas.<\/p>\n<p><strong>Uso:<\/strong> Los PJs, intentando entrar en una estación espacial o nave espacial abandonada, se distraen cuando un wharn intenta destruir el mismo objeto.<\/p>\n<p><strong>Intromisiones del DJ:<\/strong> El wharn se mueve inesperadamente, golpeando el vehículo en el que viajan los PJs, infligiendo 8 puntos de daño a todos los que van a bordo.<\/p>"
+    },
+    "version": 2
+  },
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "name": "Interceptor Wharn",
+  "_id": "eIs7v5AD0ynWe03W",
+  "items": []
+}

@@ -1,0 +1,57 @@
+{
+  "name": "Armas Medias",
+  "type": "skill",
+  "img": "systems/cyphersystem/icons/items/skill.svg",
+  "system": {
+    "version": 2,
+    "description": "",
+    "archived": false,
+    "settings": {
+      "rollButton": {
+        "pool": "Pool",
+        "skill": "Practiced",
+        "assets": "0",
+        "effort1": "0",
+        "effort2": "0",
+        "effort3": "0",
+        "stepModifier": "eased",
+        "additionalSteps": 0,
+        "additionalCost": 0,
+        "damage": 0,
+        "damagePerLOE": 3,
+        "teen": "",
+        "bonus": 0
+      },
+      "general": {
+        "sorting": "Skill",
+        "initiative": false,
+        "unmaskedForm": "Mask"
+      }
+    },
+    "basic": {
+      "rating": "Practiced"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "rLeavHPrdkq6xjNt": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Item.v3LOuHrqhpHGsl0L"
+    }
+  },
+  "_stats": {
+    "systemId": "cyphersystem",
+    "systemVersion": "2.0.0-b1",
+    "coreVersion": "10.288",
+    "createdTime": 1666616624718,
+    "modifiedTime": 1666616788519,
+    "lastModifiedBy": "rLeavHPrdkq6xjNt"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "wHxvX2zJOKo27GBe",
+  "_key": "!items!wHxvX2zJOKo27GBe"
+}

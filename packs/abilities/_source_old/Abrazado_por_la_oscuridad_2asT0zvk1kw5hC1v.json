@@ -1,0 +1,58 @@
+{
+  "img": "systems/cyphersystem/icons/items/ability.svg",
+  "effects": [],
+  "folder": null,
+  "system": {
+    "archived": false,
+    "settings": {
+      "general": {
+        "spellTier": "low",
+        "sorting": "Ability",
+        "unmaskedForm": "Mask"
+      },
+      "rollButton": {
+        "stepModifier": "eased",
+        "damage": 0,
+        "damagePerLOE": 3,
+        "bonus": 0,
+        "pool": "Pool",
+        "teen": "",
+        "additionalSteps": 0,
+        "effort1": 0,
+        "effort3": 0,
+        "assets": 0,
+        "effort2": 0,
+        "skill": "Practiced",
+        "additionalCost": 0
+      }
+    },
+    "description": "<p>Durante la siguiente hora, adoptas algunas características de una sombra gracias a una adaptación fundamental de tu carne o un dispositivo que has mantenido en secreto. Tu aspecto es una silueta oscura. Cuando aplicas un nivel de Esfuerzo a las tareas de ocultación, obtienes un nivel de Esfuerzo gratuito en la tarea. Durante este tiempo, puedes moverte por el aire a razón de una distancia corta por ronda, y puedes atravesar barreras sólidas (incluso las que están selladas para impedir el paso de la luz o la sombra), pero no barreras de energía, a razón de 30 cm [1 pie] por ronda. Puedes percibir mientras atraviesas una barrera u objeto, lo que te permite asomarte a través de las paredes. Como sombra, no puedes afectar ni ser afectado por la materia normal. Del mismo modo, no puedes atacar, tocar o afectar de otro modo a nada. Sin embargo, los ataques y efectos que se basan en la luz pueden afectarte, y los estallidos repentinos de luz pueden hacerte perder el siguiente turno. Acción para iniciar.</p>",
+    "basic": {
+      "cost": "6",
+      "pool": "Intellect"
+    },
+    "version": 2
+  },
+  "ownership": {
+    "default": 0,
+    "k2TkElLx959B0lm5": 3
+  },
+  "_stats": {
+    "modifiedTime": 1664959717067,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "rLeavHPrdkq6xjNt",
+    "createdTime": null,
+    "systemVersion": "2.0.0-a1",
+    "coreVersion": "10.286"
+  },
+  "name": "Abrazado por la oscuridad",
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.cyphersystem-compendium.abilities.2asT0zvk1kw5hC1v"
+    }
+  },
+  "_id": "2asT0zvk1kw5hC1v",
+  "sort": 0,
+  "type": "ability",
+  "_key": "!items!2asT0zvk1kw5hC1v"
+}

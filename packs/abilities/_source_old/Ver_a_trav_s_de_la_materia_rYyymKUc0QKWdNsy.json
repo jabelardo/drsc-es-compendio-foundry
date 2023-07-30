@@ -1,0 +1,58 @@
+{
+  "img": "systems/cyphersystem/icons/items/ability.svg",
+  "effects": [],
+  "folder": null,
+  "system": {
+    "archived": false,
+    "settings": {
+      "general": {
+        "spellTier": "low",
+        "sorting": "Ability",
+        "unmaskedForm": "Mask"
+      },
+      "rollButton": {
+        "stepModifier": "eased",
+        "damage": 0,
+        "damagePerLOE": 3,
+        "bonus": 0,
+        "pool": "Pool",
+        "teen": "",
+        "additionalSteps": 0,
+        "effort1": 0,
+        "effort3": 0,
+        "assets": 0,
+        "effort2": 0,
+        "skill": "Practiced",
+        "additionalCost": 0
+      }
+    },
+    "description": "<p>Puedes ver a través de la materia como si fuera transparente. Puedes ver a través de hasta 15 cm [6 pulgadas] de material durante una ronda. Hacerlo es una tarea cuya dificultad es igual al nivel del material u objeto. Además de las opciones normales para usar Esfuerzo, puedes elegir usar Esfuerzo para ver a través de otros 15 cm [6 pulgadas] de material por cada nivel adicional de Esfuerzo que apliques hacia ese objetivo. Acción.</p>",
+    "basic": {
+      "cost": "3+",
+      "pool": "Intellect"
+    },
+    "version": 2
+  },
+  "ownership": {
+    "default": 0,
+    "k2TkElLx959B0lm5": 3
+  },
+  "_stats": {
+    "modifiedTime": 1664959723876,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "rLeavHPrdkq6xjNt",
+    "createdTime": null,
+    "systemVersion": "2.0.0-a1",
+    "coreVersion": "10.286"
+  },
+  "name": "Ver a través de la materia",
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.cyphersystem-compendium.abilities.rYyymKUc0QKWdNsy"
+    }
+  },
+  "_id": "rYyymKUc0QKWdNsy",
+  "sort": 0,
+  "type": "ability",
+  "_key": "!items!rYyymKUc0QKWdNsy"
+}

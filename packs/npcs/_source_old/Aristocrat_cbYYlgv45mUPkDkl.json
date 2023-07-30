@@ -1,0 +1,128 @@
+{
+  "img": "modules/drsc-es-compendio-foundry/img/tokens/humanoid_mundane.webp",
+  "_stats": {
+    "modifiedTime": 1685376022358,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "yThCrv1jSfPXOC2U",
+    "createdTime": 1685375866035,
+    "systemVersion": "2.6.0",
+    "coreVersion": "10.291"
+  },
+  "flags": {"core": {"sourceId": "Actor.AHeh7Ko27iQ4lk4c"}},
+  "sort": 0,
+  "type": "npc",
+  "_key": "!actors!cbYYlgv45mUPkDkl",
+  "prototypeToken": {
+    "displayBars": 40,
+    "displayName": 20,
+    "actorLink": false,
+    "texture": {
+      "scaleX": 1,
+      "offsetX": 0,
+      "scaleY": 1,
+      "offsetY": 0,
+      "src": "icons/svg/mystery-man.svg",
+      "rotation": 0,
+      "tint": null
+    },
+    "lockRotation": true,
+    "rotation": 0,
+    "detectionModes": [],
+    "flags": {"barbrawl": {"resourceBars": {}}},
+    "randomImg": false,
+    "bar1": {"attribute": "pools.health"},
+    "bar2": {"attribute": "basic.level"},
+    "disposition": 0,
+    "light": {
+      "attenuation": 0.5,
+      "color": null,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "animation": {
+        "intensity": 5,
+        "type": null,
+        "reverse": false,
+        "speed": 5
+      },
+      "saturation": 0,
+      "alpha": 0.5,
+      "contrast": 0,
+      "angle": 360,
+      "luminosity": 0.5,
+      "shadows": 0,
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "alpha": 1,
+    "name": "Aristócrata",
+    "width": 1,
+    "sight": {
+      "saturation": 0,
+      "attenuation": 0.1,
+      "brightness": 0,
+      "color": null,
+      "visionMode": "basic",
+      "contrast": 0,
+      "range": null,
+      "angle": 360,
+      "enabled": false
+    },
+    "height": 1
+  },
+  "effects": [],
+  "system": {
+    "settings": {
+      "general": {
+        "initiativeBonus": 0,
+        "hideArchive": false
+      },
+      "equipment": {
+        "ammo": {"active": false},
+        "armor": {"active": false},
+        "attacks": {"active": false},
+        "materials": {
+          "active": false,
+          "label": ""
+        },
+        "cyphers": {
+          "active": false,
+          "label": ""
+        },
+        "oddities": {
+          "active": false,
+          "label": ""
+        },
+        "artifacts": {
+          "active": false,
+          "label": ""
+        }
+      }
+    },
+    "notes": "<p>Los aristócratas no son del todo miembros de la alta realeza -no son reyes ni reinas, ni siquiera príncipes ni princesas-, pero son aquellos que tienen dinero y poder suficientes para ejercerlos de forma peligrosa o gloriosa. Los caballeros y barones suelen ser aristócratas, al igual que personajes como Barba Azul y el Señor Zorro. Algunos aristócratas, como los caballeros, sólo quieren hacer el bien y proteger las cosas que les importan. Otros, por supuesto, prefieren utilizar el lado más oscuro de su posición privilegiada.<\/p>\n<p><strong>Motivación:<\/strong> Dinero, poder, matrimonio, tomar a quien o lo que quieren, proteger lo que les importa<\/p>\n<p><strong>Entorno:<\/strong> Normalmente en ciudades y pueblos, ocasionalmente solos en grandes castillos y mansiones.<\/p>\n<p><strong>Salud:<\/strong> 12<\/p>\n<p><strong>Daño que inflige:<\/strong> 5 puntos<\/p>\n<p><strong>Armadura:<\/strong> 2<\/p>\n<p><strong>Movimiento:<\/strong> Corto<\/p>\n<p><strong>Ajustes:<\/strong> Nivel 6 para ingeniería social, persuasión, intimidación y mentiras<\/p>\n<p><strong>Combate:<\/strong> Muchos aristócratas han recibido entrenamiento en maniobras de combate, como corresponde a su posición. Otros pueden blandir cuchillos, escalpelos o herramientas de carnicero con precisión.<\/p>\n<p><strong>Interacción:<\/strong> La interacción con un aristócrata suele comenzar de forma positiva; después de todo, es encantador estar bajo la mirada de alguien tan encantador y poderoso. Para algunos, la interacción sigue siendo positiva. Un caballero es sólo un caballero. Para otros, una sensación de desazón comienza a instalarse después de un tiempo, como si hubiera algo que no está del todo bien detrás de la fachada.<\/p>\n<p><strong>Uso:<\/strong> Un aristócrata está a punto de casarse y alguien está preocupado por la seguridad de su futuro cónyuge. Un caballero se ve superado por un dragón u otro fuerte oponente y busca a alguien que acuda en su ayuda.<\/p>\n<p><strong>Botín:<\/strong> La mayoría de los aristócratas tienen dinero equivalente a un objeto muy caro, además de ropas finas o armaduras medias, armas y objetos varios.<\/p>\n<p><strong>Intromisiones del DJ:<\/strong> La casa del aristócrata tiene una puerta o cerradura sintiente que de repente empieza a gritar sobre intrusos.<\/p>",
+    "pools": {"health": {
+      "max": 12,
+      "value": 12
+    }},
+    "description": "",
+    "combat": {
+      "damage": 5,
+      "armor": 2
+    },
+    "basic": {
+      "level": 4,
+      "biography": "<p>Los aristócratas no son del todo miembros de la alta realeza -no son reyes ni reinas, ni siquiera príncipes ni princesas-, pero son aquellos que tienen dinero y poder suficientes para ejercerlos de forma peligrosa o gloriosa. Los caballeros y barones suelen ser aristócratas, al igual que personajes como Barba Azul y el Señor Zorro. Algunos aristócratas, como los caballeros, sólo quieren hacer el bien y proteger las cosas que les importan. Otros, por supuesto, prefieren utilizar el lado más oscuro de su posición privilegiada.<\/p>\n<p><strong>Motivación:<\/strong> Dinero, poder, matrimonio, tomar a quien o lo que quieren, proteger lo que les importa<\/p>\n<p><strong>Entorno:<\/strong> Normalmente en ciudades y pueblos, ocasionalmente solos en grandes castillos y mansiones.<\/p>\n<p><strong>Salud:<\/strong> 12<\/p>\n<p><strong>Daño que inflige:<\/strong> 5 puntos<\/p>\n<p><strong>Armadura:<\/strong> 2<\/p>\n<p><strong>Movimiento:<\/strong> Corto<\/p>\n<p><strong>Ajustes:<\/strong> Nivel 6 para ingeniería social, persuasión, intimidación y mentiras<\/p>\n<p><strong>Combate:<\/strong> Muchos aristócratas han recibido entrenamiento en maniobras de combate, como corresponde a su posición. Otros pueden blandir cuchillos, escalpelos o herramientas de carnicero con precisión.<\/p>\n<p><strong>Interacción:<\/strong> La interacción con un aristócrata suele comenzar de forma positiva; después de todo, es encantador estar bajo la mirada de alguien tan encantador y poderoso. Para algunos, la interacción sigue siendo positiva. Un caballero es sólo un caballero. Para otros, una sensación de desazón comienza a instalarse después de un tiempo, como si hubiera algo que no está del todo bien detrás de la fachada.<\/p>\n<p><strong>Uso:<\/strong> Un aristócrata está a punto de casarse y alguien está preocupado por la seguridad de su futuro cónyuge. Un caballero se ve superado por un dragón u otro fuerte oponente y busca a alguien que acuda en su ayuda.<\/p>\n<p><strong>Botín:<\/strong> La mayoría de los aristócratas tienen dinero equivalente a un objeto muy caro, además de ropas finas o armaduras medias, armas y objetos varios.<\/p>\n<p><strong>Intromisiones del DJ:<\/strong> La casa del aristócrata tiene una puerta o cerradura sintiente que de repente empieza a gritar sobre intrusos.<\/p>"
+    },
+    "version": 3
+  },
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "name": "Aristócrata",
+  "_id": "cbYYlgv45mUPkDkl",
+  "items": []
+}

@@ -1,0 +1,16 @@
+{
+  "img": "systems/cyphersystem/icons/items/cypher.svg",
+  "documentCollection": "cyphersystem-compendium.cyphers-fairy-tale",
+  "flags": {},
+  "weight": 1,
+  "range": [
+    93,
+    93
+  ],
+  "documentId": "U0BNabahPa5Xatee",
+  "text": "Jarrón de lágrimas",
+  "_id": "qvJWlUsYkTmTGJLz",
+  "type": 2,
+  "drawn": false,
+  "_key": "!tables.results!CkH6ebWiUPmhjbw0.qvJWlUsYkTmTGJLz"
+}

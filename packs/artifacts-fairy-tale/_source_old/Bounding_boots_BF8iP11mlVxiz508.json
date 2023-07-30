@@ -1,0 +1,34 @@
+{
+  "img": "systems/cyphersystem/icons/items/artifact.svg",
+  "effects": [],
+  "system": {
+    "archived": false,
+    "settings": {"general": {"nameUnidentified": ""}},
+    "description": "<p><strong>Nivel:<\/strong> 1d6 + 1<\/p>\n<p><strong>Aspecto<\/strong>: Botas de cuero y oro bellamente confeccionadas que se ajustan a la perfección al portador<\/p>\n<p><strong>Efecto:<\/strong> Las botas son un recurso para saltar y correr (facilitan una de estas habilidades en dos grados si el artefacto es de nivel 6 o superior).<\/p>\n<p><strong>Agotamiento:<\/strong> -<\/p>",
+    "basic": {
+      "depletion": "\u2014",
+      "identified": true,
+      "level": "1d6+1"
+    },
+    "version": 2
+  },
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "_stats": {
+    "modifiedTime": 1685302332333,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "yThCrv1jSfPXOC2U",
+    "createdTime": 1685298488593,
+    "systemVersion": "2.6.0",
+    "coreVersion": "10.291"
+  },
+  "name": "Botas de saltar",
+  "flags": {},
+  "_id": "BF8iP11mlVxiz508",
+  "sort": 0,
+  "type": "artifact",
+  "_key": "!items!BF8iP11mlVxiz508"
+}

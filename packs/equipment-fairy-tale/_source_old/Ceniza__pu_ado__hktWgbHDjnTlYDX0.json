@@ -1,0 +1,32 @@
+{
+  "name": "Ceniza (puñado)",
+  "type": "equipment",
+  "img": "systems/cyphersystem/icons/items/equipment.svg",
+  "system": {
+    "version": 2,
+    "description": "",
+    "archived": false,
+    "basic": {
+      "level": null,
+      "quantity": 1
+    }
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "cyphersystem",
+    "systemVersion": "2.6.0",
+    "coreVersion": "10.291",
+    "createdTime": 1685265937230,
+    "modifiedTime": 1685266883596,
+    "lastModifiedBy": "yThCrv1jSfPXOC2U"
+  },
+  "_id": "hktWgbHDjnTlYDX0",
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "_key": "!items!hktWgbHDjnTlYDX0"
+}

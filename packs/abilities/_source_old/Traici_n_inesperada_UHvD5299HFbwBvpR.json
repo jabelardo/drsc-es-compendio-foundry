@@ -1,0 +1,58 @@
+{
+  "img": "systems/cyphersystem/icons/items/ability.svg",
+  "effects": [],
+  "folder": null,
+  "system": {
+    "archived": false,
+    "settings": {
+      "general": {
+        "spellTier": "low",
+        "sorting": "Ability",
+        "unmaskedForm": "Mask"
+      },
+      "rollButton": {
+        "stepModifier": "eased",
+        "damage": 0,
+        "damagePerLOE": 3,
+        "bonus": 0,
+        "pool": "Pool",
+        "teen": "",
+        "additionalSteps": 0,
+        "effort1": 0,
+        "effort3": 0,
+        "assets": 0,
+        "effort2": 0,
+        "skill": "Practiced",
+        "additionalCost": 0
+      }
+    },
+    "description": "<p>Una o dos rondas después de haber usado con éxito <em>Fascinar</em>, <em>Convencer</em> o una capacidad similar sobre un objetivo a corto alcance, el primer ataque que realices a objetivo se ve aliviado en dos grados. Una vez que usas <em>Traición Inesperada</em> sobre un objetivo, uasr tus capacidades o intentar una persuasión simple sobre ese objetivo se ve obstaculizado permanentemente en dos grados. Capacitador.</p>",
+    "basic": {
+      "cost": "0",
+      "pool": "Pool"
+    },
+    "version": 2
+  },
+  "ownership": {
+    "default": 0,
+    "k2TkElLx959B0lm5": 3
+  },
+  "_stats": {
+    "modifiedTime": 1664959725829,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "rLeavHPrdkq6xjNt",
+    "createdTime": null,
+    "systemVersion": "2.0.0-a1",
+    "coreVersion": "10.286"
+  },
+  "name": "Traición inesperada",
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.cyphersystem-compendium.abilities.UHvD5299HFbwBvpR"
+    }
+  },
+  "_id": "UHvD5299HFbwBvpR",
+  "sort": 0,
+  "type": "ability",
+  "_key": "!items!UHvD5299HFbwBvpR"
+}

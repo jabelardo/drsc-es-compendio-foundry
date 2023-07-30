@@ -1,0 +1,16 @@
+{
+  "img": "icons/svg/d20-black.svg",
+  "documentCollection": "",
+  "flags": {},
+  "weight": 4,
+  "range": [
+    63,
+    66
+  ],
+  "documentId": null,
+  "_id": "oBO7XWLnvbJMibTl",
+  "text": "Pergamino de papiro",
+  "type": 0,
+  "drawn": false,
+  "_key": "!tables.results!4VuLxh1RZ2Hdm6p7.oBO7XWLnvbJMibTl"
+}

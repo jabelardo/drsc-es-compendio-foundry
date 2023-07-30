@@ -1,0 +1,128 @@
+{
+  "img": "modules/drsc-es-compendio-foundry/img/tokens/elemental_energy.webp",
+  "_stats": {
+    "modifiedTime": 1676797809140,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "yThCrv1jSfPXOC2U",
+    "createdTime": 1676451358729,
+    "systemVersion": "2.3.0",
+    "coreVersion": "10.291"
+  },
+  "flags": {"core": {"sourceId": "Actor.pRN9Ar3Gzxiiima0"}},
+  "sort": 0,
+  "type": "npc",
+  "_key": "!actors!yg7U9vXFPbj1Fm8e",
+  "prototypeToken": {
+    "displayBars": 40,
+    "displayName": 20,
+    "actorLink": false,
+    "texture": {
+      "scaleX": 1,
+      "offsetX": 0,
+      "scaleY": 1,
+      "offsetY": 0,
+      "src": "icons/svg/mystery-man.svg",
+      "rotation": 0,
+      "tint": null
+    },
+    "lockRotation": false,
+    "rotation": 0,
+    "detectionModes": [],
+    "flags": {},
+    "randomImg": false,
+    "bar1": {"attribute": "pools.health"},
+    "bar2": {"attribute": "basic.level"},
+    "disposition": 0,
+    "light": {
+      "attenuation": 0.5,
+      "color": null,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "animation": {
+        "intensity": 5,
+        "type": null,
+        "reverse": false,
+        "speed": 5
+      },
+      "saturation": 0,
+      "alpha": 0.5,
+      "contrast": 0,
+      "angle": 360,
+      "luminosity": 0.5,
+      "shadows": 0,
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "alpha": 1,
+    "name": "Bruma hambrienta",
+    "width": 1,
+    "sight": {
+      "saturation": 0,
+      "attenuation": 0.1,
+      "brightness": 0,
+      "color": null,
+      "visionMode": "basic",
+      "contrast": 0,
+      "range": null,
+      "angle": 360,
+      "enabled": false
+    },
+    "height": 1
+  },
+  "effects": [],
+  "system": {
+    "settings": {
+      "general": {
+        "initiativeBonus": 0,
+        "hideArchive": false
+      },
+      "equipment": {
+        "ammo": {"active": false},
+        "armor": {"active": false},
+        "attacks": {"active": false},
+        "materials": {
+          "active": false,
+          "label": ""
+        },
+        "cyphers": {
+          "active": false,
+          "label": ""
+        },
+        "oddities": {
+          "active": false,
+          "label": ""
+        },
+        "artifacts": {
+          "active": false,
+          "label": ""
+        }
+      }
+    },
+    "notes": "<p>Las brumas hambrientas se encuentran en regiones donde las leyes fundamentales de la física se han erosionado o son débiles. Su nombre se debe a que aparecen como distorsiones de la vista, como zonas de neblina térmica, que brillan en el aire. Estas brumas incoloras avanzan rápidamente cuando detectan una presa, adquiriendo una tonalidad naranja-rojiza \"hambrienta\" al adherirse a los cuerpos de aquello de lo que intentan alimentarse a continuación.<\/p>\n<p>Las víctimas alimentadas por una bruma hambrienta a veces alucinan y ven a un monstruo manifestado físicamente en lugar de un vapor informe.<\/p>\n<p><strong>Motivación: <\/strong>Alimentación (carne)<\/p>\n<p><strong>Entorno: <\/strong>Solo o en grupos de tres a cinco, normalmente en zonas de tensión espacio-temporal. Inmune a los efectos del vacío.<\/p>\n<p><strong>Salud:<\/strong> 12<\/p>\n<p><strong>Daño que inflige:<\/strong> 5 puntos<\/p>\n<p><strong>Movimiento:<\/strong> Vuela una distancia inmediata cada ronda<\/p>\n<p><strong>Ajustes:<\/strong> Nivel 5 para tareas de sigilo<\/p>\n<p><strong>Combate:<\/strong> Una bruma hambrienta desmenuza la carne de todas las criaturas vivas dentro del alcance inmediato, infligiendo 5 puntos de daño. Como bruma insustancial, sólo los ataques que afectan a un área tienen una oportunidad de infligirles todo el daño; otros ataques con éxito sólo infligen 1 punto de daño, independientemente de la cantidad indicada. Si una bruma hambrienta se alimenta con éxito, gana 1 punto de Salud, aunque el aumento la sitúe por encima de su Vida máxima. Si una bruma hambrienta queda reducida a cero de salud, queda un huevo liso del tamaño de un pulgar de material desconocido.<\/p>\n<p><strong>Interacción:<\/strong> Una niebla hambrienta no habla ni parece tener lenguaje. Pero no está descerebrada; puede aprender de sus experiencias y encontrar soluciones creativas a los problemas.<\/p>\n<p><strong>Uso:<\/strong> Después de que una estación de investigación en Mercurio sea abandonada por problemas no especificados, los recuperadores aparecen en busca de presas fáciles. Pero una extraña neblina parece cernirse sobre la estación.<\/p>\n<p><strong>Botín:<\/strong> Las personas (o IA) interesadas en manifestaciones extrañas probablemente pagarían por los restos de una bruma hambrienta una cantidad igual a la categoría de precio caro.<\/p>\n<p><strong>Intromisiones del DJ:<\/strong> El índice de Armadura del personaje se reduce en 1; al parecer, la bruma hambrienta puede comer algo más que carne.<\/p>",
+    "pools": {"health": {
+      "max": 12,
+      "value": 12
+    }},
+    "description": "",
+    "combat": {
+      "damage": 5,
+      "armor": 0
+    },
+    "basic": {
+      "level": 4,
+      "biography": "<p>Las brumas hambrientas se encuentran en regiones donde las leyes fundamentales de la física se han erosionado o son débiles. Su nombre se debe a que aparecen como distorsiones de la vista, como zonas de neblina térmica, que brillan en el aire. Estas brumas incoloras avanzan rápidamente cuando detectan una presa, adquiriendo una tonalidad naranja-rojiza \"hambrienta\" al adherirse a los cuerpos de aquello de lo que intentan alimentarse a continuación.<\/p>\n<p>Las víctimas alimentadas por una bruma hambrienta a veces alucinan y ven a un monstruo manifestado físicamente en lugar de un vapor informe.<\/p>\n<p><strong>Motivación: <\/strong>Alimentación (carne)<\/p>\n<p><strong>Entorno: <\/strong>Solo o en grupos de tres a cinco, normalmente en zonas de tensión espacio-temporal. Inmune a los efectos del vacío.<\/p>\n<p><strong>Salud:<\/strong> 12<\/p>\n<p><strong>Daño que inflige:<\/strong> 5 puntos<\/p>\n<p><strong>Movimiento:<\/strong> Vuela una distancia inmediata cada ronda<\/p>\n<p><strong>Ajustes:<\/strong> Nivel 5 para tareas de sigilo<\/p>\n<p><strong>Combate:<\/strong> Una bruma hambrienta desmenuza la carne de todas las criaturas vivas dentro del alcance inmediato, infligiendo 5 puntos de daño. Como bruma insustancial, sólo los ataques que afectan a un área tienen una oportunidad de infligirles todo el daño; otros ataques con éxito sólo infligen 1 punto de daño, independientemente de la cantidad indicada. Si una bruma hambrienta se alimenta con éxito, gana 1 punto de Salud, aunque el aumento la sitúe por encima de su Vida máxima. Si una bruma hambrienta queda reducida a cero de salud, queda un huevo liso del tamaño de un pulgar de material desconocido.<\/p>\n<p><strong>Interacción:<\/strong> Una niebla hambrienta no habla ni parece tener lenguaje. Pero no está descerebrada; puede aprender de sus experiencias y encontrar soluciones creativas a los problemas.<\/p>\n<p><strong>Uso:<\/strong> Después de que una estación de investigación en Mercurio sea abandonada por problemas no especificados, los recuperadores aparecen en busca de presas fáciles. Pero una extraña neblina parece cernirse sobre la estación.<\/p>\n<p><strong>Botín:<\/strong> Las personas (o IA) interesadas en manifestaciones extrañas probablemente pagarían por los restos de una bruma hambrienta una cantidad igual a la categoría de precio caro.<\/p>\n<p><strong>Intromisiones del DJ:<\/strong> El índice de Armadura del personaje se reduce en 1; al parecer, la bruma hambrienta puede comer algo más que carne.<\/p>"
+    },
+    "version": 2
+  },
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "name": "Bruma hambrienta",
+  "_id": "yg7U9vXFPbj1Fm8e",
+  "items": []
+}

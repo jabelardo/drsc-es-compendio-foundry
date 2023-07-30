@@ -1,0 +1,54 @@
+{
+  "img": "systems/cyphersystem/icons/items/ability.svg",
+  "effects": [],
+  "folder": null,
+  "system": {
+    "archived": false,
+    "settings": {
+      "general": {
+        "spellTier": "low",
+        "sorting": "Ability",
+        "unmaskedForm": "Mask"
+      },
+      "rollButton": {
+        "stepModifier": "eased",
+        "damage": 0,
+        "damagePerLOE": 3,
+        "bonus": 0,
+        "pool": "Pool",
+        "teen": "",
+        "additionalSteps": 0,
+        "effort1": 0,
+        "effort3": 0,
+        "assets": 0,
+        "effort2": 0,
+        "skill": "Practiced",
+        "additionalCost": 0
+      }
+    },
+    "description": "<p>Desvías temporalmente la ley fundamental de la gravedad en torno a una criatura u objeto (hasta el doble de tu masa) a corta distancia. El objetivo queda atrapado en tu agarre telequinético, y puedes moverlo hasta una corta distancia en cualquier dirección cada ronda que mantengas tu agarre. Una criatura en tu agarre puede realizar acciones, pero no puede moverse por sus propios medios. Cada ronda después del ataque inicial, puedes intentar mantener tu agarre sobre el objetivo gastando 2 puntos de Intelecto adicionales y teniendo éxito en una tarea de Intelecto de dificultad 2. Si pierdes la concentración, el objetivo vuelve a caer al suelo. Además de las opciones normales para usar Esfuerzo, puedes elegir usar Esfuerzo para aumentar la cantidad de masa que puedes afectar. Cada nivel te permite afectar a una criatura u objeto con el doble de masa que antes. Por ejemplo, aplicar un nivel de Esfuerzo afectaría a una criatura cuatro veces más masiva que tú, dos niveles afectarían a una criatura ocho veces más masiva, tres niveles afectarían a una criatura dieciséis veces más masiva, y así sucesivamente. Acción para iniciar.<\/p>",
+    "basic": {
+      "cost": "4+",
+      "pool": "Intellect"
+    },
+    "version": 2
+  },
+  "ownership": {
+    "default": 0,
+    "k2TkElLx959B0lm5": 3
+  },
+  "_stats": {
+    "modifiedTime": 1664959718577,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "rLeavHPrdkq6xjNt",
+    "createdTime": null,
+    "systemVersion": "2.0.0-a1",
+    "coreVersion": "10.286"
+  },
+  "name": "Fuerza a distancia",
+  "flags": {"core": {"sourceId": "Compendium.cyphersystem-compendium.abilities.dDhnZrzAxDvK7QYa"}},
+  "_id": "dDhnZrzAxDvK7QYa",
+  "sort": 0,
+  "type": "ability",
+  "_key": "!items!dDhnZrzAxDvK7QYa"
+}

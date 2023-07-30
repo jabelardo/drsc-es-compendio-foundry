@@ -1,0 +1,58 @@
+{
+  "img": "systems/cyphersystem/icons/items/ability.svg",
+  "effects": [],
+  "folder": null,
+  "system": {
+    "archived": false,
+    "settings": {
+      "general": {
+        "spellTier": "low",
+        "sorting": "Ability",
+        "unmaskedForm": "Mask"
+      },
+      "rollButton": {
+        "stepModifier": "eased",
+        "damage": 0,
+        "damagePerLOE": 3,
+        "bonus": 0,
+        "pool": "Pool",
+        "teen": "",
+        "additionalSteps": 0,
+        "effort1": 0,
+        "effort3": 0,
+        "assets": 0,
+        "effort2": 0,
+        "skill": "Practiced",
+        "additionalCost": 0
+      }
+    },
+    "description": "<p>Durante un máximo de una hora al día, tú y al menos otros tres aliados pueden actuar como una sola criatura. Utiliza tus atributos, pero añade +8 a tu Reserva de Vigor, +1 a tu Ventaja de Vigor, +2 a tu Reserva de Velocidad, +1 a tu Ventaja de Velocidad y +1 a tu Armadura. Capacitador.</p>",
+    "basic": {
+      "cost": "7",
+      "pool": "Might"
+    },
+    "version": 2
+  },
+  "ownership": {
+    "default": 0,
+    "k2TkElLx959B0lm5": 3
+  },
+  "_stats": {
+    "modifiedTime": 1664959719577,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "rLeavHPrdkq6xjNt",
+    "createdTime": null,
+    "systemVersion": "2.0.0-a1",
+    "coreVersion": "10.286"
+  },
+  "name": "Tácticas de horda",
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.cyphersystem-compendium.abilities.lrz5wU8PLzd7gATA"
+    }
+  },
+  "_id": "lrz5wU8PLzd7gATA",
+  "sort": 0,
+  "type": "ability",
+  "_key": "!items!lrz5wU8PLzd7gATA"
+}

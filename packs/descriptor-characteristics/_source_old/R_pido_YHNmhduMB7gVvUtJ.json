@@ -1,0 +1,58 @@
+{
+  "name": "Rápido",
+  "type": "ability",
+  "img": "systems/cyphersystem/icons/items/ability.svg",
+  "system": {
+    "version": 2,
+    "description": "<p>Puedes moverte una distancia corta y seguir haciendo otra acción en la misma ronda, o puedes moverte una larga distancia como tu acción sin necesidad de hacer ningún tipo de tirada.</p>",
+    "archived": false,
+    "settings": {
+      "rollButton": {
+        "pool": "Pool",
+        "skill": "Practiced",
+        "assets": "0",
+        "effort1": "0",
+        "effort2": "0",
+        "effort3": "0",
+        "stepModifier": "eased",
+        "additionalSteps": 0,
+        "additionalCost": 0,
+        "damage": 0,
+        "damagePerLOE": 3,
+        "teen": "",
+        "bonus": 0
+      },
+      "general": {
+        "sorting": "Ability",
+        "spellTier": "low",
+        "unmaskedForm": "Mask"
+      }
+    },
+    "basic": {
+      "cost": "0",
+      "pool": "Pool"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "rLeavHPrdkq6xjNt": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Item.gE82YrtbjNO8XDK0"
+    }
+  },
+  "_stats": {
+    "systemId": "cyphersystem",
+    "systemVersion": "2.0.0-b3",
+    "coreVersion": "10.288",
+    "createdTime": 1666959984156,
+    "modifiedTime": 1666959992449,
+    "lastModifiedBy": "rLeavHPrdkq6xjNt"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "YHNmhduMB7gVvUtJ",
+  "_key": "!items!YHNmhduMB7gVvUtJ"
+}

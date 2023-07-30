@@ -1,0 +1,16 @@
+{
+  "img": "icons/svg/d20-black.svg",
+  "documentCollection": "",
+  "flags": {},
+  "weight": 1,
+  "range": [
+    19,
+    19
+  ],
+  "documentId": null,
+  "_id": "01sDs3H2dkxGFLSk",
+  "text": "Salvaste la vida de una familia cuando su casa se incendió. Están en deuda contigo y sus vecinos te consideran un héroe.",
+  "type": 0,
+  "drawn": false,
+  "_key": "!tables.results!sEDd1gQiT9UHF023.01sDs3H2dkxGFLSk"
+}

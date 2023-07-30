@@ -1,0 +1,128 @@
+{
+  "img": "modules/drsc-es-compendio-foundry/img/tokens/plant.webp",
+  "_stats": {
+    "modifiedTime": 1676797809336,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "yThCrv1jSfPXOC2U",
+    "createdTime": 1676462203019,
+    "systemVersion": "2.3.0",
+    "coreVersion": "10.291"
+  },
+  "flags": {"core": {"sourceId": "Actor.jeGvKwD0ZX5gEIFQ"}},
+  "sort": 0,
+  "type": "npc",
+  "_key": "!actors!lGjhEVxo5ZLcAfXn",
+  "prototypeToken": {
+    "displayBars": 40,
+    "displayName": 20,
+    "actorLink": false,
+    "texture": {
+      "scaleX": 1,
+      "offsetX": 0,
+      "scaleY": 1,
+      "offsetY": 0,
+      "src": "icons/svg/mystery-man.svg",
+      "rotation": 0,
+      "tint": null
+    },
+    "lockRotation": false,
+    "rotation": 0,
+    "detectionModes": [],
+    "flags": {},
+    "randomImg": false,
+    "bar1": {"attribute": "pools.health"},
+    "bar2": {"attribute": "basic.level"},
+    "disposition": 0,
+    "light": {
+      "attenuation": 0.5,
+      "color": null,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "animation": {
+        "intensity": 5,
+        "type": null,
+        "reverse": false,
+        "speed": 5
+      },
+      "saturation": 0,
+      "alpha": 0.5,
+      "contrast": 0,
+      "angle": 360,
+      "luminosity": 0.5,
+      "shadows": 0,
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "alpha": 1,
+    "name": "Hongo del vacío",
+    "width": 1,
+    "sight": {
+      "saturation": 0,
+      "attenuation": 0.1,
+      "brightness": 0,
+      "color": null,
+      "visionMode": "basic",
+      "contrast": 0,
+      "range": null,
+      "angle": 360,
+      "enabled": false
+    },
+    "height": 1
+  },
+  "effects": [],
+  "system": {
+    "settings": {
+      "general": {
+        "initiativeBonus": 0,
+        "hideArchive": false
+      },
+      "equipment": {
+        "ammo": {"active": false},
+        "armor": {"active": false},
+        "attacks": {"active": false},
+        "materials": {
+          "active": false,
+          "label": ""
+        },
+        "cyphers": {
+          "active": false,
+          "label": ""
+        },
+        "oddities": {
+          "active": false,
+          "label": ""
+        },
+        "artifacts": {
+          "active": false,
+          "label": ""
+        }
+      }
+    },
+    "notes": "<p>El hongo del vacío se encuentra a veces en forma de exudado verdoso en el exterior de naves espaciales o estaciones espaciales, crece en finas líneas a través del hielo de lunas heladas e infesta el centro de pequeños asteroides y objetos cercanos a la Tierra (OCTs). Aunque es capaz de sobrevivir en el vacío, el hongo adopta una nueva morfología cuando una cantidad suficiente de esporas se abre camino en espacios habitables de gravedad cero. Entonces se fusionan y crecen formando un cuerpo maduro bulboso, de color esmeralda, que suele alcanzar un diámetro aproximado de 1 m [3 pies], aunque los individuos pueden crecer mucho más si no son descubiertos. Pegajosos y suaves al tacto, son capaces de crecer sin ser detectados en los rincones oscuros de las bodegas de carga, en los conductos, colgando del techo de los camarotes de la tripulación no utilizados, etc.<\/p>\n<p>Los hongos del vacío pueden ser la prueba de que existe vida extraterrestre, pero ese triunfo del descubrimiento científico puede parecer menos importante para quienes encuentran un terrón, porque son increíblemente tóxicos para los seres vivos.<\/p>\n<p><strong>Motivación: <\/strong>Reproducción<\/p>\n<p><strong>Entorno:<\/strong> En cualquier lugar en G cero, como un exudado no reactivo en el vacío, o como un cuerpo maduro en la atmósfera, solo o en un grupo de tres a cinco<\/p>\n<p><strong>Salud:<\/strong> 22<\/p>\n<p><strong>Daño que inflige: <\/strong>6 puntos<\/p>\n<p><strong>Movimiento: <\/strong>Escala (se adhiere) una distancia inmediata cada ronda<\/p>\n<p><strong>Combate: <\/strong>Un cuerpo maduro puede detonar selectivamente vainas de esporas a lo largo de su superficie una vez por ronda. Cuando una vaina detona, un fluido verde se esparce por todas partes dentro de su alcance inmediato. Las criaturas vivas que fallan una tirada de Defensa por Velocidad reciben 6 puntos de daño del fluido pegajoso. Un objetivo afectado también debe tener éxito en una tirada de Defensa por Vigor. Si falla, una sección de carne afectada se inflama rápidamente, convirtiéndose en un bulto verde bilioso, y explota una ronda después, teniendo el mismo efecto que una vaina detonante.<\/p>\n<p><strong>Interacción:<\/strong> No es posible ninguna interacción real con el hongo del vacío.<\/p>\n<p><strong>Uso:<\/strong> Los científicos están muy emocionados al descubrir que el extraño exudado que han visto manchando el exterior de sus cúpulas de investigación es en realidad una variedad de vida fúngica. Probablemente se emocionen menos cuando descubran los grandes crecimientos que crecen secretamente en la cavidad bajo el suelo de su cúpula de investigación en un armario de almacenamiento poco utilizado.<\/p>\n<p><strong>Intromisiones del DJ:<\/strong> Golpear la aglomeración de hongos del vacío hace que una de las vainas de esporas detone inmediatamente, aunque esté fuera de turno.<\/p>",
+    "pools": {"health": {
+      "max": 22,
+      "value": 22
+    }},
+    "description": "",
+    "combat": {
+      "damage": 6,
+      "armor": 0
+    },
+    "basic": {
+      "level": 5,
+      "biography": "<p>El hongo del vacío se encuentra a veces en forma de exudado verdoso en el exterior de naves espaciales o estaciones espaciales, crece en finas líneas a través del hielo de lunas heladas e infesta el centro de pequeños asteroides y objetos cercanos a la Tierra (OCTs). Aunque es capaz de sobrevivir en el vacío, el hongo adopta una nueva morfología cuando una cantidad suficiente de esporas se abre camino en espacios habitables de gravedad cero. Entonces se fusionan y crecen formando un cuerpo maduro bulboso, de color esmeralda, que suele alcanzar un diámetro aproximado de 1 m [3 pies], aunque los individuos pueden crecer mucho más si no son descubiertos. Pegajosos y suaves al tacto, son capaces de crecer sin ser detectados en los rincones oscuros de las bodegas de carga, en los conductos, colgando del techo de los camarotes de la tripulación no utilizados, etc.<\/p>\n<p>Los hongos del vacío pueden ser la prueba de que existe vida extraterrestre, pero ese triunfo del descubrimiento científico puede parecer menos importante para quienes encuentran un terrón, porque son increíblemente tóxicos para los seres vivos.<\/p>\n<p><strong>Motivación: <\/strong>Reproducción<\/p>\n<p><strong>Entorno:<\/strong> En cualquier lugar en G cero, como un exudado no reactivo en el vacío, o como un cuerpo maduro en la atmósfera, solo o en un grupo de tres a cinco<\/p>\n<p><strong>Salud:<\/strong> 22<\/p>\n<p><strong>Daño que inflige: <\/strong>6 puntos<\/p>\n<p><strong>Movimiento: <\/strong>Escala (se adhiere) una distancia inmediata cada ronda<\/p>\n<p><strong>Combate: <\/strong>Un cuerpo maduro puede detonar selectivamente vainas de esporas a lo largo de su superficie una vez por ronda. Cuando una vaina detona, un fluido verde se esparce por todas partes dentro de su alcance inmediato. Las criaturas vivas que fallan una tirada de Defensa por Velocidad reciben 6 puntos de daño del fluido pegajoso. Un objetivo afectado también debe tener éxito en una tirada de Defensa por Vigor. Si falla, una sección de carne afectada se inflama rápidamente, convirtiéndose en un bulto verde bilioso, y explota una ronda después, teniendo el mismo efecto que una vaina detonante.<\/p>\n<p><strong>Interacción:<\/strong> No es posible ninguna interacción real con el hongo del vacío.<\/p>\n<p><strong>Uso:<\/strong> Los científicos están muy emocionados al descubrir que el extraño exudado que han visto manchando el exterior de sus cúpulas de investigación es en realidad una variedad de vida fúngica. Probablemente se emocionen menos cuando descubran los grandes crecimientos que crecen secretamente en la cavidad bajo el suelo de su cúpula de investigación en un armario de almacenamiento poco utilizado.<\/p>\n<p><strong>Intromisiones del DJ:<\/strong> Golpear la aglomeración de hongos del vacío hace que una de las vainas de esporas detone inmediatamente, aunque esté fuera de turno.<\/p>"
+    },
+    "version": 2
+  },
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "name": "Hongo del vacío",
+  "_id": "lGjhEVxo5ZLcAfXn",
+  "items": []
+}

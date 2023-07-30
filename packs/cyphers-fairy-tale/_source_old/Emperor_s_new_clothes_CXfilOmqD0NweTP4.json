@@ -1,0 +1,33 @@
+{
+  "img": "systems/cyphersystem/icons/items/cypher.svg",
+  "effects": [],
+  "system": {
+    "archived": false,
+    "settings": {"general": {"nameUnidentified": ""}},
+    "description": "<p><strong>Nivel:<\/strong> 1d6<\/p>\n<p><strong>Aspecto:<\/strong> Hilo mágico cosido a la armadura<\/p>\n<p><strong>Efecto:<\/strong> Durante el día siguiente, la armadura a la que está unido el hilo es invisible, haciendo que el portador parezca no tener armadura.<\/p>",
+    "basic": {
+      "identified": true,
+      "level": "1d6"
+    },
+    "version": 2
+  },
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "_stats": {
+    "modifiedTime": 1685280982954,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "yThCrv1jSfPXOC2U",
+    "createdTime": 1685277347689,
+    "systemVersion": "2.6.0",
+    "coreVersion": "10.291"
+  },
+  "name": "Traje nuevo del emperador",
+  "flags": {},
+  "_id": "CXfilOmqD0NweTP4",
+  "sort": 0,
+  "type": "cypher",
+  "_key": "!items!CXfilOmqD0NweTP4"
+}

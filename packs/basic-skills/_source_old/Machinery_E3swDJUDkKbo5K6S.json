@@ -1,0 +1,57 @@
+{
+  "name": "Maquinaria",
+  "type": "skill",
+  "img": "systems/cyphersystem/icons/items/skill.svg",
+  "system": {
+    "version": 2,
+    "description": "",
+    "archived": false,
+    "settings": {
+      "rollButton": {
+        "pool": "Intellect",
+        "skill": "Practiced",
+        "assets": "0",
+        "effort1": "0",
+        "effort2": "0",
+        "effort3": "0",
+        "stepModifier": "eased",
+        "additionalSteps": 0,
+        "additionalCost": 0,
+        "damage": 0,
+        "damagePerLOE": 3,
+        "teen": "",
+        "bonus": 0
+      },
+      "general": {
+        "sorting": "Skill",
+        "initiative": false,
+        "unmaskedForm": "Mask"
+      }
+    },
+    "basic": {
+      "rating": "Trained"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Item.m22ljFzV7IaJH5Mi"
+    }
+  },
+  "_stats": {
+    "systemId": "cyphersystem",
+    "systemVersion": "2.0.0-b3",
+    "coreVersion": "10.288",
+    "createdTime": 1659004361123,
+    "modifiedTime": 1666959326796,
+    "lastModifiedBy": "rLeavHPrdkq6xjNt"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "E3swDJUDkKbo5K6S",
+  "_key": "!items!E3swDJUDkKbo5K6S"
+}

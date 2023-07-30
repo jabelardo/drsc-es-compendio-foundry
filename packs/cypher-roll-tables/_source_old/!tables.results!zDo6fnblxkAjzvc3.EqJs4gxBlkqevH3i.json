@@ -1,0 +1,16 @@
+{
+  "img": "icons/svg/d20-black.svg",
+  "documentCollection": "",
+  "flags": {},
+  "weight": 1,
+  "range": [
+    3,
+    3
+  ],
+  "documentId": null,
+  "_id": "EqJs4gxBlkqevH3i",
+  "text": "Fuiste introducido en una sociedad secreta que dice tener y proteger el conocimiento esotérico que se opone a las fuerzas del mal.",
+  "type": 0,
+  "drawn": false,
+  "_key": "!tables.results!zDo6fnblxkAjzvc3.EqJs4gxBlkqevH3i"
+}

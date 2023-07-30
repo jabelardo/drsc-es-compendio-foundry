@@ -1,0 +1,54 @@
+{
+  "img": "systems/cyphersystem/icons/items/ability.svg",
+  "effects": [],
+  "folder": null,
+  "system": {
+    "archived": false,
+    "settings": {
+      "general": {
+        "spellTier": "low",
+        "sorting": "Ability",
+        "unmaskedForm": "Mask"
+      },
+      "rollButton": {
+        "stepModifier": "eased",
+        "damage": 0,
+        "damagePerLOE": 3,
+        "bonus": 0,
+        "pool": "Pool",
+        "teen": "",
+        "additionalSteps": 0,
+        "effort1": 0,
+        "effort3": 0,
+        "assets": 0,
+        "effort2": 0,
+        "skill": "Practiced",
+        "additionalCost": 0
+      }
+    },
+    "description": "<p>Haces que un dispositivo haga algo diferente a su propósito original. Por ejemplo, de un blaster haces una bomba. De un escáner haces un amplificador de señal para un transmisor de radio. De reproductor de música haces una batería para otro dispositivo. El nivel efectivo del nuevo dispositivo es 1 menos de lo normal, y el dispositivo queda inutilizado (para su propósito original) hasta que sea reparado. Acción para iniciar.<\/p>",
+    "basic": {
+      "cost": "1",
+      "pool": "Intellect"
+    },
+    "version": 2
+  },
+  "ownership": {
+    "default": 0,
+    "k2TkElLx959B0lm5": 3
+  },
+  "_stats": {
+    "modifiedTime": 1664959725449,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "rLeavHPrdkq6xjNt",
+    "createdTime": null,
+    "systemVersion": "2.0.0-a1",
+    "coreVersion": "10.286"
+  },
+  "name": "Cacharrear",
+  "flags": {"core": {"sourceId": "Compendium.cyphersystem-compendium.abilities.AFfburUYwZlBFq7N"}},
+  "_id": "AFfburUYwZlBFq7N",
+  "sort": 0,
+  "type": "ability",
+  "_key": "!items!AFfburUYwZlBFq7N"
+}

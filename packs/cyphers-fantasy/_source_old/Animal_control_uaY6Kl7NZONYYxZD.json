@@ -1,0 +1,33 @@
+{
+  "img": "systems/cyphersystem/icons/items/cypher.svg",
+  "effects": [],
+  "system": {
+    "archived": false,
+    "settings": {"general": {"nameUnidentified": ""}},
+    "description": "<p><strong>Nivel:<\/strong> 1d6 + 2<\/p>\n<p><strong>Efecto:<\/strong> Para activar el Cypher, el usuario debe tener éxito en un ataque de Intelecto contra una bestia cuyo nivel no supere el nivel de el Cypher. Si tiene éxito, la bestia se calma inmediatamente. La bestia espera las órdenes del usuario y las cumple lo mejor que puede. El objetivo permanece esclavizado durante un número de horas igual al nivel de el Cypher menos el nivel del objetivo. (Si el resultado es 0 , el objetivo es esclavizado por sólo un minuto). La bestia puede atacar o defenderse, un perro puede seguir un rastro o recuperar un objeto, un tejón puede cavar un hoyo, etc.<\/p>\n<p>El Cypher no otorga al usuario ninguna habilidad especial para entender al objetivo o percibir a través de sus sentidos. Por ejemplo, el usuario puede ordenar a un águila que vuele por encima de un grupo de enemigos, pero el águila no puede describir lo que ve y el usuario no puede mirar a través de sus ojos.<\/p>\n<p>\"Bestia\" en este sentido se refiere a criaturas de inteligencia de nivel animal y puede incluir criaturas mágicas no inteligentes como basiliscos, pegasos, etc.<\/p>",
+    "basic": {
+      "identified": true,
+      "level": "1d6+2"
+    },
+    "version": 2
+  },
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "_stats": {
+    "modifiedTime": 1676304543364,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "yThCrv1jSfPXOC2U",
+    "createdTime": 1676300184371,
+    "systemVersion": "2.3.0",
+    "coreVersion": "10.291"
+  },
+  "name": "Controlar animal",
+  "flags": {"core": {"sourceId": "Item.maBLgVh0syYE86pC"}},
+  "_id": "uaY6Kl7NZONYYxZD",
+  "sort": 0,
+  "type": "cypher",
+  "_key": "!items!uaY6Kl7NZONYYxZD"
+}

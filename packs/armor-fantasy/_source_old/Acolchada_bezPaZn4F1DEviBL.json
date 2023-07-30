@@ -1,0 +1,44 @@
+{
+  "name": "Acolchada",
+  "type": "armor",
+  "img": "systems/cyphersystem/icons/items/armor.svg",
+  "system": {
+    "version": 2,
+    "description": "<p>Armadura de tela deliberadamente diseñada con múltiples capas para ser gruesa y protectora. A veces se llama &ldquo;armadura guateada&rdquo; porque es una capa de guata cosida entre dos capas de tela. La armadura acolchada proporciona 1 de Armadura contra ataques punzantes o cortantes como flechas y espadas, pero no contra ataques contundentes como palos o martillos. La armadura acolchada no tiene coste de Esfuerzo de Velocidad. No puede llevarse con otros tipos de armadura.</p>\n<blockquote>\n<p>Si el DJ prefiere el método más simple de no diferenciar si un ataque es contundente, cortante o punzante, la armadura acolchada no debería proporcionar ningún tipo de Armadura.</p>\n</blockquote>",
+    "archived": false,
+    "basic": {
+      "type": "light armor",
+      "rating": 1,
+      "cost": 0,
+      "notes": "Sólo contra ataques punzante y cortantes"
+    },
+    "settings": {
+      "general": {
+        "unmaskedForm": "Mask"
+      }
+    },
+    "active": true
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Item.onaT5xcaz9fTPNcE"
+    }
+  },
+  "_stats": {
+    "systemId": "cyphersystem",
+    "systemVersion": "2.6.2",
+    "coreVersion": "11.299",
+    "createdTime": 1676107215885,
+    "modifiedTime": 1685559804400,
+    "lastModifiedBy": "7luxagQiisUFvSQn"
+  },
+  "folder": "Zx9EypX8GgWA9kFN",
+  "sort": 125000,
+  "_id": "bezPaZn4F1DEviBL",
+  "_key": "!items!bezPaZn4F1DEviBL"
+}

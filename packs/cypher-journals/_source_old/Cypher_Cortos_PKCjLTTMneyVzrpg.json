@@ -1,0 +1,31 @@
+{
+  "name": "Cypher Cortos",
+  "pages": [
+    "7oolo4RCruFjDyl9",
+    "GLeVZol4zNdbatY7",
+    "4ECQpfM3VxL9bZDa",
+    "3Tp8Uv357eBRLgB7",
+    "qKw0nlubYkcOuWzQ"
+  ],
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "JournalEntry.n3GPxmrJLeg7tKpd"
+    }
+  },
+  "_stats": {
+    "systemId": "cyphersystem",
+    "systemVersion": "2.6.2",
+    "coreVersion": "11.299",
+    "createdTime": 1676370857569,
+    "modifiedTime": 1685560093395,
+    "lastModifiedBy": "7luxagQiisUFvSQn"
+  },
+  "folder": null,
+  "sort": 200000,
+  "_id": "PKCjLTTMneyVzrpg",
+  "_key": "!journal!PKCjLTTMneyVzrpg"
+}

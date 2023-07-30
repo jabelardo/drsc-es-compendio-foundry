@@ -1,0 +1,54 @@
+{
+  "img": "systems/cyphersystem/icons/items/ability.svg",
+  "effects": [],
+  "folder": null,
+  "system": {
+    "archived": false,
+    "settings": {
+      "general": {
+        "spellTier": "low",
+        "sorting": "Ability",
+        "unmaskedForm": "Mask"
+      },
+      "rollButton": {
+        "stepModifier": "eased",
+        "damage": 0,
+        "damagePerLOE": 3,
+        "bonus": 0,
+        "pool": "Pool",
+        "teen": "",
+        "additionalSteps": 0,
+        "effort1": 0,
+        "effort3": 0,
+        "assets": 0,
+        "effort2": 0,
+        "skill": "Practiced",
+        "additionalCost": 0
+      }
+    },
+    "description": "<p>Puedes llamar a un espíritu y pedirle que responda a unas cuantas preguntas (normalmente no más de tres antes de que el espíritu se desvanezca).<\/p><p>En primer lugar, debes invocar un espíritu. Si es un espíritu de los muertos, debes haber conocido personalmente a la criatura, tener un objeto que fuera de su propiedad, o tocar sus restos físicos. Para otros espíritus, debes conocer el nombre completo del espíritu o tener una gran cantidad de un elemento (como el fuego o la tierra) con el que esté asociado.<\/p><p>Si el espíritu responde, puede manifestarse como una sombra insustancial que responde por sí misma, puede habitar un objeto o cualquier resto que le proporciones, o puede manifestarse como una presencia invisible a la que sirves de portavoz.<\/p><p>El espíritu puede no querer responder a tus preguntas, en cuyo caso debes persuadirlo para que te ayude. Puedes intentar luchar psíquicamente contra el espíritu para que se someta (una tarea de Intelecto), o puedes intentar la diplomacia, el engaño o el chantaje (\"Contéstame o le diré a tus hijos que eras un mujeriego\" o \"destruiré esta reliquia que te pertenecía\").<\/p><p>El DJ determina lo que el espíritu puede saber, basándose en los conocimientos que poseía en vida. Acción para iniciar.<\/p>",
+    "basic": {
+      "cost": "2",
+      "pool": "Intellect"
+    },
+    "version": 2
+  },
+  "ownership": {
+    "default": 0,
+    "k2TkElLx959B0lm5": 3
+  },
+  "_stats": {
+    "modifiedTime": 1664959722885,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "rLeavHPrdkq6xjNt",
+    "createdTime": null,
+    "systemVersion": "2.0.0-a1",
+    "coreVersion": "10.286"
+  },
+  "name": "Interrogar a los espíritus",
+  "flags": {"core": {"sourceId": "Compendium.cyphersystem-compendium.abilities.pHFFr4DkCythNc5n"}},
+  "_id": "pHFFr4DkCythNc5n",
+  "sort": 0,
+  "type": "ability",
+  "_key": "!items!pHFFr4DkCythNc5n"
+}

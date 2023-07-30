@@ -1,0 +1,19 @@
+{
+  "name": "Armadura Ligera",
+  "sorting": "a",
+  "folder": "kTUCJDB8GqUOnuxV",
+  "type": "Item",
+  "_id": "iCM6VaomtM6VZBwW",
+  "sort": -100000,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "systemId": "cyphersystem",
+    "systemVersion": "2.6.2",
+    "coreVersion": "11.299",
+    "createdTime": null,
+    "modifiedTime": 1685560962403,
+    "lastModifiedBy": "7luxagQiisUFvSQn"
+  },
+  "_key": "!folders!iCM6VaomtM6VZBwW"
+}

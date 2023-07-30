@@ -1,0 +1,16 @@
+{
+  "img": "systems/cyphersystem/icons/items/cypher.svg",
+  "documentCollection": "cyphersystem-compendium.cyphers-fairy-tale",
+  "flags": {},
+  "weight": 1,
+  "range": [
+    91,
+    91
+  ],
+  "documentId": "GBmFF475Ys9DYdJX",
+  "text": "Para Pedro con amor",
+  "_id": "zJ254VcPbHaULhPM",
+  "type": 2,
+  "drawn": false,
+  "_key": "!tables.results!CkH6ebWiUPmhjbw0.zJ254VcPbHaULhPM"
+}

@@ -1,0 +1,58 @@
+{
+  "img": "systems/cyphersystem/icons/items/ability.svg",
+  "effects": [],
+  "folder": null,
+  "system": {
+    "archived": false,
+    "settings": {
+      "general": {
+        "spellTier": "low",
+        "sorting": "Ability",
+        "unmaskedForm": "Mask"
+      },
+      "rollButton": {
+        "stepModifier": "eased",
+        "damage": 0,
+        "damagePerLOE": 3,
+        "bonus": 0,
+        "pool": "Pool",
+        "teen": "",
+        "additionalSteps": 0,
+        "effort1": 0,
+        "effort3": 0,
+        "assets": 0,
+        "effort2": 0,
+        "skill": "Practiced",
+        "additionalCost": 0
+      }
+    },
+    "description": "<p>Pisas el suelo con toda tu fuerza, creando una onda de choque que ataca a todas las criaturas en el alcance inmediato. Las criaturas afectadas reciben 3 puntos de daño y son empujadas fuera del alcance inmediato o caen (a tu elección). Acción.</p>",
+    "basic": {
+      "cost": "4",
+      "pool": "Might"
+    },
+    "version": 2
+  },
+  "ownership": {
+    "default": 0,
+    "k2TkElLx959B0lm5": 3
+  },
+  "_stats": {
+    "modifiedTime": 1664959719001,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "rLeavHPrdkq6xjNt",
+    "createdTime": null,
+    "systemVersion": "2.0.0-a1",
+    "coreVersion": "10.286"
+  },
+  "name": "Pisotón de golem",
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.cyphersystem-compendium.abilities.E0k0LUw0epjJGrv9"
+    }
+  },
+  "_id": "E0k0LUw0epjJGrv9",
+  "sort": 0,
+  "type": "ability",
+  "_key": "!items!E0k0LUw0epjJGrv9"
+}

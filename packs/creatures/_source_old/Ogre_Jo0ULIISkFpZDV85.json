@@ -1,0 +1,135 @@
+{
+  "img": "modules/drsc-es-compendio-foundry/img/tokens/humanoid_goblinoid.webp",
+  "_stats": {
+    "modifiedTime": 1676797809226,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "yThCrv1jSfPXOC2U",
+    "createdTime": null,
+    "systemVersion": "2.3.0",
+    "coreVersion": "10.291"
+  },
+  "flags": {},
+  "sort": 0,
+  "type": "npc",
+  "_key": "!actors!Jo0ULIISkFpZDV85",
+  "prototypeToken": {
+    "displayBars": 40,
+    "displayName": 20,
+    "actorLink": false,
+    "lockRotation": false,
+    "texture": {
+      "scaleX": 1,
+      "offsetX": 0,
+      "scaleY": 1,
+      "offsetY": 0,
+      "src": "icons/svg/mystery-man.svg",
+      "rotation": 0,
+      "tint": null
+    },
+    "rotation": 0,
+    "detectionModes": [],
+    "flags": {},
+    "randomImg": false,
+    "bar1": {"attribute": "pools.health"},
+    "bar2": {"attribute": "basic.level"},
+    "disposition": 0,
+    "light": {
+      "attenuation": 0.5,
+      "color": null,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "animation": {
+        "intensity": 5,
+        "reverse": false,
+        "type": null,
+        "speed": 5
+      },
+      "saturation": 0,
+      "alpha": 0.5,
+      "contrast": 0,
+      "angle": 360,
+      "luminosity": 0.5,
+      "shadows": 0,
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "alpha": 1,
+    "name": "Ogro",
+    "width": 1,
+    "sight": {
+      "saturation": 0,
+      "brightness": 1,
+      "attenuation": 0.1,
+      "color": null,
+      "visionMode": "basic",
+      "contrast": 0,
+      "angle": 360,
+      "range": 0,
+      "enabled": false
+    },
+    "height": 1
+  },
+  "effects": [],
+  "folder": null,
+  "system": {
+    "settings": {
+      "skills": {},
+      "abilities": {},
+      "general": {
+        "initiativeBonus": 0,
+        "hideArchive": false
+      },
+      "equipment": {
+        "ammo": {"active": false},
+        "armor": {"active": false},
+        "attacks": {"active": false},
+        "materials": {
+          "active": false,
+          "label": ""
+        },
+        "cyphers": {
+          "active": false,
+          "label": ""
+        },
+        "oddities": {
+          "active": false,
+          "label": ""
+        },
+        "artifacts": {
+          "active": false,
+          "label": ""
+        }
+      }
+    },
+    "notes": "<p>El ogro es un bruto bestial, un sádico caníbal desalmado de 2 m [8 pies] de altura que se alimenta de otras criaturas en los bosques, las montañas u otras zonas salvajes. Esto los enfrenta a menudo a seres silvanos como los elfos y las criaturas feéricas. Los ogros que habitan en tierras más civilizadas también son enemigos de los humanos, pero estos ogros no suelen acercarse a la civilización más allá de sus límites.<\/p>\n<p>Los ogros suelen vestirse con ropas harapientas y desordenadas o sin nada.<\/p>\n<p><strong>Motivación:<\/strong> Alimentación (carne), sádico<\/p>\n<p><strong>Entorno:<\/strong> En cualquier lugar, normalmente solo o (raramente) en una banda de tres o cuatro<\/p>\n<p><strong>Salud:<\/strong> 20<\/p>\n<p><strong>Daño que inflige:<\/strong> 8 puntos<\/p>\n<p><strong>Armadura:<\/strong> 1<\/p>\n<p><strong>Movimiento:<\/strong> Corto<\/p>\n<p><strong>Ajustes:<\/strong> Nivel 6 para hazañas de fuerza bruta de; nivel 3 para Defensa por Intelecto y ver a través del engaño; nivel 3 para Defensa por Velocidad de debido al tamaño<\/p>\n<p><strong>Combate:<\/strong> Los ogros suelen utilizar garrotes o grandes armas a dos manos de gran potencia. Como están acostumbrados a luchar contra criaturas más pequeñas, son expertos en utilizar su tamaño y su fuerza en su beneficio. Si un ogro golpea a un enemigo más pequeño que él, la víctima retrocede hasta 1,5 m o queda aturdida, lo que obstaculiza su siguiente acción.<\/p>\n<p>Los ogros también pueden blandir sus enormes armas en amplios arcos, atacando a todos los enemigos que se encuentren a corta distancia. La defensa contra este ataque se ve obstaculiza y el ataque inflige 5 puntos de daño.<\/p>\n<p>Los ogros rara vez huyen de un combate, y sólo un enemigo de poder abrumador puede obligarlos a rendirse.<\/p>\n<p><strong>Interacción:<\/strong> Los ogros son estúpidos y crueles. Hablan cualquier idioma que sea más común en la zona en la que viven, pero su vocabulario es extremadamente limitado. No les gusta conversar, ni siquiera con los de su propia especie. Razonar con ellos es difícil en el mejor de los casos, pero a veces se les puede engañar.<\/p>\n<p><strong>Uso:<\/strong> Un ogro solitario es un excelente encuentro para un grupo de personajes de primer nivel. Varios ogros, especialmente los guerreros bien equipados y entrenados, constituyen excelentes tropas o guardias al servicio de un poderoso señor. A los magos y señores de la guerra malvados les gusta esclavizar a los ogros y colocarlos al frente de sus ejércitos. En estos casos, los ogros suelen ser sobornados, esclavizados o intimidados con gran fuerza.<\/p>\n<p><strong>Botín:<\/strong> Algunos ogros atesoran oro u otros objetos de valor en sus guaridas, pero rara vez les sirve la magia o los Cyphers.<\/p>\n<p><strong>Intromisiones del DJ:<\/strong> El poderoso golpe del ogro (tanto si golpea a un enemigo como si no) impacta en el suelo o en la pared, causando importantes daños estructurales y un posible derrumbe, hundimiento o corrimiento de tierras. También podría dejar al descubierto una cueva o cámara subterránea oculta.<\/p>",
+    "pools": {"health": {
+      "max": 20,
+      "value": 20
+    }},
+    "description": "",
+    "combat": {
+      "damage": 8,
+      "armor": 1
+    },
+    "basic": {
+      "level": 4,
+      "biography": "<p>El ogro es un bruto bestial, un sádico caníbal desalmado de 2 m [8 pies] de altura que se alimenta de otras criaturas en los bosques, las montañas u otras zonas salvajes. Esto los enfrenta a menudo a seres silvanos como los elfos y las criaturas feéricas. Los ogros que habitan en tierras más civilizadas también son enemigos de los humanos, pero estos ogros no suelen acercarse a la civilización más allá de sus límites.<\/p>\n<p>Los ogros suelen vestirse con ropas harapientas y desordenadas o sin nada.<\/p>\n<p><strong>Motivación:<\/strong> Alimentación (carne), sádico<\/p>\n<p><strong>Entorno:<\/strong> En cualquier lugar, normalmente solo o (raramente) en una banda de tres o cuatro<\/p>\n<p><strong>Salud:<\/strong> 20<\/p>\n<p><strong>Daño que inflige:<\/strong> 8 puntos<\/p>\n<p><strong>Armadura:<\/strong> 1<\/p>\n<p><strong>Movimiento:<\/strong> Corto<\/p>\n<p><strong>Ajustes:<\/strong> Nivel 6 para hazañas de fuerza bruta de; nivel 3 para Defensa por Intelecto y ver a través del engaño; nivel 3 para Defensa por Velocidad de debido al tamaño<\/p>\n<p><strong>Combate:<\/strong> Los ogros suelen utilizar garrotes o grandes armas a dos manos de gran potencia. Como están acostumbrados a luchar contra criaturas más pequeñas, son expertos en utilizar su tamaño y su fuerza en su beneficio. Si un ogro golpea a un enemigo más pequeño que él, la víctima retrocede hasta 1,5 m o queda aturdida, lo que obstaculiza su siguiente acción.<\/p>\n<p>Los ogros también pueden blandir sus enormes armas en amplios arcos, atacando a todos los enemigos que se encuentren a corta distancia. La defensa contra este ataque se ve obstaculiza y el ataque inflige 5 puntos de daño.<\/p>\n<p>Los ogros rara vez huyen de un combate, y sólo un enemigo de poder abrumador puede obligarlos a rendirse.<\/p>\n<p><strong>Interacción:<\/strong> Los ogros son estúpidos y crueles. Hablan cualquier idioma que sea más común en la zona en la que viven, pero su vocabulario es extremadamente limitado. No les gusta conversar, ni siquiera con los de su propia especie. Razonar con ellos es difícil en el mejor de los casos, pero a veces se les puede engañar.<\/p>\n<p><strong>Uso:<\/strong> Un ogro solitario es un excelente encuentro para un grupo de personajes de primer nivel. Varios ogros, especialmente los guerreros bien equipados y entrenados, constituyen excelentes tropas o guardias al servicio de un poderoso señor. A los magos y señores de la guerra malvados les gusta esclavizar a los ogros y colocarlos al frente de sus ejércitos. En estos casos, los ogros suelen ser sobornados, esclavizados o intimidados con gran fuerza.<\/p>\n<p><strong>Botín:<\/strong> Algunos ogros atesoran oro u otros objetos de valor en sus guaridas, pero rara vez les sirve la magia o los Cyphers.<\/p>\n<p><strong>Intromisiones del DJ:<\/strong> El poderoso golpe del ogro (tanto si golpea a un enemigo como si no) impacta en el suelo o en la pared, causando importantes daños estructurales y un posible derrumbe, hundimiento o corrimiento de tierras. También podría dejar al descubierto una cueva o cámara subterránea oculta.<\/p>"
+    },
+    "teen": {
+      "settings": {},
+      "pools": {},
+      "basic": {}
+    },
+    "version": 2
+  },
+  "ownership": {
+    "N1n5f3sdQOJFmoJe": 3,
+    "default": 0
+  },
+  "name": "Ogro",
+  "_id": "Jo0ULIISkFpZDV85",
+  "items": []
+}

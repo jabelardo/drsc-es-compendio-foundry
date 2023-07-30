@@ -1,0 +1,16 @@
+{
+  "img": "systems/cyphersystem/icons/items/cypher.svg",
+  "documentCollection": "cyphersystem-compendium.cyphers-horror",
+  "flags": {},
+  "weight": 4,
+  "range": [
+    17,
+    20
+  ],
+  "documentId": "gzzJlqAN8mgrMFk5",
+  "text": "Suero de retornado",
+  "_id": "uOnPqmnu4He9Pm22",
+  "type": 2,
+  "drawn": false,
+  "_key": "!tables.results!gsszk7y4hRSjcUhU.uOnPqmnu4He9Pm22"
+}

@@ -1,0 +1,32 @@
+{
+  "name": "Soplete de fusión",
+  "type": "equipment",
+  "img": "systems/cyphersystem/icons/items/equipment.svg",
+  "system": {
+    "version": 2,
+    "description": "<p>Corta sustancias de hasta nivel 9 tras unas cuantas rondas de aplicación.</p>",
+    "archived": false,
+    "basic": {
+      "level": 5,
+      "quantity": 1
+    }
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "cyphersystem",
+    "systemVersion": "2.6.2",
+    "coreVersion": "11.301",
+    "createdTime": 1676539522466,
+    "modifiedTime": 1686393964027,
+    "lastModifiedBy": "ZyqFG5NpQtVrpwj7"
+  },
+  "_id": "x9nS1wa20e7vRpg2",
+  "folder": "40FMwVrL57gMPm5j",
+  "sort": 3100000,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "_key": "!items!x9nS1wa20e7vRpg2"
+}

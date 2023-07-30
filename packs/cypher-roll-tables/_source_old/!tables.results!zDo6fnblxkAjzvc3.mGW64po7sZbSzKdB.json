@@ -1,0 +1,16 @@
+{
+  "img": "icons/svg/d20-black.svg",
+  "documentCollection": "",
+  "flags": {},
+  "weight": 1,
+  "range": [
+    14,
+    14
+  ],
+  "documentId": null,
+  "_id": "mGW64po7sZbSzKdB",
+  "text": "Tu novia de la infancia terminó liándose con tu mejor amigo (ahora tu ex mejor amigo).",
+  "type": 0,
+  "drawn": false,
+  "_key": "!tables.results!zDo6fnblxkAjzvc3.mGW64po7sZbSzKdB"
+}

@@ -1,0 +1,135 @@
+{
+  "img": "modules/drsc-es-compendio-foundry/img/tokens/humanoid_mundane.webp",
+  "_stats": {
+    "modifiedTime": 1676797809447,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "yThCrv1jSfPXOC2U",
+    "createdTime": null,
+    "systemVersion": "2.3.0",
+    "coreVersion": "10.291"
+  },
+  "flags": {},
+  "sort": 0,
+  "type": "npc",
+  "_key": "!actors!vamqtdZeooEZTvVA",
+  "prototypeToken": {
+    "displayBars": 40,
+    "displayName": 20,
+    "actorLink": false,
+    "lockRotation": false,
+    "texture": {
+      "scaleX": 1,
+      "offsetX": 0,
+      "scaleY": 1,
+      "offsetY": 0,
+      "src": "icons/svg/mystery-man.svg",
+      "rotation": 0,
+      "tint": null
+    },
+    "rotation": 0,
+    "detectionModes": [],
+    "flags": {},
+    "randomImg": false,
+    "bar1": {"attribute": "pools.health"},
+    "bar2": {"attribute": "basic.level"},
+    "disposition": 0,
+    "light": {
+      "attenuation": 0.5,
+      "color": null,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "animation": {
+        "intensity": 5,
+        "reverse": false,
+        "type": null,
+        "speed": 5
+      },
+      "saturation": 0,
+      "alpha": 0.5,
+      "contrast": 0,
+      "angle": 360,
+      "luminosity": 0.5,
+      "shadows": 0,
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "alpha": 1,
+    "name": "Guardia",
+    "width": 1,
+    "sight": {
+      "saturation": 0,
+      "brightness": 1,
+      "attenuation": 0.1,
+      "color": null,
+      "visionMode": "basic",
+      "contrast": 0,
+      "angle": 360,
+      "range": 0,
+      "enabled": false
+    },
+    "height": 1
+  },
+  "effects": [],
+  "folder": null,
+  "system": {
+    "settings": {
+      "skills": {},
+      "abilities": {},
+      "general": {
+        "initiativeBonus": 0,
+        "hideArchive": false
+      },
+      "equipment": {
+        "ammo": {"active": false},
+        "armor": {"active": false},
+        "attacks": {"active": false},
+        "materials": {
+          "active": false,
+          "label": ""
+        },
+        "cyphers": {
+          "active": false,
+          "label": ""
+        },
+        "oddities": {
+          "active": false,
+          "label": ""
+        },
+        "artifacts": {
+          "active": false,
+          "label": ""
+        }
+      }
+    },
+    "notes": "<p>Los guardias mantienen la paz pero no suelen mostrar mucha iniciativa. En última instancia, hacen lo que les ordenan sus superiores, independientemente de la legalidad. Un guardia puede ser un soldado estrella vestido con una armadura intimidatoria, un guardia de seguridad de un centro comercial, un policía de ronda o un matón de la mafia.<\/p>\n<p>(Cuando son atacados, los guardias siempre piden la ayuda de otros guardias, si es posible).<\/p>\n<p><strong>Motivación:<\/strong> Mantener la paz; seguir órdenes<\/p>\n<p><strong>Salud:<\/strong> 8<\/p>\n<p><strong>Daño que inflige:<\/strong> 3 puntos<\/p>\n<p><strong>Armadura:<\/strong> 1 o 2<\/p>\n<p><strong>Movimiento:<\/strong> Corto<\/p>\n<p><strong>Ajustes: <\/strong>Nivel 3 para percepción<\/p>\n<p><strong>Combate:<\/strong> Los guardias no suelen ser astutos, pero entienden la fuerza en número. Si dos o más guardias atacan al mismo objetivo con al menos un ataque melé en la misma ronda, la tirada de Defensa por Velocidad del objetivo contra esos ataques se ve obstaculizada.<\/p>\n<p><strong>Interacción:<\/strong> Interactuar con un guardia normalmente implica una cuestión: ¿quiere el PJ hacer algo que el guardia le ha dicho que impida? Si es así, el PJ podría tener un momento difícil.<\/p>\n<p><strong>Uso:<\/strong> Para los PJs, los guardias pueden ser aliados, obstáculos o ambos. Los guardias que sirven al bien público tienen sus propias obligaciones y no están interesados en hacer el trabajo de los personajes por ellos.<\/p>\n<p><strong>Botín:<\/strong> Un guardia tiene una moneda equivalente a un objeto barato además de armas, armaduras y equipo básico.<\/p>\n<p><strong>Intromisiones del DJ:<\/strong> 1d6 ciudadanos locales intervienen en nombre de la guardia, pidiendo más guardias o incluso luchando contra los enemigos de la guardia.<\/p>",
+    "pools": {"health": {
+      "max": 8,
+      "value": 8
+    }},
+    "description": "",
+    "combat": {
+      "damage": 3,
+      "armor": 1
+    },
+    "basic": {
+      "level": 2,
+      "biography": "<p>Los guardias mantienen la paz pero no suelen mostrar mucha iniciativa. En última instancia, hacen lo que les ordenan sus superiores, independientemente de la legalidad. Un guardia puede ser un soldado estrella vestido con una armadura intimidatoria, un guardia de seguridad de un centro comercial, un policía de ronda o un matón de la mafia.<\/p>\n<p>(Cuando son atacados, los guardias siempre piden la ayuda de otros guardias, si es posible).<\/p>\n<p><strong>Motivación:<\/strong> Mantener la paz; seguir órdenes<\/p>\n<p><strong>Salud:<\/strong> 8<\/p>\n<p><strong>Daño que inflige:<\/strong> 3 puntos<\/p>\n<p><strong>Armadura:<\/strong> 1 o 2<\/p>\n<p><strong>Movimiento:<\/strong> Corto<\/p>\n<p><strong>Ajustes: <\/strong>Nivel 3 para percepción<\/p>\n<p><strong>Combate:<\/strong> Los guardias no suelen ser astutos, pero entienden la fuerza en número. Si dos o más guardias atacan al mismo objetivo con al menos un ataque melé en la misma ronda, la tirada de Defensa por Velocidad del objetivo contra esos ataques se ve obstaculizada.<\/p>\n<p><strong>Interacción:<\/strong> Interactuar con un guardia normalmente implica una cuestión: ¿quiere el PJ hacer algo que el guardia le ha dicho que impida? Si es así, el PJ podría tener un momento difícil.<\/p>\n<p><strong>Uso:<\/strong> Para los PJs, los guardias pueden ser aliados, obstáculos o ambos. Los guardias que sirven al bien público tienen sus propias obligaciones y no están interesados en hacer el trabajo de los personajes por ellos.<\/p>\n<p><strong>Botín:<\/strong> Un guardia tiene una moneda equivalente a un objeto barato además de armas, armaduras y equipo básico.<\/p>\n<p><strong>Intromisiones del DJ:<\/strong> 1d6 ciudadanos locales intervienen en nombre de la guardia, pidiendo más guardias o incluso luchando contra los enemigos de la guardia.<\/p>"
+    },
+    "teen": {
+      "settings": {},
+      "pools": {},
+      "basic": {}
+    },
+    "version": 2
+  },
+  "ownership": {
+    "N1n5f3sdQOJFmoJe": 3,
+    "default": 0
+  },
+  "name": "Guardia",
+  "_id": "vamqtdZeooEZTvVA",
+  "items": []
+}

@@ -1,0 +1,57 @@
+{
+  "img": "systems/cyphersystem/icons/items/artifact.svg",
+  "effects": [],
+  "system": {
+    "archived": false,
+    "settings": {
+      "general": {
+        "nameUnidentified": ""
+      }
+    },
+    "rollButton": {
+      "stepModifier": "eased",
+      "damage": 0,
+      "damagePerLOE": 3,
+      "bonus": 0,
+      "pool": "Pool",
+      "teen": "",
+      "additionalSteps": 0,
+      "effort1": 0,
+      "effort3": 0,
+      "assets": 0,
+      "effort2": 0,
+      "skill": "Practiced",
+      "additionalCost": 0
+    },
+    "description": "<p><strong>Nivel:</strong> 1d6 + 3</p>\n<p><strong>Aspecto:</strong> Espada larga que a veces susurra y ríe en voz alta</p>\n<p><strong>Efecto:</strong> La espada vorpal corta cualquier material de nivel inferior al suyo. Es un arma media que ignora la Armadura de nivel inferior al suyo. En una tirada de ataque natural de 19 o 20, el efecto menor o mayor sugerido es decapitación si el artefacto es de nivel superior al del enemigo (usa esto sólo si el enemigo tiene cabeza; de lo contrario, elige un efecto diferente).</p>\n<p><strong>Agotamiento:</strong> 1-2 en 1d100 (comprueba cada decapitación e intento específico de cortar material sólido)</p>",
+    "basic": {
+      "depletion": "1–2 in [[/r 1d100 # Depletion roll]]",
+      "identified": true,
+      "level": "1d6+3"
+    },
+    "version": 2
+  },
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "_stats": {
+    "modifiedTime": 1676451419158,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "yThCrv1jSfPXOC2U",
+    "createdTime": 1676367597897,
+    "systemVersion": "2.3.0",
+    "coreVersion": "10.291"
+  },
+  "name": "Espada vorpal",
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.cyphersystem-compendium.artifacts-fantasy.ffXvwDNaZlND7lCO"
+    }
+  },
+  "sort": 0,
+  "_id": "rdlb9VWpqe5yZtzM",
+  "type": "artifact",
+  "_key": "!items!rdlb9VWpqe5yZtzM"
+}

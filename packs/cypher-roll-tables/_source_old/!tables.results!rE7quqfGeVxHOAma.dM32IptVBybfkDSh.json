@@ -1,0 +1,16 @@
+{
+  "img": "systems/cyphersystem/icons/items/artifact.svg",
+  "documentCollection": "cyphersystem-compendium.artifacts-fairy-tale",
+  "flags": {},
+  "weight": 3,
+  "range": [
+    72,
+    74
+  ],
+  "documentId": "n6he3GNmrQZ0Qbbx",
+  "text": "Osa",
+  "_id": "dM32IptVBybfkDSh",
+  "type": 2,
+  "drawn": false,
+  "_key": "!tables.results!rE7quqfGeVxHOAma.dM32IptVBybfkDSh"
+}

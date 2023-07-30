@@ -1,0 +1,16 @@
+{
+  "img": "icons/svg/d20-black.svg",
+  "documentCollection": "",
+  "flags": {},
+  "weight": 1,
+  "range": [
+    19,
+    19
+  ],
+  "documentId": null,
+  "_id": "dlJ79VzdpjkEYUFw",
+  "text": "Hechizo o abanico",
+  "type": 0,
+  "drawn": false,
+  "_key": "!tables.results!hy0jsSmX6GtsL6Ky.dlJ79VzdpjkEYUFw"
+}

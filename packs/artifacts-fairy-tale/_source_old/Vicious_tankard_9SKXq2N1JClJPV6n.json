@@ -1,0 +1,34 @@
+{
+  "img": "systems/cyphersystem/icons/items/artifact.svg",
+  "effects": [],
+  "system": {
+    "archived": false,
+    "settings": {"general": {"nameUnidentified": ""}},
+    "description": "<p><strong>Nivel:<\/strong> 1d6 + 2<\/p>\n<p><strong>Aspecto:<\/strong> Gran jarra de cerveza tallada en piedra.<\/p>\n<p><strong>Efecto:<\/strong> Además de servir como un cómodo medio para beber una variedad de líquidos, si la jarra se rellena con buena cerveza o licor, puede usarse como un arma media que inflige +2 puntos de daño (para un total de 6 puntos de daño). Cualquiera que agarre la jarra adquiere práctica para usarla de este modo. Sorprendentemente, el uso de la jarra como arma cuerpo a cuerpo no provoca más que un pequeño derrame de cerveza o licor.<\/p>\n<p><strong>Agotamiento:<\/strong> 1 en 1d20 (comprobar en cada combate)<\/p>",
+    "basic": {
+      "depletion": "1 in [[/r d20]]",
+      "identified": true,
+      "level": "1d6+2"
+    },
+    "version": 2
+  },
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "_stats": {
+    "modifiedTime": 1685302332337,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "yThCrv1jSfPXOC2U",
+    "createdTime": 1685302104751,
+    "systemVersion": "2.6.0",
+    "coreVersion": "10.291"
+  },
+  "name": "Jarra sañosa",
+  "flags": {},
+  "_id": "9SKXq2N1JClJPV6n",
+  "sort": 0,
+  "type": "artifact",
+  "_key": "!items!9SKXq2N1JClJPV6n"
+}

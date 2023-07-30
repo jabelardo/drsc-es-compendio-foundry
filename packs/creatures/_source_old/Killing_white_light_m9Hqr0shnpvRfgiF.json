@@ -1,0 +1,191 @@
+{
+  "img": "modules/drsc-es-compendio-foundry/img/tokens/elemental_energy.webp",
+  "_stats": {
+    "modifiedTime": 1683061868006,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "yThCrv1jSfPXOC2U",
+    "createdTime": null,
+    "systemVersion": "2.5.0",
+    "coreVersion": "10.291"
+  },
+  "flags": {},
+  "sort": 0,
+  "type": "npc",
+  "_key": "!actors!m9Hqr0shnpvRfgiF",
+  "prototypeToken": {
+    "displayBars": 50,
+    "displayName": 20,
+    "actorLink": false,
+    "lockRotation": false,
+    "texture": {
+      "scaleX": 1,
+      "offsetX": 0,
+      "scaleY": 1,
+      "offsetY": 0,
+      "src": "icons/svg/mystery-man.svg",
+      "rotation": 0,
+      "tint": null
+    },
+    "rotation": 0,
+    "detectionModes": [],
+    "flags": {"barbrawl": {"resourceBars": {
+      "bar1": {
+        "hideCombat": false,
+        "bgImage": "",
+        "hideNoCombat": false,
+        "hideFull": false,
+        "otherVisibility": 0,
+        "indentRight": null,
+        "subdivisionsOwner": false,
+        "id": "bar1",
+        "attribute": "pools.health",
+        "ownerVisibility": 50,
+        "hideEmpty": false,
+        "indentLeft": null,
+        "order": 0,
+        "shareHeight": false,
+        "invert": false,
+        "label": "",
+        "fgImage": "",
+        "maxcolor": "#80FF00",
+        "gmVisibility": -1,
+        "style": "user",
+        "mincolor": "#FF0000",
+        "position": "bottom-inner",
+        "opacity": null,
+        "invertDirection": false,
+        "subdivisions": null
+      },
+      "bar2": {
+        "hideCombat": false,
+        "bgImage": "",
+        "hideNoCombat": false,
+        "hideFull": false,
+        "otherVisibility": 0,
+        "indentRight": null,
+        "subdivisionsOwner": false,
+        "id": "bar2",
+        "attribute": "basic.level",
+        "ownerVisibility": 50,
+        "hideEmpty": false,
+        "indentLeft": null,
+        "order": 1,
+        "shareHeight": false,
+        "invert": false,
+        "max": null,
+        "label": "",
+        "fgImage": "",
+        "maxcolor": "#80B3FF",
+        "gmVisibility": -1,
+        "style": "user",
+        "mincolor": "#000080",
+        "position": "top-inner",
+        "opacity": null,
+        "invertDirection": false,
+        "subdivisions": null
+      }
+    }}},
+    "randomImg": false,
+    "bar1": {"attribute": "pools.health"},
+    "bar2": {"attribute": "basic.level"},
+    "disposition": 0,
+    "light": {
+      "attenuation": 0.5,
+      "color": null,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "animation": {
+        "intensity": 5,
+        "reverse": false,
+        "type": null,
+        "speed": 5
+      },
+      "saturation": 0,
+      "alpha": 0.5,
+      "contrast": 0,
+      "angle": 360,
+      "luminosity": 0.5,
+      "shadows": 0,
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "alpha": 1,
+    "name": "Luz blanca asesina",
+    "width": 1,
+    "sight": {
+      "saturation": 0,
+      "brightness": 1,
+      "attenuation": 0.1,
+      "color": null,
+      "visionMode": "basic",
+      "contrast": 0,
+      "angle": 360,
+      "range": 0,
+      "enabled": false
+    },
+    "height": 1
+  },
+  "effects": [],
+  "folder": null,
+  "system": {
+    "settings": {
+      "skills": {},
+      "abilities": {},
+      "general": {
+        "initiativeBonus": 0,
+        "hideArchive": false
+      },
+      "equipment": {
+        "ammo": {"active": false},
+        "armor": {"active": false},
+        "attacks": {"active": false},
+        "materials": {
+          "active": false,
+          "label": ""
+        },
+        "cyphers": {
+          "active": false,
+          "label": ""
+        },
+        "oddities": {
+          "active": false,
+          "label": ""
+        },
+        "artifacts": {
+          "active": false,
+          "label": ""
+        }
+      }
+    },
+    "notes": "<p>Una luz blanca asesina no es un cazador sutil. A distancia, la criatura es un punto de brillo que hace agua a los ojos. Cuando se acerca, es nada menos que cegadora, aunque su emanación no es cálida. A pesar de su intensidad abrasadora, una luz blanca asesina es tan fría como la luz de las estrellas en una noche de diciembre, y mina el calor y la vida de los seres vivos atrapados en su resplandor.<\/p>\n<p>De día, una luz blanca asesina suele estar inactiva. Durante este periodo, la criatura hiberna en zonas oscuras, como si no quisiera o no pudiera competir con el sol.<\/p>\n<p><strong>Motivación:<\/strong> Eliminar la vida orgánica<\/p>\n<p><strong>Entorno:<\/strong> Casi cualquier lugar oscuro<\/p>\n<p><strong>Salud:<\/strong> 15<\/p>\n<p><strong>Daño que inflige:<\/strong> 5 puntos<\/p>\n<p><strong>Armadura:<\/strong> 1<\/p>\n<p><strong>Movimiento:<\/strong> Corto al volar<\/p>\n<p><strong>Combate:<\/strong> Una luz blanca asesina activa (resplandeciente) puede atacar a un objetivo dentro del alcance inmediato cada ronda con un pulso de su nimbo brillante. Un personaje que falle una tirada de Defensa por Velocidad contra el ataque recibe daño y experimenta un entumecimiento refrigerante. Una víctima asesinada por la criatura queda convertida en ceniza soplada, aunque su ropa y equipo quedan ilesos.<\/p>\n<p>Cuando ataca, una luz blanca asesina emite un nimbo cegador de iluminación que afecta a todas las criaturas a corto alcance. Los objetivos en el área deben tener éxito en una tirada de Defensa por Vigor cada ronda o quedar cegados durante una ronda. Un personaje en el área puede apartar la vista cuando lucha contra una luz blanca asesina para evitar ser cegado, pero los ataques y las defensas se ven obstaculizados para aquellos que lo hacen.<\/p>\n<p>Una luz blanca asesina es vulnerable a otras fuentes de luz fuertes que no sean la suya. Si se expone a la luz del día o queda atrapada en un haz de luz de alta intensidad (como un rasgo), la luz blanca asesina vacila y no realiza ninguna acción durante una ronda, tras el cual puede actuar con normalidad. Sin embargo, si la luz competidora persiste durante más de tres o cuatro rondas, la criatura suele retirarse a un lugar oscuro y seguro.<\/p>\n<p><strong>Interacción:<\/strong> Una luz blanca asesina es demasiado extraña para la interacción y puede no ser inteligente de una manera que los humanos puedan entender.<\/p>\n<p><strong>Uso:<\/strong> Una luz blanca asesina inactiva (que parece algo así como un bulto albino de vidrio volcánico) se confunde a veces con una criatura cuyas propiedades no pueden identificarse del todo, hasta que la criatura se activa, momento en el que se revela su verdadera naturaleza.<\/p>\n<p><strong>Intromisiones del DJ:<\/strong> Normalmente resistente a la interacción, una luz blanca asesina utiliza su nimbo ardiente para quemar un glifo alienígena de significado incierto en la carne del personaje antes de que la criatura se desvanezca como una bombilla apagada.<\/p>",
+    "pools": {"health": {
+      "max": 15,
+      "value": 15
+    }},
+    "description": "",
+    "combat": {
+      "damage": 5,
+      "armor": 1
+    },
+    "basic": {
+      "level": 5,
+      "biography": "<p>Una luz blanca asesina no es un cazador sutil. A distancia, la criatura es un punto de brillo que hace agua a los ojos. Cuando se acerca, es nada menos que cegadora, aunque su emanación no es cálida. A pesar de su intensidad abrasadora, una luz blanca asesina es tan fría como la luz de las estrellas en una noche de diciembre, y mina el calor y la vida de los seres vivos atrapados en su resplandor.<\/p>\n<p>De día, una luz blanca asesina suele estar inactiva. Durante este periodo, la criatura hiberna en zonas oscuras, como si no quisiera o no pudiera competir con el sol.<\/p>\n<p><strong>Motivación:<\/strong> Eliminar la vida orgánica<\/p>\n<p><strong>Entorno:<\/strong> Casi cualquier lugar oscuro<\/p>\n<p><strong>Salud:<\/strong> 15<\/p>\n<p><strong>Daño que inflige:<\/strong> 5 puntos<\/p>\n<p><strong>Armadura:<\/strong> 1<\/p>\n<p><strong>Movimiento:<\/strong> Corto al volar<\/p>\n<p><strong>Combate:<\/strong> Una luz blanca asesina activa (resplandeciente) puede atacar a un objetivo dentro del alcance inmediato cada ronda con un pulso de su nimbo brillante. Un personaje que falle una tirada de Defensa por Velocidad contra el ataque recibe daño y experimenta un entumecimiento refrigerante. Una víctima asesinada por la criatura queda convertida en ceniza soplada, aunque su ropa y equipo quedan ilesos.<\/p>\n<p>Cuando ataca, una luz blanca asesina emite un nimbo cegador de iluminación que afecta a todas las criaturas a corto alcance. Los objetivos en el área deben tener éxito en una tirada de Defensa por Vigor cada ronda o quedar cegados durante una ronda. Un personaje en el área puede apartar la vista cuando lucha contra una luz blanca asesina para evitar ser cegado, pero los ataques y las defensas se ven obstaculizados para aquellos que lo hacen.<\/p>\n<p>Una luz blanca asesina es vulnerable a otras fuentes de luz fuertes que no sean la suya. Si se expone a la luz del día o queda atrapada en un haz de luz de alta intensidad (como un rasgo), la luz blanca asesina vacila y no realiza ninguna acción durante una ronda, tras el cual puede actuar con normalidad. Sin embargo, si la luz competidora persiste durante más de tres o cuatro rondas, la criatura suele retirarse a un lugar oscuro y seguro.<\/p>\n<p><strong>Interacción:<\/strong> Una luz blanca asesina es demasiado extraña para la interacción y puede no ser inteligente de una manera que los humanos puedan entender.<\/p>\n<p><strong>Uso:<\/strong> Una luz blanca asesina inactiva (que parece algo así como un bulto albino de vidrio volcánico) se confunde a veces con una criatura cuyas propiedades no pueden identificarse del todo, hasta que la criatura se activa, momento en el que se revela su verdadera naturaleza.<\/p>\n<p><strong>Intromisiones del DJ:<\/strong> Normalmente resistente a la interacción, una luz blanca asesina utiliza su nimbo ardiente para quemar un glifo alienígena de significado incierto en la carne del personaje antes de que la criatura se desvanezca como una bombilla apagada.<\/p>"
+    },
+    "teen": {
+      "settings": {},
+      "pools": {},
+      "basic": {}
+    },
+    "version": 2
+  },
+  "ownership": {
+    "N1n5f3sdQOJFmoJe": 3,
+    "default": 0
+  },
+  "name": "Luz blanca asesina",
+  "_id": "m9Hqr0shnpvRfgiF",
+  "items": []
+}

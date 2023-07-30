@@ -1,0 +1,57 @@
+{
+  "img": "systems/cyphersystem/icons/items/artifact.svg",
+  "effects": [],
+  "system": {
+    "archived": false,
+    "settings": {
+      "general": {
+        "nameUnidentified": ""
+      }
+    },
+    "rollButton": {
+      "stepModifier": "eased",
+      "damage": 0,
+      "damagePerLOE": 3,
+      "bonus": 0,
+      "pool": "Pool",
+      "teen": "",
+      "additionalSteps": 0,
+      "effort1": 0,
+      "effort3": 0,
+      "assets": 0,
+      "effort2": 0,
+      "skill": "Practiced",
+      "additionalCost": 0
+    },
+    "description": "<p><strong>Nivel:</strong> 1d6 + 2</p>\n<p><strong>Aspecto:</strong> Báculo de hierro negro engarzado con una diadema de cristal en forma de ojo</p>\n<p><strong>Efecto:</strong> El portador puede usar una acción para obtener uno de los siguientes efectos.</p>\n<p><strong>Influencia:</strong> El portador realiza un ataque mental a una criatura dentro del alcance inmediato proporcionando una sugerencia. El objetivo afectado sigue cualquier sugerencia durante su siguiente turno que no cause daño directo a sí mismo o a sus aliados.</p>\n<p><strong>Relámpago: </strong>El portador descarga un rayo que ataca a todos los objetivos a lo largo de una línea recta hasta largo alcance, infligiendo un daño igual al nivel del artefacto.</p>\n<p><strong>Escudo: </strong>Durante una hora, el portador obtiene el efecto protector de usar un escudo normal (un recurso en sus tiradas de Defensa por Velocidad). Este efecto es invisible y no requiere sostener un escudo; basta con tocar el báculo.</p>\n<p>El báculo puede tener más de un efecto a la vez (como usar la capacidad de escudo y lanzar un relámpago a alguien), pero cada uno requiere una activación y una tirada de agotamiento distintas.</p>\n<p><strong>Agotamiento:</strong> 1 en 1d100</p>",
+    "basic": {
+      "depletion": "1 in [[/r 1d100 # Depletion roll]]",
+      "identified": true,
+      "level": "1d6+2"
+    },
+    "version": 2
+  },
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "_stats": {
+    "modifiedTime": 1676451419117,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "yThCrv1jSfPXOC2U",
+    "createdTime": 1676367597896,
+    "systemVersion": "2.3.0",
+    "coreVersion": "10.291"
+  },
+  "name": "Báculo de hierro negro",
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.cyphersystem-compendium.artifacts-fantasy.bw8VMGCiyQF5RFrW"
+    }
+  },
+  "sort": 0,
+  "_id": "6SkVC7u5F90MnCc5",
+  "type": "artifact",
+  "_key": "!items!6SkVC7u5F90MnCc5"
+}

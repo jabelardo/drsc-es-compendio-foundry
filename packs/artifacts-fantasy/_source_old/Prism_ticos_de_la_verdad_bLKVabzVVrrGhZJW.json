@@ -1,0 +1,42 @@
+{
+  "img": "systems/cyphersystem/icons/items/artifact.svg",
+  "effects": [],
+  "system": {
+    "archived": false,
+    "settings": {
+      "general": {
+        "nameUnidentified": ""
+      }
+    },
+    "description": "<p><strong>Nivel:</strong> 1d6 + 2</p>\n<p><strong>Aspecto: </strong>Par de prismáticos con un gran símbolo rúnico en ellos</p>\n<p><strong>Efecto:</strong> No sólo facilitan ver cosas lejanas, sino que mirar a través de ellos también permite al espectador ver a través de ilusiones y ver cosas que normalmente son invisibles, suponiendo que el efecto tenga un nivel inferior al de los prismáticos.</p>\n<p><strong>Agotamiento:</strong> 1-2 en 1d100 (comprobar cada uso)</p>",
+    "basic": {
+      "depletion": "1-2 in [[/r 1d100]]",
+      "identified": true,
+      "level": "1d6+2"
+    },
+    "version": 2
+  },
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "_stats": {
+    "modifiedTime": 1676367259059,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "yThCrv1jSfPXOC2U",
+    "createdTime": 1676187522362,
+    "systemVersion": "2.3.0",
+    "coreVersion": "10.291"
+  },
+  "name": "Prismáticos de la verdad",
+  "flags": {
+    "core": {
+      "sourceId": "Item.GqJN2vMblKxyIxA5"
+    }
+  },
+  "sort": 0,
+  "_id": "bLKVabzVVrrGhZJW",
+  "type": "artifact",
+  "_key": "!items!bLKVabzVVrrGhZJW"
+}

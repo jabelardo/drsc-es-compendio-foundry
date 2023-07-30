@@ -1,0 +1,135 @@
+{
+  "img": "modules/drsc-es-compendio-foundry/img/tokens/dragon.webp",
+  "_stats": {
+    "modifiedTime": 1676797808998,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "yThCrv1jSfPXOC2U",
+    "createdTime": null,
+    "systemVersion": "2.3.0",
+    "coreVersion": "10.291"
+  },
+  "flags": {},
+  "sort": 0,
+  "type": "npc",
+  "_key": "!actors!huhkLDlDaru359Bf",
+  "prototypeToken": {
+    "displayBars": 40,
+    "displayName": 20,
+    "actorLink": false,
+    "lockRotation": false,
+    "texture": {
+      "scaleX": 1,
+      "offsetX": 0,
+      "scaleY": 1,
+      "offsetY": 0,
+      "src": "icons/svg/mystery-man.svg",
+      "rotation": 0,
+      "tint": null
+    },
+    "rotation": 0,
+    "detectionModes": [],
+    "flags": {},
+    "randomImg": false,
+    "bar1": {"attribute": "pools.health"},
+    "bar2": {"attribute": "basic.level"},
+    "disposition": 0,
+    "light": {
+      "attenuation": 0.5,
+      "color": null,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "animation": {
+        "intensity": 5,
+        "reverse": false,
+        "type": null,
+        "speed": 5
+      },
+      "saturation": 0,
+      "alpha": 0.5,
+      "contrast": 0,
+      "angle": 360,
+      "luminosity": 0.5,
+      "shadows": 0,
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "alpha": 1,
+    "name": "Dragón",
+    "width": 1,
+    "sight": {
+      "saturation": 0,
+      "brightness": 1,
+      "attenuation": 0.1,
+      "color": null,
+      "visionMode": "basic",
+      "contrast": 0,
+      "angle": 360,
+      "range": 0,
+      "enabled": false
+    },
+    "height": 1
+  },
+  "effects": [],
+  "folder": null,
+  "system": {
+    "settings": {
+      "skills": {},
+      "abilities": {},
+      "general": {
+        "initiativeBonus": 0,
+        "hideArchive": false
+      },
+      "equipment": {
+        "ammo": {"active": false},
+        "armor": {"active": false},
+        "attacks": {"active": false},
+        "materials": {
+          "active": false,
+          "label": ""
+        },
+        "cyphers": {
+          "active": false,
+          "label": ""
+        },
+        "oddities": {
+          "active": false,
+          "label": ""
+        },
+        "artifacts": {
+          "active": false,
+          "label": ""
+        }
+      }
+    },
+    "notes": "<p>Los dragones son excepcionalmente territoriales, vanidosos y codiciosos. Son depredadores de primer orden y deben comer regularmente grandes cantidades. Prefieren vírgenes, aunque se conforman con quien sea, o con lo que sea -como caballos o cerdos salvajes- en caso de necesidad. Les encantan los juegos de todo tipo, especialmente cuando pueden consumir al perdedor. Atraídos por la riqueza y la magia, los dragones acumulan tesoros. El tesoro de un dragón no sólo es un fin en sí mismo, sino que forma parte de una competencia interminable entre dragones de cierta edad para ver cuál puede acumular el mayor tesoro.<\/p>\n<p><strong>Motivación:<\/strong> Engrandecimiento propio, alimentación (carne), recolección de tesoros<\/p>\n<p><strong>Entorno:<\/strong> Los dragones prosperan donde la naturaleza se encuentra con la frontera civilizada.<\/p>\n<p><strong>Salud:<\/strong> 45<\/p>\n<p><strong>Daño que inflige:<\/strong> 10 puntos<\/p>\n<p><strong>Armadura:<\/strong> 3<\/p>\n<p><strong>Movimiento:<\/strong> Corto; largo durante el vuelo<\/p>\n<p><strong>Ajustes:<\/strong> Nivel 8 para percepción y acertijos; nivel 6 para Defensa por Velocidad debido al tamaño<\/p>\n<p><strong>Combate:<\/strong> Un dragón puede morder a un objetivo o arañar a dos oponentes en rango inmediato como una sola acción. Al morder, los objetivos también quedan inmovilizados hasta que tengan éxito en una tirada de Defensa por Vigor para liberarse (o el dragón los deje caer). La mayoría de los dragones tienen una o más habilidades mágicas adicionales que pueden utilizar en el combate, incluyendo las siguientes.<\/p>\n<ul>\n <li><p><strong>Cautivar:<\/strong> Un dragón con esta habilidad puede hipnotizar psíquicamente a un objetivo que no sea un dragón y que esté a su alcance inmediato y falle una tirada de Defensa por Intelecto. El objetivo cautivado cumple las órdenes verbales del dragón durante una o más horas. Cada vez que el objetivo es confrontado por un tercero sobre su condición mental, se le permite otra tirada de Defensa por Intelecto para romper el efecto.<\/p><\/li>\n <li><p><strong>Cambiar de forma:<\/strong> Un dragón con esta habilidad puede adoptar la forma de un humano o humanoide similar como su acción, o volver a su forma habitual. Cuando cambia así, el disfraz del dragón es casi impenetrable sin conocimientos especiales. Como humano, el dragón es una criatura de nivel 5.<\/p><\/li>\n <li><p><strong>Aliento de fuego:<\/strong> Un dragón puede exhalar un chorro de fuego hasta largo alcance, haciendo 7 puntos de daño a todos los objetivos dentro del alcance inmediato. Los objetivos que tengan éxito en una tirada de Defensa por Velocidad para evitar el efecto completo del fuego siguen recibiendo 3 puntos de daño. Esta habilidad no puede utilizarse en rondas consecutivas.<\/p><\/li>\n<\/ul>\n<p><strong>Interacción:<\/strong> Al igual que los muchos matices de las escamas de los dragones, las personalidades de los dragones abarcan toda la gama, desde el matón bestial hasta el conocedor refinado. Algunos dragones mienten con cada aliento humeante, otros consideran que la menor deshonestidad es un defecto personal, y la mayoría se encuentra en algún punto intermedio. Todos ellos pueden ser halagados e incluso encantados por alguien con modales cortesanos y gracia.<\/p>\n<p><strong>Uso:<\/strong> Un dragón se enfrenta a los PJs y los desafiá a un juego de adivinanzas. Si los PJs ganan obtienen un Cypher. Si pierden le deben al dragón un favor que cobrará luego... o puede que el dragón esté hambriento.<\/p>\n<p><strong>Botín:<\/strong> El tesoro de un dragón puede contener 2d6 Cyphers, dinero duro equivalente a 1d6 objetos exorbitantes y posiblemente algunos artefactos (pero un tesoro suele estar bien custodiado).<\/p>\n<p><strong>Intromisiones del DJ:<\/strong> El dragón respira fuego mientras el personaje está atrapado en su boca, lo que automáticamente le inflige el máximo daño por fuego.<\/p>",
+    "pools": {"health": {
+      "max": 45,
+      "value": 45
+    }},
+    "description": "",
+    "combat": {
+      "damage": 10,
+      "armor": 3
+    },
+    "basic": {
+      "level": 7,
+      "biography": "<p>Los dragones son excepcionalmente territoriales, vanidosos y codiciosos. Son depredadores de primer orden y deben comer regularmente grandes cantidades. Prefieren vírgenes, aunque se conforman con quien sea, o con lo que sea -como caballos o cerdos salvajes- en caso de necesidad. Les encantan los juegos de todo tipo, especialmente cuando pueden consumir al perdedor. Atraídos por la riqueza y la magia, los dragones acumulan tesoros. El tesoro de un dragón no sólo es un fin en sí mismo, sino que forma parte de una competencia interminable entre dragones de cierta edad para ver cuál puede acumular el mayor tesoro.<\/p>\n<p><strong>Motivación:<\/strong> Engrandecimiento propio, alimentación (carne), recolección de tesoros<\/p>\n<p><strong>Entorno:<\/strong> Los dragones prosperan donde la naturaleza se encuentra con la frontera civilizada.<\/p>\n<p><strong>Salud:<\/strong> 45<\/p>\n<p><strong>Daño que inflige:<\/strong> 10 puntos<\/p>\n<p><strong>Armadura:<\/strong> 3<\/p>\n<p><strong>Movimiento:<\/strong> Corto; largo durante el vuelo<\/p>\n<p><strong>Ajustes:<\/strong> Nivel 8 para percepción y acertijos; nivel 6 para Defensa por Velocidad debido al tamaño<\/p>\n<p><strong>Combate:<\/strong> Un dragón puede morder a un objetivo o arañar a dos oponentes en rango inmediato como una sola acción. Al morder, los objetivos también quedan inmovilizados hasta que tengan éxito en una tirada de Defensa por Vigor para liberarse (o el dragón los deje caer). La mayoría de los dragones tienen una o más habilidades mágicas adicionales que pueden utilizar en el combate, incluyendo las siguientes.<\/p>\n<ul>\n <li><p><strong>Cautivar:<\/strong> Un dragón con esta habilidad puede hipnotizar psíquicamente a un objetivo que no sea un dragón y que esté a su alcance inmediato y falle una tirada de Defensa por Intelecto. El objetivo cautivado cumple las órdenes verbales del dragón durante una o más horas. Cada vez que el objetivo es confrontado por un tercero sobre su condición mental, se le permite otra tirada de Defensa por Intelecto para romper el efecto.<\/p><\/li>\n <li><p><strong>Cambiar de forma:<\/strong> Un dragón con esta habilidad puede adoptar la forma de un humano o humanoide similar como su acción, o volver a su forma habitual. Cuando cambia así, el disfraz del dragón es casi impenetrable sin conocimientos especiales. Como humano, el dragón es una criatura de nivel 5.<\/p><\/li>\n <li><p><strong>Aliento de fuego:<\/strong> Un dragón puede exhalar un chorro de fuego hasta largo alcance, haciendo 7 puntos de daño a todos los objetivos dentro del alcance inmediato. Los objetivos que tengan éxito en una tirada de Defensa por Velocidad para evitar el efecto completo del fuego siguen recibiendo 3 puntos de daño. Esta habilidad no puede utilizarse en rondas consecutivas.<\/p><\/li>\n<\/ul>\n<p><strong>Interacción:<\/strong> Al igual que los muchos matices de las escamas de los dragones, las personalidades de los dragones abarcan toda la gama, desde el matón bestial hasta el conocedor refinado. Algunos dragones mienten con cada aliento humeante, otros consideran que la menor deshonestidad es un defecto personal, y la mayoría se encuentra en algún punto intermedio. Todos ellos pueden ser halagados e incluso encantados por alguien con modales cortesanos y gracia.<\/p>\n<p><strong>Uso:<\/strong> Un dragón se enfrenta a los PJs y los desafiá a un juego de adivinanzas. Si los PJs ganan obtienen un Cypher. Si pierden le deben al dragón un favor que cobrará luego... o puede que el dragón esté hambriento.<\/p>\n<p><strong>Botín:<\/strong> El tesoro de un dragón puede contener 2d6 Cyphers, dinero duro equivalente a 1d6 objetos exorbitantes y posiblemente algunos artefactos (pero un tesoro suele estar bien custodiado).<\/p>\n<p><strong>Intromisiones del DJ:<\/strong> El dragón respira fuego mientras el personaje está atrapado en su boca, lo que automáticamente le inflige el máximo daño por fuego.<\/p>"
+    },
+    "teen": {
+      "settings": {},
+      "pools": {},
+      "basic": {}
+    },
+    "version": 2
+  },
+  "ownership": {
+    "N1n5f3sdQOJFmoJe": 3,
+    "default": 0
+  },
+  "name": "Dragón",
+  "_id": "huhkLDlDaru359Bf",
+  "items": []
+}

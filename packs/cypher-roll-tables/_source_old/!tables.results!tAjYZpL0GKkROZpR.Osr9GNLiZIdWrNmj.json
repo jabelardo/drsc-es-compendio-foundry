@@ -1,0 +1,16 @@
+{
+  "img": "systems/cyphersystem/icons/items/cypher.svg",
+  "flags": {},
+  "documentCollection": "cyphersystem-compendium.cyphers",
+  "weight": 1,
+  "range": [
+    32,
+    32
+  ],
+  "documentId": "ReuRZASIsUHgdhEg",
+  "_id": "Osr9GNLiZIdWrNmj",
+  "text": "32",
+  "type": 2,
+  "drawn": false,
+  "_key": "!tables.results!tAjYZpL0GKkROZpR.Osr9GNLiZIdWrNmj"
+}

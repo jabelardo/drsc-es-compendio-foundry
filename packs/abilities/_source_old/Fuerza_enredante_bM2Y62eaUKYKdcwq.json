@@ -1,0 +1,58 @@
+{
+  "img": "systems/cyphersystem/icons/items/ability.svg",
+  "effects": [],
+  "folder": null,
+  "system": {
+    "archived": false,
+    "settings": {
+      "general": {
+        "spellTier": "low",
+        "sorting": "Ability",
+        "unmaskedForm": "Mask"
+      },
+      "rollButton": {
+        "stepModifier": "eased",
+        "damage": 0,
+        "damagePerLOE": 3,
+        "bonus": 0,
+        "pool": "Pool",
+        "teen": "",
+        "additionalSteps": 0,
+        "effort1": 0,
+        "effort3": 0,
+        "assets": 0,
+        "effort2": 0,
+        "skill": "Practiced",
+        "additionalCost": 0
+      }
+    },
+    "description": "<p>Un objetivo a corto alcance es objeto de un lazo construido con líneas de fuerza semitangibles durante un minuto. El lazo de fuerza es una construcción de nivel 2. Un objetivo atrapado en el lazo de fuerza no puede moverse de su posición, pero puede atacar y defenderse normalmente. El objetivo también puede utilizar su acción para intentar liberarse. Puedes aumentar el nivel del lazo de fuerza en 1 por nivel de Esfuerzo aplicado. Acción para iniciar.</p>",
+    "basic": {
+      "cost": "1+",
+      "pool": "Intellect"
+    },
+    "version": 2
+  },
+  "ownership": {
+    "default": 0,
+    "k2TkElLx959B0lm5": 3
+  },
+  "_stats": {
+    "modifiedTime": 1664959717378,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "rLeavHPrdkq6xjNt",
+    "createdTime": null,
+    "systemVersion": "2.0.0-a1",
+    "coreVersion": "10.286"
+  },
+  "name": "Fuerza enredante",
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.cyphersystem-compendium.abilities.bM2Y62eaUKYKdcwq"
+    }
+  },
+  "_id": "bM2Y62eaUKYKdcwq",
+  "sort": 0,
+  "type": "ability",
+  "_key": "!items!bM2Y62eaUKYKdcwq"
+}

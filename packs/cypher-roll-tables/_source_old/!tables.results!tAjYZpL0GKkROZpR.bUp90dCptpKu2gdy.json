@@ -1,0 +1,16 @@
+{
+  "img": "systems/cyphersystem/icons/items/cypher.svg",
+  "flags": {},
+  "documentCollection": "cyphersystem-compendium.cyphers",
+  "weight": 1,
+  "range": [
+    91,
+    91
+  ],
+  "documentId": "TFKQbAknncq4lMEV",
+  "_id": "bUp90dCptpKu2gdy",
+  "text": "91",
+  "type": 2,
+  "drawn": false,
+  "_key": "!tables.results!tAjYZpL0GKkROZpR.bUp90dCptpKu2gdy"
+}

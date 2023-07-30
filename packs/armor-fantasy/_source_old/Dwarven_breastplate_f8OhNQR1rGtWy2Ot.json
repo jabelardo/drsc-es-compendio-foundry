@@ -1,0 +1,56 @@
+{
+  "name": "Coraza enana",
+  "type": "armor",
+  "img": "systems/cyphersystem/icons/items/armor.svg",
+  "effects": [],
+  "folder": "dojOEOckDkdqZCJQ",
+  "sort": 112500,
+  "flags": {},
+  "_id": "f8OhNQR1rGtWy2Ot",
+  "system": {
+    "version": 2,
+    "description": "<p>Una coraza de alta calidad fabricada por un enano experto, que proporciona buena protección y gran movilidad. La coraza enana es una armadura media (2 de Armadura) pero dificulta al portador como si fuera una armadura ligera (tiene un coste de Esfuerzo por Velocidad de 1). No todas las corazas enanas cuentan como este tipo de armadura (sólo los herreros enanos excepcionalmente hábiles saben hacerlas).</p>",
+    "archived": false,
+    "basic": {
+      "type": "medium armor",
+      "rating": 2,
+      "cost": 1,
+      "notes": ""
+    },
+    "settings": {
+      "general": {
+        "unmaskedForm": "Mask"
+      }
+    },
+    "active": true,
+    "price": "",
+    "rollButton": {
+      "pool": "Pool",
+      "skill": "Practiced",
+      "assets": 0,
+      "effort1": 0,
+      "effort2": 0,
+      "effort3": 0,
+      "stepModifier": "eased",
+      "additionalSteps": 0,
+      "additionalCost": 0,
+      "damage": 0,
+      "damagePerLOE": 3,
+      "teen": "",
+      "bonus": 0
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "k2TkElLx959B0lm5": 3
+  },
+  "_stats": {
+    "systemId": "cyphersystem",
+    "systemVersion": "2.6.2",
+    "coreVersion": "11.299",
+    "createdTime": null,
+    "modifiedTime": 1685559785820,
+    "lastModifiedBy": "7luxagQiisUFvSQn"
+  },
+  "_key": "!items!f8OhNQR1rGtWy2Ot"
+}

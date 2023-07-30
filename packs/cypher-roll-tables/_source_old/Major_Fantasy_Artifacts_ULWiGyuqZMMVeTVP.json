@@ -1,0 +1,67 @@
+{
+  "name": "Artefactos Mayores de Fantasía",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    "Elw9UUKZ7H8kooxE",
+    "imlieLQc0SPFS34g",
+    "Z64thSFwq3hp5tNs",
+    "5WTkhVGD9skPHQQv",
+    "Tz6Z91ZNnwEq0sUg",
+    "6QmSvaAsEdZI0j1L",
+    "aAXhQcsJDnzI8CGL",
+    "qNhzIO8C3LylECm2",
+    "iqbTeRvz8qdY6kt5",
+    "hPWHvCS9iLROhgZB",
+    "GZUwVn89IgTvwc86",
+    "Rc7AuLpUocKMawqg",
+    "aIENMnAaW66y951B",
+    "FZvnl1gU0xA4J43b",
+    "r5SMOkipvYhOyI7r",
+    "WtJmgVJXJaytbtfI",
+    "iM8prNZ2wrIewFER",
+    "BZcGWpkOqojXqumd",
+    "7SaYHspqRfUVUEw2",
+    "c1KgXYHtvfgIt1hr",
+    "PKyQ8yCoWduu65OD",
+    "W1Y0ehBavqHzW6Md",
+    "ebfMTmOr985GZGZw",
+    "vaxQ5Hvgo8OOwkGZ",
+    "cSx9QIBhqwp8IksA",
+    "4u3itBxD8qpJbsZP",
+    "0ikpacftBxLyrjG0",
+    "P8APQW3DE7BZloe4",
+    "MH0Mg0ae3JiqlQRr",
+    "cSTIM2J81qzGHsia",
+    "MSumMq1PX1AcSDdS",
+    "Bdajb4qn3KbiXsvZ",
+    "4lYZQ7hRV0CbO8uv",
+    "NDYb3kExAng3aoKn",
+    "G1urrIrco6SwprHp",
+    "UEMAfYUb9k9j5vkb"
+  ],
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.lSiQygnfQG095KjW"
+    }
+  },
+  "_stats": {
+    "systemId": "cyphersystem",
+    "systemVersion": "2.6.2",
+    "coreVersion": "11.299",
+    "createdTime": 1676368292182,
+    "modifiedTime": 1685560321669,
+    "lastModifiedBy": "7luxagQiisUFvSQn"
+  },
+  "folder": "JweOQy0aXtGJREvQ",
+  "sort": 150000,
+  "_id": "ULWiGyuqZMMVeTVP",
+  "_key": "!tables!ULWiGyuqZMMVeTVP"
+}

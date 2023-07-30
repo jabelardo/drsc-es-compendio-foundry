@@ -1,0 +1,16 @@
+{
+  "img": "icons/svg/d20-black.svg",
+  "documentCollection": "",
+  "flags": {},
+  "weight": 1,
+  "range": [
+    12,
+    12
+  ],
+  "documentId": null,
+  "_id": "MF13qUuZqZiW2F0k",
+  "text": "Tu familia es propietaria de un gran viñedo cercano conocido por todos por su buen vino y la honradez de sus negocios.",
+  "type": 0,
+  "drawn": false,
+  "_key": "!tables.results!ldbXbEteJgHbIdZe.MF13qUuZqZiW2F0k"
+}

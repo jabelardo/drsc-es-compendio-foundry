@@ -1,0 +1,16 @@
+{
+  "img": "icons/svg/d20-black.svg",
+  "documentCollection": "",
+  "flags": {},
+  "weight": 1,
+  "range": [
+    11,
+    11
+  ],
+  "documentId": null,
+  "_id": "iU7801uvIFKrwIHc",
+  "text": "Mientras estudiabas para ser Adepto, trabajaste como asistente en un banco, haciéndote amigo del dueño y de la clientela.",
+  "type": 0,
+  "drawn": false,
+  "_key": "!tables.results!ldbXbEteJgHbIdZe.iU7801uvIFKrwIHc"
+}

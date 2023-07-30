@@ -1,0 +1,16 @@
+{
+  "img": "icons/svg/d20-black.svg",
+  "documentCollection": "",
+  "flags": {},
+  "weight": 1,
+  "range": [
+    19,
+    19
+  ],
+  "documentId": null,
+  "_id": "1tbjNUQGGBoVnvph",
+  "text": "Tienes una relación sentimental con alguien de la política local.",
+  "type": 0,
+  "drawn": false,
+  "_key": "!tables.results!zDo6fnblxkAjzvc3.1tbjNUQGGBoVnvph"
+}

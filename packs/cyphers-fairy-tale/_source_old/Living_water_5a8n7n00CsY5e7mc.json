@@ -1,0 +1,33 @@
+{
+  "img": "systems/cyphersystem/icons/items/cypher.svg",
+  "effects": [],
+  "system": {
+    "archived": false,
+    "settings": {"general": {"nameUnidentified": ""}},
+    "description": "<p><strong>Nivel:<\/strong> 1d6 + 3<\/p>\n<p><strong>Aspecto:<\/strong> Frasco, olla o jarra de líquido<\/p>\n<p><strong>Efecto:<\/strong> Elimina cualquier daño en curso, daño duradero o daño permanente que tenga el personaje. Sin embargo, el personaje tiene una reducción permanente de 3 puntos en su Reserva de Vigor máxima.<\/p>\n<p>Cuando los Cyphers de agua muerta y agua viva se usan juntos, un personaje muerto puede ser devuelto a la vida sin ninguna reducción permanente de su Reserva de Vigor.<\/p>",
+    "basic": {
+      "identified": true,
+      "level": "1d6+3"
+    },
+    "version": 2
+  },
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "_stats": {
+    "modifiedTime": 1685280982967,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "yThCrv1jSfPXOC2U",
+    "createdTime": 1685278552867,
+    "systemVersion": "2.6.0",
+    "coreVersion": "10.291"
+  },
+  "name": "Agua viva",
+  "flags": {},
+  "_id": "5a8n7n00CsY5e7mc",
+  "sort": 0,
+  "type": "cypher",
+  "_key": "!items!5a8n7n00CsY5e7mc"
+}

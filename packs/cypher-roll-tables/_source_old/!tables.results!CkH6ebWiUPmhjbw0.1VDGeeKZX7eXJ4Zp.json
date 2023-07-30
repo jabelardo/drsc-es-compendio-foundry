@@ -1,0 +1,16 @@
+{
+  "img": "systems/cyphersystem/icons/items/cypher.svg",
+  "documentCollection": "cyphersystem-compendium.cyphers-fairy-tale",
+  "flags": {},
+  "weight": 1,
+  "range": [
+    92,
+    92
+  ],
+  "documentId": "V8AvyXjumY79MiCv",
+  "text": "Piedra de afilar valerosa",
+  "_id": "1VDGeeKZX7eXJ4Zp",
+  "type": 2,
+  "drawn": false,
+  "_key": "!tables.results!CkH6ebWiUPmhjbw0.1VDGeeKZX7eXJ4Zp"
+}

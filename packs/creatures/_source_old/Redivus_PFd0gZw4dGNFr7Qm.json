@@ -1,0 +1,128 @@
+{
+  "img": "modules/drsc-es-compendio-foundry/img/tokens/magical-beast.webp",
+  "_stats": {
+    "modifiedTime": 1676797809263,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "yThCrv1jSfPXOC2U",
+    "createdTime": 1676458779364,
+    "systemVersion": "2.3.0",
+    "coreVersion": "10.291"
+  },
+  "flags": {"core": {"sourceId": "Actor.4enXWHnPF2ZyJSLw"}},
+  "sort": 0,
+  "type": "npc",
+  "_key": "!actors!PFd0gZw4dGNFr7Qm",
+  "prototypeToken": {
+    "displayBars": 40,
+    "displayName": 20,
+    "actorLink": false,
+    "texture": {
+      "scaleX": 1,
+      "offsetX": 0,
+      "scaleY": 1,
+      "offsetY": 0,
+      "src": "icons/svg/mystery-man.svg",
+      "rotation": 0,
+      "tint": null
+    },
+    "lockRotation": false,
+    "rotation": 0,
+    "detectionModes": [],
+    "flags": {},
+    "randomImg": false,
+    "bar1": {"attribute": "pools.health"},
+    "bar2": {"attribute": "basic.level"},
+    "disposition": 0,
+    "light": {
+      "attenuation": 0.5,
+      "color": null,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "animation": {
+        "intensity": 5,
+        "type": null,
+        "reverse": false,
+        "speed": 5
+      },
+      "saturation": 0,
+      "alpha": 0.5,
+      "contrast": 0,
+      "angle": 360,
+      "luminosity": 0.5,
+      "shadows": 0,
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "alpha": 1,
+    "name": "Redivus",
+    "width": 1,
+    "sight": {
+      "saturation": 0,
+      "attenuation": 0.1,
+      "brightness": 0,
+      "color": null,
+      "visionMode": "basic",
+      "contrast": 0,
+      "range": null,
+      "angle": 360,
+      "enabled": false
+    },
+    "height": 1
+  },
+  "effects": [],
+  "system": {
+    "settings": {
+      "general": {
+        "initiativeBonus": 0,
+        "hideArchive": false
+      },
+      "equipment": {
+        "ammo": {"active": false},
+        "armor": {"active": false},
+        "attacks": {"active": false},
+        "materials": {
+          "active": false,
+          "label": ""
+        },
+        "cyphers": {
+          "active": false,
+          "label": ""
+        },
+        "oddities": {
+          "active": false,
+          "label": ""
+        },
+        "artifacts": {
+          "active": false,
+          "label": ""
+        }
+      }
+    },
+    "notes": "<p>Los redivi pasan la mayor parte de su vida, incontables milenios, surcando el espacio. La mayoría nunca se encuentra con nada, pero unos pocos impactan con otros mundos, son capturados por naves extraterrestres o interceptados de alguna otra forma. Su forma de desplazamiento se asemeja a escombros espaciales rocosos del tamaño de una pequeña nave espacial, hasta que despliegan unas brillantes alas de plasma magnético, revelándose como extrañas criaturas de mineral viviente. Los redivi pueden interactuar con casi cualquier sistema electrónico y manipular campos electromagnéticos. Los redivi son buscadores, todos ellos enviados por la Gran Madre, miles y miles de millones de ellos (según dicen), en busca de la semilla de la próxima gran expansión cósmica. Así, la mayoría de los redivi se consumen por averiguar más, encontrar a otros redivi y, finalmente, encontrar su \"semilla universal\".<\/p>\n<p><strong>Motivación: <\/strong>Conocimiento<\/p>\n<p><strong>Entorno:<\/strong> Casi en cualquier lugar, buscando<\/p>\n<p><strong>Salud:<\/strong> 12<\/p>\n<p><strong>Daño que inflige:<\/strong> 5 puntos<\/p>\n<p><strong>Armadura:<\/strong> 4<\/p>\n<p><strong>Movimiento:<\/strong> Vuela (levita magnéticamente) una corta distancia cada ronda<\/p>\n<p><strong>Combate:<\/strong> El caparazón de piedra de un redivus se convierte en un enorme \"garrote\" cuando embiste a los enemigos. Sin embargo, también puede controlar el metal a corta distancia, haciendo que se flexione, anime, aplaste o destroce. Por ejemplo, los objetivos que lleven trajes espaciales metálicos tendrán problemas cuando el metal empiece a deshacerse. Alternativamente, un redivus puede utilizar el metal cercano para envolver a un objetivo y constreñirlo, infligiendo 5 puntos de daño (ignora Armadura) cada ronda hasta que el objetivo pueda escapar.<\/p>\n<p><strong>Interacción:<\/strong> Si se utiliza algún tipo de radio o comunicación similar, estas criaturas pueden apoderarse de él y hablar a través de él, aprendiendo un nuevo idioma aparentemente en el transcurso de minutos. Los redivi cooperarán con peticiones razonables y negociarán, especialmente si existe la posibilidad de que descubran algo nuevo.<\/p>\n<p><strong>Uso:<\/strong> Una cápsula redivi se estrella contra el lateral de la nave espacial, y al principio podría parecer una especie de ataque o abordaje de algo realmente terrible.<\/p>\n<p><strong>Intromisiones del DJ:<\/strong> El equipo que contiene metal del personaje es despojado, y luego utilizado como munición contra ese PJ o un aliado.<\/p>",
+    "pools": {"health": {
+      "max": 12,
+      "value": 12
+    }},
+    "description": "",
+    "combat": {
+      "damage": 5,
+      "armor": 4
+    },
+    "basic": {
+      "level": 4,
+      "biography": "<p>Los redivi pasan la mayor parte de su vida, incontables milenios, surcando el espacio. La mayoría nunca se encuentra con nada, pero unos pocos impactan con otros mundos, son capturados por naves extraterrestres o interceptados de alguna otra forma. Su forma de desplazamiento se asemeja a escombros espaciales rocosos del tamaño de una pequeña nave espacial, hasta que despliegan unas brillantes alas de plasma magnético, revelándose como extrañas criaturas de mineral viviente. Los redivi pueden interactuar con casi cualquier sistema electrónico y manipular campos electromagnéticos. Los redivi son buscadores, todos ellos enviados por la Gran Madre, miles y miles de millones de ellos (según dicen), en busca de la semilla de la próxima gran expansión cósmica. Así, la mayoría de los redivi se consumen por averiguar más, encontrar a otros redivi y, finalmente, encontrar su \"semilla universal\".<\/p>\n<p><strong>Motivación: <\/strong>Conocimiento<\/p>\n<p><strong>Entorno:<\/strong> Casi en cualquier lugar, buscando<\/p>\n<p><strong>Salud:<\/strong> 12<\/p>\n<p><strong>Daño que inflige:<\/strong> 5 puntos<\/p>\n<p><strong>Armadura:<\/strong> 4<\/p>\n<p><strong>Movimiento:<\/strong> Vuela (levita magnéticamente) una corta distancia cada ronda<\/p>\n<p><strong>Combate:<\/strong> El caparazón de piedra de un redivus se convierte en un enorme \"garrote\" cuando embiste a los enemigos. Sin embargo, también puede controlar el metal a corta distancia, haciendo que se flexione, anime, aplaste o destroce. Por ejemplo, los objetivos que lleven trajes espaciales metálicos tendrán problemas cuando el metal empiece a deshacerse. Alternativamente, un redivus puede utilizar el metal cercano para envolver a un objetivo y constreñirlo, infligiendo 5 puntos de daño (ignora Armadura) cada ronda hasta que el objetivo pueda escapar.<\/p>\n<p><strong>Interacción:<\/strong> Si se utiliza algún tipo de radio o comunicación similar, estas criaturas pueden apoderarse de él y hablar a través de él, aprendiendo un nuevo idioma aparentemente en el transcurso de minutos. Los redivi cooperarán con peticiones razonables y negociarán, especialmente si existe la posibilidad de que descubran algo nuevo.<\/p>\n<p><strong>Uso:<\/strong> Una cápsula redivi se estrella contra el lateral de la nave espacial, y al principio podría parecer una especie de ataque o abordaje de algo realmente terrible.<\/p>\n<p><strong>Intromisiones del DJ:<\/strong> El equipo que contiene metal del personaje es despojado, y luego utilizado como munición contra ese PJ o un aliado.<\/p>"
+    },
+    "version": 2
+  },
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "name": "Redivus",
+  "_id": "PFd0gZw4dGNFr7Qm",
+  "items": []
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Armadura Pesada",
+  "sorting": "a",
+  "folder": "kTUCJDB8GqUOnuxV",
+  "type": "Item",
+  "_id": "EY56XoIdAFu930Uv",
+  "sort": 0,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!folders!EY56XoIdAFu930Uv"
+}

@@ -1,0 +1,36 @@
+{
+  "name": "Abrojos, bolsa",
+  "type": "equipment",
+  "img": "systems/cyphersystem/icons/items/equipment.svg",
+  "system": {
+    "version": 2,
+    "description": "<p>Una bolsa de cosas duras que esparces por el suelo para ralentizar o herir a cualquiera que camine por una zona. Una bolsa cubre un área inmediata y hace que esa área cuente como terreno difícil. Una criatura puede moverse con seguridad a través de ella como si fuera terreno difícil (mitad de velocidad). Si una criatura se mueve a través del área a velocidad normal, debe hacer una tirada de Defensa por Velocidad de dificultad 2 o recibir 2 puntos de daño de Velocidad (ignora Armadura).</p>",
+    "archived": false,
+    "basic": {
+      "level": null,
+      "quantity": 1
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Item.IBcaMfT4e0T509Kc"
+    }
+  },
+  "_stats": {
+    "systemId": "cyphersystem",
+    "systemVersion": "2.3.0",
+    "coreVersion": "10.291",
+    "createdTime": 1676110074705,
+    "modifiedTime": 1676110090435,
+    "lastModifiedBy": "yThCrv1jSfPXOC2U"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "2quZ9EVKq7N7XKmc",
+  "_key": "!items!2quZ9EVKq7N7XKmc"
+}

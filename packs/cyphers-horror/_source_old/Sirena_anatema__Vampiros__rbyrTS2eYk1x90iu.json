@@ -1,0 +1,41 @@
+{
+  "name": "Sirena anatema (Vampiros)",
+  "type": "cypher",
+  "img": "systems/cyphersystem/icons/items/cypher.svg",
+  "system": {
+    "version": 2,
+    "description": "<p><strong>Nivel:</strong> 1d6 + 2</p>\n<p><strong>Aspecto:</strong> Amuleto o dispositivo</p>\n<p><strong>Efecto:</strong> Crea un ruido extraño y molesto del volumen de un grito humano. El ruido es especialmente molesto para un tipo de criatura; las criaturas de este tipo ven todas sus acciones obstaculizadas en dos grados (obstaculizadas en tres grados si el nivel de Cypher es 7 o superior) mientras se encuentren a corta distancia del Cypher. El usuario debe utilizar su acción cada ronda para manipular el Cypher para que el ruido y sus efectos persistan, o se silencia y pierde todo su poder. La sirena puede usarse hasta un minuto por nivel de Cypher.</p>",
+    "archived": false,
+    "basic": {
+      "level": "1d6+2",
+      "identified": true
+    },
+    "settings": {
+      "general": {
+        "nameUnidentified": ""
+      }
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Item.eq6x03iBvjALRICs"
+    }
+  },
+  "_stats": {
+    "systemId": "cyphersystem",
+    "systemVersion": "2.5.0",
+    "coreVersion": "10.291",
+    "createdTime": 1683650532312,
+    "modifiedTime": 1683656146513,
+    "lastModifiedBy": "yThCrv1jSfPXOC2U"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "rbyrTS2eYk1x90iu",
+  "_key": "!items!rbyrTS2eYk1x90iu"
+}

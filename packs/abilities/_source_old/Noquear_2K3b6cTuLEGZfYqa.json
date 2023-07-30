@@ -1,0 +1,58 @@
+{
+  "img": "systems/cyphersystem/icons/items/ability.svg",
+  "effects": [],
+  "folder": null,
+  "system": {
+    "archived": false,
+    "settings": {
+      "general": {
+        "spellTier": "low",
+        "sorting": "Ability",
+        "unmaskedForm": "Mask"
+      },
+      "rollButton": {
+        "stepModifier": "eased",
+        "damage": 0,
+        "damagePerLOE": 3,
+        "bonus": 0,
+        "pool": "Pool",
+        "teen": "",
+        "additionalSteps": 0,
+        "effort1": 0,
+        "effort3": 0,
+        "assets": 0,
+        "effort2": 0,
+        "skill": "Practiced",
+        "additionalCost": 0
+      }
+    },
+    "description": "<p>Realizas un ataque melé que no inflige daño. En cambio, si el ataque impacta, realiza una segunda tirada basada en Vigor. Si tienes éxito, un enemigo de nivel 3 o inferior queda inconsciente durante un minuto. Por cada nivel de Esfuerzo utilizado, puedes afectar a un enemigo de nivel superior, o puedes extender la duración durante un minuto adicional. Acción.</p>",
+    "basic": {
+      "cost": "5+",
+      "pool": "Might"
+    },
+    "version": 2
+  },
+  "ownership": {
+    "default": 0,
+    "k2TkElLx959B0lm5": 3
+  },
+  "_stats": {
+    "modifiedTime": 1664959720607,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "rLeavHPrdkq6xjNt",
+    "createdTime": null,
+    "systemVersion": "2.0.0-a1",
+    "coreVersion": "10.286"
+  },
+  "name": "Noquear",
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.cyphersystem-compendium.abilities.2K3b6cTuLEGZfYqa"
+    }
+  },
+  "_id": "2K3b6cTuLEGZfYqa",
+  "sort": 0,
+  "type": "ability",
+  "_key": "!items!2K3b6cTuLEGZfYqa"
+}

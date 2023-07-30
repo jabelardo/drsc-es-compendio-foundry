@@ -1,0 +1,32 @@
+{
+  "name": "Maleta programable",
+  "type": "equipment",
+  "img": "systems/cyphersystem/icons/items/equipment.svg",
+  "system": {
+    "version": 2,
+    "description": "<p>Gran maleta metálica compuesta de materia programable que, con instrucciones, puede convertirse a sí misma en casi cualquier objeto o pieza de equipo de nivel o precio igual o inferior, excluyendo artefactos y Cyphers manifiestos. El objeto replicado puede convertirse de nuevo a su estado base como una acción independiente.</p>",
+    "archived": false,
+    "basic": {
+      "level": 6,
+      "quantity": 1
+    }
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "cyphersystem",
+    "systemVersion": "2.6.2",
+    "coreVersion": "11.301",
+    "createdTime": 1676539674680,
+    "modifiedTime": 1686394193042,
+    "lastModifiedBy": "ZyqFG5NpQtVrpwj7"
+  },
+  "_id": "j2ngnvBGcydSMtHE",
+  "folder": "7rmYjOb7uxsMhqw2",
+  "sort": 1200000,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "_key": "!items!j2ngnvBGcydSMtHE"
+}

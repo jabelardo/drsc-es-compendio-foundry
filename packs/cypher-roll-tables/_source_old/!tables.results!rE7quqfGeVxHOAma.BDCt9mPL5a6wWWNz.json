@@ -1,0 +1,16 @@
+{
+  "img": "systems/cyphersystem/icons/items/artifact.svg",
+  "documentCollection": "cyphersystem-compendium.artifacts-fairy-tale",
+  "flags": {},
+  "weight": 3,
+  "range": [
+    51,
+    53
+  ],
+  "documentId": "zwM0MHgRtW02MXT3",
+  "text": "Caja de Pandora",
+  "_id": "BDCt9mPL5a6wWWNz",
+  "type": 2,
+  "drawn": false,
+  "_key": "!tables.results!rE7quqfGeVxHOAma.BDCt9mPL5a6wWWNz"
+}

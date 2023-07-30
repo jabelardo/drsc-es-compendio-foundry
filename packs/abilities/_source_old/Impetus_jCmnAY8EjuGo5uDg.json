@@ -1,0 +1,54 @@
+{
+  "img": "systems/cyphersystem/icons/items/ability.svg",
+  "effects": [],
+  "folder": null,
+  "system": {
+    "archived": false,
+    "settings": {
+      "general": {
+        "spellTier": "low",
+        "sorting": "Ability",
+        "unmaskedForm": "Mask"
+      },
+      "rollButton": {
+        "stepModifier": "eased",
+        "damage": 0,
+        "damagePerLOE": 3,
+        "bonus": 0,
+        "pool": "Pool",
+        "teen": "",
+        "additionalSteps": 0,
+        "effort1": 0,
+        "effort3": 0,
+        "assets": 0,
+        "effort2": 0,
+        "skill": "Practiced",
+        "additionalCost": 0
+      }
+    },
+    "description": "<p>Un objeto suelto a corta distancia que podrías llevar en una mano es atraído hacia tu mano libre. Si el objeto está atascado o es sujetado por otra criatura, debes tener éxito en una tirada de Vigor para liberarlo, o el objeto permanece donde está. Acción.<\/p>",
+    "basic": {
+      "cost": "2",
+      "pool": "Intellect"
+    },
+    "version": 2
+  },
+  "ownership": {
+    "default": 0,
+    "k2TkElLx959B0lm5": 3
+  },
+  "_stats": {
+    "modifiedTime": 1664959719797,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "rLeavHPrdkq6xjNt",
+    "createdTime": null,
+    "systemVersion": "2.0.0-a1",
+    "coreVersion": "10.286"
+  },
+  "name": "Impulso",
+  "flags": {"core": {"sourceId": "Compendium.cyphersystem-compendium.abilities.jCmnAY8EjuGo5uDg"}},
+  "_id": "jCmnAY8EjuGo5uDg",
+  "sort": 0,
+  "type": "ability",
+  "_key": "!items!jCmnAY8EjuGo5uDg"
+}

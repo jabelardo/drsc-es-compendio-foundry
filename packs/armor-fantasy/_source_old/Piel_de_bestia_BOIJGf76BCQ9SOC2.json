@@ -1,0 +1,44 @@
+{
+  "name": "Piel de bestia",
+  "type": "armor",
+  "img": "systems/cyphersystem/icons/items/armor.svg",
+  "system": {
+    "version": 2,
+    "description": "<p>Una forma mejorada de cueros y pieles, normalmente fabricada a partir de una criatura con una piel especialmente dura, como un lagarto gigante o un rinoceronte.</p>",
+    "archived": false,
+    "basic": {
+      "type": "medium armor",
+      "rating": 2,
+      "cost": 2,
+      "notes": ""
+    },
+    "settings": {
+      "general": {
+        "unmaskedForm": "Mask"
+      }
+    },
+    "active": true
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Item.cPyJjETd3OGGpxKD"
+    }
+  },
+  "_stats": {
+    "systemId": "cyphersystem",
+    "systemVersion": "2.6.2",
+    "coreVersion": "11.299",
+    "createdTime": 1676107294768,
+    "modifiedTime": 1685559772986,
+    "lastModifiedBy": "7luxagQiisUFvSQn"
+  },
+  "folder": "dojOEOckDkdqZCJQ",
+  "sort": 100000,
+  "_id": "BOIJGf76BCQ9SOC2",
+  "_key": "!items!BOIJGf76BCQ9SOC2"
+}

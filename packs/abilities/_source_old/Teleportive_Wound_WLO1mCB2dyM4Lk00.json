@@ -1,0 +1,59 @@
+{
+  "img": "systems/cyphersystem/icons/items/ability.svg",
+  "effects": [],
+  "system": {
+    "archived": false,
+    "settings": {
+      "general": {
+        "spellTier": "low",
+        "sorting": "Ability",
+        "unmaskedForm": "Mask"
+      },
+      "linkedItems": {
+        "attack": "",
+        "skill": "",
+        "ability": ""
+      },
+      "rollButton": {
+        "stepModifier": "eased",
+        "damage": 0,
+        "damagePerLOE": 3,
+        "bonus": 0,
+        "pool": "Pool",
+        "teen": "",
+        "additionalSteps": 0,
+        "effort1": "0",
+        "effort3": "0",
+        "assets": "0",
+        "effort2": "0",
+        "skill": "Practiced",
+        "additionalCost": 0
+      }
+    },
+    "description": "<p>Tocas a una criatura y, si tu ataque tiene éxito, te teletransportas (hasta tu distancia máxima normal de teletransporte) con una parte significativa de su cuerpo. Si el objetivo es de nivel 2 o inferior, muere. Si el objetivo es de nivel 3 o superior, recibe 6 puntos de daño y queda aturdido en su siguiente acción. Si el objetivo es un PJ de cualquier nivel, desciende un grado en el registro de daño. Además de las opciones normales para usar Esfuerzo, puedes elegir usar Esfuerzo para afectar a un objetivo más poderoso (un nivel de Esfuerzo significa que un objetivo de hasta nivel 3 muere o que un objetivo de nivel 4 o superior recibe daño y queda aturdido, y así sucesivamente). Acción.<\/p>",
+    "basic": {
+      "cost": "7+",
+      "pool": "Intellect"
+    },
+    "version": 2
+  },
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "_stats": {
+    "modifiedTime": 1681934029276,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "yThCrv1jSfPXOC2U",
+    "createdTime": 1681932956649,
+    "systemVersion": "2.5.0",
+    "coreVersion": "10.291"
+  },
+  "name": "Herida teleportadora",
+  "flags": {"core": {"sourceId": "Item.tUbOc6FaxJJpuhtw"}},
+  "sort": 0,
+  "_id": "WLO1mCB2dyM4Lk00",
+  "type": "ability",
+  "_key": "!items!WLO1mCB2dyM4Lk00"
+}

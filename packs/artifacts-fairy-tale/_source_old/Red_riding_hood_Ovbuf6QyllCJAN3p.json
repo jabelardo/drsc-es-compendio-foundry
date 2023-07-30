@@ -1,0 +1,34 @@
+{
+  "img": "systems/cyphersystem/icons/items/artifact.svg",
+  "effects": [],
+  "system": {
+    "archived": false,
+    "settings": {"general": {"nameUnidentified": ""}},
+    "description": "<p><strong>Nivel:<\/strong> 1d6 + 3<\/p>\n<p><strong>Aspecto:<\/strong> Capa de color rojo brillante que se ajusta a su portador<\/p>\n<p><strong>Efecto:<\/strong> Atrae las miradas a la vez que da al portador la impresión de ser una presa fácil. Todas las tareas que impliquen escabullirse y ocultarse se ven obstaculizadas, y los enemigos normalmente atacarán al portador antes que a cualquier otro en la zona. La capa proporciona +3 de Armadura y un recurso para todas las tareas basadas en Vigor, incluidas las de combate.<\/p>\n<p><strong>Agotamiento:<\/strong> 1 en 1d10 (comprobar cada día de uso)<\/p>",
+    "basic": {
+      "depletion": "1 in [[/r d6]]",
+      "identified": true,
+      "level": "1d6+3"
+    },
+    "version": 2
+  },
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "_stats": {
+    "modifiedTime": 1685302332335,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "yThCrv1jSfPXOC2U",
+    "createdTime": 1685300880180,
+    "systemVersion": "2.6.0",
+    "coreVersion": "10.291"
+  },
+  "name": "Caperuza roja",
+  "flags": {},
+  "_id": "Ovbuf6QyllCJAN3p",
+  "sort": 0,
+  "type": "artifact",
+  "_key": "!items!Ovbuf6QyllCJAN3p"
+}

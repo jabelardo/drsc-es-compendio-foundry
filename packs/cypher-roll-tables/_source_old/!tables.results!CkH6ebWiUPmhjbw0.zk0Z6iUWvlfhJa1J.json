@@ -1,0 +1,16 @@
+{
+  "img": "systems/cyphersystem/icons/items/cypher.svg",
+  "documentCollection": "cyphersystem-compendium.cyphers-fairy-tale",
+  "flags": {},
+  "weight": 1,
+  "range": [
+    3,
+    3
+  ],
+  "documentId": "s2Ap1xnxNgZ1hnoC",
+  "text": "Madera animada",
+  "_id": "zk0Z6iUWvlfhJa1J",
+  "type": 2,
+  "drawn": false,
+  "_key": "!tables.results!CkH6ebWiUPmhjbw0.zk0Z6iUWvlfhJa1J"
+}

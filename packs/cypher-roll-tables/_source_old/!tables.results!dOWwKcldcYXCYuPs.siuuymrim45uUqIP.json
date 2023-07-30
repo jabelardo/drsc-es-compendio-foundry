@@ -1,0 +1,16 @@
+{
+  "img": "icons/svg/d20-black.svg",
+  "documentCollection": "",
+  "flags": {},
+  "weight": 1,
+  "range": [
+    15,
+    15
+  ],
+  "documentId": null,
+  "_id": "siuuymrim45uUqIP",
+  "text": "Atrae a las criaturas feéricas, se use o no.",
+  "type": 0,
+  "drawn": false,
+  "_key": "!tables.results!dOWwKcldcYXCYuPs.siuuymrim45uUqIP"
+}

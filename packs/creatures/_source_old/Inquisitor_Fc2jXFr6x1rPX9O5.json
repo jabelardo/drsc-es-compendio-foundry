@@ -1,0 +1,128 @@
+{
+  "img": "modules/drsc-es-compendio-foundry/img/tokens/aberration.webp",
+  "_stats": {
+    "modifiedTime": 1676797809163,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "yThCrv1jSfPXOC2U",
+    "createdTime": 1676452401814,
+    "systemVersion": "2.3.0",
+    "coreVersion": "10.291"
+  },
+  "flags": {"core": {"sourceId": "Actor.QBFNTisX1fbQzVPU"}},
+  "sort": 0,
+  "type": "npc",
+  "_key": "!actors!Fc2jXFr6x1rPX9O5",
+  "prototypeToken": {
+    "displayBars": 40,
+    "displayName": 20,
+    "actorLink": false,
+    "texture": {
+      "scaleX": 1,
+      "offsetX": 0,
+      "scaleY": 1,
+      "offsetY": 0,
+      "src": "icons/svg/mystery-man.svg",
+      "rotation": 0,
+      "tint": null
+    },
+    "lockRotation": false,
+    "rotation": 0,
+    "detectionModes": [],
+    "flags": {},
+    "randomImg": false,
+    "bar1": {"attribute": "pools.health"},
+    "bar2": {"attribute": "basic.level"},
+    "disposition": 0,
+    "light": {
+      "attenuation": 0.5,
+      "color": null,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "animation": {
+        "intensity": 5,
+        "type": null,
+        "reverse": false,
+        "speed": 5
+      },
+      "saturation": 0,
+      "alpha": 0.5,
+      "contrast": 0,
+      "angle": 360,
+      "luminosity": 0.5,
+      "shadows": 0,
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "alpha": 1,
+    "name": "Inquisidor",
+    "width": 1,
+    "sight": {
+      "saturation": 0,
+      "attenuation": 0.1,
+      "brightness": 0,
+      "color": null,
+      "visionMode": "basic",
+      "contrast": 0,
+      "range": null,
+      "angle": 360,
+      "enabled": false
+    },
+    "height": 1
+  },
+  "effects": [],
+  "system": {
+    "settings": {
+      "general": {
+        "initiativeBonus": 0,
+        "hideArchive": false
+      },
+      "equipment": {
+        "ammo": {"active": false},
+        "armor": {"active": false},
+        "attacks": {"active": false},
+        "materials": {
+          "active": false,
+          "label": ""
+        },
+        "cyphers": {
+          "active": false,
+          "label": ""
+        },
+        "oddities": {
+          "active": false,
+          "label": ""
+        },
+        "artifacts": {
+          "active": false,
+          "label": ""
+        }
+      }
+    },
+    "notes": "<p>Los inquisidores son alienígenas que se autodenominan \"inquisidores\" cuando entran en contacto con nuevas especies. Su método preferido de interacción consiste en estudiar la flora y fauna de una zona determinada e intentar recoger una muestra representativa de cualquier especie inteligente que encuentren (como los humanos). Los sujetos recolectados pueden desaparecer para siempre, pero otras veces se despiertan sin recordar casi nada de la experiencia, salvo magulladuras, dedos o dientes perdidos, heridas circulares en la cabeza con costras y un vacío de tres o más días en su memoria. En lugar de brazos, a los inquisidores les salen tres grupos de tres tentáculos como los de un calamar, cada uno de los cuales se ramifica en un conjunto más pequeño y fino de zarcillos manipuladores. Pueden manipular máquinas complejas de una forma que un humano normal jamás podría esperar. En la mayoría de los escenarios, los inquisidores poseen un nivel de tecnología y avance muy superior al que disfrutan los humanos.<\/p>\n<p><strong>Motivación: <\/strong>Conocimiento<\/p>\n<p><strong>Entorno:<\/strong> En grupos de tres a doce<\/p>\n<p><strong>Salud:<\/strong> 18<\/p>\n<p><strong>Daño que inflige:<\/strong> 6 puntos<\/p>\n<p><strong>Movimiento:<\/strong> Corto; corto al trepar<\/p>\n<p><strong>Ajustes<\/strong>: Nivel 8 para tareas relacionadas con el conocimiento<\/p>\n<p><strong>Combate:<\/strong> Los inquisidores pueden golpear y estrujar a los enemigos con sus tentáculos, pero prefieren utilizar objetos avanzados que siempre llevan consigo, incluidas armas de energía de largo alcance que pueden infligir daño o, con una configuración activada, inducir un sueño profundo durante una hora o más si la víctima falla una tarea de Defensa por Vigor. Normalmente, los inquisidores intentan causar el menor daño posible a los posibles súbditos, por lo que la configuración de sueño es la más utilizada. También llevan objetos defensivos, incluyendo Cyphers manifiestos que pueden otorgar +4 a Armadura durante unos minutos o lanzar una barrera de campo de fuerza de nivel 8. En caso de que una misión de recogida de especímenes salga mal, al menos un inquisidor lleva consigo un Cypher manifiesto que crea un portal de teletransporte de corta duración para el transporte instantáneo a una base distante y oculta (que puede ser una nave espacial o un reducto transdimensional).<\/p>\n<p><strong>Interacción:<\/strong> Los inquisidores siempre están deseosos de \"hablar\", aunque normalmente acaban queriendo saber mucho más de lo que los personajes están dispuestos a divulgar.<\/p>\n<p><strong>Uso:<\/strong> Desaparece una propiedad entera en Marte. Las pistas dejadas apuntan a los inquisidores.<\/p>\n<p><strong>Botín:<\/strong> La mayoría de los inquisidores llevan un par de Cyphers manifiestos que tienen capacidades ofensivas y defensivas.<\/p>\n<p><strong>Intromisiones del DJ:<\/strong> El personaje (o personajes) se despiertan tras un largo descanso, sólo para darse cuenta de que han pasado más de diez horas. Todos tienen extrañas marcas y heridas, pero nadie recuerda por qué. Uno de los personajes -un PNJ o seguidor- podría incluso haber desaparecido.<\/p>",
+    "pools": {"health": {
+      "max": 18,
+      "value": 18
+    }},
+    "description": "",
+    "combat": {
+      "damage": 6,
+      "armor": 0
+    },
+    "basic": {
+      "level": 4,
+      "biography": "<p>Los inquisidores son alienígenas que se autodenominan \"inquisidores\" cuando entran en contacto con nuevas especies. Su método preferido de interacción consiste en estudiar la flora y fauna de una zona determinada e intentar recoger una muestra representativa de cualquier especie inteligente que encuentren (como los humanos). Los sujetos recolectados pueden desaparecer para siempre, pero otras veces se despiertan sin recordar casi nada de la experiencia, salvo magulladuras, dedos o dientes perdidos, heridas circulares en la cabeza con costras y un vacío de tres o más días en su memoria. En lugar de brazos, a los inquisidores les salen tres grupos de tres tentáculos como los de un calamar, cada uno de los cuales se ramifica en un conjunto más pequeño y fino de zarcillos manipuladores. Pueden manipular máquinas complejas de una forma que un humano normal jamás podría esperar. En la mayoría de los escenarios, los inquisidores poseen un nivel de tecnología y avance muy superior al que disfrutan los humanos.<\/p>\n<p><strong>Motivación: <\/strong>Conocimiento<\/p>\n<p><strong>Entorno:<\/strong> En grupos de tres a doce<\/p>\n<p><strong>Salud:<\/strong> 18<\/p>\n<p><strong>Daño que inflige:<\/strong> 6 puntos<\/p>\n<p><strong>Movimiento:<\/strong> Corto; corto al trepar<\/p>\n<p><strong>Ajustes<\/strong>: Nivel 8 para tareas relacionadas con el conocimiento<\/p>\n<p><strong>Combate:<\/strong> Los inquisidores pueden golpear y estrujar a los enemigos con sus tentáculos, pero prefieren utilizar objetos avanzados que siempre llevan consigo, incluidas armas de energía de largo alcance que pueden infligir daño o, con una configuración activada, inducir un sueño profundo durante una hora o más si la víctima falla una tarea de Defensa por Vigor. Normalmente, los inquisidores intentan causar el menor daño posible a los posibles súbditos, por lo que la configuración de sueño es la más utilizada. También llevan objetos defensivos, incluyendo Cyphers manifiestos que pueden otorgar +4 a Armadura durante unos minutos o lanzar una barrera de campo de fuerza de nivel 8. En caso de que una misión de recogida de especímenes salga mal, al menos un inquisidor lleva consigo un Cypher manifiesto que crea un portal de teletransporte de corta duración para el transporte instantáneo a una base distante y oculta (que puede ser una nave espacial o un reducto transdimensional).<\/p>\n<p><strong>Interacción:<\/strong> Los inquisidores siempre están deseosos de \"hablar\", aunque normalmente acaban queriendo saber mucho más de lo que los personajes están dispuestos a divulgar.<\/p>\n<p><strong>Uso:<\/strong> Desaparece una propiedad entera en Marte. Las pistas dejadas apuntan a los inquisidores.<\/p>\n<p><strong>Botín:<\/strong> La mayoría de los inquisidores llevan un par de Cyphers manifiestos que tienen capacidades ofensivas y defensivas.<\/p>\n<p><strong>Intromisiones del DJ:<\/strong> El personaje (o personajes) se despiertan tras un largo descanso, sólo para darse cuenta de que han pasado más de diez horas. Todos tienen extrañas marcas y heridas, pero nadie recuerda por qué. Uno de los personajes -un PNJ o seguidor- podría incluso haber desaparecido.<\/p>"
+    },
+    "version": 2
+  },
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "name": "Inquisidor",
+  "_id": "Fc2jXFr6x1rPX9O5",
+  "items": []
+}

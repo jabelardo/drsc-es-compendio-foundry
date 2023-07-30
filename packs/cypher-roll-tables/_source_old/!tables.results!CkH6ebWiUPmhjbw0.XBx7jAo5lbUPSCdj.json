@@ -1,0 +1,16 @@
+{
+  "img": "systems/cyphersystem/icons/items/cypher.svg",
+  "documentCollection": "cyphersystem-compendium.cyphers-fairy-tale",
+  "flags": {},
+  "weight": 1,
+  "range": [
+    65,
+    65
+  ],
+  "documentId": "2ROlP6QKrmm11wR6",
+  "text": "Haba omnisciente",
+  "_id": "XBx7jAo5lbUPSCdj",
+  "type": 2,
+  "drawn": false,
+  "_key": "!tables.results!CkH6ebWiUPmhjbw0.XBx7jAo5lbUPSCdj"
+}

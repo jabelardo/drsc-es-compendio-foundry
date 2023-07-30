@@ -1,0 +1,62 @@
+{
+  "name": "Aguja/jeringa",
+  "type": "attack",
+  "img": "systems/cyphersystem/icons/items/attack.svg",
+  "effects": [],
+  "folder": "eRxEv4xAmUeuG0BT",
+  "sort": 100000,
+  "flags": {},
+  "_id": "LDklLSixesdwgwj3",
+  "system": {
+    "version": 2,
+    "description": "<p>Arma ligera (2 puntos de daño, dificultad de ataque aliviada), largo alcance. Inyecta soporífero que aturde al objetivo con una tirada exitosa de Defensa por Vigor durante un minuto, o lo pone en sueño ligero durante un minuto con una tirada fallida. Nivel 3.</p>",
+    "archived": false,
+    "settings": {
+      "rollButton": {
+        "pool": "Pool",
+        "skill": "Practiced",
+        "assets": "0",
+        "effort1": "0",
+        "effort2": "0",
+        "effort3": "0",
+        "stepModifier": "eased",
+        "additionalSteps": 0,
+        "additionalCost": 0,
+        "damage": 0,
+        "damagePerLOE": 3,
+        "teen": "",
+        "bonus": 0
+      },
+      "linkedItems": {
+        "ability": "",
+        "attack": "",
+        "skill": ""
+      },
+      "general": {
+        "unmaskedForm": "Mask"
+      }
+    },
+    "basic": {
+      "type": "light weapon",
+      "damage": 2,
+      "modifier": "eased",
+      "steps": 1,
+      "range": "long range",
+      "notes": "",
+      "skillRating": "Practiced"
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "k2TkElLx959B0lm5": 3
+  },
+  "_stats": {
+    "systemId": "cyphersystem",
+    "systemVersion": "2.6.2",
+    "coreVersion": "11.299",
+    "createdTime": null,
+    "modifiedTime": 1685561611056,
+    "lastModifiedBy": "7luxagQiisUFvSQn"
+  },
+  "_key": "!items!LDklLSixesdwgwj3"
+}

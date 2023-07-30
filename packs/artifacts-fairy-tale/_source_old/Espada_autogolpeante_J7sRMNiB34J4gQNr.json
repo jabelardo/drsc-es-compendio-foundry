@@ -1,0 +1,38 @@
+{
+  "img": "systems/cyphersystem/icons/items/artifact.svg",
+  "effects": [],
+  "system": {
+    "archived": false,
+    "settings": {
+      "general": {
+        "nameUnidentified": ""
+      }
+    },
+    "description": "<p><strong>Nivel:</strong> 1d6 + 1</p>\n<p><strong>Aspecto:</strong> Espada de acero con pomo ornamentado</p>\n<p><strong>Efecto:</strong> Cuando se activa con una palabra especial la espada ataca a quien el usuario indique, luchando como una criatura cuyo nivel sea igual al nivel del artefacto. Comandar la espada no es una acción, pero sólo puede hacer cosas que una espada sería capaz de hacer (atacar, bloquear, cortar, etc.). Si la espada se reduce a 0 de salud, la capacidad de autogolpe termina y debe ser reactivada. La espada vuelve al usuario cuando termina su duración.</p>\n<p><strong>Agotamiento:</strong> 1 en 1d6 (para la capacidad de autogolpe). Una vez agotada, funciona como una espada normal.</p>",
+    "basic": {
+      "depletion": "1 in [[/r d6]]",
+      "identified": true,
+      "level": "1d6+1"
+    },
+    "version": 2
+  },
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "_stats": {
+    "modifiedTime": 1685302332335,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "yThCrv1jSfPXOC2U",
+    "createdTime": 1685300983151,
+    "systemVersion": "2.6.0",
+    "coreVersion": "10.291"
+  },
+  "name": "Espada autogolpeante",
+  "flags": {},
+  "_id": "J7sRMNiB34J4gQNr",
+  "sort": 0,
+  "type": "artifact",
+  "_key": "!items!J7sRMNiB34J4gQNr"
+}

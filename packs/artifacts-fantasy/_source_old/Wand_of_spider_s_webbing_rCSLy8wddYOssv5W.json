@@ -1,0 +1,49 @@
+{
+  "img": "systems/cyphersystem/icons/items/artifact.svg",
+  "effects": [],
+  "system": {
+    "archived": false,
+    "settings": {"general": {"nameUnidentified": ""}},
+    "rollButton": {
+      "stepModifier": "eased",
+      "damage": 0,
+      "damagePerLOE": 3,
+      "bonus": 0,
+      "pool": "Pool",
+      "teen": "",
+      "additionalSteps": 0,
+      "effort1": 0,
+      "effort3": 0,
+      "assets": 0,
+      "effort2": 0,
+      "skill": "Practiced",
+      "additionalCost": 0
+    },
+    "description": "<p><strong>Nivel:<\/strong> 1d6 + 1<\/p>\n<p><strong>Aspecto:<\/strong> Varita de roble blanco<\/p>\n<p><strong>Efecto:<\/strong> Esta varita produce un chorro de telaraña gris de largo alcance que enreda a un objetivo y lo mantiene pegado a las superficies cercanas. Las víctimas enredadas no pueden moverse ni realizar acciones que requieran movimiento. Los objetivos cuyo nivel sea superior al de la varita normalmente pueden liberarse en una o dos rondas. La telaraña es altamente inflamable, y si se enciende arde en el transcurso de una ronda, pero el intenso calor inflige un daño igual al nivel del artefacto a lo que estuviera atrapado en ella.<\/p>\n<p><strong>Agotamiento:<\/strong> 1 en 1d20<\/p>",
+    "basic": {
+      "depletion": "1 in [[/r 1d20 # Depletion roll]]",
+      "identified": true,
+      "level": "1d6+1"
+    },
+    "version": 2
+  },
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "_stats": {
+    "modifiedTime": 1676451419164,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "yThCrv1jSfPXOC2U",
+    "createdTime": 1676367597891,
+    "systemVersion": "2.3.0",
+    "coreVersion": "10.291"
+  },
+  "name": "Varita de telaraña",
+  "flags": {"core": {"sourceId": "Compendium.cyphersystem-compendium.artifacts-fantasy.TAaDf07Z4kcSO4YL"}},
+  "sort": 0,
+  "_id": "rCSLy8wddYOssv5W",
+  "type": "artifact",
+  "_key": "!items!rCSLy8wddYOssv5W"
+}

@@ -1,0 +1,54 @@
+{
+  "img": "systems/cyphersystem/icons/items/ability.svg",
+  "effects": [],
+  "folder": null,
+  "system": {
+    "archived": false,
+    "settings": {
+      "general": {
+        "spellTier": "low",
+        "sorting": "Ability",
+        "unmaskedForm": "Mask"
+      },
+      "rollButton": {
+        "stepModifier": "eased",
+        "damage": 0,
+        "damagePerLOE": 3,
+        "bonus": 0,
+        "pool": "Pool",
+        "teen": "",
+        "additionalSteps": 0,
+        "effort1": 0,
+        "effort3": 0,
+        "assets": 0,
+        "effort2": 0,
+        "skill": "Practiced",
+        "additionalCost": 0
+      }
+    },
+    "description": "<p>Tú y todos los objetivos que elijas dentro del alcance inmediato ganan los beneficios inmediatos de usar una de sus Tiradas de Recuperación (siempre que no sea su Tirada de Recuperación de diez horas) sin tener que gastar una acción, diez minutos o una hora. Los objetivos recuperan puntos a sus Reservas inmediatamente pero marcan ese uso de recuperación. Los PJs que ya han utilizado sus Tiradas de Recuperación de una acción, diez minutos y una hora para el día no obtienen ningún beneficio de esta capacidad. Los PNJs a los que se dirige esta capacidad recuperan un número de puntos de salud igual a su nivel. Acción.<\/p>",
+    "basic": {
+      "cost": "3",
+      "pool": "Intellect"
+    },
+    "version": 2
+  },
+  "ownership": {
+    "default": 0,
+    "k2TkElLx959B0lm5": 3
+  },
+  "_stats": {
+    "modifiedTime": 1664959719462,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "rLeavHPrdkq6xjNt",
+    "createdTime": null,
+    "systemVersion": "2.0.0-a1",
+    "coreVersion": "10.286"
+  },
+  "name": "Pulso sanador",
+  "flags": {"core": {"sourceId": "Compendium.cyphersystem-compendium.abilities.6nm35znCQzjAk6Gb"}},
+  "_id": "6nm35znCQzjAk6Gb",
+  "sort": 0,
+  "type": "ability",
+  "_key": "!items!6nm35znCQzjAk6Gb"
+}

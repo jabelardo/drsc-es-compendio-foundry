@@ -1,0 +1,44 @@
+{
+  "name": "Armadura de batalla",
+  "type": "armor",
+  "img": "systems/cyphersystem/icons/items/armor.svg",
+  "system": {
+    "version": 2,
+    "description": "<p>Como el traje de batalla, pero otorga un +3 adicional a la Armadura además del 3 de Armadura, y estorba como Armadura ligera. Además, el portador obtiene +1 a su Ventaja de Vigor y +5 a su Reserva de Vigor. Nivel 6</p>",
+    "archived": false,
+    "basic": {
+      "type": "heavy armor",
+      "rating": 6,
+      "cost": 1,
+      "notes": "estorba como Armadura ligera"
+    },
+    "settings": {
+      "general": {
+        "unmaskedForm": "Mask"
+      }
+    },
+    "active": true
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Item.w76neS60F8TzNNgT"
+    }
+  },
+  "_stats": {
+    "systemId": "cyphersystem",
+    "systemVersion": "2.6.2",
+    "coreVersion": "11.299",
+    "createdTime": 1676628722920,
+    "modifiedTime": 1685560942707,
+    "lastModifiedBy": "7luxagQiisUFvSQn"
+  },
+  "folder": "EY56XoIdAFu930Uv",
+  "sort": 100000,
+  "_id": "CZxnMCkxx3bAemtm",
+  "_key": "!items!CZxnMCkxx3bAemtm"
+}

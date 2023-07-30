@@ -1,0 +1,57 @@
+{
+  "name": "Tareas basadas en Vigor",
+  "type": "skill",
+  "img": "systems/cyphersystem/icons/items/skill.svg",
+  "system": {
+    "version": 2,
+    "description": "",
+    "archived": false,
+    "settings": {
+      "rollButton": {
+        "pool": "Might",
+        "skill": "Practiced",
+        "assets": "0",
+        "effort1": "0",
+        "effort2": "0",
+        "effort3": "0",
+        "stepModifier": "eased",
+        "additionalSteps": 0,
+        "additionalCost": 0,
+        "damage": 0,
+        "damagePerLOE": 3,
+        "teen": "",
+        "bonus": 0
+      },
+      "general": {
+        "sorting": "Skill",
+        "initiative": false,
+        "unmaskedForm": "Mask"
+      }
+    },
+    "basic": {
+      "rating": "Inability"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "rLeavHPrdkq6xjNt": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Item.pBhnNV2u1ucUZLtf"
+    }
+  },
+  "_stats": {
+    "systemId": "cyphersystem",
+    "systemVersion": "2.0.0-b3",
+    "coreVersion": "10.288",
+    "createdTime": 1666972326796,
+    "modifiedTime": 1666972337414,
+    "lastModifiedBy": "rLeavHPrdkq6xjNt"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "GhWikcOP1CAwpzZQ",
+  "_key": "!items!GhWikcOP1CAwpzZQ"
+}

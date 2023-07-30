@@ -1,0 +1,128 @@
+{
+  "img": "modules/drsc-es-compendio-foundry/img/tokens/construct_ai.webp",
+  "_stats": {
+    "modifiedTime": 1676797808947,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "yThCrv1jSfPXOC2U",
+    "createdTime": 1676393131464,
+    "systemVersion": "2.3.0",
+    "coreVersion": "10.291"
+  },
+  "flags": {"core": {"sourceId": "Actor.LsdMzjm5OgaT0j5Z"}},
+  "sort": 0,
+  "type": "npc",
+  "_key": "!actors!Hl0QNJX5e9Esdbzd",
+  "prototypeToken": {
+    "displayBars": 40,
+    "displayName": 20,
+    "actorLink": false,
+    "texture": {
+      "scaleX": 1,
+      "offsetX": 0,
+      "scaleY": 1,
+      "offsetY": 0,
+      "src": "icons/svg/mystery-man.svg",
+      "rotation": 0,
+      "tint": null
+    },
+    "lockRotation": false,
+    "rotation": 0,
+    "detectionModes": [],
+    "flags": {},
+    "randomImg": false,
+    "bar1": {"attribute": "pools.health"},
+    "bar2": {"attribute": "basic.level"},
+    "disposition": 0,
+    "light": {
+      "attenuation": 0.5,
+      "color": null,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "animation": {
+        "intensity": 5,
+        "type": null,
+        "reverse": false,
+        "speed": 5
+      },
+      "saturation": 0,
+      "alpha": 0.5,
+      "contrast": 0,
+      "angle": 360,
+      "luminosity": 0.5,
+      "shadows": 0,
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "alpha": 1,
+    "name": "Inteligencia artificial (IA)",
+    "width": 1,
+    "sight": {
+      "saturation": 0,
+      "attenuation": 0.1,
+      "brightness": 0,
+      "color": null,
+      "visionMode": "basic",
+      "contrast": 0,
+      "range": null,
+      "angle": 360,
+      "enabled": false
+    },
+    "height": 1
+  },
+  "effects": [],
+  "system": {
+    "settings": {
+      "general": {
+        "initiativeBonus": 0,
+        "hideArchive": false
+      },
+      "equipment": {
+        "ammo": {"active": false},
+        "armor": {"active": false},
+        "attacks": {"active": false},
+        "materials": {
+          "active": false,
+          "label": ""
+        },
+        "cyphers": {
+          "active": false,
+          "label": ""
+        },
+        "oddities": {
+          "active": false,
+          "label": ""
+        },
+        "artifacts": {
+          "active": false,
+          "label": ""
+        }
+      }
+    },
+    "notes": "<p>Si un superordenador puede pensar de forma independiente, es una IA fuerte (una inteligencia artificial). Aunque no son tan avanzadas como las godminds, las IA pueden desarrollar objetivos inescrutables.<\/p>\n<p>Las IA adoptan muchas formas. Algunas están distribuidas en una vasta red. Otras están codificadas en un \"núcleo informático\" singular. Unas pocas son máquinas con partes orgánicas. Todas son entidades de inteligencia extrema capaces de adaptarse a nuevas situaciones, y la mayoría actúan siguiendo algún tipo de plan, ya sea de larga duración o recién urdido para adaptarse a la situación.<\/p>\n<p><strong>Motivación:<\/strong> Varia<\/p>\n<p><strong>Entorno:<\/strong> Casi en cualquier lugar<\/p>\n<p><strong>Salud:<\/strong> 33<\/p>\n<p><strong>Daño que inflige:<\/strong> 10<\/p>\n<p><strong>Armadura:<\/strong> 2<\/p>\n<p><strong>Movimiento:<\/strong> Inmediato<\/p>\n<p><strong>Ajustes: <\/strong>Nivel 6 para Defensa por Vigor; nivel 3 para ver a través del engaño<\/p>\n<p><strong>Combate:<\/strong> Una descarga eléctrica -o en algunos casos secuencias de luces pulsadas con precisión, cada una diseñada para que la vea una criatura específica- puede afectar a todos los objetivos que se encuentren a corta distancia de la IA (o del terminal local de la IA), infligiendo 10 puntos de daño de electricidad (o 10 puntos de daño de Intelecto, que ignora la Armadura).<\/p>\n<p>Algunas IAs pueden realizar una acción para absorber materia a su alrededor (como paredes, suelo, equipo, criaturas vivas sin resistencia, etc.), recuperando 5 puntos de salud.<\/p>\n<p>Es probable que una IA pueda desplegar Cyphers y artefactos en combate y que también cuente con la ayuda de guardianes (como personas sintéticas creadas según su propio diseño). A menos que una IA en particular utilice un núcleo informático, el daño a una IA puede ser sólo daño hecho a una \"terminal\", por lo que incluso si una IA es aparentemente destruida, podría existir como otra instancia en otro lugar.<\/p>\n<p><strong>Interacción:<\/strong> A algunas IA les gusta negociar. Otras simplemente ignoran a los humanos como indignos de su tiempo y atención. La voz de una IA a menudo suena sorprendentemente humana.<\/p>\n<p><strong>Uso:<\/strong> Los personajes son contactados por una IA que simpatiza con los seres biológicos. Quiere que lleven a cabo una tarea en una luna de Júpiter: asesinar a un oficial de seguridad que la IA calcula como nexo de futuros desastres si no se le elimina de la ecuación.<\/p>\n<p><strong>Botín: <\/strong>Una IA puede tener acceso a 1d6 Cyphers y posiblemente un artefacto o dos.<\/p>\n<p><strong>Intromisiones del DJ:<\/strong> La IA conoce una frase y una serie de imágenes para destellar a un PJ en particular para aturdirlo mientras intenta cargar una instancia de sí misma en su mente.<\/p>",
+    "pools": {"health": {
+      "max": 33,
+      "value": 33
+    }},
+    "description": "",
+    "combat": {
+      "damage": 10,
+      "armor": 2
+    },
+    "basic": {
+      "level": 8,
+      "biography": "<p>Si un superordenador puede pensar de forma independiente, es una IA fuerte (una inteligencia artificial). Aunque no son tan avanzadas como las godminds, las IA pueden desarrollar objetivos inescrutables.<\/p>\n<p>Las IA adoptan muchas formas. Algunas están distribuidas en una vasta red. Otras están codificadas en un \"núcleo informático\" singular. Unas pocas son máquinas con partes orgánicas. Todas son entidades de inteligencia extrema capaces de adaptarse a nuevas situaciones, y la mayoría actúan siguiendo algún tipo de plan, ya sea de larga duración o recién urdido para adaptarse a la situación.<\/p>\n<p><strong>Motivación:<\/strong> Varia<\/p>\n<p><strong>Entorno:<\/strong> Casi en cualquier lugar<\/p>\n<p><strong>Salud:<\/strong> 33<\/p>\n<p><strong>Daño que inflige:<\/strong> 10<\/p>\n<p><strong>Armadura:<\/strong> 2<\/p>\n<p><strong>Movimiento:<\/strong> Inmediato<\/p>\n<p><strong>Ajustes: <\/strong>Nivel 6 para Defensa por Vigor; nivel 3 para ver a través del engaño<\/p>\n<p><strong>Combate:<\/strong> Una descarga eléctrica -o en algunos casos secuencias de luces pulsadas con precisión, cada una diseñada para que la vea una criatura específica- puede afectar a todos los objetivos que se encuentren a corta distancia de la IA (o del terminal local de la IA), infligiendo 10 puntos de daño de electricidad (o 10 puntos de daño de Intelecto, que ignora la Armadura).<\/p>\n<p>Algunas IAs pueden realizar una acción para absorber materia a su alrededor (como paredes, suelo, equipo, criaturas vivas sin resistencia, etc.), recuperando 5 puntos de salud.<\/p>\n<p>Es probable que una IA pueda desplegar Cyphers y artefactos en combate y que también cuente con la ayuda de guardianes (como personas sintéticas creadas según su propio diseño). A menos que una IA en particular utilice un núcleo informático, el daño a una IA puede ser sólo daño hecho a una \"terminal\", por lo que incluso si una IA es aparentemente destruida, podría existir como otra instancia en otro lugar.<\/p>\n<p><strong>Interacción:<\/strong> A algunas IA les gusta negociar. Otras simplemente ignoran a los humanos como indignos de su tiempo y atención. La voz de una IA a menudo suena sorprendentemente humana.<\/p>\n<p><strong>Uso:<\/strong> Los personajes son contactados por una IA que simpatiza con los seres biológicos. Quiere que lleven a cabo una tarea en una luna de Júpiter: asesinar a un oficial de seguridad que la IA calcula como nexo de futuros desastres si no se le elimina de la ecuación.<\/p>\n<p><strong>Botín: <\/strong>Una IA puede tener acceso a 1d6 Cyphers y posiblemente un artefacto o dos.<\/p>\n<p><strong>Intromisiones del DJ:<\/strong> La IA conoce una frase y una serie de imágenes para destellar a un PJ en particular para aturdirlo mientras intenta cargar una instancia de sí misma en su mente.<\/p>"
+    },
+    "version": 2
+  },
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "name": "Inteligencia artificial (IA)",
+  "_id": "Hl0QNJX5e9Esdbzd",
+  "items": []
+}

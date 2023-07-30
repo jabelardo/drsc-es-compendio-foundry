@@ -1,0 +1,49 @@
+{
+  "img": "systems/cyphersystem/icons/items/artifact.svg",
+  "effects": [],
+  "system": {
+    "archived": false,
+    "settings": {"general": {"nameUnidentified": ""}},
+    "rollButton": {
+      "stepModifier": "eased",
+      "damage": 0,
+      "damagePerLOE": 3,
+      "bonus": 0,
+      "pool": "Pool",
+      "teen": "",
+      "additionalSteps": 0,
+      "effort1": 0,
+      "effort3": 0,
+      "assets": 0,
+      "effort2": 0,
+      "skill": "Practiced",
+      "additionalCost": 0
+    },
+    "description": "<p><strong>Nivel:<\/strong> 1d6<\/p>\n<p><strong>Aspecto:<\/strong> Bolsa con tiza, lacre y una piedra rúnica grabada.<\/p>\n<p><strong>Efecto:<\/strong> Un Cypher simple (como una poción o un pergamino) puede modificarse con este conjunto de utensilios para convertirla en una trampa. Primero, el Cypher se pega a una superficie con el lacre, luego el usuario debe realizar una tarea de Intelecto de dificultad 4 para dibujar los símbolos de la piedra rúnica alrededor del Cypher con la tiza y colocar la piedra rúnica en la posición correcta. Cuando la trampa se dispara, el Cypher se activa, por lo que la gente suele usar Cyphers sencillas, como un pergamino de hechizo explosivo, una poción venenosa, etcétera.<\/p>\n<p>El detonador puede reaccionar a un movimiento específico en un radio de 1 m [3 pies]: una puerta que se abre, una criatura u objeto que pasa junto a la piedra rúnica, etc. Cuanto mayor sea el nivel del artefacto, más sofisticado será el activador. Por ejemplo, la activación de un artefacto de nivel 4 puede basarse en el tamaño o el peso de una criatura, la de un artefacto de nivel 5 puede basarse en un tipo específico de criatura y la de un artefacto de nivel 6 puede basarse en el reconocimiento de una criatura individual.<\/p>\n<p><strong>Agotamiento:<\/strong> Automático<\/p>",
+    "basic": {
+      "depletion": "automatic",
+      "identified": true,
+      "level": "1d6"
+    },
+    "version": 2
+  },
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "_stats": {
+    "modifiedTime": 1676451419151,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "yThCrv1jSfPXOC2U",
+    "createdTime": 1676367597888,
+    "systemVersion": "2.3.0",
+    "coreVersion": "10.291"
+  },
+  "name": "Trampa de piedra rúnica",
+  "flags": {"core": {"sourceId": "Compendium.cyphersystem-compendium.artifacts-fantasy.8Sd0lQ5JJm7L8Yl5"}},
+  "sort": 0,
+  "_id": "k1fdbCVSxY3RgX34",
+  "type": "artifact",
+  "_key": "!items!k1fdbCVSxY3RgX34"
+}

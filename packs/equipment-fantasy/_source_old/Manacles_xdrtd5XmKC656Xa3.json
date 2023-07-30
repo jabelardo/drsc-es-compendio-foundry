@@ -1,0 +1,36 @@
+{
+  "name": "Grilletes",
+  "type": "equipment",
+  "img": "systems/cyphersystem/icons/items/equipment.svg",
+  "system": {
+    "version": 2,
+    "description": "<p>Apresadores metálicos o de madera pesada que sujetan las muñecas o los tobillos de un enemigo y se aseguran con un pasador. Un juego común de grilletes es de nivel 5.</p>",
+    "archived": false,
+    "basic": {
+      "level": 5,
+      "quantity": 1
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Item.j1JfHf2kCcU13vSs"
+    }
+  },
+  "_stats": {
+    "systemId": "cyphersystem",
+    "systemVersion": "2.3.0",
+    "coreVersion": "10.291",
+    "createdTime": 1676110484151,
+    "modifiedTime": 1676110500043,
+    "lastModifiedBy": "yThCrv1jSfPXOC2U"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "xdrtd5XmKC656Xa3",
+  "_key": "!items!xdrtd5XmKC656Xa3"
+}

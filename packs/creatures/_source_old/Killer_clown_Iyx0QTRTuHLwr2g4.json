@@ -1,0 +1,191 @@
+{
+  "img": "modules/drsc-es-compendio-foundry/img/tokens/humanoid_mundane.webp",
+  "_stats": {
+    "modifiedTime": 1683061858373,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "yThCrv1jSfPXOC2U",
+    "createdTime": null,
+    "systemVersion": "2.5.0",
+    "coreVersion": "10.291"
+  },
+  "flags": {},
+  "sort": 0,
+  "type": "npc",
+  "_key": "!actors!Iyx0QTRTuHLwr2g4",
+  "prototypeToken": {
+    "displayBars": 50,
+    "displayName": 20,
+    "actorLink": false,
+    "lockRotation": false,
+    "texture": {
+      "scaleX": 1,
+      "offsetX": 0,
+      "scaleY": 1,
+      "offsetY": 0,
+      "src": "icons/svg/mystery-man.svg",
+      "rotation": 0,
+      "tint": null
+    },
+    "rotation": 0,
+    "detectionModes": [],
+    "flags": {"barbrawl": {"resourceBars": {
+      "bar1": {
+        "hideCombat": false,
+        "bgImage": "",
+        "hideNoCombat": false,
+        "hideFull": false,
+        "otherVisibility": 0,
+        "indentRight": null,
+        "subdivisionsOwner": false,
+        "id": "bar1",
+        "attribute": "pools.health",
+        "ownerVisibility": 50,
+        "hideEmpty": false,
+        "indentLeft": null,
+        "order": 0,
+        "shareHeight": false,
+        "invert": false,
+        "label": "",
+        "fgImage": "",
+        "maxcolor": "#80FF00",
+        "gmVisibility": -1,
+        "style": "user",
+        "mincolor": "#FF0000",
+        "position": "bottom-inner",
+        "opacity": null,
+        "invertDirection": false,
+        "subdivisions": null
+      },
+      "bar2": {
+        "hideCombat": false,
+        "bgImage": "",
+        "hideNoCombat": false,
+        "hideFull": false,
+        "otherVisibility": 0,
+        "indentRight": null,
+        "subdivisionsOwner": false,
+        "id": "bar2",
+        "attribute": "basic.level",
+        "ownerVisibility": 50,
+        "hideEmpty": false,
+        "indentLeft": null,
+        "order": 1,
+        "shareHeight": false,
+        "invert": false,
+        "max": null,
+        "label": "",
+        "fgImage": "",
+        "maxcolor": "#80B3FF",
+        "gmVisibility": -1,
+        "style": "user",
+        "mincolor": "#000080",
+        "position": "top-inner",
+        "opacity": null,
+        "invertDirection": false,
+        "subdivisions": null
+      }
+    }}},
+    "randomImg": false,
+    "bar1": {"attribute": "pools.health"},
+    "bar2": {"attribute": "basic.level"},
+    "disposition": 0,
+    "light": {
+      "attenuation": 0.5,
+      "color": null,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "animation": {
+        "intensity": 5,
+        "reverse": false,
+        "type": null,
+        "speed": 5
+      },
+      "saturation": 0,
+      "alpha": 0.5,
+      "contrast": 0,
+      "angle": 360,
+      "luminosity": 0.5,
+      "shadows": 0,
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "alpha": 1,
+    "name": "Payaso asesino",
+    "width": 1,
+    "sight": {
+      "saturation": 0,
+      "brightness": 1,
+      "attenuation": 0.1,
+      "color": null,
+      "visionMode": "basic",
+      "contrast": 0,
+      "angle": 360,
+      "range": 0,
+      "enabled": false
+    },
+    "height": 1
+  },
+  "effects": [],
+  "folder": null,
+  "system": {
+    "settings": {
+      "skills": {},
+      "abilities": {},
+      "general": {
+        "initiativeBonus": 0,
+        "hideArchive": false
+      },
+      "equipment": {
+        "ammo": {"active": false},
+        "armor": {"active": false},
+        "attacks": {"active": false},
+        "materials": {
+          "active": false,
+          "label": ""
+        },
+        "cyphers": {
+          "active": false,
+          "label": ""
+        },
+        "oddities": {
+          "active": false,
+          "label": ""
+        },
+        "artifacts": {
+          "active": false,
+          "label": ""
+        }
+      }
+    },
+    "notes": "<p>Un payaso -ya sea un muñeco o lo que parece ser una persona maquillada de payaso- podría ser totalmente benigno. Pero si ves uno sentado solo en una habitación oscura, tumbado bajo tu cama o mirándote a través de la rejilla de la alcantarilla de la calle, podría ser un payaso asesino. Los payasos asesinos pueden ser espíritus malignos que poseen a alguien o una persona demente que vive una fantasía homicida. En cualquier caso, son tan peligrosos como cualquier otra cosa que puedas encontrar. Si ves un payaso, corre. Porque podría ser un asesino.<\/p>\n<p><strong>Motivación:<\/strong> Homicidio<\/p>\n<p><strong>Entorno:<\/strong> Prácticamente en cualquier lugar<\/p>\n<p><strong>Salud:<\/strong> 25<\/p>\n<p><strong>Daño que inflige:<\/strong> 5 puntos<\/p>\n<p><strong>Movimiento:<\/strong> Corto<\/p>\n<p><strong>Ajustes: <\/strong>Nivel 7 para detectar falsedades, engaños y persuasión<\/p>\n<p><strong>Combate:<\/strong> Un payaso asesino intenta engañar a su víctima haciéndole creer que es un amigo. En realidad, el payaso está preparando una emboscada en la que la víctima puede morir estrangulada en privado. Cuando un payaso asesino ataca con éxito, inflige 5 puntos de daño y pone sus manos alrededor del cuello de la víctima. En cada ronda que la víctima no escape, sufre 5 puntos de daño por ser estrangulada.<\/p>\n<p>Algunos payasos asesinos conocen trucos que rozan lo sobrenatural. Un payaso de este tipo puede hacer una de las siguientes acciones durante el combate.<\/p>\n<table class=\"table table-dark table-striped table-sm\">\n <thead>\n  <tr>\n   <th scope=\"col\" class=\"text-center\">d6<\/th>\n   <th scope=\"col\">Truco de payaso<\/th>\n  <\/tr>\n <\/thead>\n <tbody>\n  <tr>\n   <td scope=\"row\" class=\"fw-normal text-center\">1<\/td>\n   <td>Revela un secreto que un personaje está ocultando a uno o más de sus aliados.<\/td>\n  <\/tr>\n  <tr>\n   <td scope=\"row\" class=\"fw-normal text-center\">2<\/td>\n   <td>Golpea al objetivo en los ojos como ataque de nivel 6, cegando al objetivo durante un minuto.<\/td>\n  <\/tr>\n  <tr>\n   <td scope=\"row\" class=\"fw-normal text-center\">3<\/td>\n   <td>Activa una trampilla debajo de la víctima que la hace caer 6 m [20 pies] en un sótano o bodega.<\/td>\n  <\/tr>\n  <tr>\n   <td scope=\"row\" class=\"fw-normal text-center\">4<\/td>\n   <td>Desaparece en una puerta o escotilla secreta y reaparece en algún lugar oculto a corta distancia.<\/td>\n  <\/tr>\n  <tr>\n   <td scope=\"row\" class=\"fw-normal text-center\">5<\/td>\n   <td>Golpea al objetivo en la garganta como ataque de nivel 6; el ataque de tos resultante hace que el objetivo pierda su siguiente acción.<\/td>\n  <\/tr>\n  <tr>\n   <td scope=\"row\" class=\"fw-normal text-center\">6<\/td>\n   <td>Toma un elixir o una bebida energética que cura al payaso asesino de todo el daño sufrido.<\/td>\n  <\/tr>\n <\/tbody>\n<\/table>\n<p><strong>Interacción:<\/strong> Un payaso asesino es todo bromas, trucos de magia y malabares, hasta que decide que es hora de atacar.<\/p>\n<p><strong>Uso:<\/strong> El espeluznante circo que acaba de llegar a la ciudad está custodiado por un payaso asesino, como pronto descubren los investigadores de la noche.<\/p>\n<p><strong>Botín:<\/strong> Un payaso asesino puede tener uno o dos Cyphers en forma de zumbido de alegría, tarjetas y baratijas baratas.<\/p>\n<p><strong>Intromisiones del DJ:<\/strong> El payaso arrebata un arma, un Cypher u otro objeto de la mano del personaje como ataque de nivel 6 y, si tiene éxito, lo utiliza inmediatamente contra el personaje.<\/p>",
+    "pools": {"health": {
+      "max": 3,
+      "value": 3
+    }},
+    "description": "",
+    "combat": {
+      "damage": 1,
+      "armor": 0
+    },
+    "basic": {
+      "level": 5,
+      "biography": "<p>Un payaso -ya sea un muñeco o lo que parece ser una persona maquillada de payaso- podría ser totalmente benigno. Pero si ves uno sentado solo en una habitación oscura, tumbado bajo tu cama o mirándote a través de la rejilla de la alcantarilla de la calle, podría ser un payaso asesino. Los payasos asesinos pueden ser espíritus malignos que poseen a alguien o una persona demente que vive una fantasía homicida. En cualquier caso, son tan peligrosos como cualquier otra cosa que puedas encontrar. Si ves un payaso, corre. Porque podría ser un asesino.<\/p>\n<p><strong>Motivación:<\/strong> Homicidio<\/p>\n<p><strong>Entorno:<\/strong> Prácticamente en cualquier lugar<\/p>\n<p><strong>Salud:<\/strong> 25<\/p>\n<p><strong>Daño que inflige:<\/strong> 5 puntos<\/p>\n<p><strong>Movimiento:<\/strong> Corto<\/p>\n<p><strong>Ajustes: <\/strong>Nivel 7 para detectar falsedades, engaños y persuasión<\/p>\n<p><strong>Combate:<\/strong> Un payaso asesino intenta engañar a su víctima haciéndole creer que es un amigo. En realidad, el payaso está preparando una emboscada en la que la víctima puede morir estrangulada en privado. Cuando un payaso asesino ataca con éxito, inflige 5 puntos de daño y pone sus manos alrededor del cuello de la víctima. En cada ronda que la víctima no escape, sufre 5 puntos de daño por ser estrangulada.<\/p>\n<p>Algunos payasos asesinos conocen trucos que rozan lo sobrenatural. Un payaso de este tipo puede hacer una de las siguientes acciones durante el combate.<\/p>\n<table class=\"table table-dark table-striped table-sm\">\n <thead>\n  <tr>\n   <th scope=\"col\" class=\"text-center\">d6<\/th>\n   <th scope=\"col\">Truco de payaso<\/th>\n  <\/tr>\n <\/thead>\n <tbody>\n  <tr>\n   <td scope=\"row\" class=\"fw-normal text-center\">1<\/td>\n   <td>Revela un secreto que un personaje está ocultando a uno o más de sus aliados.<\/td>\n  <\/tr>\n  <tr>\n   <td scope=\"row\" class=\"fw-normal text-center\">2<\/td>\n   <td>Golpea al objetivo en los ojos como ataque de nivel 6, cegando al objetivo durante un minuto.<\/td>\n  <\/tr>\n  <tr>\n   <td scope=\"row\" class=\"fw-normal text-center\">3<\/td>\n   <td>Activa una trampilla debajo de la víctima que la hace caer 6 m [20 pies] en un sótano o bodega.<\/td>\n  <\/tr>\n  <tr>\n   <td scope=\"row\" class=\"fw-normal text-center\">4<\/td>\n   <td>Desaparece en una puerta o escotilla secreta y reaparece en algún lugar oculto a corta distancia.<\/td>\n  <\/tr>\n  <tr>\n   <td scope=\"row\" class=\"fw-normal text-center\">5<\/td>\n   <td>Golpea al objetivo en la garganta como ataque de nivel 6; el ataque de tos resultante hace que el objetivo pierda su siguiente acción.<\/td>\n  <\/tr>\n  <tr>\n   <td scope=\"row\" class=\"fw-normal text-center\">6<\/td>\n   <td>Toma un elixir o una bebida energética que cura al payaso asesino de todo el daño sufrido.<\/td>\n  <\/tr>\n <\/tbody>\n<\/table>\n<p><strong>Interacción:<\/strong> Un payaso asesino es todo bromas, trucos de magia y malabares, hasta que decide que es hora de atacar.<\/p>\n<p><strong>Uso:<\/strong> El espeluznante circo que acaba de llegar a la ciudad está custodiado por un payaso asesino, como pronto descubren los investigadores de la noche.<\/p>\n<p><strong>Botín:<\/strong> Un payaso asesino puede tener uno o dos Cyphers en forma de zumbido de alegría, tarjetas y baratijas baratas.<\/p>\n<p><strong>Intromisiones del DJ:<\/strong> El payaso arrebata un arma, un Cypher u otro objeto de la mano del personaje como ataque de nivel 6 y, si tiene éxito, lo utiliza inmediatamente contra el personaje.<\/p>"
+    },
+    "teen": {
+      "settings": {},
+      "pools": {},
+      "basic": {}
+    },
+    "version": 2
+  },
+  "ownership": {
+    "N1n5f3sdQOJFmoJe": 3,
+    "default": 0
+  },
+  "name": "Payaso asesino",
+  "_id": "Iyx0QTRTuHLwr2g4",
+  "items": []
+}

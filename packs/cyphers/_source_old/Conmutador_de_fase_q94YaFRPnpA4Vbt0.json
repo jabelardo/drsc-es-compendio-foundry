@@ -1,0 +1,47 @@
+{
+  "img": "systems/cyphersystem/icons/items/cypher.svg",
+  "effects": [],
+  "folder": null,
+  "system": {
+    "archived": false,
+    "rollButton": {
+      "stepModifier": "eased",
+      "damage": 0,
+      "damagePerLOE": 3,
+      "bonus": 0,
+      "pool": "Pool",
+      "teen": "",
+      "additionalSteps": 0,
+      "effort1": 0,
+      "effort3": 0,
+      "assets": 0,
+      "effort2": 0,
+      "skill": "Practiced",
+      "additionalCost": 0
+    },
+    "description": "<p><strong>Nivel:</strong> 1d6 + 1</p>\n<p><strong>Efecto:</strong> Deja al usuario fuera de fase durante un minuto (dos minutos si el Cypher es de nivel 6 o superior). Durante este tiempo, pueden atravesar objetos sólidos como si fueran totalmente insustanciales, como un fantasma. No puede realizar ataques físicos ni ser atacado físicamente.</p>",
+    "basic": {
+      "identified": true,
+      "level": "1d6 + 1"
+    },
+    "version": 2
+  },
+  "ownership": {
+    "default": 0,
+    "k2TkElLx959B0lm5": 3
+  },
+  "_stats": {
+    "modifiedTime": 1664959728887,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "rLeavHPrdkq6xjNt",
+    "createdTime": null,
+    "systemVersion": "2.0.0-a1",
+    "coreVersion": "10.286"
+  },
+  "name": "Conmutador de fase",
+  "flags": {},
+  "sort": 0,
+  "_id": "q94YaFRPnpA4Vbt0",
+  "type": "cypher",
+  "_key": "!items!q94YaFRPnpA4Vbt0"
+}

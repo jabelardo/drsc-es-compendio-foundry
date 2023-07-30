@@ -1,0 +1,184 @@
+{
+  "img": "modules/drsc-es-compendio-foundry/img/tokens/humanoid_mundane.webp",
+  "_stats": {
+    "modifiedTime": 1683061849621,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "yThCrv1jSfPXOC2U",
+    "createdTime": 1683044590640,
+    "systemVersion": "2.5.0",
+    "coreVersion": "10.291"
+  },
+  "flags": {},
+  "sort": 0,
+  "type": "npc",
+  "_key": "!actors!5TEU6nYATxYKHo9n",
+  "prototypeToken": {
+    "displayBars": 50,
+    "displayName": 20,
+    "actorLink": false,
+    "texture": {
+      "scaleX": 1,
+      "offsetX": 0,
+      "scaleY": 1,
+      "offsetY": 0,
+      "src": "icons/svg/mystery-man.svg",
+      "rotation": 0,
+      "tint": null
+    },
+    "lockRotation": false,
+    "rotation": 0,
+    "detectionModes": [],
+    "flags": {"barbrawl": {"resourceBars": {
+      "bar1": {
+        "hideCombat": false,
+        "bgImage": "",
+        "hideNoCombat": false,
+        "hideFull": false,
+        "otherVisibility": 0,
+        "indentRight": null,
+        "subdivisionsOwner": false,
+        "id": "bar1",
+        "attribute": "pools.health",
+        "ownerVisibility": 50,
+        "hideEmpty": false,
+        "indentLeft": null,
+        "order": 0,
+        "shareHeight": false,
+        "invert": false,
+        "label": "",
+        "fgImage": "",
+        "maxcolor": "#80FF00",
+        "gmVisibility": -1,
+        "style": "user",
+        "mincolor": "#FF0000",
+        "position": "bottom-inner",
+        "opacity": null,
+        "invertDirection": false,
+        "subdivisions": null
+      },
+      "bar2": {
+        "hideCombat": false,
+        "bgImage": "",
+        "hideNoCombat": false,
+        "hideFull": false,
+        "otherVisibility": 0,
+        "indentRight": null,
+        "subdivisionsOwner": false,
+        "id": "bar2",
+        "attribute": "basic.level",
+        "ownerVisibility": 50,
+        "hideEmpty": false,
+        "indentLeft": null,
+        "order": 1,
+        "shareHeight": false,
+        "invert": false,
+        "max": null,
+        "label": "",
+        "fgImage": "",
+        "maxcolor": "#80B3FF",
+        "gmVisibility": -1,
+        "style": "user",
+        "mincolor": "#000080",
+        "position": "top-inner",
+        "opacity": null,
+        "invertDirection": false,
+        "subdivisions": null
+      }
+    }}},
+    "randomImg": false,
+    "bar1": {"attribute": "pools.health"},
+    "bar2": {"attribute": "basic.level"},
+    "disposition": 0,
+    "light": {
+      "attenuation": 0.5,
+      "color": null,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "animation": {
+        "intensity": 5,
+        "type": null,
+        "reverse": false,
+        "speed": 5
+      },
+      "saturation": 0,
+      "alpha": 0.5,
+      "contrast": 0,
+      "angle": 360,
+      "luminosity": 0.5,
+      "shadows": 0,
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "alpha": 1,
+    "name": "Niño mente colmena",
+    "width": 1,
+    "sight": {
+      "saturation": 0,
+      "attenuation": 0.1,
+      "brightness": 0,
+      "color": null,
+      "visionMode": "basic",
+      "contrast": 0,
+      "range": null,
+      "angle": 360,
+      "enabled": false
+    },
+    "height": 1
+  },
+  "effects": [],
+  "system": {
+    "settings": {
+      "general": {
+        "initiativeBonus": 0,
+        "hideArchive": false
+      },
+      "equipment": {
+        "ammo": {"active": false},
+        "armor": {"active": false},
+        "attacks": {"active": false},
+        "materials": {
+          "active": false,
+          "label": ""
+        },
+        "cyphers": {
+          "active": false,
+          "label": ""
+        },
+        "oddities": {
+          "active": false,
+          "label": ""
+        },
+        "artifacts": {
+          "active": false,
+          "label": ""
+        }
+      }
+    },
+    "notes": "<p>Una familia mente colmena es una expedición de reconocimiento de criaturas parcialmente alienígenas enviadas para estudiar e infiltrarse en la sociedad humana, ya sea por curiosidad científica o como un plan a largo plazo para la dominación del mundo o la extinción de la humanidad. Algunas entidades pueden interceptar a astronautas humanos, reprogramando su ADN o adhiriendo un parásito a su mente o alma. Otras podrían enviar una máquina a una comunidad aislada, fecundando a distancia a algunos de sus habitantes para que gesten y den a luz al mismo tiempo. El resultado final es un grupo de niños mente colmena que tienen un vínculo psíquico, poderes inusuales y lealtad a sus creadores inhumanos.<\/p>\n<p>Los niños mente colmena suelen tener un aspecto muy similar aunque sus padres sean diferentes: todos pueden tener el pelo rubio claro, ojos inusualmente grandes, seis dedos en una mano o una postura extraña. Sus expresiones y movimientos son inquietantemente parecidos. Piensan y hablan como niños años mayores de lo que parecen. Sus respuestas emocionales están atenuadas hasta un punto casi sociopático.<\/p>\n<p>Dependiendo de su origen, los niños mente colmena podrían estar tutelados o protegidos por un adulto alterado, o por padres humanos que niegan la existencia de los monstruos que cuidan.<\/p>\n<p><strong>Motivos:<\/strong> Conquista, exploración, infiltración.<\/p>\n<p><strong>Entorno:<\/strong> Asentamientos humanos<\/p>\n<p><strong>Salud:<\/strong> 6<\/p>\n<p><strong>Daño que inflige:<\/strong> 2 puntos<\/p>\n<p><strong>Movimiento:<\/strong> Corto<\/p>\n<p><strong>Ajustes:<\/strong> Nivel 3 para ataques mentales y Defensa por Intelecto; nivel 3 para Defensa contra ataques de criaturas vivas debido a la lectura de la mente; nivel 4 para percepción y conocimiento científico.<\/p>\n<p><strong>Combate:<\/strong> Individualmente, los niños mente colmena no son físicamente más fuertes ni más resistentes que un humano normal. Su verdadera fuerza reside en su capacidad para leer y controlar mentes. Su vínculo telepático implica que si uno de ellos sabe algo, todos los demás en un largo alcance lo saben automáticamente.<\/p>\n<p>Los niños mente colmena pueden leer automáticamente los pensamientos superficiales de cualquier persona que puedan ver a corta distancia, incluso si el objetivo no está dispuesto. Como acción, pueden obligar a una criatura viva inteligente que se encuentre a corta distancia a realizar una acción física, incluyendo algo que pudiera causar daño al objetivo, como obligar a un objetivo a meter la mano en agua hirviendo, conducir un coche en marcha por un precipicio o dispararse a sí mismo con una pistola (si se utiliza como ataque, esto inflige un daño igual al nivel del niño mente colmena o al nivel de la criatura controlada, el que sea mayor).<\/p>\n<p>Dos niños mente colmena a corta distancia entre sí aumentan automáticamente sus poderes mentales, lo que les permite leer o controlar las mentes de dos objetivos a la vez como una criatura de nivel 4. Cuatro niños mente colmena a corta distancia entre sí pueden leer o controlar las mentes de dos objetivos a la vez como una criatura de nivel 4. Cuatro niños mente colmena a corta distancia entre sí pueden leer o controlar las mentes de dos objetivos a la vez como una criatura de nivel 4. Cuatro a corta distancia entre sí pueden leer o controlar la mente de cuatro objetivos a la vez como una criatura de nivel 5, y ocho o más pueden trabajar juntos para leer o controlar la mente de ocho personas como una criatura de nivel 6.<\/p>\n<p><strong>Interacción:<\/strong> Los niños mente colmena quieren protegerse y observar a los humanos e intentarán hacerlo hasta que parezcan adultos. Sus objetivos a largo plazo no están claros, pero probablemente no tengan en mente los mejores intereses de la humanidad.<\/p>\n<p><strong>Uso:<\/strong> Los niños nacidos tras una expedición científica son extraños y diferentes. Múltiples pequeños pueblos de todo el mundo experimentan nacimientos de niños con extrañas habilidades.<\/p>\n<p><strong>Botín:<\/strong> Los niños mente colmena pueden no tener objetos útiles o tener un extraño artefacto científico que han construido con sus conocimientos inhumanos.<\/p>\n<p><strong>Intromisión de DJ: <\/strong>Un grupo de niños mente colmena manifiesta brevemente una habilidad de teletransporte o telequinesis al mismo nivel que su control mental.<\/p>\n<p>La herida o muerte de un niño mente colmena enfurece al resto, aumentando su nivel y daño en +2 durante una ronda.<\/p>",
+    "pools": {"health": {
+      "max": 6,
+      "value": 6
+    }},
+    "description": "",
+    "combat": {
+      "damage": 2,
+      "armor": 0
+    },
+    "basic": {
+      "level": 2,
+      "biography": "<p>Una familia mente colmena es una expedición de reconocimiento de criaturas parcialmente alienígenas enviadas para estudiar e infiltrarse en la sociedad humana, ya sea por curiosidad científica o como un plan a largo plazo para la dominación del mundo o la extinción de la humanidad. Algunas entidades pueden interceptar a astronautas humanos, reprogramando su ADN o adhiriendo un parásito a su mente o alma. Otras podrían enviar una máquina a una comunidad aislada, fecundando a distancia a algunos de sus habitantes para que gesten y den a luz al mismo tiempo. El resultado final es un grupo de niños mente colmena que tienen un vínculo psíquico, poderes inusuales y lealtad a sus creadores inhumanos.<\/p>\n<p>Los niños mente colmena suelen tener un aspecto muy similar aunque sus padres sean diferentes: todos pueden tener el pelo rubio claro, ojos inusualmente grandes, seis dedos en una mano o una postura extraña. Sus expresiones y movimientos son inquietantemente parecidos. Piensan y hablan como niños años mayores de lo que parecen. Sus respuestas emocionales están atenuadas hasta un punto casi sociopático.<\/p>\n<p>Dependiendo de su origen, los niños mente colmena podrían estar tutelados o protegidos por un adulto alterado, o por padres humanos que niegan la existencia de los monstruos que cuidan.<\/p>\n<p><strong>Motivos:<\/strong> Conquista, exploración, infiltración.<\/p>\n<p><strong>Entorno:<\/strong> Asentamientos humanos<\/p>\n<p><strong>Salud:<\/strong> 6<\/p>\n<p><strong>Daño que inflige:<\/strong> 2 puntos<\/p>\n<p><strong>Movimiento:<\/strong> Corto<\/p>\n<p><strong>Ajustes:<\/strong> Nivel 3 para ataques mentales y Defensa por Intelecto; nivel 3 para Defensa contra ataques de criaturas vivas debido a la lectura de la mente; nivel 4 para percepción y conocimiento científico.<\/p>\n<p><strong>Combate:<\/strong> Individualmente, los niños mente colmena no son físicamente más fuertes ni más resistentes que un humano normal. Su verdadera fuerza reside en su capacidad para leer y controlar mentes. Su vínculo telepático implica que si uno de ellos sabe algo, todos los demás en un largo alcance lo saben automáticamente.<\/p>\n<p>Los niños mente colmena pueden leer automáticamente los pensamientos superficiales de cualquier persona que puedan ver a corta distancia, incluso si el objetivo no está dispuesto. Como acción, pueden obligar a una criatura viva inteligente que se encuentre a corta distancia a realizar una acción física, incluyendo algo que pudiera causar daño al objetivo, como obligar a un objetivo a meter la mano en agua hirviendo, conducir un coche en marcha por un precipicio o dispararse a sí mismo con una pistola (si se utiliza como ataque, esto inflige un daño igual al nivel del niño mente colmena o al nivel de la criatura controlada, el que sea mayor).<\/p>\n<p>Dos niños mente colmena a corta distancia entre sí aumentan automáticamente sus poderes mentales, lo que les permite leer o controlar las mentes de dos objetivos a la vez como una criatura de nivel 4. Cuatro niños mente colmena a corta distancia entre sí pueden leer o controlar las mentes de dos objetivos a la vez como una criatura de nivel 4. Cuatro niños mente colmena a corta distancia entre sí pueden leer o controlar las mentes de dos objetivos a la vez como una criatura de nivel 4. Cuatro a corta distancia entre sí pueden leer o controlar la mente de cuatro objetivos a la vez como una criatura de nivel 5, y ocho o más pueden trabajar juntos para leer o controlar la mente de ocho personas como una criatura de nivel 6.<\/p>\n<p><strong>Interacción:<\/strong> Los niños mente colmena quieren protegerse y observar a los humanos e intentarán hacerlo hasta que parezcan adultos. Sus objetivos a largo plazo no están claros, pero probablemente no tengan en mente los mejores intereses de la humanidad.<\/p>\n<p><strong>Uso:<\/strong> Los niños nacidos tras una expedición científica son extraños y diferentes. Múltiples pequeños pueblos de todo el mundo experimentan nacimientos de niños con extrañas habilidades.<\/p>\n<p><strong>Botín:<\/strong> Los niños mente colmena pueden no tener objetos útiles o tener un extraño artefacto científico que han construido con sus conocimientos inhumanos.<\/p>\n<p><strong>Intromisión de DJ: <\/strong>Un grupo de niños mente colmena manifiesta brevemente una habilidad de teletransporte o telequinesis al mismo nivel que su control mental.<\/p>\n<p>La herida o muerte de un niño mente colmena enfurece al resto, aumentando su nivel y daño en +2 durante una ronda.<\/p>"
+    },
+    "version": 3
+  },
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "name": "Niño mente colmena",
+  "_id": "5TEU6nYATxYKHo9n",
+  "items": []
+}

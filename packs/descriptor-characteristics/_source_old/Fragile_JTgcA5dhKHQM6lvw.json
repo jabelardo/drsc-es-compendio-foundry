@@ -1,0 +1,58 @@
+{
+  "name": "Frágil",
+  "type": "ability",
+  "img": "systems/cyphersystem/icons/items/ability.svg",
+  "system": {
+    "version": 2,
+    "description": "<p>Cuando fallas una tirada de Defensa por Vigor para evitar el daño, recibes 1 punto de daño extra.</p>",
+    "archived": false,
+    "settings": {
+      "rollButton": {
+        "pool": "Pool",
+        "skill": "Practiced",
+        "assets": "0",
+        "effort1": "0",
+        "effort2": "0",
+        "effort3": "0",
+        "stepModifier": "eased",
+        "additionalSteps": 0,
+        "additionalCost": 0,
+        "damage": 0,
+        "damagePerLOE": 3,
+        "teen": "",
+        "bonus": 0
+      },
+      "general": {
+        "sorting": "Ability",
+        "spellTier": "low",
+        "unmaskedForm": "Mask"
+      }
+    },
+    "basic": {
+      "cost": "0",
+      "pool": "Pool"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "rLeavHPrdkq6xjNt": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Item.4pFginBe0IshiYOx"
+    }
+  },
+  "_stats": {
+    "systemId": "cyphersystem",
+    "systemVersion": "2.0.0-b3",
+    "coreVersion": "10.288",
+    "createdTime": 1666970894949,
+    "modifiedTime": 1666970908308,
+    "lastModifiedBy": "rLeavHPrdkq6xjNt"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "JTgcA5dhKHQM6lvw",
+  "_key": "!items!JTgcA5dhKHQM6lvw"
+}

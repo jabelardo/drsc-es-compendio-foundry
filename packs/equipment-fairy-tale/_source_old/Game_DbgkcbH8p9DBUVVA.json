@@ -1,0 +1,36 @@
+{
+  "name": "Juego",
+  "type": "equipment",
+  "img": "systems/cyphersystem/icons/items/equipment.svg",
+  "system": {
+    "version": 2,
+    "description": "",
+    "archived": false,
+    "basic": {
+      "level": null,
+      "quantity": 1
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Item.GAZEd5QMhwHUzkRD"
+    }
+  },
+  "_stats": {
+    "systemId": "cyphersystem",
+    "systemVersion": "2.6.0",
+    "coreVersion": "10.291",
+    "createdTime": 1685269820734,
+    "modifiedTime": 1685269823605,
+    "lastModifiedBy": "yThCrv1jSfPXOC2U"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "DbgkcbH8p9DBUVVA",
+  "_key": "!items!DbgkcbH8p9DBUVVA"
+}

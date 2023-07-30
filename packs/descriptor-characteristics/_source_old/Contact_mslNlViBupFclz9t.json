@@ -1,0 +1,58 @@
+{
+  "name": "Contacto",
+  "type": "ability",
+  "img": "systems/cyphersystem/icons/items/ability.svg",
+  "system": {
+    "version": 2,
+    "description": "<p>Tienes un contacto importante que ocupa una posición influyente, como un noble menor, el capitán de la guardia/policía de la ciudad o el jefe de una gran banda de ladrones. Tú y el DJ deben concretar los detalles juntos.</p>",
+    "archived": false,
+    "settings": {
+      "rollButton": {
+        "pool": "Pool",
+        "skill": "Practiced",
+        "assets": "0",
+        "effort1": "0",
+        "effort2": "0",
+        "effort3": "0",
+        "stepModifier": "eased",
+        "additionalSteps": 0,
+        "additionalCost": 0,
+        "damage": 0,
+        "damagePerLOE": 3,
+        "teen": "",
+        "bonus": 0
+      },
+      "general": {
+        "sorting": "Ability",
+        "spellTier": "low",
+        "unmaskedForm": "Mask"
+      }
+    },
+    "basic": {
+      "cost": "0",
+      "pool": "Pool"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "rLeavHPrdkq6xjNt": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Item.gyFHqRG4Sp4L4Y8z"
+    }
+  },
+  "_stats": {
+    "systemId": "cyphersystem",
+    "systemVersion": "2.0.0-b3",
+    "coreVersion": "10.288",
+    "createdTime": 1666959828777,
+    "modifiedTime": 1666959836114,
+    "lastModifiedBy": "rLeavHPrdkq6xjNt"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "mslNlViBupFclz9t",
+  "_key": "!items!mslNlViBupFclz9t"
+}

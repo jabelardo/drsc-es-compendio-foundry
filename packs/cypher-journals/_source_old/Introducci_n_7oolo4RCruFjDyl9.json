@@ -1,0 +1,27 @@
+{
+  "sort": 100000,
+  "name": "Introducción",
+  "type": "text",
+  "_id": "7oolo4RCruFjDyl9",
+  "title": {
+    "show": true,
+    "level": 1
+  },
+  "image": {},
+  "text": {
+    "format": 1,
+    "content": "<img src=\"systems/cyphersystem/icons/journals/csrd-logo-color.webp\" style=\"border:none;margin:10px;float:right\" width=\"128\" /><p>Cypher Cortos son lo que llamamos aventuras rápidas y sencillas para usar con el Sistema Cypher. La idea es una aventura con una creación de personajes muy rápida y una preparación mínima por parte del DJ, diseñada para una partida única que puede terminarse en una sola sesión de tres o cuatro horas. Si una campaña típica es una serie de televisión en curso, piensa en un Cypher Corto como en una película.</p><p>Cypher Cortos es un suplemento para el Sistema Cypher. Necesitas el  @UUID[Compendium.drsc-es-compendio-foundry.cypher-journals.k9exUQdtIwtKwqCc]{Reglamento del Sistema Cypher} para jugar.</p><p>para jugar:</p><ul><li><p>Personajes muy sencillos que participan inmediatamente en la situación. No hay largas introducciones expositivas, ni escenas de \"encuentro en una taberna\".</p></li><li><p>Los personajes tienen objetivos claros y no se piensa en su evolución. Este es un juego de una sola partida, y no nos preocupamos de lo que vino antes o lo que viene después.</p></li><li><p>Hay menos trama que situación. La trama implica una dirección lineal: \"Pasa esto, luego esto, luego esto\". Los Cypher Cortos están pensados para ser enmarcados más como: \"Te ves envuelto en esta situación, ¿qué haces?\".</p></li><li><p>Del mismo modo que los jugadores deben improvisar para reaccionar y enfrentarse a situaciones que no sabían que iban a ocurrir, el DJ debe estar preparado para hacer lo mismo.</p></li></ul>",
+    "markdown": ""
+  },
+  "video": {
+    "controls": true,
+    "volume": 0.5
+  },
+  "src": null,
+  "system": {},
+  "ownership": {
+    "default": -1
+  },
+  "flags": {},
+  "_key": "!journal.pages!PKCjLTTMneyVzrpg.7oolo4RCruFjDyl9"
+}

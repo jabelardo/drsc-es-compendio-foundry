@@ -1,0 +1,16 @@
+{
+  "img": "systems/cyphersystem/icons/items/cypher.svg",
+  "documentCollection": "cyphersystem-compendium.cyphers-fairy-tale",
+  "flags": {},
+  "weight": 1,
+  "range": [
+    90,
+    90
+  ],
+  "documentId": "KeHsHdk3nYFePkkZ",
+  "text": "Lágrimas del Hombre de Hojalata",
+  "_id": "IN1M2EQpFSzeEtLo",
+  "type": 2,
+  "drawn": false,
+  "_key": "!tables.results!CkH6ebWiUPmhjbw0.IN1M2EQpFSzeEtLo"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Alcance aumentado",
+  "type": "power-shift",
+  "img": "systems/cyphersystem/icons/items/power-shift.svg",
+  "system": {
+    "version": 2,
+    "description": "<p>Aumenta el alcance de una capacidad o ataque. Una capacidad de alcance de toque (como Shock) aumenta a corto alcance, una capacidad de corto alcance aumenta a largo alcance y una capacidad de largo alcance aumenta a muy largo alcance.</p>",
+    "archived": false,
+    "basic": {
+      "shifts": 1
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Item.8Em6O1WQCv5DEiK6"
+    }
+  },
+  "_stats": {
+    "systemId": "cyphersystem",
+    "systemVersion": "2.5.0",
+    "coreVersion": "10.291",
+    "createdTime": 1682092633351,
+    "modifiedTime": 1682092644107,
+    "lastModifiedBy": "yThCrv1jSfPXOC2U"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "YlM7HWnvng0PGZDE",
+  "_key": "!items!YlM7HWnvng0PGZDE"
+}

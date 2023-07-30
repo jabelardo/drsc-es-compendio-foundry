@@ -1,0 +1,16 @@
+{
+  "img": "systems/cyphersystem/icons/items/cypher.svg",
+  "flags": {},
+  "documentCollection": "cyphersystem-compendium.cyphers",
+  "weight": 3,
+  "range": [
+    64,
+    66
+  ],
+  "documentId": "pMUiPSVOb2VPa79t",
+  "_id": "0OlbnbYf8oo7zLgZ",
+  "text": "64-66",
+  "type": 2,
+  "drawn": false,
+  "_key": "!tables.results!yXkmPLGNM6UH5nkx.0OlbnbYf8oo7zLgZ"
+}

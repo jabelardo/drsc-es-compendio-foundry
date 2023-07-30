@@ -1,0 +1,63 @@
+{
+  "name": "Cyphers Sutiles",
+  "img": "icons/svg/d20-grey.svg",
+  "results": [
+    "mGd4PLq6xh4TvA4O",
+    "zmBX5cCwToBfEs3j",
+    "5JhZCrhkEL6lgw0x",
+    "TTI2mSm34ANMNCQh",
+    "6gWhUtJsqOfX1u4W",
+    "KUooi46uIrJL3sSB",
+    "BjIkvi45e2RQQtoC",
+    "ZioA43CUc9udYXyN",
+    "Y9EAyv4KPKQfEEWq",
+    "DomNHbC5oOjyjZrG",
+    "7PwjjZqa4rBkXvqm",
+    "fTpEwh02fsTgTZuL",
+    "wQLD7U5jia5oyoeW",
+    "6DrdjrnY9Aia3ruc",
+    "kUyh1CM0FrX8inlu",
+    "dMYRB5DxSAvE1V7g",
+    "VLhOIGDKvDAAOBR6",
+    "fOcOHIyr2gCWhyue",
+    "5unnHdkdykCzT2dV",
+    "zjoBdnuvwvH8bbH5",
+    "0OlbnbYf8oo7zLgZ",
+    "cmS0yoyNqDDC74nN",
+    "3GnMZZiJtPnyBuBf",
+    "dp25VJUqgmeslQh7",
+    "lAnB261KqVxGHBcH",
+    "6WcpZUp3KlEZOXXG",
+    "i9E5IgRcrhZNtrCQ",
+    "PGWrTJd2dPt1iFiq",
+    "FfwJUf67hyotYGQM",
+    "m2HPkjPYev0tuJHF",
+    "v8PYWc3GuZ3YDIYX",
+    "WC491QWG6lmAHYjd"
+  ],
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.e0CoLxOCOO7LAKeh"
+    }
+  },
+  "_id": "yXkmPLGNM6UH5nkx",
+  "ownership": {
+    "default": 0,
+    "N1n5f3sdQOJFmoJe": 3
+  },
+  "description": "",
+  "_stats": {
+    "systemId": "cyphersystem",
+    "systemVersion": "2.3.0",
+    "coreVersion": "10.291",
+    "createdTime": null,
+    "modifiedTime": 1676368280325,
+    "lastModifiedBy": "yThCrv1jSfPXOC2U"
+  },
+  "_key": "!tables!yXkmPLGNM6UH5nkx"
+}

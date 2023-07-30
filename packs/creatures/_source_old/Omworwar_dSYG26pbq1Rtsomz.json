@@ -1,0 +1,128 @@
+{
+  "img": "modules/drsc-es-compendio-foundry/img/tokens/magical-beast.webp",
+  "_stats": {
+    "modifiedTime": 1676797809228,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "yThCrv1jSfPXOC2U",
+    "createdTime": 1676453128626,
+    "systemVersion": "2.3.0",
+    "coreVersion": "10.291"
+  },
+  "flags": {"core": {"sourceId": "Actor.p0T4BPI9R2KaQgm3"}},
+  "sort": 0,
+  "type": "npc",
+  "_key": "!actors!dSYG26pbq1Rtsomz",
+  "prototypeToken": {
+    "displayBars": 40,
+    "displayName": 20,
+    "actorLink": false,
+    "texture": {
+      "scaleX": 1,
+      "offsetX": 0,
+      "scaleY": 1,
+      "offsetY": 0,
+      "src": "icons/svg/mystery-man.svg",
+      "rotation": 0,
+      "tint": null
+    },
+    "lockRotation": false,
+    "rotation": 0,
+    "detectionModes": [],
+    "flags": {},
+    "randomImg": false,
+    "bar1": {"attribute": "pools.health"},
+    "bar2": {"attribute": "basic.level"},
+    "disposition": 0,
+    "light": {
+      "attenuation": 0.5,
+      "color": null,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "animation": {
+        "intensity": 5,
+        "type": null,
+        "reverse": false,
+        "speed": 5
+      },
+      "saturation": 0,
+      "alpha": 0.5,
+      "contrast": 0,
+      "angle": 360,
+      "luminosity": 0.5,
+      "shadows": 0,
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "alpha": 1,
+    "name": "Omworwar",
+    "width": 1,
+    "sight": {
+      "saturation": 0,
+      "attenuation": 0.1,
+      "brightness": 0,
+      "color": null,
+      "visionMode": "basic",
+      "contrast": 0,
+      "range": null,
+      "angle": 360,
+      "enabled": false
+    },
+    "height": 1
+  },
+  "effects": [],
+  "system": {
+    "settings": {
+      "general": {
+        "initiativeBonus": 0,
+        "hideArchive": false
+      },
+      "equipment": {
+        "ammo": {"active": false},
+        "armor": {"active": false},
+        "attacks": {"active": false},
+        "materials": {
+          "active": false,
+          "label": ""
+        },
+        "cyphers": {
+          "active": false,
+          "label": ""
+        },
+        "oddities": {
+          "active": false,
+          "label": ""
+        },
+        "artifacts": {
+          "active": false,
+          "label": ""
+        }
+      }
+    },
+    "notes": "<p>Entre las muchas historias transmitidas por las rutas espaciales, algunas destacan por su grandiosidad. Por ejemplo, las historias de avistamientos de omworwar en los vacíos entre estrellas o, lo que es aún más inesperado, destellos en el espacio anómalo durante un viaje superlumínico. Los científicos especulan con la posibilidad de que estas criaturas, de ser reales, podrían muy bien ser casos existentes de antiguos ultras, no extintos como todo el mundo cree, o al menos no del todo. En casi todos los casos registrados hasta ahora, los omworwars muestran poco interés por las naves espaciales humanas. (Se les llama omworwar por el sonido que emiten en su presencia los dispositivos de comunicación interrumpidos). Cada uno de ellos mide varios kilómetros de largo, con un núcleo interior oscuro en forma de babosa rodeado de capas de tejido translúcido, brillante y nebuloso. La superficie dorsal está coronada por ojos en forma de ballena, cada uno de los cuales parece contener una galaxia diminuta.<\/p>\n<p>Se han visto interceptores wharn acompañando a omworwars individuales, lo que indica una asociación, y es la razón por la que algunas personas se refieren a estos seres como cogitadores wharn.<\/p>\n<p><strong>Motivación: <\/strong>Impredecible<\/p>\n<p><strong>Entorno:<\/strong> Casi en cualquier parte del espacio, solo o acompañado de uno o dos interceptores wharn<\/p>\n<p><strong>Salud:<\/strong> 42<\/p>\n<p><strong>Daño que inflige:<\/strong> 12 puntos<\/p>\n<p><strong>Armadura: <\/strong>10<\/p>\n<p><strong>Movimiento: <\/strong>Vuela una distancia muy larga cada ronda; puede maniobrar como una nave espacial autónoma de nivel 7 si se usan las reglas de combate vehicular ampliado. Capaz de velocidad superlumínica.<\/p>\n<p><strong>Ajustes<\/strong>: Defensa por Velocidad de nivel 7 debido a su tamaño.<\/p>\n<p><strong>Combate: <\/strong>Un omworwar puede manipular y plegar la gravedad (y el espacio-tiempo), lo que le permite realizar tareas casi milagrosas, como comunicarse, crear o destruir materia y propulsarse \"cayendo\" por el universo a velocidades superlumínicas desde la perspectiva de un observador externo. Lo que significa que uno de ellos puede romper una nave espacial, enviar una nave espacial girando a través de la galaxia, o crear trozos de materia espacial del tamaño de asteroides para cualquier número de propósitos si pasa varias rondas en profunda concentración.<\/p>\n<p><strong>Interacción:<\/strong> Los omworwar no tienen en cuenta a la mayoría de las demás criaturas, ya que, desde su perspectiva, son como moscas de mayo, que están aquí y vuelven a desaparecer en un abrir y cerrar de ojos de su existencia. Sin embargo, uno puede dedicar un momento a alguien que ha descubierto un ultra secreto antiguo o artefacto, transmitir información que de otro modo nunca se conocería, o incluso proporcionar un Cypher manifiesto útil.<\/p>\n<p><strong>Uso:<\/strong> Un objeto reflectante compuesto de un material desconocido fue encontrado en el núcleo de una estación espacial destruida inesperadamente. Los que consiguieron huir en los botes salvavidas afirman haber visto lo que podría haber sido un omworwar, sangrando energía y con los ojos oscureciéndose, colisionando con la estación. El bulto resultante podría ser sólo su cadáver, o tal vez su crisálida protectora.<\/p>\n<p><strong>Botín:<\/strong> Cuatro Cyphers manifiestos de nivel 10.<\/p>\n<p><strong>Intromisiones del DJ:<\/strong> El personaje descubre que uno de sus Cyphers manifiestos ha formado un ojo diminuto, pero un ojo que parece contener una galaxia. (El Cyphers se vuelve inútil para su función original, pero podría usarse para invocar o interactuar con un omworwar).<\/p>",
+    "pools": {"health": {
+      "max": 42,
+      "value": 42
+    }},
+    "description": "",
+    "combat": {
+      "damage": 12,
+      "armor": 10
+    },
+    "basic": {
+      "level": 10,
+      "biography": "<p>Entre las muchas historias transmitidas por las rutas espaciales, algunas destacan por su grandiosidad. Por ejemplo, las historias de avistamientos de omworwar en los vacíos entre estrellas o, lo que es aún más inesperado, destellos en el espacio anómalo durante un viaje superlumínico. Los científicos especulan con la posibilidad de que estas criaturas, de ser reales, podrían muy bien ser casos existentes de antiguos ultras, no extintos como todo el mundo cree, o al menos no del todo. En casi todos los casos registrados hasta ahora, los omworwars muestran poco interés por las naves espaciales humanas. (Se les llama omworwar por el sonido que emiten en su presencia los dispositivos de comunicación interrumpidos). Cada uno de ellos mide varios kilómetros de largo, con un núcleo interior oscuro en forma de babosa rodeado de capas de tejido translúcido, brillante y nebuloso. La superficie dorsal está coronada por ojos en forma de ballena, cada uno de los cuales parece contener una galaxia diminuta.<\/p>\n<p>Se han visto interceptores wharn acompañando a omworwars individuales, lo que indica una asociación, y es la razón por la que algunas personas se refieren a estos seres como cogitadores wharn.<\/p>\n<p><strong>Motivación: <\/strong>Impredecible<\/p>\n<p><strong>Entorno:<\/strong> Casi en cualquier parte del espacio, solo o acompañado de uno o dos interceptores wharn<\/p>\n<p><strong>Salud:<\/strong> 42<\/p>\n<p><strong>Daño que inflige:<\/strong> 12 puntos<\/p>\n<p><strong>Armadura: <\/strong>10<\/p>\n<p><strong>Movimiento: <\/strong>Vuela una distancia muy larga cada ronda; puede maniobrar como una nave espacial autónoma de nivel 7 si se usan las reglas de combate vehicular ampliado. Capaz de velocidad superlumínica.<\/p>\n<p><strong>Ajustes<\/strong>: Defensa por Velocidad de nivel 7 debido a su tamaño.<\/p>\n<p><strong>Combate: <\/strong>Un omworwar puede manipular y plegar la gravedad (y el espacio-tiempo), lo que le permite realizar tareas casi milagrosas, como comunicarse, crear o destruir materia y propulsarse \"cayendo\" por el universo a velocidades superlumínicas desde la perspectiva de un observador externo. Lo que significa que uno de ellos puede romper una nave espacial, enviar una nave espacial girando a través de la galaxia, o crear trozos de materia espacial del tamaño de asteroides para cualquier número de propósitos si pasa varias rondas en profunda concentración.<\/p>\n<p><strong>Interacción:<\/strong> Los omworwar no tienen en cuenta a la mayoría de las demás criaturas, ya que, desde su perspectiva, son como moscas de mayo, que están aquí y vuelven a desaparecer en un abrir y cerrar de ojos de su existencia. Sin embargo, uno puede dedicar un momento a alguien que ha descubierto un ultra secreto antiguo o artefacto, transmitir información que de otro modo nunca se conocería, o incluso proporcionar un Cypher manifiesto útil.<\/p>\n<p><strong>Uso:<\/strong> Un objeto reflectante compuesto de un material desconocido fue encontrado en el núcleo de una estación espacial destruida inesperadamente. Los que consiguieron huir en los botes salvavidas afirman haber visto lo que podría haber sido un omworwar, sangrando energía y con los ojos oscureciéndose, colisionando con la estación. El bulto resultante podría ser sólo su cadáver, o tal vez su crisálida protectora.<\/p>\n<p><strong>Botín:<\/strong> Cuatro Cyphers manifiestos de nivel 10.<\/p>\n<p><strong>Intromisiones del DJ:<\/strong> El personaje descubre que uno de sus Cyphers manifiestos ha formado un ojo diminuto, pero un ojo que parece contener una galaxia. (El Cyphers se vuelve inútil para su función original, pero podría usarse para invocar o interactuar con un omworwar).<\/p>"
+    },
+    "version": 2
+  },
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "name": "Omworwar",
+  "_id": "dSYG26pbq1Rtsomz",
+  "items": []
+}

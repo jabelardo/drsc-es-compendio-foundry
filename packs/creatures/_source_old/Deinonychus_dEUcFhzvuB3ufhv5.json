@@ -1,0 +1,135 @@
+{
+  "img": "modules/drsc-es-compendio-foundry/img/tokens/animal_dinosaur.webp",
+  "_stats": {
+    "modifiedTime": 1676797808971,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "yThCrv1jSfPXOC2U",
+    "createdTime": null,
+    "systemVersion": "2.3.0",
+    "coreVersion": "10.291"
+  },
+  "flags": {},
+  "sort": 0,
+  "type": "npc",
+  "_key": "!actors!dEUcFhzvuB3ufhv5",
+  "prototypeToken": {
+    "displayBars": 40,
+    "displayName": 20,
+    "actorLink": false,
+    "lockRotation": false,
+    "texture": {
+      "scaleX": 1,
+      "offsetX": 0,
+      "scaleY": 1,
+      "offsetY": 0,
+      "src": "icons/svg/mystery-man.svg",
+      "rotation": 0,
+      "tint": null
+    },
+    "rotation": 0,
+    "detectionModes": [],
+    "flags": {},
+    "randomImg": false,
+    "bar1": {"attribute": "pools.health"},
+    "bar2": {"attribute": "basic.level"},
+    "disposition": 0,
+    "light": {
+      "attenuation": 0.5,
+      "color": null,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "animation": {
+        "intensity": 5,
+        "reverse": false,
+        "type": null,
+        "speed": 5
+      },
+      "saturation": 0,
+      "alpha": 0.5,
+      "contrast": 0,
+      "angle": 360,
+      "luminosity": 0.5,
+      "shadows": 0,
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "alpha": 1,
+    "name": "Deinonychus",
+    "width": 1,
+    "sight": {
+      "saturation": 0,
+      "brightness": 1,
+      "attenuation": 0.1,
+      "color": null,
+      "visionMode": "basic",
+      "contrast": 0,
+      "angle": 360,
+      "range": 0,
+      "enabled": false
+    },
+    "height": 1
+  },
+  "effects": [],
+  "folder": null,
+  "system": {
+    "settings": {
+      "skills": {},
+      "abilities": {},
+      "general": {
+        "initiativeBonus": 0,
+        "hideArchive": false
+      },
+      "equipment": {
+        "ammo": {"active": false},
+        "armor": {"active": false},
+        "attacks": {"active": false},
+        "materials": {
+          "active": false,
+          "label": ""
+        },
+        "cyphers": {
+          "active": false,
+          "label": ""
+        },
+        "oddities": {
+          "active": false,
+          "label": ""
+        },
+        "artifacts": {
+          "active": false,
+          "label": ""
+        }
+      }
+    },
+    "notes": "<p>Conocido popularmente como velociraptor, al género de dinosaurios llamado deinonychus no le importa que sus presas tengan la terminología adecuada. La carne sabe a carne. La \"garra terrible\" que da nombre a estos carnívoros hace referencia a sus enormes garras en forma de hoz, que desenvainan de sus patas traseras cuando atacan a sus presas.<\/p>\n<p>Los deinonychus son cazadores en manada, lo que significa que trabajan juntos como una unidad, asumiendo cada uno de ellos diferentes funciones para asustar, acorralar y dirigir incluso a las presas inteligentes hacia las garras de una emboscada.<\/p>\n<p><strong>Motivación:<\/strong> Alimentación (carne)<\/p>\n<p><strong>Entorno:<\/strong> Dondequiera que puedan cazar comida, en manadas de tres a siete<\/p>\n<p><strong>Salud:<\/strong> 15<\/p>\n<p><strong>Daño que inflige:<\/strong> 4 puntos<\/p>\n<p><strong>Armadura:<\/strong> 1<\/p>\n<p><strong>Movimiento:<\/strong> Corto<\/p>\n<p><strong>Ajustes:<\/strong> Nivel 5 para percepción; nivel 4 para ataques y Defensa por Velocidad debido a la rapidez; nivel 4 para superación de obstáculos y averiguar trucos<\/p>\n<p><strong>Combate:<\/strong> Cuando un deinonychus muerde a su presa, la víctima recibe daño y debe hacer una tirada de Defensa por Vigor. Si falla, el deinonychus sujeta a la víctima con sus mandíbulas mientras la hace pedazos con sus terribles garras, infligiéndole automáticamente 6 puntos de daño cada ronda en la que falle una tarea basada en Vigor para liberarse (no intentar liberarse cuenta como un intento fallido). En el caso de una víctima de tamaño humano o más pequeño retenida en las mandíbulas, todas las demás tareas se ven obstaculizadas por dos grados.<\/p>\n<p><strong>Interacción:<\/strong> Feroces, astutas y un poco demasiado inteligentes para ser clasificadas como simples depredadores, es poco probable que estas criaturas negocien, den cuartel o se echen atrás en una pelea incluso si se pudiera establecer contacto.<\/p>\n<p><strong>Uso:<\/strong> Algún loco ha decidido construir un zoo de temática cretácica. La única pregunta es: ¿Cuánto tiempo pasará antes de que los dinosaurios se suelten y se apoderen del centro comercial local?<\/p>\n<p><strong>Intromisiones del DJ:<\/strong> El deinonychus que huía en realidad estaba llevando al personaje por un acantilado, a una trampa mortal, o a una emboscada con más deinonychus.<\/p>",
+    "pools": {"health": {
+      "max": 15,
+      "value": 15
+    }},
+    "description": "",
+    "combat": {
+      "damage": 4,
+      "armor": 1
+    },
+    "basic": {
+      "level": 3,
+      "biography": "<p>Conocido popularmente como velociraptor, al género de dinosaurios llamado deinonychus no le importa que sus presas tengan la terminología adecuada. La carne sabe a carne. La \"garra terrible\" que da nombre a estos carnívoros hace referencia a sus enormes garras en forma de hoz, que desenvainan de sus patas traseras cuando atacan a sus presas.<\/p>\n<p>Los deinonychus son cazadores en manada, lo que significa que trabajan juntos como una unidad, asumiendo cada uno de ellos diferentes funciones para asustar, acorralar y dirigir incluso a las presas inteligentes hacia las garras de una emboscada.<\/p>\n<p><strong>Motivación:<\/strong> Alimentación (carne)<\/p>\n<p><strong>Entorno:<\/strong> Dondequiera que puedan cazar comida, en manadas de tres a siete<\/p>\n<p><strong>Salud:<\/strong> 15<\/p>\n<p><strong>Daño que inflige:<\/strong> 4 puntos<\/p>\n<p><strong>Armadura:<\/strong> 1<\/p>\n<p><strong>Movimiento:<\/strong> Corto<\/p>\n<p><strong>Ajustes:<\/strong> Nivel 5 para percepción; nivel 4 para ataques y Defensa por Velocidad debido a la rapidez; nivel 4 para superación de obstáculos y averiguar trucos<\/p>\n<p><strong>Combate:<\/strong> Cuando un deinonychus muerde a su presa, la víctima recibe daño y debe hacer una tirada de Defensa por Vigor. Si falla, el deinonychus sujeta a la víctima con sus mandíbulas mientras la hace pedazos con sus terribles garras, infligiéndole automáticamente 6 puntos de daño cada ronda en la que falle una tarea basada en Vigor para liberarse (no intentar liberarse cuenta como un intento fallido). En el caso de una víctima de tamaño humano o más pequeño retenida en las mandíbulas, todas las demás tareas se ven obstaculizadas por dos grados.<\/p>\n<p><strong>Interacción:<\/strong> Feroces, astutas y un poco demasiado inteligentes para ser clasificadas como simples depredadores, es poco probable que estas criaturas negocien, den cuartel o se echen atrás en una pelea incluso si se pudiera establecer contacto.<\/p>\n<p><strong>Uso:<\/strong> Algún loco ha decidido construir un zoo de temática cretácica. La única pregunta es: ¿Cuánto tiempo pasará antes de que los dinosaurios se suelten y se apoderen del centro comercial local?<\/p>\n<p><strong>Intromisiones del DJ:<\/strong> El deinonychus que huía en realidad estaba llevando al personaje por un acantilado, a una trampa mortal, o a una emboscada con más deinonychus.<\/p>"
+    },
+    "teen": {
+      "settings": {},
+      "pools": {},
+      "basic": {}
+    },
+    "version": 2
+  },
+  "ownership": {
+    "N1n5f3sdQOJFmoJe": 3,
+    "default": 0
+  },
+  "name": "Deinonychus",
+  "_id": "dEUcFhzvuB3ufhv5",
+  "items": []
+}

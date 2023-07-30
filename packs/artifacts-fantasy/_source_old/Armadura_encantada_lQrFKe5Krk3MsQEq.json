@@ -1,0 +1,57 @@
+{
+  "img": "systems/cyphersystem/icons/items/artifact.svg",
+  "effects": [],
+  "system": {
+    "archived": false,
+    "settings": {
+      "general": {
+        "nameUnidentified": ""
+      }
+    },
+    "rollButton": {
+      "stepModifier": "eased",
+      "damage": 0,
+      "damagePerLOE": 3,
+      "bonus": 0,
+      "pool": "Pool",
+      "teen": "",
+      "additionalSteps": 0,
+      "effort1": 0,
+      "effort3": 0,
+      "assets": 0,
+      "effort2": 0,
+      "skill": "Practiced",
+      "additionalCost": 0
+    },
+    "description": "<p><strong>Nivel:</strong> 1d6 + 3</p>\n<p><strong>Aspecto:</strong> Traje completo de armadura ligera, media o pesada</p>\n<p><strong>Efecto:</strong> Esta armadura está cuidadosamente elaborada y reforzada con magia para ser más fuerte y protectora que las armaduras típicas. Es una armadura según su tipo (ligera, media o pesada), pero otorga un +1 de Armadura adicional (o +2 si el artefacto es de nivel 7 o superior) más allá de lo que proporcionaría normalmente. Por ejemplo, la cota de malla es una armadura media (2 de Armadura), por lo que la cota de malla encantada proporciona un total de 3 de Armadura (para un artefacto de nivel 6 o inferior) o 4 de Armadura (para un artefacto de nivel 7 o superior).</p>\n<p>La Armadura adicional proporcionada por la magia también se aplica al daño que a menudo no se reduce con una armadura típica, como el daño por calor o frío (pero no el daño por Intelecto).</p>\n<p><strong>Agotamiento:</strong> -</p>",
+    "basic": {
+      "depletion": "—",
+      "identified": true,
+      "level": "1d6+3"
+    },
+    "version": 2
+  },
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "_stats": {
+    "modifiedTime": 1676451418937,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "yThCrv1jSfPXOC2U",
+    "createdTime": 1676367597897,
+    "systemVersion": "2.3.0",
+    "coreVersion": "10.291"
+  },
+  "name": "Armadura encantada",
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.cyphersystem-compendium.artifacts-fantasy.hhxx9B3gxK5NP1ow"
+    }
+  },
+  "sort": 0,
+  "_id": "lQrFKe5Krk3MsQEq",
+  "type": "artifact",
+  "_key": "!items!lQrFKe5Krk3MsQEq"
+}

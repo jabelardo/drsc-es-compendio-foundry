@@ -1,0 +1,16 @@
+{
+  "img": "systems/cyphersystem/icons/items/artifact.svg",
+  "documentCollection": "cyphersystem-compendium.artifacts-fairy-tale",
+  "flags": {},
+  "weight": 3,
+  "range": [
+    85,
+    87
+  ],
+  "documentId": "GRED3fIiELUeMaA5",
+  "text": "Canoa de piedra",
+  "_id": "IWBvkBXe7z4JTFW8",
+  "type": 2,
+  "drawn": false,
+  "_key": "!tables.results!rE7quqfGeVxHOAma.IWBvkBXe7z4JTFW8"
+}

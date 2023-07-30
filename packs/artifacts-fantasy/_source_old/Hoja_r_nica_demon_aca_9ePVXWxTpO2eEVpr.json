@@ -1,0 +1,57 @@
+{
+  "img": "systems/cyphersystem/icons/items/artifact.svg",
+  "effects": [],
+  "system": {
+    "archived": false,
+    "settings": {
+      "general": {
+        "nameUnidentified": ""
+      }
+    },
+    "rollButton": {
+      "stepModifier": "eased",
+      "damage": 0,
+      "damagePerLOE": 3,
+      "bonus": 0,
+      "pool": "Pool",
+      "teen": "",
+      "additionalSteps": 0,
+      "effort1": 0,
+      "effort3": 0,
+      "assets": 0,
+      "effort2": 0,
+      "skill": "Practiced",
+      "additionalCost": 0
+    },
+    "description": "<p><strong>Nivel:</strong> 1d6 + 4</p>\n<p><strong>Aspecto:</strong> Espada inscrita con runas demoníacas</p>\n<p><strong>Efecto:</strong> Esta espada larga funciona como un arma media, pero en realidad es un poderoso demonio transformado en la forma de una espada. El demonio no puede hablar directamente con el que la empuña, pero puede dar a conocer sus deseos emitiendo retumbos graves y melodías funebres, y tirando en la dirección de su deseo. La espada alivia un grado todos los ataques realizados con ella, e inflige 4 puntos de daño adicionales (para un total de 8 puntos).</p>\n<p>Si el portador mata a una criatura con la espada, ésta se come el espíritu de la criatura y transfiere parte de su energía al portador, añadiendo 5 puntos a su Reserva de Vigor y aumentando su Ventaja de Vigor en 1. Esto dura una hora y permite al portador superar sus atributos normales de Reserva de Vigor y Ventaja de Vigor.</p>\n<p>Si el portador falla un ataque, a veces la hoja golpea a un aliado del portador (esto siempre ocurre con una tirada de ataque de 1).</p>\n<p><strong>Agotamiento:</strong> 1 en 1d10 (comprobación cada vez que se absorbe la fuerza vital de una criatura asesinada; si se agota, las habilidades mágicas de la espada pueden recargarse si mata a una criatura \"inocente\").</p>",
+    "basic": {
+      "depletion": "1 in [[/r 1d10 # Depletion roll]]",
+      "identified": true,
+      "level": "1d6+4"
+    },
+    "version": 2
+  },
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "_stats": {
+    "modifiedTime": 1676451418903,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "yThCrv1jSfPXOC2U",
+    "createdTime": 1676367597888,
+    "systemVersion": "2.3.0",
+    "coreVersion": "10.291"
+  },
+  "name": "Hoja rúnica demoníaca",
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.cyphersystem-compendium.artifacts-fantasy.Bip7Z28e2E5X6GyM"
+    }
+  },
+  "sort": 0,
+  "_id": "9ePVXWxTpO2eEVpr",
+  "type": "artifact",
+  "_key": "!items!9ePVXWxTpO2eEVpr"
+}

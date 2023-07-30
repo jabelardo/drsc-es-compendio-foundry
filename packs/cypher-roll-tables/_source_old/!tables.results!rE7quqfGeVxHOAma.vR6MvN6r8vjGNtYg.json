@@ -1,0 +1,16 @@
+{
+  "img": "systems/cyphersystem/icons/items/artifact.svg",
+  "documentCollection": "cyphersystem-compendium.artifacts-fairy-tale",
+  "flags": {},
+  "weight": 2,
+  "range": [
+    78,
+    79
+  ],
+  "documentId": "P0K9HkGjWB3ZCMrN",
+  "text": "Capa de Invisibilidad de soldado",
+  "_id": "vR6MvN6r8vjGNtYg",
+  "type": 2,
+  "drawn": false,
+  "_key": "!tables.results!rE7quqfGeVxHOAma.vR6MvN6r8vjGNtYg"
+}

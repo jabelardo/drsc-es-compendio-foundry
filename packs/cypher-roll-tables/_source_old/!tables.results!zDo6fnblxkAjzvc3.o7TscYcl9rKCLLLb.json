@@ -1,0 +1,16 @@
+{
+  "img": "icons/svg/d20-black.svg",
+  "documentCollection": "",
+  "flags": {},
+  "weight": 1,
+  "range": [
+    5,
+    5
+  ],
+  "documentId": null,
+  "_id": "o7TscYcl9rKCLLLb",
+  "text": "No recuerdas nada de lo que te ocurrió antes de los 18 años.",
+  "type": 0,
+  "drawn": false,
+  "_key": "!tables.results!zDo6fnblxkAjzvc3.o7TscYcl9rKCLLLb"
+}

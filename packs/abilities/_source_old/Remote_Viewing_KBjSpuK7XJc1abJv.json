@@ -1,0 +1,54 @@
+{
+  "img": "systems/cyphersystem/icons/items/ability.svg",
+  "effects": [],
+  "folder": null,
+  "system": {
+    "archived": false,
+    "settings": {
+      "general": {
+        "spellTier": "low",
+        "sorting": "Ability",
+        "unmaskedForm": "Mask"
+      },
+      "rollButton": {
+        "stepModifier": "eased",
+        "damage": 0,
+        "damagePerLOE": 3,
+        "bonus": 0,
+        "pool": "Pool",
+        "teen": "",
+        "additionalSteps": 0,
+        "effort1": 0,
+        "effort3": 0,
+        "assets": 0,
+        "effort2": 0,
+        "skill": "Practiced",
+        "additionalCost": 0
+      }
+    },
+    "description": "<p>La distancia es una ilusión, ya que todo el espacio es un solo espacio. Con gran concentración, puedes ver otro lugar. Esta capacidad se puede utilizar de dos maneras:<\/p><ul> <li><p>Distancia y dirección. Elige un punto a una distancia y en una dirección determinadas. Puedes ver desde ese punto como si hubieras usado la capacidad <em>Sensor<\/em> allí, pero sólo durante un minuto.<\/p><\/li> <li><p>Piensa en un lugar que hayas visto antes, ya sea de forma convencional o utilizando la otra aplicación de este poder. Puedes ver desde ese punto de vista como si hubieras utilizado la capacidad <em>Sensor<\/em> allí, pero sólo durante una o dos rondas.<\/p><\/li><\/ul><p>Cualquiera de las dos aplicaciones lleva desde una acción hasta horas de concentración, dependiendo de lo que el DJ considere apropiado debido al tiempo, la distancia u otras circunstancias atenuantes. Sin embargo, no se sabe de antemano cuánto tiempo llevará. Acción para iniciar; acción cada ronda para concentrarse.<\/p>",
+    "basic": {
+      "cost": "6",
+      "pool": "Intellect"
+    },
+    "version": 2
+  },
+  "ownership": {
+    "default": 0,
+    "k2TkElLx959B0lm5": 3
+  },
+  "_stats": {
+    "modifiedTime": 1664959723300,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "rLeavHPrdkq6xjNt",
+    "createdTime": null,
+    "systemVersion": "2.0.0-a1",
+    "coreVersion": "10.286"
+  },
+  "name": "Visión remota",
+  "flags": {"core": {"sourceId": "Compendium.cyphersystem-compendium.abilities.KBjSpuK7XJc1abJv"}},
+  "_id": "KBjSpuK7XJc1abJv",
+  "sort": 0,
+  "type": "ability",
+  "_key": "!items!KBjSpuK7XJc1abJv"
+}

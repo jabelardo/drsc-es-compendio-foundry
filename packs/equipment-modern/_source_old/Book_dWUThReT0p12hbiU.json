@@ -1,0 +1,32 @@
+{
+  "name": "Libro",
+  "type": "equipment",
+  "img": "systems/cyphersystem/icons/items/equipment.svg",
+  "system": {
+    "version": 2,
+    "description": "<p>Impreso, digital o de audio; una vez leído durante al menos diez minutos, otorga un recurso para las tareas de relajación.</p>",
+    "archived": false,
+    "basic": {
+      "level": 2,
+      "quantity": 1
+    }
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "cyphersystem",
+    "systemVersion": "2.3.0",
+    "coreVersion": "10.291",
+    "createdTime": 1676535554199,
+    "modifiedTime": 1676535628914,
+    "lastModifiedBy": "yThCrv1jSfPXOC2U"
+  },
+  "_id": "dWUThReT0p12hbiU",
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "_key": "!items!dWUThReT0p12hbiU"
+}

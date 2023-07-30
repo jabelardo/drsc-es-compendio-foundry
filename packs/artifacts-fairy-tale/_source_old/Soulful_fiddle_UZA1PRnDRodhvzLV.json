@@ -1,0 +1,34 @@
+{
+  "img": "systems/cyphersystem/icons/items/artifact.svg",
+  "effects": [],
+  "system": {
+    "archived": false,
+    "settings": {"general": {"nameUnidentified": ""}},
+    "description": "<p><strong>Nivel:<\/strong> 1d6 + 2<\/p>\n<p><strong>Aspecto:<\/strong> Violín hecho de hueso y tripas<\/p>\n<p><strong>Efecto:<\/strong> Este instrumento actúa como un violín normal de su tipo. Si el que lo empuña está entrenado en su uso y toca una melodía apropiada, los que estén a corta distancia y lo oigan sufren uno de los siguientes efectos: se duermen, se vuelven sugestionables, siguen al que toca el violín en un ligero trance o realizan una acción similar.<\/p>\n<p>El efecto deseado debe ser el mismo para todas las criaturas que lo oigan. El efecto dura diez minutos, pero las acciones de otros (como atacar a los oyentes o inmovilizarlos físicamente) pueden terminar el efecto antes de tiempo para una criatura.<\/p>\n<p><strong>Agotamiento:<\/strong> 1 en 1d20<\/p>",
+    "basic": {
+      "depletion": "1 in [[/r d20]]",
+      "identified": true,
+      "level": "1d6+2"
+    },
+    "version": 2
+  },
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "_stats": {
+    "modifiedTime": 1685302332336,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "yThCrv1jSfPXOC2U",
+    "createdTime": 1685301394391,
+    "systemVersion": "2.6.0",
+    "coreVersion": "10.291"
+  },
+  "name": "Violín conmovedor",
+  "flags": {},
+  "_id": "UZA1PRnDRodhvzLV",
+  "sort": 0,
+  "type": "artifact",
+  "_key": "!items!UZA1PRnDRodhvzLV"
+}

@@ -1,0 +1,58 @@
+{
+  "img": "systems/cyphersystem/icons/items/ability.svg",
+  "effects": [],
+  "folder": null,
+  "system": {
+    "archived": false,
+    "settings": {
+      "general": {
+        "spellTier": "low",
+        "sorting": "Ability",
+        "unmaskedForm": "Mask"
+      },
+      "rollButton": {
+        "stepModifier": "eased",
+        "damage": 0,
+        "damagePerLOE": 3,
+        "bonus": 0,
+        "pool": "Pool",
+        "teen": "",
+        "additionalSteps": 0,
+        "effort1": 0,
+        "effort3": 0,
+        "assets": 0,
+        "effort2": 0,
+        "skill": "Practiced",
+        "additionalCost": 0
+      }
+    },
+    "description": "<p>Anulas una fuente de peligro potencial relacionada con una criatura u objeto que se encuentre a una distancia inmediata durante un minuto (en lugar de una ronda, como con Detener el peligro). Esto podría ser un arma o dispositivo sostenido por alguien, la habilidad natural de una criatura o una trampa activada por una placa de presión. También puedes intentar contrarrestar una acción (como moverte o hacer un ataque mundano convencional con un arma, una garra, etc.). Acción. (El uso de Contrarrestar el peligro suele ser una cuestión de que el personaje aplique un pensamiento rápido ante un peligro inmediato. La capacidad no depende de medios sobrenaturales, sino de un acto práctico).</p>",
+    "basic": {
+      "cost": "4",
+      "pool": "Intellect"
+    },
+    "version": 2
+  },
+  "ownership": {
+    "default": 0,
+    "k2TkElLx959B0lm5": 3
+  },
+  "_stats": {
+    "modifiedTime": 1664959715533,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "rLeavHPrdkq6xjNt",
+    "createdTime": null,
+    "systemVersion": "2.0.0-a1",
+    "coreVersion": "10.286"
+  },
+  "name": "Contrarrestar el peligro",
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.cyphersystem-compendium.abilities.BjlHRj3hANsoqhKq"
+    }
+  },
+  "_id": "BjlHRj3hANsoqhKq",
+  "sort": 0,
+  "type": "ability",
+  "_key": "!items!BjlHRj3hANsoqhKq"
+}

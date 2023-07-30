@@ -1,0 +1,38 @@
+{
+  "img": "systems/cyphersystem/icons/items/artifact.svg",
+  "effects": [],
+  "system": {
+    "archived": false,
+    "settings": {
+      "general": {
+        "nameUnidentified": ""
+      }
+    },
+    "description": "<p><strong>Nivel:</strong> 1d6 + 1</p>\n<p><strong>Aspecto:</strong> Simple gancho de hierro diseñado para ser llevado como prótesis</p>\n<p><strong>Efecto:</strong> Cuando se coloca en un miembro amputado, el gancho se injerta de forma permanente. Funciona como garfio simple y como arma ligera. Cuando se activa, el Garfio de Garfio afecta a la mente de todos los enemigos pensantes que se encuentren a larga distancia. A los afectados les infunde terror, haciéndoles soltar lo que lleven en las manos y huir durante un número de rondas igual al nivel del artefacto.</p>\n<p><strong>Agotamiento:</strong> 1 en 1d6 (para la habilidad de miedo). Una vez agotado, sigue funcionando como garfio y arma.</p>\n<p>Se rumorea que existe un gran número de Garfios de Garfio, todos ellos fabricados con distintos materiales y con diferentes propósitos, como el garfio de tijera, el garfio de remo, el garfio de imán, el garfio de taza de té, el garfio de garfio y el garfio de caña de pescar. Los personajes emprendedores podrían intentar conseguir varios garfios y una forma de intercambiarlos fácilmente.</p>",
+    "basic": {
+      "depletion": "1 in [[/r d6]]",
+      "identified": true,
+      "level": "1d6+1"
+    },
+    "version": 2
+  },
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "_stats": {
+    "modifiedTime": 1685302332334,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "yThCrv1jSfPXOC2U",
+    "createdTime": 1685299952173,
+    "systemVersion": "2.6.0",
+    "coreVersion": "10.291"
+  },
+  "name": "Garfio de Garfio",
+  "flags": {},
+  "_id": "0IdrBhP1kaNpHZwh",
+  "sort": 0,
+  "type": "artifact",
+  "_key": "!items!0IdrBhP1kaNpHZwh"
+}

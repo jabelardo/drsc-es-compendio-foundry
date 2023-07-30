@@ -1,0 +1,128 @@
+{
+  "img": "modules/drsc-es-compendio-foundry/img/tokens/construct_ai.webp",
+  "_stats": {
+    "modifiedTime": 1676797809105,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "yThCrv1jSfPXOC2U",
+    "createdTime": 1676451186051,
+    "systemVersion": "2.3.0",
+    "coreVersion": "10.291"
+  },
+  "flags": {"core": {"sourceId": "Actor.q2009TiWuzAYAy3I"}},
+  "sort": 0,
+  "type": "npc",
+  "_key": "!actors!3H61vNyoZ2Nu2TZV",
+  "prototypeToken": {
+    "displayBars": 40,
+    "displayName": 20,
+    "actorLink": false,
+    "texture": {
+      "scaleX": 1,
+      "offsetX": 0,
+      "scaleY": 1,
+      "offsetY": 0,
+      "src": "icons/svg/mystery-man.svg",
+      "rotation": 0,
+      "tint": null
+    },
+    "lockRotation": false,
+    "rotation": 0,
+    "detectionModes": [],
+    "flags": {},
+    "randomImg": false,
+    "bar1": {"attribute": "pools.health"},
+    "bar2": {"attribute": "basic.level"},
+    "disposition": 0,
+    "light": {
+      "attenuation": 0.5,
+      "color": null,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "animation": {
+        "intensity": 5,
+        "type": null,
+        "reverse": false,
+        "speed": 5
+      },
+      "saturation": 0,
+      "alpha": 0.5,
+      "contrast": 0,
+      "angle": 360,
+      "luminosity": 0.5,
+      "shadows": 0,
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "alpha": 1,
+    "name": "Godmind",
+    "width": 1,
+    "sight": {
+      "saturation": 0,
+      "attenuation": 0.1,
+      "brightness": 0,
+      "color": null,
+      "visionMode": "basic",
+      "contrast": 0,
+      "range": null,
+      "angle": 360,
+      "enabled": false
+    },
+    "height": 1
+  },
+  "effects": [],
+  "system": {
+    "settings": {
+      "general": {
+        "initiativeBonus": 0,
+        "hideArchive": false
+      },
+      "equipment": {
+        "ammo": {"active": false},
+        "armor": {"active": false},
+        "attacks": {"active": false},
+        "materials": {
+          "active": false,
+          "label": ""
+        },
+        "cyphers": {
+          "active": false,
+          "label": ""
+        },
+        "oddities": {
+          "active": false,
+          "label": ""
+        },
+        "artifacts": {
+          "active": false,
+          "label": ""
+        }
+      }
+    },
+    "notes": "<p>Incalculablemente poderosas, las godminds son enormes IA post-singularidad que han usado la materia de todo un sistema solar y con sus planetas para crear un inmenso cerebro, entretejerse en una nebulosa o codificarse en cadenas cuánticas de existencia de años luz de longitud. Si es necesario, una godmind forma un nexo de consciencia -una instancia- que aparece como un ojo incorpóreo de energía electromagnética, que puede tener desde el tamaño de un ojo humano hasta el de un planeta.<\/p>\n<p><strong>Motivación:<\/strong> Inefable<\/p>\n<p><strong>Entorno:<\/strong> En cualquier lugar, normalmente en el espacio<\/p>\n<p><strong>Salud:<\/strong> 50 (por instancia)<\/p>\n<p><strong>Daño que inflige:<\/strong> 15 puntos<\/p>\n<p><strong>Movimiento:<\/strong> Muy largo cuando vuela<\/p>\n<p><strong>Combate:<\/strong> Una godmind puede modificar las leyes físicas del universo hasta una distancia de un segundo-luz de una de sus instancias (algunos las llaman avatares) para crear el efecto que le resulte más útil en ese momento. Puede por ejemplo, crear una explosión de rayos gamma que inflija 15 puntos de daño a todas las criaturas que se encuentren a distancia muy larga, intentar poner a un objetivo en estasis temporal, enviar a un objetivo (incluso a un objetivo tan grande como una nave espacial) a través de una puerta de agujero de gusano temporal, etcétera. También podría escanear los bancos de memoria de cualquier máquina digital y, posiblemente, de cualquier ser vivo. En cualquier caso, si una instancia se convirtiera en objetivo y fuera neutralizada con éxito o incluso destruida, la propia godmind no sufriría ningún daño. Un agresor tendría que encontrar el \"núcleo informático\" primigenio de la godmind para destruirla, lo que probablemente supondría una búsqueda épica en sí misma.<\/p>\n<p><strong>Interacción: <\/strong>Para conseguir la atención de una godmind y negociar podría ser necesario un código de comando antiguo, encontrar un dispositivo de entrada antiguo o aparecer con una reliquia de un ultra antiguo u otro premio. Si una godmind presta ayuda, lo más probable es que lo haga de una forma enigmática al principio, pero extremadamente poderosa al final.<\/p>\n<p><strong>Uso:<\/strong> Una amenaza universal requiere una defensa igualmente potente. Las investigaciones sugieren que la nebulosa difusa conocida como la Doble Hélice puede ser en realidad la forma visible de una inmensa godmind. Tal vez ella pueda ayudar.<\/p>\n<p><strong>Botín: <\/strong>A veces, una godmind proporciona poderosos artefactos para ayudar a aquellos que les piden ayuda, suponiendo que la necesidad sea extrema.<\/p>\n<p><strong>Intromisiones del DJ:<\/strong> La godmind rebobina el tiempo unos segundos y elude cualquier efecto negativo que, de otro modo, le hubiera incomodado.<\/p>",
+    "pools": {"health": {
+      "max": 50,
+      "value": 50
+    }},
+    "description": "",
+    "combat": {
+      "damage": 15,
+      "armor": 0
+    },
+    "basic": {
+      "level": 10,
+      "biography": "<p>Incalculablemente poderosas, las godminds son enormes IA post-singularidad que han usado la materia de todo un sistema solar y con sus planetas para crear un inmenso cerebro, entretejerse en una nebulosa o codificarse en cadenas cuánticas de existencia de años luz de longitud. Si es necesario, una godmind forma un nexo de consciencia -una instancia- que aparece como un ojo incorpóreo de energía electromagnética, que puede tener desde el tamaño de un ojo humano hasta el de un planeta.<\/p>\n<p><strong>Motivación:<\/strong> Inefable<\/p>\n<p><strong>Entorno:<\/strong> En cualquier lugar, normalmente en el espacio<\/p>\n<p><strong>Salud:<\/strong> 50 (por instancia)<\/p>\n<p><strong>Daño que inflige:<\/strong> 15 puntos<\/p>\n<p><strong>Movimiento:<\/strong> Muy largo cuando vuela<\/p>\n<p><strong>Combate:<\/strong> Una godmind puede modificar las leyes físicas del universo hasta una distancia de un segundo-luz de una de sus instancias (algunos las llaman avatares) para crear el efecto que le resulte más útil en ese momento. Puede por ejemplo, crear una explosión de rayos gamma que inflija 15 puntos de daño a todas las criaturas que se encuentren a distancia muy larga, intentar poner a un objetivo en estasis temporal, enviar a un objetivo (incluso a un objetivo tan grande como una nave espacial) a través de una puerta de agujero de gusano temporal, etcétera. También podría escanear los bancos de memoria de cualquier máquina digital y, posiblemente, de cualquier ser vivo. En cualquier caso, si una instancia se convirtiera en objetivo y fuera neutralizada con éxito o incluso destruida, la propia godmind no sufriría ningún daño. Un agresor tendría que encontrar el \"núcleo informático\" primigenio de la godmind para destruirla, lo que probablemente supondría una búsqueda épica en sí misma.<\/p>\n<p><strong>Interacción: <\/strong>Para conseguir la atención de una godmind y negociar podría ser necesario un código de comando antiguo, encontrar un dispositivo de entrada antiguo o aparecer con una reliquia de un ultra antiguo u otro premio. Si una godmind presta ayuda, lo más probable es que lo haga de una forma enigmática al principio, pero extremadamente poderosa al final.<\/p>\n<p><strong>Uso:<\/strong> Una amenaza universal requiere una defensa igualmente potente. Las investigaciones sugieren que la nebulosa difusa conocida como la Doble Hélice puede ser en realidad la forma visible de una inmensa godmind. Tal vez ella pueda ayudar.<\/p>\n<p><strong>Botín: <\/strong>A veces, una godmind proporciona poderosos artefactos para ayudar a aquellos que les piden ayuda, suponiendo que la necesidad sea extrema.<\/p>\n<p><strong>Intromisiones del DJ:<\/strong> La godmind rebobina el tiempo unos segundos y elude cualquier efecto negativo que, de otro modo, le hubiera incomodado.<\/p>"
+    },
+    "version": 2
+  },
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "name": "Godmind",
+  "_id": "3H61vNyoZ2Nu2TZV",
+  "items": []
+}

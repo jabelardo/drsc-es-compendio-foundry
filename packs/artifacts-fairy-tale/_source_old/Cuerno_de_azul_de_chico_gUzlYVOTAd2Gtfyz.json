@@ -1,0 +1,38 @@
+{
+  "img": "systems/cyphersystem/icons/items/artifact.svg",
+  "effects": [],
+  "system": {
+    "archived": false,
+    "settings": {
+      "general": {
+        "nameUnidentified": ""
+      }
+    },
+    "description": "<p><strong>Nivel:</strong> 1d6</p>\n<p><strong>Aspecto:</strong> Reluciente cuerno que nunca necesita ser afinado o pulido.</p>\n<p><strong>Efecto:</strong> Cuando toca una canción de cuna, el cuerno hace dormir durante dos rondas a todo ser vivo que oiga a corta distancia (incluido el usuario). Cuando el cuerno toca algo alegre, el usuario y todos los aliados a corto alcance suman +1 a sus tiradas de recuperación durante diez minutos.</p>\n<p><strong>Agotamiento:</strong> 1 en 1d20. Tras agotarse, sigue funcionando como un cuerno normal.</p>",
+    "basic": {
+      "depletion": "1 in [[/r d20]]",
+      "identified": true,
+      "level": "1d6"
+    },
+    "version": 2
+  },
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "_stats": {
+    "modifiedTime": 1685302332333,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "yThCrv1jSfPXOC2U",
+    "createdTime": 1685298700310,
+    "systemVersion": "2.6.0",
+    "coreVersion": "10.291"
+  },
+  "name": "Cuerno de azul de chico",
+  "flags": {},
+  "_id": "gUzlYVOTAd2Gtfyz",
+  "sort": 0,
+  "type": "artifact",
+  "_key": "!items!gUzlYVOTAd2Gtfyz"
+}

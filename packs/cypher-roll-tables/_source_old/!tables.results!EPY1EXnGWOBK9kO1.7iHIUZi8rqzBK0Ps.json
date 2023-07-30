@@ -1,0 +1,16 @@
+{
+  "img": "icons/svg/d20-black.svg",
+  "documentCollection": "",
+  "flags": {},
+  "weight": 1,
+  "range": [
+    19,
+    19
+  ],
+  "documentId": null,
+  "_id": "7iHIUZi8rqzBK0Ps",
+  "text": "Tu hermana tiene una tienda y te hace grandes descuentos.",
+  "type": 0,
+  "drawn": false,
+  "_key": "!tables.results!EPY1EXnGWOBK9kO1.7iHIUZi8rqzBK0Ps"
+}

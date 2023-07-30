@@ -1,0 +1,128 @@
+{
+  "img": "modules/drsc-es-compendio-foundry/img/tokens/humanoid_magical.webp",
+  "_stats": {
+    "modifiedTime": 1676797809436,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "yThCrv1jSfPXOC2U",
+    "createdTime": 1676289632605,
+    "systemVersion": "2.3.0",
+    "coreVersion": "10.291"
+  },
+  "flags": {"core": {"sourceId": "Actor.k6Xkuqu2e3aQc1R1"}},
+  "sort": 0,
+  "type": "npc",
+  "_key": "!actors!V5QVSSrm7OUffjmg",
+  "prototypeToken": {
+    "displayBars": 40,
+    "displayName": 20,
+    "actorLink": false,
+    "texture": {
+      "scaleX": 1,
+      "offsetX": 0,
+      "scaleY": 1,
+      "offsetY": 0,
+      "src": "icons/svg/mystery-man.svg",
+      "rotation": 0,
+      "tint": null
+    },
+    "lockRotation": false,
+    "rotation": 0,
+    "detectionModes": [],
+    "flags": {},
+    "randomImg": false,
+    "bar1": {"attribute": "pools.health"},
+    "bar2": {"attribute": "basic.level"},
+    "disposition": 0,
+    "light": {
+      "attenuation": 0.5,
+      "color": null,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "animation": {
+        "intensity": 5,
+        "type": null,
+        "reverse": false,
+        "speed": 5
+      },
+      "saturation": 0,
+      "alpha": 0.5,
+      "contrast": 0,
+      "angle": 360,
+      "luminosity": 0.5,
+      "shadows": 0,
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "alpha": 1,
+    "name": "Druida",
+    "width": 1,
+    "sight": {
+      "saturation": 0,
+      "attenuation": 0.1,
+      "brightness": 0,
+      "color": null,
+      "visionMode": "basic",
+      "contrast": 0,
+      "range": null,
+      "angle": 360,
+      "enabled": false
+    },
+    "height": 1
+  },
+  "effects": [],
+  "system": {
+    "settings": {
+      "general": {
+        "initiativeBonus": 0,
+        "hideArchive": false
+      },
+      "equipment": {
+        "ammo": {"active": false},
+        "armor": {"active": false},
+        "attacks": {"active": false},
+        "materials": {
+          "active": false,
+          "label": ""
+        },
+        "cyphers": {
+          "active": false,
+          "label": ""
+        },
+        "oddities": {
+          "active": false,
+          "label": ""
+        },
+        "artifacts": {
+          "active": false,
+          "label": ""
+        }
+      }
+    },
+    "notes": "<p>Un druida es un servidor de una deidad de la naturaleza o de la naturaleza en su totalidad. Algunos tienen intereses específicos, como los animales, las plantas o las tormentas, con mayores poderes relacionados con esa devoción. Los druidas son líderes y consejeros en algunas culturas, ermitaños que odian la sociedad en otras.<\/p>\n<p><strong>Motivación:<\/strong> Proteger la naturaleza<\/p>\n<p><strong>Salud:<\/strong> 12<\/p>\n<p><strong>Daño que inflige:<\/strong> 4 puntos<\/p>\n<p><strong>Armadura:<\/strong> 1<\/p>\n<p><strong>Movimiento:<\/strong> Corto<\/p>\n<p><strong>Ajustes: <\/strong>Nivel 5 para conocimiento de la naturaleza, percepción y sigilo<\/p>\n<p><strong>Combate:<\/strong> Los druidas utilizan armas sencillas fabricadas con materiales naturales, como lanzas, hondas y arcos, así como herramientas rituales como dagas y hoces.<\/p>\n<p>Un druida conoce varios hechizos, como un ataque a corta distancia que utiliza electricidad o fuego, curar a una criatura tocada con 4 puntos de salud, calmar y entablar amistad con animales, viajar rápidamente, controlar el clima a larga distancia, transformarse en un animal o planta y manipular los elementos naturales. Un druida suele tener un compañero animal leal, como un oso negro, un halcón, una víbora o un lobo.<\/p>\n<p><strong>Interacción:<\/strong> Los druidas son cautelosos cuando tratan con la gente de la ciudad, y actúan rápidamente para detener el uso imprudente del fuego o la explotación de la naturaleza. Suelen tener buenas relaciones con los animales locales y las criaturas mágicas de la naturaleza (hadas, árboles sapientes, sátiros, etc.).<\/p>\n<p><strong>Uso:<\/strong> Un druida ermitaño acude en ayuda de personajes heridos o perdidos en las tierras salvajes. Un druida ataca a leñadores y cazadores que se alejan demasiado de la civilización.<\/p>\n<p><strong>Botín:<\/strong> Además de armas, armadura ligera y algunos objetos rituales de precio moderado, un druida puede tener un par de Cyphers o quizás un artefacto.<\/p>",
+    "pools": {"health": {
+      "max": 12,
+      "value": 12
+    }},
+    "description": "",
+    "combat": {
+      "damage": 4,
+      "armor": 1
+    },
+    "basic": {
+      "level": 4,
+      "biography": "<p>Un druida es un servidor de una deidad de la naturaleza o de la naturaleza en su totalidad. Algunos tienen intereses específicos, como los animales, las plantas o las tormentas, con mayores poderes relacionados con esa devoción. Los druidas son líderes y consejeros en algunas culturas, ermitaños que odian la sociedad en otras.<\/p>\n<p><strong>Motivación:<\/strong> Proteger la naturaleza<\/p>\n<p><strong>Salud:<\/strong> 12<\/p>\n<p><strong>Daño que inflige:<\/strong> 4 puntos<\/p>\n<p><strong>Armadura:<\/strong> 1<\/p>\n<p><strong>Movimiento:<\/strong> Corto<\/p>\n<p><strong>Ajustes: <\/strong>Nivel 5 para conocimiento de la naturaleza, percepción y sigilo<\/p>\n<p><strong>Combate:<\/strong> Los druidas utilizan armas sencillas fabricadas con materiales naturales, como lanzas, hondas y arcos, así como herramientas rituales como dagas y hoces.<\/p>\n<p>Un druida conoce varios hechizos, como un ataque a corta distancia que utiliza electricidad o fuego, curar a una criatura tocada con 4 puntos de salud, calmar y entablar amistad con animales, viajar rápidamente, controlar el clima a larga distancia, transformarse en un animal o planta y manipular los elementos naturales. Un druida suele tener un compañero animal leal, como un oso negro, un halcón, una víbora o un lobo.<\/p>\n<p><strong>Interacción:<\/strong> Los druidas son cautelosos cuando tratan con la gente de la ciudad, y actúan rápidamente para detener el uso imprudente del fuego o la explotación de la naturaleza. Suelen tener buenas relaciones con los animales locales y las criaturas mágicas de la naturaleza (hadas, árboles sapientes, sátiros, etc.).<\/p>\n<p><strong>Uso:<\/strong> Un druida ermitaño acude en ayuda de personajes heridos o perdidos en las tierras salvajes. Un druida ataca a leñadores y cazadores que se alejan demasiado de la civilización.<\/p>\n<p><strong>Botín:<\/strong> Además de armas, armadura ligera y algunos objetos rituales de precio moderado, un druida puede tener un par de Cyphers o quizás un artefacto.<\/p>"
+    },
+    "version": 2
+  },
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "name": "Druida",
+  "_id": "V5QVSSrm7OUffjmg",
+  "items": []
+}

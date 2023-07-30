@@ -1,0 +1,63 @@
+{
+  "img": "systems/cyphersystem/icons/items/ability.svg",
+  "effects": [],
+  "system": {
+    "archived": false,
+    "settings": {
+      "general": {
+        "spellTier": "low",
+        "sorting": "Ability",
+        "unmaskedForm": "Mask"
+      },
+      "linkedItems": {
+        "attack": "",
+        "skill": "",
+        "ability": ""
+      },
+      "rollButton": {
+        "stepModifier": "eased",
+        "damage": 0,
+        "damagePerLOE": 3,
+        "bonus": 0,
+        "pool": "Pool",
+        "teen": "",
+        "additionalSteps": 0,
+        "effort1": "0",
+        "effort3": "0",
+        "assets": "0",
+        "effort2": "0",
+        "skill": "Practiced",
+        "additionalCost": 0
+      }
+    },
+    "description": "<p>Tienes un don para usar poderes copiados de formas inusuales. Siempre que intentes una proeza de poder y uses un nivel de Esfuerzo en la tirada especial para modificar la capacidad, obtienes un nivel de Esfuerzo gratis en esa tirada. Capacitador.</p>",
+    "basic": {
+      "cost": "0",
+      "pool": "Pool"
+    },
+    "version": 2
+  },
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "_stats": {
+    "modifiedTime": 1681933561506,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "yThCrv1jSfPXOC2U",
+    "createdTime": 1681933079573,
+    "systemVersion": "2.5.0",
+    "coreVersion": "10.291"
+  },
+  "name": "Poderes comodín",
+  "flags": {
+    "core": {
+      "sourceId": "Item.qZ1LGGtr41VEBQJg"
+    }
+  },
+  "sort": 0,
+  "_id": "Y7ygaiwtWFKoXtVq",
+  "type": "ability",
+  "_key": "!items!Y7ygaiwtWFKoXtVq"
+}

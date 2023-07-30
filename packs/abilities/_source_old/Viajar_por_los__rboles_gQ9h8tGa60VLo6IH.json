@@ -1,0 +1,58 @@
+{
+  "img": "systems/cyphersystem/icons/items/ability.svg",
+  "effects": [],
+  "system": {
+    "archived": false,
+    "settings": {
+      "general": {
+        "spellTier": "low",
+        "sorting": "Ability",
+        "unmaskedForm": "Mask"
+      },
+      "rollButton": {
+        "stepModifier": "eased",
+        "damage": 0,
+        "damagePerLOE": 3,
+        "bonus": 0,
+        "pool": "Pool",
+        "teen": "",
+        "additionalSteps": 0,
+        "effort1": "0",
+        "effort3": "0",
+        "assets": "0",
+        "effort2": "0",
+        "skill": "Practiced",
+        "additionalCost": 0
+      }
+    },
+    "description": "<p>Entras en un árbol e instantáneamente y de forma segura sales de otro que se encuentra a larga distancia. No necesitas especificar de qué árbol sales (si sabes que hay árboles en esa dirección, puedes decidir a qué distancia ir y saldrás de un árbol de esa zona). Si el tronco del árbol inicial no es tan grande como tu cuerpo, deberás aplicar un nivel de Esfuerzo para entrar en él. Puedes elegir usar Esfuerzo para aumentar la distancia que recorres; un nivel de Esfuerzo usado de esta manera aumenta el alcance a muy largo, dos niveles lo aumentan a 1,5 km [1 milla], y cada nivel adicional de Esfuerzo más allá de eso lo aumenta en 1,5 km [1 milla] adicionales. Acción.</p>",
+    "basic": {
+      "cost": "0",
+      "pool": "Pool"
+    },
+    "version": 2
+  },
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "_stats": {
+    "modifiedTime": 1676106815035,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "yThCrv1jSfPXOC2U",
+    "createdTime": 1676106784536,
+    "systemVersion": "2.3.0",
+    "coreVersion": "10.291"
+  },
+  "name": "Viajar por los árboles",
+  "flags": {
+    "core": {
+      "sourceId": "Item.7nevuwVI3rk1vzdd"
+    }
+  },
+  "sort": 0,
+  "_id": "gQ9h8tGa60VLo6IH",
+  "type": "ability",
+  "_key": "!items!gQ9h8tGa60VLo6IH"
+}

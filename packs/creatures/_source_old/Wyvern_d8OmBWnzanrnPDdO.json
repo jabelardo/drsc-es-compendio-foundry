@@ -1,0 +1,128 @@
+{
+  "img": "modules/drsc-es-compendio-foundry/img/tokens/dragon.webp",
+  "_stats": {
+    "modifiedTime": 1676797809367,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "yThCrv1jSfPXOC2U",
+    "createdTime": 1676288839780,
+    "systemVersion": "2.3.0",
+    "coreVersion": "10.291"
+  },
+  "flags": {"core": {"sourceId": "Actor.N0Lp3M8bF1umY8nk"}},
+  "sort": 0,
+  "type": "npc",
+  "_key": "!actors!d8OmBWnzanrnPDdO",
+  "prototypeToken": {
+    "displayBars": 40,
+    "displayName": 20,
+    "actorLink": false,
+    "texture": {
+      "scaleX": 1,
+      "offsetX": 0,
+      "scaleY": 1,
+      "offsetY": 0,
+      "src": "icons/svg/mystery-man.svg",
+      "rotation": 0,
+      "tint": null
+    },
+    "lockRotation": false,
+    "rotation": 0,
+    "detectionModes": [],
+    "flags": {},
+    "randomImg": false,
+    "bar1": {"attribute": "pools.health"},
+    "bar2": {"attribute": "basic.level"},
+    "disposition": 0,
+    "light": {
+      "attenuation": 0.5,
+      "color": null,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "animation": {
+        "intensity": 5,
+        "type": null,
+        "reverse": false,
+        "speed": 5
+      },
+      "saturation": 0,
+      "alpha": 0.5,
+      "contrast": 0,
+      "angle": 360,
+      "luminosity": 0.5,
+      "shadows": 0,
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "alpha": 1,
+    "name": "Wyvern",
+    "width": 1,
+    "sight": {
+      "saturation": 0,
+      "attenuation": 0.1,
+      "brightness": 0,
+      "color": null,
+      "visionMode": "basic",
+      "contrast": 0,
+      "range": null,
+      "angle": 360,
+      "enabled": false
+    },
+    "height": 1
+  },
+  "effects": [],
+  "system": {
+    "settings": {
+      "general": {
+        "initiativeBonus": 0,
+        "hideArchive": false
+      },
+      "equipment": {
+        "ammo": {"active": false},
+        "armor": {"active": false},
+        "attacks": {"active": false},
+        "materials": {
+          "active": false,
+          "label": ""
+        },
+        "cyphers": {
+          "active": false,
+          "label": ""
+        },
+        "oddities": {
+          "active": false,
+          "label": ""
+        },
+        "artifacts": {
+          "active": false,
+          "label": ""
+        }
+      }
+    },
+    "notes": "<p>Los wyverns son primos menores agresivos de los dragones. Su cuerpo es del tamaño de un caballo pesado, pero su envergadura les hace parecer mucho más grandes. Al carecer del aliento de fuego de los dragones u otras habilidades mágicas, los wyverns confían en su fuerte vuelo y su mortífero aguijón para atrapar y matar a sus presas, normalmente humanoides o animales grandes. Los wyverns tienen cuatro extremidades: dos patas que utilizan para caminar torpemente y dos brazos-ala que utilizan para volar y mantener el equilibrio.<\/p>\n<p><strong>Motivación:<\/strong> Alimentación (carne)<\/p>\n<p><strong>Entorno:<\/strong> Montañas, colinas y llanuras donde abundan las presas grandes.<\/p>\n<p><strong>Salud:<\/strong> 35<\/p>\n<p><strong>Daño que inflige:<\/strong> 5 puntos<\/p>\n<p><strong>Armadura:<\/strong> 1<\/p>\n<p><strong>Movimiento:<\/strong> Corto; largo al volar<\/p>\n<p><strong>Ajustes: <\/strong>Nivel 7 para percepción; nivel 5 para Defensa por Velocidad debido al tamaño<\/p>\n<p><strong>Combate:<\/strong> Los wyverns prefieren atacar desde el aire, desplazándose hasta una distancia corta y realizando tres ataques (mordisco, aguijón venenoso, garras) como acción. Si un wyvern tiene que luchar en el suelo, sólo puede atacar con su mordisco y su aguijón en su turno.<\/p>\n<p>El aguijón inyecta veneno, infligiendo 5 puntos adicionales de daño por Velocidad (ignora Armadura) si el oponente falla una tirada de Defensa por Vigor. Como el wyvern caza principalmente por hambre, suele centrar sus ataques en una sola criatura, debilitando a la presa para que el wyvern pueda llevársela y comer en paz.<\/p>\n<p><strong>Interacción:<\/strong> Los wyverns carecen de la inteligencia de los verdaderos dragones. Son animales relativamente inteligentes (a la altura de grandes reptiles como los cocodrilos), pero pueden distraerse con presas fáciles. Permitir que uno atrape a un cerdo, poni o caballo de montar puede dar a los personajes tiempo suficiente para alejarse con seguridad.<\/p>\n<p><strong>Uso:<\/strong> Se sabe que los wyverns hambrientos se abalanzan y se llevan ganado y viajeros cerca de un camino o campo concreto. Una banda de astutos bandidos ha conseguido entrenar a un par de wyverns como monturas y utilizarlos como caballería voladora para sus tropas en tierra.<\/p>\n<p><strong>Botín:<\/strong> Los wyverns no coleccionan tesoros, pero en su nido puede haber algunos Cyphers de víctimas anteriores. Si se extrae con cuidado, una glándula de veneno intacta de un wyvern muerto puede usarse para envenenar un arma (si se vende, equivale a un objeto caro).<\/p>\n<p><strong>Intromisiones del DJ:<\/strong> Como parte de su ataque, el wyvern agarra al personaje y vuela a corta distancia. El personaje puede escapar con una tirada de Defensa por Vigor o Velocidad (lo que probablemente significa que cae al suelo y aterriza boca abajo). El wyvern utiliza un ala o su cola para golpear al personaje, que sale despedido a corta distancia y cae prono.<\/p>",
+    "pools": {"health": {
+      "max": 35,
+      "value": 35
+    }},
+    "description": "",
+    "combat": {
+      "damage": 5,
+      "armor": 1
+    },
+    "basic": {
+      "level": 6,
+      "biography": "<p>Los wyverns son primos menores agresivos de los dragones. Su cuerpo es del tamaño de un caballo pesado, pero su envergadura les hace parecer mucho más grandes. Al carecer del aliento de fuego de los dragones u otras habilidades mágicas, los wyverns confían en su fuerte vuelo y su mortífero aguijón para atrapar y matar a sus presas, normalmente humanoides o animales grandes. Los wyverns tienen cuatro extremidades: dos patas que utilizan para caminar torpemente y dos brazos-ala que utilizan para volar y mantener el equilibrio.<\/p>\n<p><strong>Motivación:<\/strong> Alimentación (carne)<\/p>\n<p><strong>Entorno:<\/strong> Montañas, colinas y llanuras donde abundan las presas grandes.<\/p>\n<p><strong>Salud:<\/strong> 35<\/p>\n<p><strong>Daño que inflige:<\/strong> 5 puntos<\/p>\n<p><strong>Armadura:<\/strong> 1<\/p>\n<p><strong>Movimiento:<\/strong> Corto; largo al volar<\/p>\n<p><strong>Ajustes: <\/strong>Nivel 7 para percepción; nivel 5 para Defensa por Velocidad debido al tamaño<\/p>\n<p><strong>Combate:<\/strong> Los wyverns prefieren atacar desde el aire, desplazándose hasta una distancia corta y realizando tres ataques (mordisco, aguijón venenoso, garras) como acción. Si un wyvern tiene que luchar en el suelo, sólo puede atacar con su mordisco y su aguijón en su turno.<\/p>\n<p>El aguijón inyecta veneno, infligiendo 5 puntos adicionales de daño por Velocidad (ignora Armadura) si el oponente falla una tirada de Defensa por Vigor. Como el wyvern caza principalmente por hambre, suele centrar sus ataques en una sola criatura, debilitando a la presa para que el wyvern pueda llevársela y comer en paz.<\/p>\n<p><strong>Interacción:<\/strong> Los wyverns carecen de la inteligencia de los verdaderos dragones. Son animales relativamente inteligentes (a la altura de grandes reptiles como los cocodrilos), pero pueden distraerse con presas fáciles. Permitir que uno atrape a un cerdo, poni o caballo de montar puede dar a los personajes tiempo suficiente para alejarse con seguridad.<\/p>\n<p><strong>Uso:<\/strong> Se sabe que los wyverns hambrientos se abalanzan y se llevan ganado y viajeros cerca de un camino o campo concreto. Una banda de astutos bandidos ha conseguido entrenar a un par de wyverns como monturas y utilizarlos como caballería voladora para sus tropas en tierra.<\/p>\n<p><strong>Botín:<\/strong> Los wyverns no coleccionan tesoros, pero en su nido puede haber algunos Cyphers de víctimas anteriores. Si se extrae con cuidado, una glándula de veneno intacta de un wyvern muerto puede usarse para envenenar un arma (si se vende, equivale a un objeto caro).<\/p>\n<p><strong>Intromisiones del DJ:<\/strong> Como parte de su ataque, el wyvern agarra al personaje y vuela a corta distancia. El personaje puede escapar con una tirada de Defensa por Vigor o Velocidad (lo que probablemente significa que cae al suelo y aterriza boca abajo). El wyvern utiliza un ala o su cola para golpear al personaje, que sale despedido a corta distancia y cae prono.<\/p>"
+    },
+    "version": 2
+  },
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "name": "Wyvern",
+  "_id": "d8OmBWnzanrnPDdO",
+  "items": []
+}

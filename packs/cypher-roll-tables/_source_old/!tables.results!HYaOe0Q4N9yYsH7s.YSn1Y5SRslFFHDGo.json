@@ -1,0 +1,16 @@
+{
+  "img": "systems/cyphersystem/icons/items/cypher.svg",
+  "documentCollection": "cyphersystem-compendium.cyphers-horror",
+  "flags": {},
+  "weight": 5,
+  "range": [
+    16,
+    20
+  ],
+  "documentId": "wmiEyaKwbCXR2v5m",
+  "text": "Poción de acónito",
+  "_id": "YSn1Y5SRslFFHDGo",
+  "type": 2,
+  "drawn": false,
+  "_key": "!tables.results!HYaOe0Q4N9yYsH7s.YSn1Y5SRslFFHDGo"
+}

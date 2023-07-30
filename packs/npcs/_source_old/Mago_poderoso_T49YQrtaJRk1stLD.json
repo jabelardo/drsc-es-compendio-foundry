@@ -1,0 +1,135 @@
+{
+  "img": "modules/drsc-es-compendio-foundry/img/tokens/humanoid_magical.webp",
+  "_stats": {
+    "modifiedTime": 1664959733137,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "rLeavHPrdkq6xjNt",
+    "createdTime": null,
+    "systemVersion": "2.0.0-a1",
+    "coreVersion": "10.286"
+  },
+  "flags": {},
+  "sort": 0,
+  "type": "npc",
+  "_key": "!actors!T49YQrtaJRk1stLD",
+  "prototypeToken": {
+    "displayBars": 40,
+    "displayName": 20,
+    "actorLink": false,
+    "lockRotation": false,
+    "texture": {
+      "scaleX": 1,
+      "offsetX": 0,
+      "scaleY": 1,
+      "offsetY": 0,
+      "src": "icons/svg/mystery-man.svg",
+      "rotation": 0,
+      "tint": null
+    },
+    "rotation": 0,
+    "detectionModes": [],
+    "flags": {},
+    "randomImg": false,
+    "bar1": {"attribute": "health"},
+    "bar2": {"attribute": "level"},
+    "disposition": 0,
+    "light": {
+      "attenuation": 0.5,
+      "color": null,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "animation": {
+        "intensity": 5,
+        "reverse": false,
+        "type": null,
+        "speed": 5
+      },
+      "saturation": 0,
+      "alpha": 0.5,
+      "contrast": 0,
+      "angle": 360,
+      "luminosity": 0.5,
+      "shadows": 0,
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "alpha": 1,
+    "name": "Mago poderoso",
+    "width": 1,
+    "sight": {
+      "saturation": 0,
+      "brightness": 1,
+      "attenuation": 0.1,
+      "color": null,
+      "visionMode": "basic",
+      "contrast": 0,
+      "angle": 360,
+      "range": 0,
+      "enabled": false
+    },
+    "height": 1
+  },
+  "effects": [],
+  "folder": null,
+  "system": {
+    "settings": {
+      "skills": {},
+      "abilities": {},
+      "general": {
+        "initiativeBonus": 0,
+        "hideArchive": false
+      },
+      "equipment": {
+        "ammo": {"active": false},
+        "armor": {"active": false},
+        "attacks": {"active": false},
+        "materials": {
+          "active": false,
+          "label": ""
+        },
+        "cyphers": {
+          "active": false,
+          "label": ""
+        },
+        "oddities": {
+          "active": false,
+          "label": ""
+        },
+        "artifacts": {
+          "active": false,
+          "label": ""
+        }
+      }
+    },
+    "notes": "<p>Algunos magos aprenden tantos hechizos y acumulan tanta sabiduría que se vuelven increíblemente poderosos. Algunos trabajan por un objetivo superior, mientras que otros sólo se preocupan por sí mismos.<\/p>\n<p><strong>Motivación:<\/strong> Buscar fuentes poderosas de magia (para coleccionar o mantener a salvo)<\/p>\n<p><strong>Salud:<\/strong> 40<\/p>\n<p><strong>Daño que inflige:<\/strong> 8 puntos<\/p>\n<p><strong>Movimiento:<\/strong> Corto<\/p>\n<p><strong>Ajustes: <\/strong>Nivel 9 para todas las tareas relacionadas con el conocimiento de la sabiduría arcana<\/p>\n<p><strong>Combate:<\/strong> Cuando un mago realiza un ataque a distancia con su báculo o golpea a alguien con él, la energía arcana daña al objetivo y, si lo desea, a todas las criaturas que el mago seleccione dentro del alcance inmediato del objetivo. Los objetivos que están dentro del alcance inmediato del mago cuando reciben el daño son lanzados fuera del alcance inmediato.<\/p>\n<p>Un mago poderoso conoce muchos hechizos, incluyendo hechizos que conceden +5 a la Armadura durante una hora, hechizos de teletransporte, hechizos de encontrar, etc. Un mago también suele llevar varios Cyphers útiles en el combate.<\/p>\n<p><strong>Interacción:<\/strong> Hay que tener cuidado al negociar con los magos porque son sutiles y se enfadan rápidamente. Incluso cuando las negociaciones tienen éxito, las sugerencias de un mago suelen ser crípticas y están abiertas a la interpretación. Se puede convencer a un poderoso mago para que enseñe a un personaje a lanzar un hechizo.<\/p>\n<p><strong>Uso:<\/strong> Un mago está reuniendo un equipo para desafiar a un gran enemigo, y los PJs encajan en el proyecto.<\/p>\n<p><strong>Botín:<\/strong> Un mago poderoso tiene 1d6 Cyphers.<\/p>\n<p><strong>Intromisiones del DJ:<\/strong> El mago lanza dos hechizos como una sola acción en lugar de uno solo.<\/p>",
+    "pools": {"health": {
+      "max": 40,
+      "value": 40
+    }},
+    "description": "",
+    "combat": {
+      "damage": 8,
+      "armor": 0
+    },
+    "basic": {
+      "level": 8,
+      "biography": "<p>Algunos magos aprenden tantos hechizos y acumulan tanta sabiduría que se vuelven increíblemente poderosos. Algunos trabajan por un objetivo superior, mientras que otros sólo se preocupan por sí mismos.<\/p>\n<p><strong>Motivación:<\/strong> Buscar fuentes poderosas de magia (para coleccionar o mantener a salvo)<\/p>\n<p><strong>Salud:<\/strong> 40<\/p>\n<p><strong>Daño que inflige:<\/strong> 8 puntos<\/p>\n<p><strong>Movimiento:<\/strong> Corto<\/p>\n<p><strong>Ajustes: <\/strong>Nivel 9 para todas las tareas relacionadas con el conocimiento de la sabiduría arcana<\/p>\n<p><strong>Combate:<\/strong> Cuando un mago realiza un ataque a distancia con su báculo o golpea a alguien con él, la energía arcana daña al objetivo y, si lo desea, a todas las criaturas que el mago seleccione dentro del alcance inmediato del objetivo. Los objetivos que están dentro del alcance inmediato del mago cuando reciben el daño son lanzados fuera del alcance inmediato.<\/p>\n<p>Un mago poderoso conoce muchos hechizos, incluyendo hechizos que conceden +5 a la Armadura durante una hora, hechizos de teletransporte, hechizos de encontrar, etc. Un mago también suele llevar varios Cyphers útiles en el combate.<\/p>\n<p><strong>Interacción:<\/strong> Hay que tener cuidado al negociar con los magos porque son sutiles y se enfadan rápidamente. Incluso cuando las negociaciones tienen éxito, las sugerencias de un mago suelen ser crípticas y están abiertas a la interpretación. Se puede convencer a un poderoso mago para que enseñe a un personaje a lanzar un hechizo.<\/p>\n<p><strong>Uso:<\/strong> Un mago está reuniendo un equipo para desafiar a un gran enemigo, y los PJs encajan en el proyecto.<\/p>\n<p><strong>Botín:<\/strong> Un mago poderoso tiene 1d6 Cyphers.<\/p>\n<p><strong>Intromisiones del DJ:<\/strong> El mago lanza dos hechizos como una sola acción en lugar de uno solo.<\/p>"
+    },
+    "teen": {
+      "settings": {},
+      "pools": {},
+      "basic": {}
+    },
+    "version": 2
+  },
+  "ownership": {
+    "N1n5f3sdQOJFmoJe": 3,
+    "default": 0
+  },
+  "name": "Mago poderoso",
+  "_id": "T49YQrtaJRk1stLD",
+  "items": []
+}

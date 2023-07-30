@@ -1,0 +1,47 @@
+{
+  "_id": "ccm57mnk8bNmPWfQ",
+  "name": "Bolsa de herramientas pesadas",
+  "type": "equipment",
+  "img": "systems/cyphersystem/icons/items/equipment.svg",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "system": {
+    "version": 2,
+    "description": "",
+    "archived": false,
+    "basic": {
+      "level": null,
+      "quantity": 1
+    },
+    "rollButton": {
+      "pool": "Pool",
+      "skill": "Practiced",
+      "assets": 0,
+      "effort1": 0,
+      "effort2": 0,
+      "effort3": 0,
+      "stepModifier": "eased",
+      "additionalSteps": 0,
+      "additionalCost": 0,
+      "damage": 0,
+      "damagePerLOE": 3,
+      "teen": "",
+      "bonus": 0
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "k2TkElLx959B0lm5": 3
+  },
+  "_stats": {
+    "systemId": "cyphersystem",
+    "systemVersion": "2.3.0",
+    "coreVersion": "10.291",
+    "createdTime": null,
+    "modifiedTime": 1676535218689,
+    "lastModifiedBy": "yThCrv1jSfPXOC2U"
+  },
+  "_key": "!items!ccm57mnk8bNmPWfQ"
+}

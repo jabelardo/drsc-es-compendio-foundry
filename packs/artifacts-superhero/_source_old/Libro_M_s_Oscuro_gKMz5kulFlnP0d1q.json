@@ -1,0 +1,42 @@
+{
+  "img": "systems/cyphersystem/icons/items/artifact.svg",
+  "effects": [],
+  "system": {
+    "archived": false,
+    "settings": {
+      "general": {
+        "nameUnidentified": ""
+      }
+    },
+    "description": "<p><strong>Nivel:</strong> 10</p>\n<p><strong>Aspecto:</strong> Libro grande, encuadernado en metal</p>\n<p><strong>Efecto:</strong> Creado por la entidad primordial que creó la magia maligna, el Libro Más Oscuro es un registro de todos los conjuros, maldiciones y rituales viles jamás realizados. Se sabe que incluye hechizos que crean hombres lobo, levantan un ejército de zombis, reviven un cadáver como vampiro, conjuran demonios y diablos, y liberan energía profana para diversos efectos. Alivia en tres grados cualquier tarea relacionada con el saber mágico. Incluso alguien no experto en magia puede abrirlo en una página al azar y leer el hechizo que hay en ella (el DJ determina el hechizo al azar tirando en la Tabla de Cyphers fantásticos), que tiene efecto a nivel 10.</p>\n<p>El Libro Más Oscuro es algo inteligente y puede esconder sus palabras de cualquiera que no quiera que lo lea. Puede requerir que una persona que lance un hechizo desde él tenga éxito en una tirada de defensa de Intelecto de dificultad 6 o reciba 6 puntos de daño de Intelecto y descienda un grado en el registro de daño.</p>\n<p>El libro es técnicamente indestructible; cualquier cosa lo suficientemente fuerte como para destruir un objeto de su nivel simplemente destruye una de sus páginas, y el libro no puede ser destruido mientras le quede al menos una página.</p>\n<p><strong>Agotamiento:</strong> -</p>",
+    "basic": {
+      "depletion": "—",
+      "identified": true,
+      "level": "10"
+    },
+    "version": 2
+  },
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "_stats": {
+    "modifiedTime": 1682098858729,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "yThCrv1jSfPXOC2U",
+    "createdTime": 1682098595186,
+    "systemVersion": "2.5.0",
+    "coreVersion": "10.291"
+  },
+  "name": "Libro Más Oscuro",
+  "flags": {
+    "core": {
+      "sourceId": "Item.TKC7XsugRraWFd2P"
+    }
+  },
+  "sort": 0,
+  "_id": "gKMz5kulFlnP0d1q",
+  "type": "artifact",
+  "_key": "!items!gKMz5kulFlnP0d1q"
+}

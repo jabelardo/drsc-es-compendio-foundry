@@ -1,0 +1,16 @@
+{
+  "img": "systems/cyphersystem/icons/items/cypher.svg",
+  "documentCollection": "cyphersystem-compendium.cyphers-horror",
+  "flags": {},
+  "weight": 2,
+  "range": [
+    19,
+    20
+  ],
+  "documentId": "uBhSKhFOn1w3U5ZE",
+  "text": "Escrutador de semblantes",
+  "_id": "jSSSYfsWAf2tNJYM",
+  "type": 2,
+  "drawn": false,
+  "_key": "!tables.results!rL3KHz6F7aOs31tx.jSSSYfsWAf2tNJYM"
+}

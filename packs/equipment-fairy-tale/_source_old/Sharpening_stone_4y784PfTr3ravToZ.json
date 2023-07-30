@@ -1,0 +1,36 @@
+{
+  "name": "Piedra de afilar",
+  "type": "equipment",
+  "img": "systems/cyphersystem/icons/items/equipment.svg",
+  "system": {
+    "version": 2,
+    "description": "",
+    "archived": false,
+    "basic": {
+      "level": null,
+      "quantity": 1
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Item.RBOhOdVQe8zo9UI8"
+    }
+  },
+  "_stats": {
+    "systemId": "cyphersystem",
+    "systemVersion": "2.6.0",
+    "coreVersion": "10.291",
+    "createdTime": 1685270152976,
+    "modifiedTime": 1685270155931,
+    "lastModifiedBy": "yThCrv1jSfPXOC2U"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "4y784PfTr3ravToZ",
+  "_key": "!items!4y784PfTr3ravToZ"
+}

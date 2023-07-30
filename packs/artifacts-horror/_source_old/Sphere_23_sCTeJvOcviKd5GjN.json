@@ -1,0 +1,48 @@
+{
+  "name": "Esfera 23",
+  "type": "artifact",
+  "img": "systems/cyphersystem/icons/items/artifact.svg",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "_id": "sCTeJvOcviKd5GjN",
+  "system": {
+    "version": 2,
+    "description": "<p><strong>Nivel:</strong> 1d6 + 4</p>\n<p><strong>Aspecto:</strong> Una esfera de 18 cm [7 pulgadas] de lo que parece ser metal fluido, teñida de rojo</p>\n<p><strong>Efecto:</strong> Posiblemente uno de los varios artefactos alienígenas idénticos recuperados en lugares remotos de la Tierra, la llamada esfera 23 concederá un deseo a cualquiera que la sostenga y utilice una acción para concentrarse en ella. El deseo puede ser cualquier cosa, incluso algo que altere la realidad: resucitar a los muertos, alterar el tiempo, etc. Sin embargo, el deseante debe hacer inmediatamente una tirada de Defensa por Vigor o ser consumido por la esfera. Si la tirada tiene éxito, debe hacer una tirada de Defensa por Intelecto o se volverá permanente e irrevocablemente loco.</p>\n<p><strong>Agotamiento:</strong> 1&ndash;3 en 1d6</p>",
+    "archived": false,
+    "basic": {
+      "level": "1d6 + 4",
+      "depletion": "1–3 in [[/r 1d6]]",
+      "identified": true
+    },
+    "rollButton": {
+      "pool": "Pool",
+      "skill": "Practiced",
+      "assets": 0,
+      "effort1": 0,
+      "effort2": 0,
+      "effort3": 0,
+      "stepModifier": "eased",
+      "additionalSteps": 0,
+      "additionalCost": 0,
+      "damage": 0,
+      "damagePerLOE": 3,
+      "teen": "",
+      "bonus": 0
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "k2TkElLx959B0lm5": 3
+  },
+  "_stats": {
+    "systemId": "cyphersystem",
+    "systemVersion": "2.0.0-a1",
+    "coreVersion": "10.286",
+    "createdTime": null,
+    "modifiedTime": 1664959727584,
+    "lastModifiedBy": "rLeavHPrdkq6xjNt"
+  },
+  "_key": "!items!sCTeJvOcviKd5GjN"
+}

@@ -1,0 +1,58 @@
+{
+  "img": "systems/cyphersystem/icons/items/ability.svg",
+  "effects": [],
+  "folder": null,
+  "system": {
+    "archived": false,
+    "settings": {
+      "general": {
+        "spellTier": "low",
+        "sorting": "Ability",
+        "unmaskedForm": "Mask"
+      },
+      "rollButton": {
+        "stepModifier": "eased",
+        "damage": 0,
+        "damagePerLOE": 3,
+        "bonus": 0,
+        "pool": "Pool",
+        "teen": "",
+        "additionalSteps": 0,
+        "effort1": 0,
+        "effort3": 0,
+        "assets": 0,
+        "effort2": 0,
+        "skill": "Practiced",
+        "additionalCost": 0
+      }
+    },
+    "description": "<p>Puedes hacer que la energía de tu Escudo de campo de fuerza se expanda hacia afuera en todas las direcciones para crear un plano inmóvil de fuerza sólida de hasta 6 m por 6 m [20 pies por 20 pies] durante un máximo de una hora o hasta que retires el escudo. (El escudo de fuerza se convierte en el muro de fuerza.) El plano del muro de fuerza se ajusta al espacio disponible. Mientras el muro de fuerza permanezca en su lugar, no puedes utilizar ninguna de tus otras capacidades que requieran el Escudo de campo de fuerza. Acción para iniciar.</p>",
+    "basic": {
+      "cost": "5",
+      "pool": "Intellect"
+    },
+    "version": 2
+  },
+  "ownership": {
+    "default": 0,
+    "k2TkElLx959B0lm5": 3
+  },
+  "_stats": {
+    "modifiedTime": 1664959718651,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "rLeavHPrdkq6xjNt",
+    "createdTime": null,
+    "systemVersion": "2.0.0-a1",
+    "coreVersion": "10.286"
+  },
+  "name": "Muro de fuerza",
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.cyphersystem-compendium.abilities.TXNhhyj63MMp2dVF"
+    }
+  },
+  "_id": "TXNhhyj63MMp2dVF",
+  "sort": 0,
+  "type": "ability",
+  "_key": "!items!TXNhhyj63MMp2dVF"
+}

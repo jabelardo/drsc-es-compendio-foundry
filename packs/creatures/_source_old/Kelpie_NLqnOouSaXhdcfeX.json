@@ -1,0 +1,128 @@
+{
+  "img": "modules/drsc-es-compendio-foundry/img/tokens/magical-beast.webp",
+  "_stats": {
+    "modifiedTime": 1685373408275,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "yThCrv1jSfPXOC2U",
+    "createdTime": 1685373294433,
+    "systemVersion": "2.6.0",
+    "coreVersion": "10.291"
+  },
+  "flags": {"core": {"sourceId": "Actor.DS6KkpSaZwUt318p"}},
+  "sort": 0,
+  "type": "npc",
+  "_key": "!actors!NLqnOouSaXhdcfeX",
+  "prototypeToken": {
+    "displayBars": 40,
+    "displayName": 20,
+    "actorLink": false,
+    "texture": {
+      "scaleX": 1,
+      "offsetX": 0,
+      "scaleY": 1,
+      "offsetY": 0,
+      "src": "icons/svg/mystery-man.svg",
+      "rotation": 0,
+      "tint": null
+    },
+    "lockRotation": true,
+    "rotation": 0,
+    "detectionModes": [],
+    "flags": {"barbrawl": {"resourceBars": {}}},
+    "randomImg": false,
+    "bar1": {"attribute": "pools.health"},
+    "bar2": {"attribute": "basic.level"},
+    "disposition": 0,
+    "light": {
+      "attenuation": 0.5,
+      "color": null,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "animation": {
+        "intensity": 5,
+        "type": null,
+        "reverse": false,
+        "speed": 5
+      },
+      "saturation": 0,
+      "alpha": 0.5,
+      "contrast": 0,
+      "angle": 360,
+      "luminosity": 0.5,
+      "shadows": 0,
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "alpha": 1,
+    "name": "Kelpie",
+    "width": 1,
+    "sight": {
+      "saturation": 0,
+      "attenuation": 0.1,
+      "brightness": 0,
+      "color": null,
+      "visionMode": "basic",
+      "contrast": 0,
+      "range": null,
+      "angle": 360,
+      "enabled": false
+    },
+    "height": 1
+  },
+  "effects": [],
+  "system": {
+    "settings": {
+      "general": {
+        "initiativeBonus": 0,
+        "hideArchive": false
+      },
+      "equipment": {
+        "ammo": {"active": false},
+        "armor": {"active": false},
+        "attacks": {"active": false},
+        "materials": {
+          "active": false,
+          "label": ""
+        },
+        "cyphers": {
+          "active": false,
+          "label": ""
+        },
+        "oddities": {
+          "active": false,
+          "label": ""
+        },
+        "artifacts": {
+          "active": false,
+          "label": ""
+        }
+      }
+    },
+    "notes": "<p>Una siniestra criatura acuática que adopta la forma de un caballo gris o un poni blanco, el kelpie atrae a los transeúntes desprevenidos e intenta ahogarlos en una masa de agua cercana.<\/p>\n<p>Algunos kelpies parecen caballos. Otros parecen creados a partir de elementos del pantano: tal vez su cola sean algas, su crin juncos, sus ojos guijarros brillantes o lunas en miniatura. Tal vez anguilas, caracoles y otras criaturas sean sus dientes o su lengua. Una cosa sobre los kelpies es siempre cierta: sus crines siempre gotean y sus pezuñas siempre están invertidas.<\/p>\n<p>Si alguien conoce el nombre de un kelpie y lo dice en voz alta, el kelpie pierde todo su poder sobre esa persona y se retira a las profundidades del agua.<\/p>\n<p><strong>Motivación:<\/strong> Desconocido<\/p>\n<p><strong>Entorno:<\/strong> Cerca o dentro de ríos, arroyos, lagos y otras masas de agua corriente o estancada. En entornos modernos pueden encontrarse cerca de piscinas públicas o privadas, estanques koi y embalses.<\/p>\n<p><strong>Salud:<\/strong> 21<\/p>\n<p><strong>Daño que inflige:<\/strong> 4 puntos<\/p>\n<p><strong>Movimiento:<\/strong> Muy largo cuando corre<\/p>\n<p><strong>Combate:<\/strong> Cuando un transeúnte se acerca, el kelpie puede parecer manso, un poco perdido, herido o amigable y necesitado. O, si el transeúnte parece cansado o triste, el kelpie se ofrecerá a montarlo en su lomo. La piel pegajosa del kelpie atrapa al jinete (tarea de Vigor de nivel 7 para liberarse). Una vez que el jinete está sentado, el kelpie puede intentar ahogarlo en el lago, correr tan rápido que el jinete reciba 5 puntos de daño de Intelecto por el susto, o rodar sobre él, infligiéndole 4 puntos de daño (ignora Armadura).<\/p>\n<p><strong>Interacción:<\/strong> No todos los kelpies son malévolos. Algunos fueron una vez \"domesticados\" por alguien que aprendió sus nombres y los amó. Estos kelpies buscan activamente el contacto humano, intentando encontrar a alguien que reemplace a la persona que amaban.<\/p>\n<p><strong>Uso:<\/strong> En la penumbra, aparece un gran caballo negro, que lleva una hermosa montura y actúa como si estuviera perdido. éste le ofrece a uno de los cansados personajes un paseo sobre su lomo.<\/p>\n<p><strong>Intromisiones del DJ:<\/strong> Mientras se ocupan de otra cosa, los personajes se topan con un kelpie que está ahogando a alguien.<\/p>",
+    "pools": {"health": {
+      "max": 21,
+      "value": 21
+    }},
+    "description": "",
+    "combat": {
+      "damage": 4,
+      "armor": 0
+    },
+    "basic": {
+      "level": 6,
+      "biography": "<p>Una siniestra criatura acuática que adopta la forma de un caballo gris o un poni blanco, el kelpie atrae a los transeúntes desprevenidos e intenta ahogarlos en una masa de agua cercana.<\/p>\n<p>Algunos kelpies parecen caballos. Otros parecen creados a partir de elementos del pantano: tal vez su cola sean algas, su crin juncos, sus ojos guijarros brillantes o lunas en miniatura. Tal vez anguilas, caracoles y otras criaturas sean sus dientes o su lengua. Una cosa sobre los kelpies es siempre cierta: sus crines siempre gotean y sus pezuñas siempre están invertidas.<\/p>\n<p>Si alguien conoce el nombre de un kelpie y lo dice en voz alta, el kelpie pierde todo su poder sobre esa persona y se retira a las profundidades del agua.<\/p>\n<p><strong>Motivación:<\/strong> Desconocido<\/p>\n<p><strong>Entorno:<\/strong> Cerca o dentro de ríos, arroyos, lagos y otras masas de agua corriente o estancada. En entornos modernos pueden encontrarse cerca de piscinas públicas o privadas, estanques koi y embalses.<\/p>\n<p><strong>Salud:<\/strong> 21<\/p>\n<p><strong>Daño que inflige:<\/strong> 4 puntos<\/p>\n<p><strong>Movimiento:<\/strong> Muy largo cuando corre<\/p>\n<p><strong>Combate:<\/strong> Cuando un transeúnte se acerca, el kelpie puede parecer manso, un poco perdido, herido o amigable y necesitado. O, si el transeúnte parece cansado o triste, el kelpie se ofrecerá a montarlo en su lomo. La piel pegajosa del kelpie atrapa al jinete (tarea de Vigor de nivel 7 para liberarse). Una vez que el jinete está sentado, el kelpie puede intentar ahogarlo en el lago, correr tan rápido que el jinete reciba 5 puntos de daño de Intelecto por el susto, o rodar sobre él, infligiéndole 4 puntos de daño (ignora Armadura).<\/p>\n<p><strong>Interacción:<\/strong> No todos los kelpies son malévolos. Algunos fueron una vez \"domesticados\" por alguien que aprendió sus nombres y los amó. Estos kelpies buscan activamente el contacto humano, intentando encontrar a alguien que reemplace a la persona que amaban.<\/p>\n<p><strong>Uso:<\/strong> En la penumbra, aparece un gran caballo negro, que lleva una hermosa montura y actúa como si estuviera perdido. éste le ofrece a uno de los cansados personajes un paseo sobre su lomo.<\/p>\n<p><strong>Intromisiones del DJ:<\/strong> Mientras se ocupan de otra cosa, los personajes se topan con un kelpie que está ahogando a alguien.<\/p>"
+    },
+    "version": 3
+  },
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "name": "Kelpie",
+  "_id": "NLqnOouSaXhdcfeX",
+  "items": []
+}

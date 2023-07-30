@@ -1,0 +1,33 @@
+{
+  "img": "systems/cyphersystem/icons/items/cypher.svg",
+  "effects": [],
+  "system": {
+    "archived": false,
+    "settings": {"general": {"nameUnidentified": ""}},
+    "description": "<p><strong>Nivel:<\/strong> 1d6<\/p>\n<p><strong>Aspecto:<\/strong> Piedra de afilar<\/p>\n<p><strong>Efecto:<\/strong> Después de afilar al menos una de sus armas con la piedra de afilar, el usuario se siente instantáneamente más valiente. Durante los siguientes diez minutos, todas sus acciones de intimidación se alivian, y su arma afilada inflige +2 puntos de daño.<\/p>",
+    "basic": {
+      "identified": true,
+      "level": "1d6"
+    },
+    "version": 2
+  },
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "_stats": {
+    "modifiedTime": 1685280982982,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "yThCrv1jSfPXOC2U",
+    "createdTime": 1685280686782,
+    "systemVersion": "2.6.0",
+    "coreVersion": "10.291"
+  },
+  "name": "Piedra de afilar valerosa",
+  "flags": {},
+  "_id": "V8AvyXjumY79MiCv",
+  "sort": 0,
+  "type": "cypher",
+  "_key": "!items!V8AvyXjumY79MiCv"
+}

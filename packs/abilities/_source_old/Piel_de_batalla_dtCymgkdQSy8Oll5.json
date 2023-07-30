@@ -1,0 +1,63 @@
+{
+  "img": "systems/cyphersystem/icons/items/ability.svg",
+  "effects": [],
+  "system": {
+    "archived": false,
+    "settings": {
+      "general": {
+        "spellTier": "low",
+        "sorting": "Ability",
+        "unmaskedForm": "Mask"
+      },
+      "linkedItems": {
+        "attack": "",
+        "skill": "",
+        "ability": ""
+      },
+      "rollButton": {
+        "stepModifier": "eased",
+        "damage": 0,
+        "damagePerLOE": 3,
+        "bonus": 0,
+        "pool": "Pool",
+        "teen": "",
+        "additionalSteps": 0,
+        "effort1": "0",
+        "effort3": "0",
+        "assets": "0",
+        "effort2": "0",
+        "skill": "Practiced",
+        "additionalCost": 0
+      }
+    },
+    "description": "<p>Puedes transformar instantáneamente tus manos y pies en garras, y tus dientes humanos en colmillos, o volver a tu apariencia humana normal. Cuando realizas ataques con tus garras o colmillos, cuentan como armas medias en lugar de ligeras. Capacitador.</p>",
+    "basic": {
+      "cost": "0",
+      "pool": "Pool"
+    },
+    "version": 2
+  },
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "_stats": {
+    "modifiedTime": 1681933773115,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "yThCrv1jSfPXOC2U",
+    "createdTime": 1681933052013,
+    "systemVersion": "2.5.0",
+    "coreVersion": "10.291"
+  },
+  "name": "Piel de batalla",
+  "flags": {
+    "core": {
+      "sourceId": "Item.kWHsYJRRb6Ng9hFq"
+    }
+  },
+  "sort": 0,
+  "_id": "dtCymgkdQSy8Oll5",
+  "type": "ability",
+  "_key": "!items!dtCymgkdQSy8Oll5"
+}

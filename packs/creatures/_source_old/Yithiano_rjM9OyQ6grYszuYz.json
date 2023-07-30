@@ -1,0 +1,128 @@
+{
+  "img": "modules/drsc-es-compendio-foundry/img/tokens/outsider_cthulhuesque.webp",
+  "_stats": {
+    "modifiedTime": 1683060373448,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "yThCrv1jSfPXOC2U",
+    "createdTime": 1683060190672,
+    "systemVersion": "2.5.0",
+    "coreVersion": "10.291"
+  },
+  "flags": {},
+  "sort": 0,
+  "type": "npc",
+  "_key": "!actors!rjM9OyQ6grYszuYz",
+  "prototypeToken": {
+    "displayBars": 40,
+    "displayName": 20,
+    "actorLink": false,
+    "texture": {
+      "scaleX": 1,
+      "offsetX": 0,
+      "scaleY": 1,
+      "offsetY": 0,
+      "src": "icons/svg/mystery-man.svg",
+      "rotation": 0,
+      "tint": null
+    },
+    "lockRotation": false,
+    "rotation": 0,
+    "detectionModes": [],
+    "flags": {},
+    "randomImg": false,
+    "bar1": {"attribute": "pools.health"},
+    "bar2": {"attribute": "basic.level"},
+    "disposition": 0,
+    "light": {
+      "attenuation": 0.5,
+      "color": null,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "animation": {
+        "intensity": 5,
+        "type": null,
+        "reverse": false,
+        "speed": 5
+      },
+      "saturation": 0,
+      "alpha": 0.5,
+      "contrast": 0,
+      "angle": 360,
+      "luminosity": 0.5,
+      "shadows": 0,
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "alpha": 1,
+    "name": "Yithiano",
+    "width": 1,
+    "sight": {
+      "saturation": 0,
+      "attenuation": 0.1,
+      "brightness": 0,
+      "color": null,
+      "visionMode": "basic",
+      "contrast": 0,
+      "range": null,
+      "angle": 360,
+      "enabled": false
+    },
+    "height": 1
+  },
+  "effects": [],
+  "system": {
+    "settings": {
+      "general": {
+        "initiativeBonus": 0,
+        "hideArchive": false
+      },
+      "equipment": {
+        "ammo": {"active": false},
+        "armor": {"active": false},
+        "attacks": {"active": false},
+        "materials": {
+          "active": false,
+          "label": ""
+        },
+        "cyphers": {
+          "active": false,
+          "label": ""
+        },
+        "oddities": {
+          "active": false,
+          "label": ""
+        },
+        "artifacts": {
+          "active": false,
+          "label": ""
+        }
+      }
+    },
+    "notes": "<p>Los yithianos (también conocidos como la Gran Raza de Yith) eran inmensos conos arrugados de 3 m [10 pies] de altura, con una cabeza, cuatro extremidades y otros órganos que se extendían desde la parte superior de su cuerpo. Se comunicaban haciendo ruidos con las manos y las garras, y se desplazaban deslizando su superficie inferior por una capa de baba, como una babosa. Su civilización fue destruida mil millones de años antes del presente, pero transportaron sus mentes a nuevos cuerpos muy lejos en el futuro y todavía pueden ser encontrados observando el pasado (nuestro presente) habitando telepáticamente cuerpos humanos.<\/p>\n<p><strong>Motivación: <\/strong>Conocimiento<strong> <\/strong><\/p>\n<p><strong>Entorno:<\/strong> Cualquier lugar<\/p>\n<p><strong>Salud:<\/strong> 22<\/p>\n<p><strong>Daño que inflige:<\/strong> 6 puntos<\/p>\n<p><strong>Armadura:<\/strong> 2<\/p>\n<p><strong>Movimiento:<\/strong> Corto<\/p>\n<p><strong>Ajustes:<\/strong> Nivel 8 para todos los conocimientos; nivel 7 para Defensa por Intelecto; nivel 5 para Defensa por Velocidad debido a su tamaño y velocidad<\/p>\n<p><strong>Combate:<\/strong> Aunque grandes y resistentes, los miembros de la Gran Raza son poco aptos para el combate físico. Si tienen que enfrentarse cuerpo a cuerpo, utilizan garras en forma de tenaza. Sin embargo, casi siempre portan artefactos y Cyphers, lo que los convierte en oponentes peligrosos. Asume que un yithiano tiene una o más de las siguientes capacidades derivadas de artefactos de tecnología avanzada:<\/p>\n<p><strong>Campo de fuerza:<\/strong> le otorga +3 de Armadura<\/p>\n<p><strong>Campo mental:<\/strong> le otorga +4 de Armadura contra cualquier ataque mental<\/p>\n<p><strong>Emisor de rayos:<\/strong> inflige 7 puntos de daño a larga distancia<\/p>\n<p><strong>Campo de camuflaje:<\/strong> que lo hace invisible hasta por diez minutos<\/p>\n<p><strong>Arma aturdidora:<\/strong> de corto alcance que hace que el objetivo caiga inconsciente durante diez minutos<\/p>\n<p>Los yithianos tienen la capacidad de transferir su conciencia hacia atrás o hacia delante en el tiempo, intercambiando mentes con una criatura nativa de la época que deseen observar. Un yithiano que habita el cuerpo de otra criatura tiene el control total de ese cuerpo. Una criatura atrapada en el cuerpo de un yithiano debe intentar una tarea basada en el Intelecto cada vez que desee ejercer el control.<\/p>\n<p>La mayor parte del tiempo, la criatura está atrapada en el cuerpo del yithiano y no es más que un mero acompañante.<\/p>\n<p>Cabe destacar que los cuerpos que utilizan los yithianos no son sus cuerpos originales, sino los de criaturas sumamente antiguas en los que habitan. La Gran Raza es originaria de algún mundo extraterrestre.<\/p>\n<p><strong>Interacción:<\/strong> Los yithianos no son maliciosos, pero son bastante centrados y relativamente indiferentes hacia otras razas, como los humanos.<\/p>\n<p><strong>Uso:<\/strong> Un yithiano proyecta su mente a través de los eones, intercambiando conciencias con el personaje. Mientras controla el cuerpo del personaje, el yithian está allí principalmente para aprender y observar, y rara vez realiza acciones violentas.<\/p>\n<p><strong>Botín:<\/strong> Un yithian encontrado en carne y hueso tendrá 1d6 Cyphers manifiestos y muy probablemente un artefacto tecnológico.<\/p>\n<p><strong>Intromisiones del DJ: <\/strong>El yithiano produce un Cyphers que tiene una función perfecta para su situación actual: un teletransportador para huir, un campo protector contra precisamente el tipo de ataque que se está utilizando contra él, o un arma que explota una debilidad del personaje.<\/p>\n<h4 id=\"pnjs-1\">PNJs<\/h4>",
+    "pools": {"health": {
+      "max": 22,
+      "value": 22
+    }},
+    "description": "",
+    "combat": {
+      "damage": 6,
+      "armor": 2
+    },
+    "basic": {
+      "level": 6,
+      "biography": "<p>Los yithianos (también conocidos como la Gran Raza de Yith) eran inmensos conos arrugados de 3 m [10 pies] de altura, con una cabeza, cuatro extremidades y otros órganos que se extendían desde la parte superior de su cuerpo. Se comunicaban haciendo ruidos con las manos y las garras, y se desplazaban deslizando su superficie inferior por una capa de baba, como una babosa. Su civilización fue destruida mil millones de años antes del presente, pero transportaron sus mentes a nuevos cuerpos muy lejos en el futuro y todavía pueden ser encontrados observando el pasado (nuestro presente) habitando telepáticamente cuerpos humanos.<\/p>\n<p><strong>Motivación: <\/strong>Conocimiento<strong> <\/strong><\/p>\n<p><strong>Entorno:<\/strong> Cualquier lugar<\/p>\n<p><strong>Salud:<\/strong> 22<\/p>\n<p><strong>Daño que inflige:<\/strong> 6 puntos<\/p>\n<p><strong>Armadura:<\/strong> 2<\/p>\n<p><strong>Movimiento:<\/strong> Corto<\/p>\n<p><strong>Ajustes:<\/strong> Nivel 8 para todos los conocimientos; nivel 7 para Defensa por Intelecto; nivel 5 para Defensa por Velocidad debido a su tamaño y velocidad<\/p>\n<p><strong>Combate:<\/strong> Aunque grandes y resistentes, los miembros de la Gran Raza son poco aptos para el combate físico. Si tienen que enfrentarse cuerpo a cuerpo, utilizan garras en forma de tenaza. Sin embargo, casi siempre portan artefactos y Cyphers, lo que los convierte en oponentes peligrosos. Asume que un yithiano tiene una o más de las siguientes capacidades derivadas de artefactos de tecnología avanzada:<\/p>\n<p><strong>Campo de fuerza:<\/strong> le otorga +3 de Armadura<\/p>\n<p><strong>Campo mental:<\/strong> le otorga +4 de Armadura contra cualquier ataque mental<\/p>\n<p><strong>Emisor de rayos:<\/strong> inflige 7 puntos de daño a larga distancia<\/p>\n<p><strong>Campo de camuflaje:<\/strong> que lo hace invisible hasta por diez minutos<\/p>\n<p><strong>Arma aturdidora:<\/strong> de corto alcance que hace que el objetivo caiga inconsciente durante diez minutos<\/p>\n<p>Los yithianos tienen la capacidad de transferir su conciencia hacia atrás o hacia delante en el tiempo, intercambiando mentes con una criatura nativa de la época que deseen observar. Un yithiano que habita el cuerpo de otra criatura tiene el control total de ese cuerpo. Una criatura atrapada en el cuerpo de un yithiano debe intentar una tarea basada en el Intelecto cada vez que desee ejercer el control.<\/p>\n<p>La mayor parte del tiempo, la criatura está atrapada en el cuerpo del yithiano y no es más que un mero acompañante.<\/p>\n<p>Cabe destacar que los cuerpos que utilizan los yithianos no son sus cuerpos originales, sino los de criaturas sumamente antiguas en los que habitan. La Gran Raza es originaria de algún mundo extraterrestre.<\/p>\n<p><strong>Interacción:<\/strong> Los yithianos no son maliciosos, pero son bastante centrados y relativamente indiferentes hacia otras razas, como los humanos.<\/p>\n<p><strong>Uso:<\/strong> Un yithiano proyecta su mente a través de los eones, intercambiando conciencias con el personaje. Mientras controla el cuerpo del personaje, el yithian está allí principalmente para aprender y observar, y rara vez realiza acciones violentas.<\/p>\n<p><strong>Botín:<\/strong> Un yithian encontrado en carne y hueso tendrá 1d6 Cyphers manifiestos y muy probablemente un artefacto tecnológico.<\/p>\n<p><strong>Intromisiones del DJ: <\/strong>El yithiano produce un Cyphers que tiene una función perfecta para su situación actual: un teletransportador para huir, un campo protector contra precisamente el tipo de ataque que se está utilizando contra él, o un arma que explota una debilidad del personaje.<\/p>\n<h4 id=\"pnjs-1\">PNJs<\/h4>"
+    },
+    "version": 3
+  },
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "name": "Yithiano",
+  "_id": "rjM9OyQ6grYszuYz",
+  "items": []
+}

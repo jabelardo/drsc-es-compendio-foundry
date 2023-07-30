@@ -1,0 +1,62 @@
+{
+  "name": "Blaster, ligero",
+  "type": "attack",
+  "img": "systems/cyphersystem/icons/items/attack.svg",
+  "effects": [],
+  "folder": "c11XUJPOWmbBco7k",
+  "sort": 100000,
+  "flags": {},
+  "_id": "cAh0sGKTyb8Vptej",
+  "system": {
+    "version": 2,
+    "description": "<p>Pistola que proyecta un rayo energético de plasma-partículas; arma ligera (2 de daño, dificultad de ataque aliviada), largo alcance. Ignora 1 punto de valor de Armadura (excepto de campos de fuerza). Nivel 4.</p>",
+    "archived": false,
+    "settings": {
+      "rollButton": {
+        "pool": "Pool",
+        "skill": "Practiced",
+        "assets": "0",
+        "effort1": "0",
+        "effort2": "0",
+        "effort3": "0",
+        "stepModifier": "eased",
+        "additionalSteps": 0,
+        "additionalCost": 0,
+        "damage": 0,
+        "damagePerLOE": 3,
+        "teen": "",
+        "bonus": 0
+      },
+      "linkedItems": {
+        "ability": "",
+        "attack": "",
+        "skill": ""
+      },
+      "general": {
+        "unmaskedForm": "Mask"
+      }
+    },
+    "basic": {
+      "type": "light weapon",
+      "damage": 2,
+      "modifier": "eased",
+      "steps": 1,
+      "range": "long range",
+      "notes": "ignores 1 point of Armor",
+      "skillRating": "Practiced"
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "k2TkElLx959B0lm5": 3
+  },
+  "_stats": {
+    "systemId": "cyphersystem",
+    "systemVersion": "2.6.2",
+    "coreVersion": "11.299",
+    "createdTime": null,
+    "modifiedTime": 1685561683599,
+    "lastModifiedBy": "7luxagQiisUFvSQn"
+  },
+  "_key": "!items!cAh0sGKTyb8Vptej"
+}

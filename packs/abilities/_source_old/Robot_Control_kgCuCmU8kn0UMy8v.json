@@ -1,0 +1,54 @@
+{
+  "img": "systems/cyphersystem/icons/items/ability.svg",
+  "effects": [],
+  "folder": null,
+  "system": {
+    "archived": false,
+    "settings": {
+      "general": {
+        "spellTier": "low",
+        "sorting": "Ability",
+        "unmaskedForm": "Mask"
+      },
+      "rollButton": {
+        "stepModifier": "eased",
+        "damage": 0,
+        "damagePerLOE": 3,
+        "bonus": 0,
+        "pool": "Pool",
+        "teen": "",
+        "additionalSteps": 0,
+        "effort1": 0,
+        "effort3": 0,
+        "assets": 0,
+        "effort2": 0,
+        "skill": "Practiced",
+        "additionalCost": 0
+      }
+    },
+    "description": "<p>Utilizas tus conocimientos de mando y control de robots (y posiblemente dispositivos que transmitan en la frecuencia adecuada) para afectar a cualquier sistema mecanizado o robot de nivel 2 o inferior a corto alcance. Puedes dejar inactivos varios objetivos durante el tiempo que concentres toda tu atención en ellos. Si te concentras en un solo objetivo, puedes intentar tomar el control activo del mismo durante un minuto, ordenándole que realice tareas sencillas para ti mientras te concentras. Además de las opciones normales para usar Esfuerzo, puedes elegir usar Esfuerzo para aumentar el nivel máximo del sistema mecanizado o del robot. Así, para afectar a un objetivo de nivel 4 (dos niveles por encima del límite normal), debes aplicar dos niveles de Esfuerzo. Acción para iniciar.<\/p>",
+    "basic": {
+      "cost": "2+",
+      "pool": "Intellect"
+    },
+    "version": 2
+  },
+  "ownership": {
+    "default": 0,
+    "k2TkElLx959B0lm5": 3
+  },
+  "_stats": {
+    "modifiedTime": 1664959723563,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "rLeavHPrdkq6xjNt",
+    "createdTime": null,
+    "systemVersion": "2.0.0-a1",
+    "coreVersion": "10.286"
+  },
+  "name": "Control de robots",
+  "flags": {"core": {"sourceId": "Compendium.cyphersystem-compendium.abilities.kgCuCmU8kn0UMy8v"}},
+  "_id": "kgCuCmU8kn0UMy8v",
+  "sort": 0,
+  "type": "ability",
+  "_key": "!items!kgCuCmU8kn0UMy8v"
+}

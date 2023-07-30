@@ -1,0 +1,32 @@
+{
+  "name": "Conjunto de realeza",
+  "type": "equipment",
+  "img": "systems/cyphersystem/icons/items/equipment.svg",
+  "system": {
+    "version": 2,
+    "description": "",
+    "archived": false,
+    "basic": {
+      "level": null,
+      "quantity": 1
+    }
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "cyphersystem",
+    "systemVersion": "2.6.0",
+    "coreVersion": "10.291",
+    "createdTime": 1685344210580,
+    "modifiedTime": 1685344262927,
+    "lastModifiedBy": "yThCrv1jSfPXOC2U"
+  },
+  "_id": "mSimyW7oSc18ozOn",
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "_key": "!items!mSimyW7oSc18ozOn"
+}

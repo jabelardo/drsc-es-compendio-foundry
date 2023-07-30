@@ -1,0 +1,128 @@
+{
+  "img": "modules/drsc-es-compendio-foundry/img/tokens/humanoid_mundane.webp",
+  "_stats": {
+    "modifiedTime": 1685376284706,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "yThCrv1jSfPXOC2U",
+    "createdTime": 1685376198400,
+    "systemVersion": "2.6.0",
+    "coreVersion": "10.291"
+  },
+  "flags": {"core": {"sourceId": "Actor.4a8lcNVZaRBVH7r2"}},
+  "sort": 0,
+  "type": "npc",
+  "_key": "!actors!Msr1AyPR01j6nSFQ",
+  "prototypeToken": {
+    "displayBars": 40,
+    "displayName": 20,
+    "actorLink": false,
+    "texture": {
+      "scaleX": 1,
+      "offsetX": 0,
+      "scaleY": 1,
+      "offsetY": 0,
+      "src": "icons/svg/mystery-man.svg",
+      "rotation": 0,
+      "tint": null
+    },
+    "lockRotation": true,
+    "rotation": 0,
+    "detectionModes": [],
+    "flags": {"barbrawl": {"resourceBars": {}}},
+    "randomImg": false,
+    "bar1": {"attribute": "pools.health"},
+    "bar2": {"attribute": "basic.level"},
+    "disposition": 0,
+    "light": {
+      "attenuation": 0.5,
+      "color": null,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "animation": {
+        "intensity": 5,
+        "type": null,
+        "reverse": false,
+        "speed": 5
+      },
+      "saturation": 0,
+      "alpha": 0.5,
+      "contrast": 0,
+      "angle": 360,
+      "luminosity": 0.5,
+      "shadows": 0,
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "alpha": 1,
+    "name": "Artesano",
+    "width": 1,
+    "sight": {
+      "saturation": 0,
+      "attenuation": 0.1,
+      "brightness": 0,
+      "color": null,
+      "visionMode": "basic",
+      "contrast": 0,
+      "range": null,
+      "angle": 360,
+      "enabled": false
+    },
+    "height": 1
+  },
+  "effects": [],
+  "system": {
+    "settings": {
+      "general": {
+        "initiativeBonus": 0,
+        "hideArchive": false
+      },
+      "equipment": {
+        "ammo": {"active": false},
+        "armor": {"active": false},
+        "attacks": {"active": false},
+        "materials": {
+          "active": false,
+          "label": ""
+        },
+        "cyphers": {
+          "active": false,
+          "label": ""
+        },
+        "oddities": {
+          "active": false,
+          "label": ""
+        },
+        "artifacts": {
+          "active": false,
+          "label": ""
+        }
+      }
+    },
+    "notes": "<p>Los artesanos son panaderos, zapateros, fabricantes de velas, carniceros, molineros, sastres, carpinteros y cocineros. Aunque la mayoría de los artesanos no son luchadores especialmente ágiles, suelen ser inteligentes y fuertes, y disponen de una serie de herramientas familiares como armas.<\/p>\n<p><strong>Motivación:<\/strong> Defensa<\/p>\n<p><strong>Entorno:<\/strong> En sus talleres o vendiendo su oficio mientras viajan<\/p>\n<p><strong>Salud:<\/strong> 8<\/p>\n<p><strong>Daño que inflige:<\/strong> 3 puntos<\/p>\n<p><strong>Movimiento:<\/strong> Corto<\/p>\n<p><strong>Ajustes:<\/strong> Nivel 3 para su oficio<\/p>\n<p><strong>Combate:<\/strong> Es poco probable que los artesanos inicien un combate, ya que la mayoría sólo quieren que les dejen en paz para hacer su trabajo (o convencerte de que compres sus productos). Si se ven obligados a luchar, normalmente utilizarán cualquier objeto que tengan a mano (como un rodillo, un cuchillo de carnicero, una herramienta de trabajo o un trozo de madera).<\/p>\n<p><strong>Interacción:<\/strong> A la mayoría de los artesanos les encanta hablar de su oficio o de los objetos que han fabricado y tienen a la venta. Están orgullosos de su trabajo, y los halagos y la atención pueden llegar muy lejos.<\/p>\n<p><strong>Uso:<\/strong> Para los PJs, los artesanos pueden ser aliados, obstáculos o ambas cosas. Ser amigo de un artesano a menudo tiene beneficios obvios a largo plazo, mientras que robarles tiene ventajas a corto plazo (y posibles desventajas a largo plazo).<\/p>\n<p><strong>Botín:<\/strong> Un artesano tiene dinero equivalente a un objeto barato, así como herramientas y materiales de trabajo y cualquier cosa que haya fabricado y que lleve o vista.<\/p>\n<p><strong>Intromisiones del DJ:<\/strong> El artesano utiliza su herramienta de trabajo de un modo que el personaje no había previsto, poniéndolo en desventaja.<\/p>",
+    "pools": {"health": {
+      "max": 8,
+      "value": 8
+    }},
+    "description": "",
+    "combat": {
+      "damage": 3,
+      "armor": 0
+    },
+    "basic": {
+      "level": 2,
+      "biography": "<p>Los artesanos son panaderos, zapateros, fabricantes de velas, carniceros, molineros, sastres, carpinteros y cocineros. Aunque la mayoría de los artesanos no son luchadores especialmente ágiles, suelen ser inteligentes y fuertes, y disponen de una serie de herramientas familiares como armas.<\/p>\n<p><strong>Motivación:<\/strong> Defensa<\/p>\n<p><strong>Entorno:<\/strong> En sus talleres o vendiendo su oficio mientras viajan<\/p>\n<p><strong>Salud:<\/strong> 8<\/p>\n<p><strong>Daño que inflige:<\/strong> 3 puntos<\/p>\n<p><strong>Movimiento:<\/strong> Corto<\/p>\n<p><strong>Ajustes:<\/strong> Nivel 3 para su oficio<\/p>\n<p><strong>Combate:<\/strong> Es poco probable que los artesanos inicien un combate, ya que la mayoría sólo quieren que les dejen en paz para hacer su trabajo (o convencerte de que compres sus productos). Si se ven obligados a luchar, normalmente utilizarán cualquier objeto que tengan a mano (como un rodillo, un cuchillo de carnicero, una herramienta de trabajo o un trozo de madera).<\/p>\n<p><strong>Interacción:<\/strong> A la mayoría de los artesanos les encanta hablar de su oficio o de los objetos que han fabricado y tienen a la venta. Están orgullosos de su trabajo, y los halagos y la atención pueden llegar muy lejos.<\/p>\n<p><strong>Uso:<\/strong> Para los PJs, los artesanos pueden ser aliados, obstáculos o ambas cosas. Ser amigo de un artesano a menudo tiene beneficios obvios a largo plazo, mientras que robarles tiene ventajas a corto plazo (y posibles desventajas a largo plazo).<\/p>\n<p><strong>Botín:<\/strong> Un artesano tiene dinero equivalente a un objeto barato, así como herramientas y materiales de trabajo y cualquier cosa que haya fabricado y que lleve o vista.<\/p>\n<p><strong>Intromisiones del DJ:<\/strong> El artesano utiliza su herramienta de trabajo de un modo que el personaje no había previsto, poniéndolo en desventaja.<\/p>"
+    },
+    "version": 3
+  },
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "name": "Artesano",
+  "_id": "Msr1AyPR01j6nSFQ",
+  "items": []
+}

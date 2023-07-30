@@ -1,0 +1,16 @@
+{
+  "img": "systems/cyphersystem/icons/items/artifact.svg",
+  "documentCollection": "cyphersystem-compendium.artifacts-fairy-tale",
+  "flags": {},
+  "weight": 3,
+  "range": [
+    60,
+    62
+  ],
+  "documentId": "Ovbuf6QyllCJAN3p",
+  "text": "Caperuza roja",
+  "_id": "DLGQiQfsuqymcwAT",
+  "type": 2,
+  "drawn": false,
+  "_key": "!tables.results!rE7quqfGeVxHOAma.DLGQiQfsuqymcwAT"
+}

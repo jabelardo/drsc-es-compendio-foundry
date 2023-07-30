@@ -1,0 +1,128 @@
+{
+  "img": "modules/drsc-es-compendio-foundry/img/tokens/aberration.webp",
+  "_stats": {
+    "modifiedTime": 1676797808990,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "yThCrv1jSfPXOC2U",
+    "createdTime": 1676450896293,
+    "systemVersion": "2.3.0",
+    "coreVersion": "10.291"
+  },
+  "flags": {"core": {"sourceId": "Actor.8c8hD3VeO4qvS5T3"}},
+  "sort": 0,
+  "type": "npc",
+  "_key": "!actors!tDeBIMAFz7li6qc4",
+  "prototypeToken": {
+    "displayBars": 40,
+    "displayName": 20,
+    "actorLink": false,
+    "texture": {
+      "scaleX": 1,
+      "offsetX": 0,
+      "scaleY": 1,
+      "offsetY": 0,
+      "src": "icons/svg/mystery-man.svg",
+      "rotation": 0,
+      "tint": null
+    },
+    "lockRotation": false,
+    "rotation": 0,
+    "detectionModes": [],
+    "flags": {},
+    "randomImg": false,
+    "bar1": {"attribute": "pools.health"},
+    "bar2": {"attribute": "basic.level"},
+    "disposition": 0,
+    "light": {
+      "attenuation": 0.5,
+      "color": null,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "animation": {
+        "intensity": 5,
+        "type": null,
+        "reverse": false,
+        "speed": 5
+      },
+      "saturation": 0,
+      "alpha": 0.5,
+      "contrast": 0,
+      "angle": 360,
+      "luminosity": 0.5,
+      "shadows": 0,
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "alpha": 1,
+    "name": "Involucionado",
+    "width": 1,
+    "sight": {
+      "saturation": 0,
+      "attenuation": 0.1,
+      "brightness": 0,
+      "color": null,
+      "visionMode": "basic",
+      "contrast": 0,
+      "range": null,
+      "angle": 360,
+      "enabled": false
+    },
+    "height": 1
+  },
+  "effects": [],
+  "system": {
+    "settings": {
+      "general": {
+        "initiativeBonus": 0,
+        "hideArchive": false
+      },
+      "equipment": {
+        "ammo": {"active": false},
+        "armor": {"active": false},
+        "attacks": {"active": false},
+        "materials": {
+          "active": false,
+          "label": ""
+        },
+        "cyphers": {
+          "active": false,
+          "label": ""
+        },
+        "oddities": {
+          "active": false,
+          "label": ""
+        },
+        "artifacts": {
+          "active": false,
+          "label": ""
+        }
+      }
+    },
+    "notes": "<p>Las filiales de seguridad de los conglomerados experimentan regularmente con nuevas formas de crear supersoldados, ya sea para suministrarlos a un gobierno por contrato o para utilizarlos ellos mismos. Estos experimentos han dado lugar a cientos de callejones sin salida, literalmente, además de algunos fracasos peligrosos. Los involucionados son uno de esos peligrosos fracasos. Estos brutos malformados y horribles comparten una herencia común, pero muestran una amplia gama de enfermedades y mutaciones en la carne, como miembros marchitos o manchas elefantinas de piel gruesa y escamosa, partes del cuerpo mal colocadas y anomalías mentales. De mente simple y aquejados de dolor por sus formas retorcidas y rotas, los involucionados descargan todo su odio e ira contra todos los demás.<\/p>\n<p>Incluso los supersoldados creados con éxito necesitan un régimen regular de medicamentos especializados para mantenerse sanos. La mayoría son enviados a luchar en frentes lejanos, ya sea en una estación espacial distante, en una luna o en otro sistema estelar. Sin sus fármacos, pueden involucionar.<\/p>\n<p><strong>Motivación:<\/strong> Alimentación (carne)<\/p>\n<p><strong>Entorno: <\/strong>Grupos de tres a cinco, normalmente en lugares donde la seguridad organizada no puede llegar fácilmente<\/p>\n<p><strong>Salud:<\/strong> 21 Daño que inflige: 6 a 12 puntos<\/p>\n<p><strong>Movimiento:<\/strong> Corto<\/p>\n<p><strong>Ajustes:<\/strong> Nivel 6 para tareas de intimidación; nivel 2 para Defensa por Intelecto y Defensa por Velocidad debido a su naturaleza malformada<\/p>\n<p><strong>Combate:<\/strong> Los involucionados atacan con una garra, un mordisco o alguna otra parte del cuerpo, infligiendo 6 puntos de daño. Se lanzan sobre sus enemigos con una ferocidad descerebrada y poca consideración por su propia seguridad. Fácilmente frustrado, un involucionado se hace más fuerte a medida que aumenta su furia. Cada vez que falla un ataque, el siguiente se alivia en un grado adicional y el daño que inflige aumenta en 2 puntos (hasta un máximo de 12 puntos). Una vez que el involucionado consigue infligir daño a un objetivo, la cantidad de daño que inflige y la dificultad de sus ataques vuelven a la normalidad. El ciclo vuelve a empezar.<\/p>\n<p><strong>Interacción:<\/strong> Los involucionados hablan cuando deben, puntuando sus afirmaciones con gruñidos y ladridos. Su entendimiento parece limitarse a lo que pueden percibir inmediatamente, y tienen dificultades con los conceptos abstractos.<\/p>\n<p><strong>Uso<\/strong>: Una expedición a una instalación de investigación de conglomerados en ruinas descubre un quiste de involucionados que viven en sus búnkeres.<\/p>\n<p><strong>Botín:<\/strong> Por cada tres involucionados, es probable que uno lleve un Cypher.<\/p>\n<p><strong>Intromisiones del DJ:<\/strong> El involuciona detona al morir, infligiendo 6 puntos de daño a todo lo que esté a su alcance inmediato.<\/p>",
+    "pools": {"health": {
+      "max": 21,
+      "value": 21
+    }},
+    "description": "",
+    "combat": {
+      "damage": 6,
+      "armor": 0
+    },
+    "basic": {
+      "level": 4,
+      "biography": "<p>Las filiales de seguridad de los conglomerados experimentan regularmente con nuevas formas de crear supersoldados, ya sea para suministrarlos a un gobierno por contrato o para utilizarlos ellos mismos. Estos experimentos han dado lugar a cientos de callejones sin salida, literalmente, además de algunos fracasos peligrosos. Los involucionados son uno de esos peligrosos fracasos. Estos brutos malformados y horribles comparten una herencia común, pero muestran una amplia gama de enfermedades y mutaciones en la carne, como miembros marchitos o manchas elefantinas de piel gruesa y escamosa, partes del cuerpo mal colocadas y anomalías mentales. De mente simple y aquejados de dolor por sus formas retorcidas y rotas, los involucionados descargan todo su odio e ira contra todos los demás.<\/p>\n<p>Incluso los supersoldados creados con éxito necesitan un régimen regular de medicamentos especializados para mantenerse sanos. La mayoría son enviados a luchar en frentes lejanos, ya sea en una estación espacial distante, en una luna o en otro sistema estelar. Sin sus fármacos, pueden involucionar.<\/p>\n<p><strong>Motivación:<\/strong> Alimentación (carne)<\/p>\n<p><strong>Entorno: <\/strong>Grupos de tres a cinco, normalmente en lugares donde la seguridad organizada no puede llegar fácilmente<\/p>\n<p><strong>Salud:<\/strong> 21 Daño que inflige: 6 a 12 puntos<\/p>\n<p><strong>Movimiento:<\/strong> Corto<\/p>\n<p><strong>Ajustes:<\/strong> Nivel 6 para tareas de intimidación; nivel 2 para Defensa por Intelecto y Defensa por Velocidad debido a su naturaleza malformada<\/p>\n<p><strong>Combate:<\/strong> Los involucionados atacan con una garra, un mordisco o alguna otra parte del cuerpo, infligiendo 6 puntos de daño. Se lanzan sobre sus enemigos con una ferocidad descerebrada y poca consideración por su propia seguridad. Fácilmente frustrado, un involucionado se hace más fuerte a medida que aumenta su furia. Cada vez que falla un ataque, el siguiente se alivia en un grado adicional y el daño que inflige aumenta en 2 puntos (hasta un máximo de 12 puntos). Una vez que el involucionado consigue infligir daño a un objetivo, la cantidad de daño que inflige y la dificultad de sus ataques vuelven a la normalidad. El ciclo vuelve a empezar.<\/p>\n<p><strong>Interacción:<\/strong> Los involucionados hablan cuando deben, puntuando sus afirmaciones con gruñidos y ladridos. Su entendimiento parece limitarse a lo que pueden percibir inmediatamente, y tienen dificultades con los conceptos abstractos.<\/p>\n<p><strong>Uso<\/strong>: Una expedición a una instalación de investigación de conglomerados en ruinas descubre un quiste de involucionados que viven en sus búnkeres.<\/p>\n<p><strong>Botín:<\/strong> Por cada tres involucionados, es probable que uno lleve un Cypher.<\/p>\n<p><strong>Intromisiones del DJ:<\/strong> El involuciona detona al morir, infligiendo 6 puntos de daño a todo lo que esté a su alcance inmediato.<\/p>"
+    },
+    "version": 2
+  },
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "name": "Involucionado",
+  "_id": "tDeBIMAFz7li6qc4",
+  "items": []
+}

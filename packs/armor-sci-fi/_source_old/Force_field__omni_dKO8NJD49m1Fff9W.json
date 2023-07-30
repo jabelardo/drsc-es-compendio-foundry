@@ -1,0 +1,44 @@
+{
+  "name": "Campo de fuerza, omni",
+  "type": "armor",
+  "img": "systems/cyphersystem/icons/items/armor.svg",
+  "system": {
+    "version": 2,
+    "description": "<p>Como campo de fuerza rápido, pero permanente mientras está activo, no requiere periodo de recarga. Además, el portador puede ajustar el campo para que sea translúcido y brumoso, ocultando su identidad, o hacerlo totalmente oscuro para que no emita luz (aunque puede ver a través del campo normalmente). Nivel 6.</p>",
+    "archived": false,
+    "basic": {
+      "type": "n/a",
+      "rating": 1,
+      "cost": 0,
+      "notes": ""
+    },
+    "settings": {
+      "general": {
+        "unmaskedForm": "Mask"
+      }
+    },
+    "active": true
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Item.FHnjIs1jWIT0cArX"
+    }
+  },
+  "_stats": {
+    "systemId": "cyphersystem",
+    "systemVersion": "2.6.2",
+    "coreVersion": "11.301",
+    "createdTime": 1676628814099,
+    "modifiedTime": 1686392753202,
+    "lastModifiedBy": "ZyqFG5NpQtVrpwj7"
+  },
+  "folder": "gbDY5Fd3XEU9nAhL",
+  "sort": 100000,
+  "_id": "dKO8NJD49m1Fff9W",
+  "_key": "!items!dKO8NJD49m1Fff9W"
+}

@@ -1,0 +1,16 @@
+{
+  "img": "systems/cyphersystem/icons/items/cypher.svg",
+  "documentCollection": "cyphersystem-compendium.cyphers-horror",
+  "flags": {},
+  "weight": 3,
+  "range": [
+    5,
+    7
+  ],
+  "documentId": "IyXc8FqOHE3robtW",
+  "text": "Longevidad decapitativa",
+  "_id": "Ce6AZoA0lVPwyTMn",
+  "type": 2,
+  "drawn": false,
+  "_key": "!tables.results!7ir7UQlZ9eQe4cfd.Ce6AZoA0lVPwyTMn"
+}

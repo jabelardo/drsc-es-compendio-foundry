@@ -1,0 +1,16 @@
+{
+  "img": "systems/cyphersystem/icons/items/cypher.svg",
+  "documentCollection": "cyphersystem-compendium.cyphers-horror",
+  "flags": {},
+  "weight": 1,
+  "range": [
+    13,
+    13
+  ],
+  "documentId": "m1T7xBh4fvJFnxUk",
+  "text": "Detector de fantasmas",
+  "_id": "j1juRSwqEBzKTWDO",
+  "type": 2,
+  "drawn": false,
+  "_key": "!tables.results!XlzSKRHx5dqVkYmD.j1juRSwqEBzKTWDO"
+}

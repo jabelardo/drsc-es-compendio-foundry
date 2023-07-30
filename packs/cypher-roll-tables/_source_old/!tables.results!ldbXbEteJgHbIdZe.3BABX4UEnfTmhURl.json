@@ -1,0 +1,16 @@
+{
+  "img": "icons/svg/d20-black.svg",
+  "documentCollection": "",
+  "flags": {},
+  "weight": 1,
+  "range": [
+    3,
+    3
+  ],
+  "documentId": null,
+  "_id": "3BABX4UEnfTmhURl",
+  "text": "Aprendiste tus habilidades en el templo de un dios desconocido. Sus sacerdotes y adoradores, aunque son pocos, respetan y admiran tu talento y potencial.",
+  "type": 0,
+  "drawn": false,
+  "_key": "!tables.results!ldbXbEteJgHbIdZe.3BABX4UEnfTmhURl"
+}

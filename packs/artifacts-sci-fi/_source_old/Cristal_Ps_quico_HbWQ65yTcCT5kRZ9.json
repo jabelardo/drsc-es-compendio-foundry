@@ -1,0 +1,53 @@
+{
+  "img": "systems/cyphersystem/icons/items/artifact.svg",
+  "effects": [],
+  "folder": null,
+  "system": {
+    "archived": false,
+    "settings": {
+      "general": {
+        "nameUnidentified": ""
+      }
+    },
+    "rollButton": {
+      "stepModifier": "eased",
+      "damage": 0,
+      "damagePerLOE": 3,
+      "bonus": 0,
+      "pool": "Pool",
+      "teen": "",
+      "additionalSteps": 0,
+      "effort1": 0,
+      "effort3": 0,
+      "assets": 0,
+      "effort2": 0,
+      "skill": "Practiced",
+      "additionalCost": 0
+    },
+    "description": "<p><strong>Nivel:</strong> 1d6 + 4</p>\n<p><strong>Aspecto:</strong> Cristal violeta del tamaño de un puño</p>\n<p><strong>Efecto:</strong> El cristal permite al usuario transmitir sus pensamientos telepáticamente a una distancia interestelar. Incluso a esa distancia, la comunicación es instantánea. Cada uso permite una comunicación de aproximadamente un minuto, y la comunicación es totalmente unidireccional (por lo que sería útil tener dos cristales).</p>\n<p><strong>Agotamiento:</strong> 1 en 1d10</p>",
+    "basic": {
+      "depletion": "1 in [[/r 1d10]]",
+      "identified": true,
+      "level": "1d6+4"
+    },
+    "version": 2
+  },
+  "ownership": {
+    "default": 0,
+    "k2TkElLx959B0lm5": 3
+  },
+  "_stats": {
+    "modifiedTime": 1676818698791,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "yThCrv1jSfPXOC2U",
+    "createdTime": null,
+    "systemVersion": "2.3.0",
+    "coreVersion": "10.291"
+  },
+  "name": "Cristal Psíquico",
+  "flags": {},
+  "sort": 0,
+  "_id": "HbWQ65yTcCT5kRZ9",
+  "type": "artifact",
+  "_key": "!items!HbWQ65yTcCT5kRZ9"
+}

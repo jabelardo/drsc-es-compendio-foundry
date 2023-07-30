@@ -1,0 +1,58 @@
+{
+  "name": "Confundir",
+  "type": "ability",
+  "img": "systems/cyphersystem/icons/items/ability.svg",
+  "system": {
+    "version": 2,
+    "description": "<p>Sacas talentos y habilidades al parecer de la nada. Puedes intentar una tarea en la que no tengas competencia como si fueras competente, intentar una tarea en la que seas competente como si fueras especialista, o ganar un nivel gratis de Esfuerzo con una tarea en la que seas especialista. Esta capacidad se refresca cada vez que haces una Tirada de Recuperación, pero los usos nunca se acumulan.</p>",
+    "archived": false,
+    "settings": {
+      "rollButton": {
+        "pool": "Pool",
+        "skill": "Practiced",
+        "assets": "0",
+        "effort1": "0",
+        "effort2": "0",
+        "effort3": "0",
+        "stepModifier": "eased",
+        "additionalSteps": 0,
+        "additionalCost": 0,
+        "damage": 0,
+        "damagePerLOE": 3,
+        "teen": "",
+        "bonus": 0
+      },
+      "general": {
+        "sorting": "Ability",
+        "spellTier": "low",
+        "unmaskedForm": "Mask"
+      }
+    },
+    "basic": {
+      "cost": "0",
+      "pool": "Pool"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "rLeavHPrdkq6xjNt": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Item.ZFLd8ZVMSrFdDji1"
+    }
+  },
+  "_stats": {
+    "systemId": "cyphersystem",
+    "systemVersion": "2.0.0-b3",
+    "coreVersion": "10.288",
+    "createdTime": 1666960287281,
+    "modifiedTime": 1666960300129,
+    "lastModifiedBy": "rLeavHPrdkq6xjNt"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "uROuz6gmfq7X3uu3",
+  "_key": "!items!uROuz6gmfq7X3uu3"
+}

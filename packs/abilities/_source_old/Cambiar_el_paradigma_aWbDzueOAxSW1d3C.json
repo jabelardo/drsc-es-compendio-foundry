@@ -1,0 +1,58 @@
+{
+  "img": "systems/cyphersystem/icons/items/ability.svg",
+  "effects": [],
+  "folder": null,
+  "system": {
+    "archived": false,
+    "settings": {
+      "general": {
+        "spellTier": "low",
+        "sorting": "Ability",
+        "unmaskedForm": "Mask"
+      },
+      "rollButton": {
+        "stepModifier": "eased",
+        "damage": "0",
+        "damagePerLOE": "3",
+        "bonus": "0",
+        "pool": "Pool",
+        "teen": "",
+        "additionalSteps": "0",
+        "effort1": "0",
+        "effort3": "0",
+        "assets": "0",
+        "effort2": "0",
+        "skill": "Practiced",
+        "additionalCost": 0
+      }
+    },
+    "description": "<p>Cambias la visión del mundo de una criatura con la que pases al menos una ronda hablando, siempre que pueda entenderte. La criatura cambia de opinión sobre una creencia importante, que podría incluir algo tan sencillo como ayudarte en lugar de intentar matarte, o podría ser algo más esotérico. Este efecto dura al menos diez minutos, pero puede durar más si la criatura no era tu enemigo. Durante este tiempo, la criatura realiza acciones de acuerdo con la sabiduría que le has impartido. El objetivo debe ser de nivel 2 o inferior. Además de las opciones normales para usar Esfuerzo, puedes elegir usar Esfuerzo para aumentar el nivel máximo del objetivo en uno por cada nivel de Esfuerzo aplicado. Acción para iniciar.</p>",
+    "basic": {
+      "cost": "6+",
+      "pool": "Intellect"
+    },
+    "version": 2
+  },
+  "ownership": {
+    "default": 0,
+    "k2TkElLx959B0lm5": 3
+  },
+  "_stats": {
+    "modifiedTime": 1664959714989,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "rLeavHPrdkq6xjNt",
+    "createdTime": null,
+    "systemVersion": "2.0.0-a1",
+    "coreVersion": "10.286"
+  },
+  "name": "Cambiar el paradigma",
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.cyphersystem-compendium.abilities.aWbDzueOAxSW1d3C"
+    }
+  },
+  "_id": "aWbDzueOAxSW1d3C",
+  "sort": 0,
+  "type": "ability",
+  "_key": "!items!aWbDzueOAxSW1d3C"
+}

@@ -1,0 +1,54 @@
+{
+  "img": "systems/cyphersystem/icons/items/ability.svg",
+  "effects": [],
+  "folder": null,
+  "system": {
+    "archived": false,
+    "settings": {
+      "general": {
+        "spellTier": "low",
+        "sorting": "Ability",
+        "unmaskedForm": "Mask"
+      },
+      "rollButton": {
+        "stepModifier": "eased",
+        "damage": 0,
+        "damagePerLOE": 3,
+        "bonus": 0,
+        "pool": "Pool",
+        "teen": "",
+        "additionalSteps": 0,
+        "effort1": 0,
+        "effort3": 0,
+        "assets": 0,
+        "effort2": 0,
+        "skill": "Practiced",
+        "additionalCost": 0
+      }
+    },
+    "description": "<p>Te vuelves invisible mientras usas Esprint en fase y durante la siguiente ronda. Mientras eres invisible, el sigilo se alivia en dos grados y la Defensa por Velocidad se alivia en dos grados (esto reemplaza el recurso de las tareas de Defensa por Velocidad proporcionada por Esprint en fase). El primer ataque que realices utilizando cualquiera de las capacidades de ataque de Destroza los muros del mundo también se alivia en dos grados; sin embargo, si atacas a una criatura, Fase invisible termina inmediatamente en lugar de durar una ronda adicional. Si tienes la capacidad Invisibilidad, puedes permanecer invisible durante toda la ronda, lo que significa que si utilizas Arañar la existencia o Destrozar existencia, el ataque a cada objetivo a lo largo de tu camino se alivia en dos grados. Capacitador.<\/p>",
+    "basic": {
+      "cost": "4",
+      "pool": "Might"
+    },
+    "version": 2
+  },
+  "ownership": {
+    "default": 0,
+    "k2TkElLx959B0lm5": 3
+  },
+  "_stats": {
+    "modifiedTime": 1664959720459,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "rLeavHPrdkq6xjNt",
+    "createdTime": null,
+    "systemVersion": "2.0.0-a1",
+    "coreVersion": "10.286"
+  },
+  "name": "Fase invisible",
+  "flags": {"core": {"sourceId": "Compendium.cyphersystem-compendium.abilities.nEN2HYzlJWhonfmE"}},
+  "_id": "nEN2HYzlJWhonfmE",
+  "sort": 0,
+  "type": "ability",
+  "_key": "!items!nEN2HYzlJWhonfmE"
+}

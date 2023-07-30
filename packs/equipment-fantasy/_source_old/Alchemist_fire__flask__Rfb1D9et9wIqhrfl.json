@@ -1,0 +1,36 @@
+{
+  "name": "Fuego alquímico (frasco)",
+  "type": "equipment",
+  "img": "systems/cyphersystem/icons/items/equipment.svg",
+  "system": {
+    "version": 2,
+    "description": "<p>Un frasco de productos químicos que estallan en llamas al entrar en contacto con el aire. Las llamas se extinguen al cabo de una ronda. Puede lanzarse a corta distancia, infligiendo daño de fuego como arma ligera (ignora Armadura).</p>",
+    "archived": false,
+    "basic": {
+      "level": null,
+      "quantity": 1
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Item.ChWljg3waTfsS4Qy"
+    }
+  },
+  "_stats": {
+    "systemId": "cyphersystem",
+    "systemVersion": "2.3.0",
+    "coreVersion": "10.291",
+    "createdTime": 1676109858996,
+    "modifiedTime": 1676109877263,
+    "lastModifiedBy": "yThCrv1jSfPXOC2U"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "Rfb1D9et9wIqhrfl",
+  "_key": "!items!Rfb1D9et9wIqhrfl"
+}

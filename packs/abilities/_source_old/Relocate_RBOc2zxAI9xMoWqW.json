@@ -1,0 +1,54 @@
+{
+  "img": "systems/cyphersystem/icons/items/ability.svg",
+  "effects": [],
+  "folder": null,
+  "system": {
+    "archived": false,
+    "settings": {
+      "general": {
+        "spellTier": "low",
+        "sorting": "Ability",
+        "unmaskedForm": "Mask"
+      },
+      "rollButton": {
+        "stepModifier": "eased",
+        "damage": 0,
+        "damagePerLOE": 3,
+        "bonus": 0,
+        "pool": "Pool",
+        "teen": "",
+        "additionalSteps": 0,
+        "effort1": 0,
+        "effort3": 0,
+        "assets": 0,
+        "effort2": 0,
+        "skill": "Practiced",
+        "additionalCost": 0
+      }
+    },
+    "description": "<p>Elige una criatura u objeto dentro del alcance inmediato. Lo transportas instantáneamente a una nueva posición dentro del alcance inmediato que puedas ver. La nueva posición puede estar en cualquier dirección desde ti, pero no puede estar dentro de un objeto sólido. Acción.<\/p>",
+    "basic": {
+      "cost": "7",
+      "pool": "Intellect"
+    },
+    "version": 2
+  },
+  "ownership": {
+    "default": 0,
+    "k2TkElLx959B0lm5": 3
+  },
+  "_stats": {
+    "modifiedTime": 1664959723284,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "rLeavHPrdkq6xjNt",
+    "createdTime": null,
+    "systemVersion": "2.0.0-a1",
+    "coreVersion": "10.286"
+  },
+  "name": "Reubicar",
+  "flags": {"core": {"sourceId": "Compendium.cyphersystem-compendium.abilities.RBOc2zxAI9xMoWqW"}},
+  "_id": "RBOc2zxAI9xMoWqW",
+  "sort": 0,
+  "type": "ability",
+  "_key": "!items!RBOc2zxAI9xMoWqW"
+}

@@ -1,0 +1,16 @@
+{
+  "img": "systems/cyphersystem/icons/items/cypher.svg",
+  "flags": {},
+  "documentCollection": "cyphersystem-compendium.cyphers",
+  "weight": 1,
+  "range": [
+    85,
+    85
+  ],
+  "documentId": "VljAPSeYkXKcIkEd",
+  "_id": "hQTpeYDkUY5lHG6C",
+  "text": "84",
+  "type": 2,
+  "drawn": false,
+  "_key": "!tables.results!tAjYZpL0GKkROZpR.hQTpeYDkUY5lHG6C"
+}

@@ -1,0 +1,58 @@
+{
+  "img": "systems/cyphersystem/icons/items/ability.svg",
+  "effects": [],
+  "folder": null,
+  "system": {
+    "archived": false,
+    "settings": {
+      "general": {
+        "spellTier": "low",
+        "sorting": "Ability",
+        "unmaskedForm": "Mask"
+      },
+      "rollButton": {
+        "stepModifier": "eased",
+        "damage": 0,
+        "damagePerLOE": 3,
+        "bonus": 0,
+        "pool": "Pool",
+        "teen": "",
+        "additionalSteps": 0,
+        "effort1": 0,
+        "effort3": 0,
+        "assets": 0,
+        "effort2": 0,
+        "skill": "Practiced",
+        "additionalCost": 0
+      }
+    },
+    "description": "<p>Creas una apariencia realmente espeluznante de una criatura a partir de cintas arremolinadas de materia oscura y la lanzas contra tus enemigos a larga distancia. Cada ronda, puedes atacar a un objetivo a larga distancia utilizandola como arma. Cuando atacas, la criatura inserta finos tentáculos de sombra en los ojos y el cerebro del objetivo. El objetivo recibe 3 puntos de daño de Intelecto (ignora la Armadura) y queda aturdido durante una ronda, por lo que pierde su siguiente turno. Alternativamente, puedes hacer que la criatura realice otras acciones, siempre que seas capaz de verla y controlarla mentalmente como tu acción. La criatura se dispersa luego de un minuto. Acción para iniciar.</p>",
+    "basic": {
+      "cost": "7+",
+      "pool": "Intellect"
+    },
+    "version": 2
+  },
+  "ownership": {
+    "default": 0,
+    "k2TkElLx959B0lm5": 3
+  },
+  "_stats": {
+    "modifiedTime": 1664959717052,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "rLeavHPrdkq6xjNt",
+    "createdTime": null,
+    "systemVersion": "2.0.0-a1",
+    "coreVersion": "10.286"
+  },
+  "name": "Abrazar la noche",
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.cyphersystem-compendium.abilities.apQwshUTjCQPym8A"
+    }
+  },
+  "_id": "apQwshUTjCQPym8A",
+  "sort": 0,
+  "type": "ability",
+  "_key": "!items!apQwshUTjCQPym8A"
+}

@@ -1,0 +1,32 @@
+{
+  "name": "Vendaje militar de campaña",
+  "type": "equipment",
+  "img": "systems/cyphersystem/icons/items/equipment.svg",
+  "system": {
+    "version": 2,
+    "description": "<p>Vendaje con cualidades antimicrobianas, analgésicas, hemostáticas y de sustituto temporal de la piel que puede elevar a una víctima un grado en el registro de daño si éstos se debieron a una herida.</p>",
+    "archived": false,
+    "basic": {
+      "level": 3,
+      "quantity": 1
+    }
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "cyphersystem",
+    "systemVersion": "2.3.0",
+    "coreVersion": "10.291",
+    "createdTime": 1676535139770,
+    "modifiedTime": 1676535628914,
+    "lastModifiedBy": "yThCrv1jSfPXOC2U"
+  },
+  "_id": "LPwVd44Vo9CRt7O2",
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "_key": "!items!LPwVd44Vo9CRt7O2"
+}

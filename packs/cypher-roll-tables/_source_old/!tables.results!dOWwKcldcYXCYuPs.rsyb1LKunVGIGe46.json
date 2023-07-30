@@ -1,0 +1,16 @@
+{
+  "img": "icons/svg/d20-black.svg",
+  "documentCollection": "",
+  "flags": {},
+  "weight": 1,
+  "range": [
+    7,
+    7
+  ],
+  "documentId": null,
+  "_id": "rsyb1LKunVGIGe46",
+  "text": "Produce un sarpullido, un tatuaje u otra marca en la piel del portador.",
+  "type": 0,
+  "drawn": false,
+  "_key": "!tables.results!dOWwKcldcYXCYuPs.rsyb1LKunVGIGe46"
+}

@@ -1,0 +1,54 @@
+{
+  "img": "systems/cyphersystem/icons/items/ability.svg",
+  "effects": [],
+  "folder": null,
+  "system": {
+    "archived": false,
+    "settings": {
+      "general": {
+        "spellTier": "low",
+        "sorting": "Ability",
+        "unmaskedForm": "Mask"
+      },
+      "rollButton": {
+        "stepModifier": "eased",
+        "damage": 0,
+        "damagePerLOE": 3,
+        "bonus": 0,
+        "pool": "Pool",
+        "teen": "",
+        "additionalSteps": 0,
+        "effort1": 0,
+        "effort3": 0,
+        "assets": 0,
+        "effort2": 0,
+        "skill": "Practiced",
+        "additionalCost": 0
+      }
+    },
+    "description": "<p>Puedes controlar las funciones de una máquina con la que te hayas vinculado usando <em>Vínculo con máquina<\/em>, inteligente o no. Además, si utilizas una acción para concentrarte en una máquina, eres consciente de lo que ocurre a su alrededor (ves y oyes como si estuvieras junto a ella, sin importar lo lejos que estés). Debes tocar la máquina para crear el vínculo, pero después no hay limitación de alcance. Este vínculo dura una semana. Sólo puedes establecer un vínculo con una máquina a la vez. Acción para iniciar.<\/p>",
+    "basic": {
+      "cost": "8",
+      "pool": "Intellect"
+    },
+    "version": 2
+  },
+  "ownership": {
+    "default": 0,
+    "k2TkElLx959B0lm5": 3
+  },
+  "_stats": {
+    "modifiedTime": 1664959721175,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "rLeavHPrdkq6xjNt",
+    "createdTime": null,
+    "systemVersion": "2.0.0-a1",
+    "coreVersion": "10.286"
+  },
+  "name": "Maestro de máquina",
+  "flags": {"core": {"sourceId": "Compendium.cyphersystem-compendium.abilities.7QTTrXnxDHskYYhj"}},
+  "_id": "7QTTrXnxDHskYYhj",
+  "sort": 0,
+  "type": "ability",
+  "_key": "!items!7QTTrXnxDHskYYhj"
+}

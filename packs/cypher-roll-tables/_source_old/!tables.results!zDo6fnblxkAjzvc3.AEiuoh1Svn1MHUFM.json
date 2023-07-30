@@ -1,0 +1,16 @@
+{
+  "img": "icons/svg/d20-black.svg",
+  "documentCollection": "",
+  "flags": {},
+  "weight": 1,
+  "range": [
+    20,
+    20
+  ],
+  "documentId": null,
+  "_id": "AEiuoh1Svn1MHUFM",
+  "text": "Hay alguien ahí fuera que intenta hacerse pasar por ti, utilizando tu identidad, a menudo con fines nefastos. Nunca has conocido al culpable, pero seguro que te gustaría.",
+  "type": 0,
+  "drawn": false,
+  "_key": "!tables.results!zDo6fnblxkAjzvc3.AEiuoh1Svn1MHUFM"
+}

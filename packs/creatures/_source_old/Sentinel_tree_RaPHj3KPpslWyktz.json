@@ -1,0 +1,128 @@
+{
+  "img": "modules/drsc-es-compendio-foundry/img/tokens/plant.webp",
+  "_stats": {
+    "modifiedTime": 1676797809270,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "yThCrv1jSfPXOC2U",
+    "createdTime": 1676458877047,
+    "systemVersion": "2.3.0",
+    "coreVersion": "10.291"
+  },
+  "flags": {"core": {"sourceId": "Actor.uBUn2fSGTH6uPB1J"}},
+  "sort": 0,
+  "type": "npc",
+  "_key": "!actors!RaPHj3KPpslWyktz",
+  "prototypeToken": {
+    "displayBars": 40,
+    "displayName": 20,
+    "actorLink": false,
+    "texture": {
+      "scaleX": 1,
+      "offsetX": 0,
+      "scaleY": 1,
+      "offsetY": 0,
+      "src": "icons/svg/mystery-man.svg",
+      "rotation": 0,
+      "tint": null
+    },
+    "lockRotation": false,
+    "rotation": 0,
+    "detectionModes": [],
+    "flags": {},
+    "randomImg": false,
+    "bar1": {"attribute": "pools.health"},
+    "bar2": {"attribute": "basic.level"},
+    "disposition": 0,
+    "light": {
+      "attenuation": 0.5,
+      "color": null,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "animation": {
+        "intensity": 5,
+        "type": null,
+        "reverse": false,
+        "speed": 5
+      },
+      "saturation": 0,
+      "alpha": 0.5,
+      "contrast": 0,
+      "angle": 360,
+      "luminosity": 0.5,
+      "shadows": 0,
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "alpha": 1,
+    "name": "Árbol centinela",
+    "width": 1,
+    "sight": {
+      "saturation": 0,
+      "attenuation": 0.1,
+      "brightness": 0,
+      "color": null,
+      "visionMode": "basic",
+      "contrast": 0,
+      "range": null,
+      "angle": 360,
+      "enabled": false
+    },
+    "height": 1
+  },
+  "effects": [],
+  "system": {
+    "settings": {
+      "general": {
+        "initiativeBonus": 0,
+        "hideArchive": false
+      },
+      "equipment": {
+        "ammo": {"active": false},
+        "armor": {"active": false},
+        "attacks": {"active": false},
+        "materials": {
+          "active": false,
+          "label": ""
+        },
+        "cyphers": {
+          "active": false,
+          "label": ""
+        },
+        "oddities": {
+          "active": false,
+          "label": ""
+        },
+        "artifacts": {
+          "active": false,
+          "label": ""
+        }
+      }
+    },
+    "notes": "<p>Dependiendo del escenario de ciencia ficción, los árboles centinela son árboles mutados que crecen cerca de cráteres radiactivos que oscurecen el paisaje, plantas alienígenas que evolucionaron en una biosfera (o dimensión) diferente, o el resultado de una intensa manipulación genética, posiblemente ilegal. Independientemente de su procedencia, los árboles centinela parecen masas espinosas de enredaderas anudadas. Sus hojas, afiladas como cuchillas, se flexionan como garras y sus vainas vibrantes brillan, listas para detonar si se lanzan. Si se cultivan, pueden adoptar una forma diseñada para asustar aún más -o al menos advertir- a quienes los vean. Los árboles centinela son móviles, agresivos y se alimentan de casi cualquier tipo de materia orgánica. Una vez que derriba a la presa, hunde raíces con púas en el cuerpo para alimentarse y descomponerlo.<\/p>\n<p><strong>Motivación: <\/strong>Alimentarse<\/p>\n<p><strong>Entorno:<\/strong> En grupos de tres a seis, capaces de tolerar la mayoría de las atmósferas (incluso las más delgadas, como la de Marte), pero no el vacío.<\/p>\n<p><strong>Salud:<\/strong> 12<\/p>\n<p><strong>Daño que inflige:<\/strong> 3 puntos<\/p>\n<p><strong>Armadura:<\/strong> 1<\/p>\n<p><strong>Movimiento:<\/strong> Inmediato<\/p>\n<p><strong>Combate: <\/strong>Los árboles centinela pueden lanzar una vaina vibratoria a un objetivo a distancia, que detona al impactar, infligiendo 3 puntos de daño a todos los objetivos dentro del alcance inmediato de la explosión. Los objetivos también deben tener éxito en una tirada de Defensa por Vigor o ser envenenados por 3 puntos de daño, más 3 puntos de nuevo cada ronda subsiguiente hasta que una tarea de Vigor tenga éxito. Un árbol centinela también puede atacar con sus lianas a un objetivo dentro de su alcance inmediato, infligiendo 3 puntos de daño. Los objetivos melé también deben tener éxito en una tirada de Defensa por Vigor o quedan enredados e incapaces de realizar acciones físicas hasta que puedan liberarse en su turno.<\/p>\n<p><strong>Interacción:<\/strong> Los árboles centinela son tan inteligentes como los perros guardianes bien entrenados. No pueden hablar, pero entienden algunas palabras y gestos.<\/p>\n<p><strong>Uso:<\/strong> Una arboleda de árboles centinela vigila un recinto en el que los personajes necesitan entrar.<\/p>\n<p><strong>Intromisiones del DJ:<\/strong> El personaje atrapado en la detonación queda cegado con pequeñas semillas negras hasta que use una tirada de recuperación para eliminar la condición. (El uso de recuperación no devuelve puntos a una Reserva).<\/p>",
+    "pools": {"health": {
+      "max": 12,
+      "value": 12
+    }},
+    "description": "",
+    "combat": {
+      "damage": 3,
+      "armor": 1
+    },
+    "basic": {
+      "level": 3,
+      "biography": "<p>Dependiendo del escenario de ciencia ficción, los árboles centinela son árboles mutados que crecen cerca de cráteres radiactivos que oscurecen el paisaje, plantas alienígenas que evolucionaron en una biosfera (o dimensión) diferente, o el resultado de una intensa manipulación genética, posiblemente ilegal. Independientemente de su procedencia, los árboles centinela parecen masas espinosas de enredaderas anudadas. Sus hojas, afiladas como cuchillas, se flexionan como garras y sus vainas vibrantes brillan, listas para detonar si se lanzan. Si se cultivan, pueden adoptar una forma diseñada para asustar aún más -o al menos advertir- a quienes los vean. Los árboles centinela son móviles, agresivos y se alimentan de casi cualquier tipo de materia orgánica. Una vez que derriba a la presa, hunde raíces con púas en el cuerpo para alimentarse y descomponerlo.<\/p>\n<p><strong>Motivación: <\/strong>Alimentarse<\/p>\n<p><strong>Entorno:<\/strong> En grupos de tres a seis, capaces de tolerar la mayoría de las atmósferas (incluso las más delgadas, como la de Marte), pero no el vacío.<\/p>\n<p><strong>Salud:<\/strong> 12<\/p>\n<p><strong>Daño que inflige:<\/strong> 3 puntos<\/p>\n<p><strong>Armadura:<\/strong> 1<\/p>\n<p><strong>Movimiento:<\/strong> Inmediato<\/p>\n<p><strong>Combate: <\/strong>Los árboles centinela pueden lanzar una vaina vibratoria a un objetivo a distancia, que detona al impactar, infligiendo 3 puntos de daño a todos los objetivos dentro del alcance inmediato de la explosión. Los objetivos también deben tener éxito en una tirada de Defensa por Vigor o ser envenenados por 3 puntos de daño, más 3 puntos de nuevo cada ronda subsiguiente hasta que una tarea de Vigor tenga éxito. Un árbol centinela también puede atacar con sus lianas a un objetivo dentro de su alcance inmediato, infligiendo 3 puntos de daño. Los objetivos melé también deben tener éxito en una tirada de Defensa por Vigor o quedan enredados e incapaces de realizar acciones físicas hasta que puedan liberarse en su turno.<\/p>\n<p><strong>Interacción:<\/strong> Los árboles centinela son tan inteligentes como los perros guardianes bien entrenados. No pueden hablar, pero entienden algunas palabras y gestos.<\/p>\n<p><strong>Uso:<\/strong> Una arboleda de árboles centinela vigila un recinto en el que los personajes necesitan entrar.<\/p>\n<p><strong>Intromisiones del DJ:<\/strong> El personaje atrapado en la detonación queda cegado con pequeñas semillas negras hasta que use una tirada de recuperación para eliminar la condición. (El uso de recuperación no devuelve puntos a una Reserva).<\/p>"
+    },
+    "version": 2
+  },
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "name": "Árbol centinela",
+  "_id": "RaPHj3KPpslWyktz",
+  "items": []
+}

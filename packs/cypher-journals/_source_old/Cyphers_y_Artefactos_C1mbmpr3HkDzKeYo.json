@@ -1,0 +1,35 @@
+{
+  "sort": 500000,
+  "name": "Cyphers y Artefactos",
+  "type": "text",
+  "_id": "C1mbmpr3HkDzKeYo",
+  "title": {
+    "show": true,
+    "level": 1
+  },
+  "image": {},
+  "text": {
+    "format": 1,
+    "content": "<p>En una campaña de superhéroes, hay una línea muy fina entre los Cyphers (objetos o capacidades de un solo uso otorgados por el DJ), los artefactos, las capacidades de los personajes (cuyo uso puede costar puntos de Reserva) y otro tipo de equipo (que no tiene ninguno de esos criterios). El DJ debe tener en cuenta que, desde el punto de vista de la historia, es bueno dejar que los personajes tengan el equipo que necesitan para enfrentarse más eficazmente a enemigos que, de otro modo, podrían ser demasiado poderosos.</p><h1>Cyphers de Refuerzo de Potencia</h1><p>Esta sección introduce dos nuevos Cyphers de refuerzo de potencia, y consolida los dos Cyphers reforzadores de eficacia del Documento de Referencia del Sistema Cypher en un solo Cypher con efectos variables basados en el nivel del Cypher.</p><p>@UUID[Compendium.drsc-es-compendio-foundry.cypher-roll-tables.Hiby71vDJgjXdHUj]{Cyphers de Refuerzo de Potencia}</p><p>@UUID[Compendium.drsc-es-compendio-foundry.cyphers-power-boost.nlHGkmRztJaDi3Dj]{Reforzador de &aacute;rea} @UUID[Compendium.drsc-es-compendio-foundry.cyphers-power-boost.POLUtosUa7awAfW4]{Reforzador de r&aacute;faga} @UUID[Compendium.drsc-es-compendio-foundry.cyphers-power-boost.GEL5LkJCiQqEH1Nf]{Reforzador de da&ntilde;o} @UUID[Compendium.drsc-es-compendio-foundry.cyphers-power-boost.N1VW1O6nXhmKZC8o]{Reforzador de eficacia} @UUID[Compendium.drsc-es-compendio-foundry.cyphers-power-boost.xc7bsHHbEM84KLa9]{Reforzador de energ&iacute;a} @UUID[Compendium.drsc-es-compendio-foundry.cyphers-power-boost.AOWfJoOCbvwr9puF]{Reforzador de alcance} @UUID[Compendium.drsc-es-compendio-foundry.cyphers-power-boost.CMgWCrf7hQJIoUUa]{Reforzador de mejora} @UUID[Compendium.drsc-es-compendio-foundry.cyphers-power-boost.FL2j9ds7SdfsJchP]{Reforzador de proeza} @UUID[Compendium.drsc-es-compendio-foundry.cyphers-power-boost.21qrMjA9SQFvWfkp]{Reforzador de objetivo}</p><h1>Artefactos</h1><p><span style=\"font-family:Signika, sans-serif\">Los supervillanos construyen dispositivos del día del juicio final. Los artefactos antiguos representan una amenaza para toda la humanidad si están en las manos equivocadas. Las máquinas extrañas de dimensiones alienígenas ofrecen soluciones a problemas irresolubles. Los artefactos son una parte importante de las historias de superhéroes. A continuación, algunos ejemplos.</span></p><p>@UUID[Compendium.drsc-es-compendio-foundry.artifacts-superhero.gKMz5kulFlnP0d1q]{Libro M&aacute;s Oscuro} @UUID[Compendium.drsc-es-compendio-foundry.artifacts-superhero.2ENNMqilV1qoB35e]{Portal del tiempo del Doctor Dread} @UUID[Compendium.drsc-es-compendio-foundry.artifacts-superhero.wgCCdteqRb8KY8bn]{Orbe Omni} @UUID[Compendium.drsc-es-compendio-foundry.artifacts-superhero.AvddNOp9tUWCqGOp]{Suero X} @UUID[Compendium.drsc-es-compendio-foundry.artifacts-superhero.AErIxypcnHHrl2zN]{Anillo Espacial} @UUID[Compendium.drsc-es-compendio-foundry.artifacts-superhero.JYcfxA5RcffTX3Wl]{Cristal Stellarex}</p><h1>Equipo Especial</h1><p>A veces, un grupo de superhéroes necesita equipo especial para poder participar en un encuentro o avanzar en la historia. Por ejemplo, los personajes que deban llegar a una base submarina necesitarán tanques de aire o un dispositivo para respirar agua, y los que vayan a realizar un viaje corto al espacio necesitarán un vehículo y trajes espaciales. Este tipo de objetos no tiene por qué ser un Cypher (que cuenta para el límite de Cyphers de un personaje) o un artefacto (que tiene una probabilidad de agotamiento), puede ser simplemente equipo. Si un jugador sugiere un equipo adecuado que pueda comprar (como un equipo de submarinismo), o un personaje inventor se ofrece a construir algo para hacer el trabajo, el DJ debería dejar que lo hagan y pasar por alto la mayoría de los detalles porque están siendo creativos y superando obstáculos para hacer avanzar la historia. En otras palabras, no des por sentado que cada pieza de equipo extraño tiene que ser un Cypher o un artefacto; las cosas que permiten que la aventura se desarrolle no deberían costar mucho a los personajes, o tal vez nada en absoluto. Y si los jugadores se aprovechan demasiado de este margen de maniobra, el DJ siempre tiene la opción de utilizar una intromisión para complicar un encuentro.</p>",
+    "markdown": ""
+  },
+  "video": {
+    "controls": true,
+    "volume": 0.5
+  },
+  "src": null,
+  "system": {},
+  "ownership": {
+    "default": -1
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!journal.pages!UVX4FGBiWaJBLn5v.C1mbmpr3HkDzKeYo"
+}

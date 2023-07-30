@@ -1,0 +1,204 @@
+{
+  "img": "modules/drsc-es-compendio-foundry/img/tokens/fey_humanoid.webp",
+  "_stats": {
+    "modifiedTime": 1685371528484,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "yThCrv1jSfPXOC2U",
+    "createdTime": 1685371215115,
+    "systemVersion": "2.6.0",
+    "coreVersion": "10.291"
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Actor.6UPHNcRS4ZT7e250"
+    }
+  },
+  "sort": 0,
+  "type": "npc",
+  "prototypeToken": {
+    "displayBars": 40,
+    "displayName": 20,
+    "actorLink": false,
+    "texture": {
+      "scaleX": 1,
+      "offsetX": 0,
+      "scaleY": 1,
+      "offsetY": 0,
+      "src": "icons/svg/mystery-man.svg",
+      "rotation": 0,
+      "tint": null
+    },
+    "lockRotation": true,
+    "rotation": 0,
+    "detectionModes": [],
+    "flags": {
+      "barbrawl": {
+        "resourceBars": {
+          "bar1": {
+            "hideCombat": false,
+            "bgImage": "",
+            "hideNoCombat": false,
+            "hideFull": false,
+            "otherVisibility": 0,
+            "indentRight": null,
+            "subdivisionsOwner": false,
+            "id": "bar1",
+            "attribute": "pools.health",
+            "ownerVisibility": 50,
+            "hideEmpty": false,
+            "indentLeft": null,
+            "order": 0,
+            "shareHeight": false,
+            "invert": false,
+            "label": "",
+            "fgImage": "",
+            "maxcolor": "#80FF00",
+            "gmVisibility": -1,
+            "style": "user",
+            "mincolor": "#FF0000",
+            "position": "bottom-inner",
+            "opacity": null,
+            "invertDirection": false,
+            "subdivisions": null
+          },
+          "bar2": {
+            "hideCombat": false,
+            "bgImage": "",
+            "hideNoCombat": false,
+            "hideFull": false,
+            "otherVisibility": 0,
+            "indentRight": null,
+            "subdivisionsOwner": false,
+            "id": "bar2",
+            "attribute": "basic.level",
+            "ownerVisibility": 50,
+            "hideEmpty": false,
+            "indentLeft": null,
+            "order": 1,
+            "shareHeight": false,
+            "invert": false,
+            "max": null,
+            "label": "",
+            "fgImage": "",
+            "maxcolor": "#80B3FF",
+            "gmVisibility": -1,
+            "style": "user",
+            "mincolor": "#000080",
+            "position": "top-inner",
+            "opacity": null,
+            "invertDirection": false,
+            "subdivisions": null
+          }
+        }
+      }
+    },
+    "randomImg": false,
+    "bar1": {
+      "attribute": "pools.health"
+    },
+    "bar2": {
+      "attribute": "basic.level"
+    },
+    "disposition": 0,
+    "light": {
+      "attenuation": 0.5,
+      "color": null,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "animation": {
+        "intensity": 5,
+        "type": null,
+        "reverse": false,
+        "speed": 5
+      },
+      "saturation": 0,
+      "alpha": 0.5,
+      "contrast": 0,
+      "angle": 360,
+      "luminosity": 0.5,
+      "shadows": 0,
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "alpha": 1,
+    "name": "Áine, Hada Reina de la Luz y el Amor",
+    "width": 1,
+    "sight": {
+      "saturation": 0,
+      "attenuation": 0.1,
+      "brightness": 0,
+      "color": null,
+      "visionMode": "basic",
+      "contrast": 0,
+      "range": null,
+      "angle": 360,
+      "enabled": false
+    },
+    "height": 1
+  },
+  "effects": [],
+  "system": {
+    "settings": {
+      "general": {
+        "initiativeBonus": 0,
+        "hideArchive": false
+      },
+      "equipment": {
+        "ammo": {
+          "active": false
+        },
+        "armor": {
+          "active": false
+        },
+        "attacks": {
+          "active": false
+        },
+        "materials": {
+          "active": false,
+          "label": ""
+        },
+        "cyphers": {
+          "active": false,
+          "label": ""
+        },
+        "oddities": {
+          "active": false,
+          "label": ""
+        },
+        "artifacts": {
+          "active": false,
+          "label": ""
+        }
+      }
+    },
+    "notes": "<p>Áine es la reina de las hadas del verano y del sol, y se la conoce por muchos nombres: Hada Reina de la Luz y el Amor, Brillante, Diosa del Sol y Novia de las Hadas. Es una soberana bondadosa, sincera y benévola, y es querida por casi todo el mundo. Conocida por hacer tratos justos y equitativos con los humanos, a menudo se la busca para obtener bendiciones y favores.</p>\n<p><strong>Motivación:</strong> Ser justa y verdadera, proteger su reino.</p>\n<p><strong>Entorno:</strong> Comparte un reino de hadas con su hermana, Gráinne, donde gobierna durante los meses de verano.</p>\n<p><strong>Salud:</strong> 99</p>\n<p><strong>Daño que inflige:</strong> 12 puntos</p>\n<p><strong>Armadura:</strong> 5</p>\n<p><strong>Movimiento:</strong> Corto; muy largo cuando cambia de forma</p>\n<p><strong>Combate:</strong> áine rara vez entra en combate, ya que prefiere dejar ese papel a su hijo Geroid y su ejército. Sin embargo, si es atacada o siente la necesidad de defender su reino o a alguien en él, no dudará en intervenir. Ataca utilizando el poder del sol, concentrando la luz en un haz estrecho que inflige 12 puntos de daño al objetivo.</p>\n<p>Además, áine tiene el poder de la cloroquinesis: puede manipular plantas y flores a muy larga distancia, haciéndolas crecer hasta alcanzar enormes proporciones. Puede utilizarlas como armas que agarran y sujetan a varias víctimas (tarea de Vigor de nivel 7 para liberarse) o que infligen daño mediante estrangulamiento o espinas (7 puntos de daño). Todas las abejas de la zona actúan para ayudar a la reina.</p>\n<p><strong>Abejas de la reina:</strong> nivel 3; pican a las víctimas para causarles 3 puntos de daño y paralizarlas durante una ronda.</p>\n<p>También puede transformarse en una yegua roja si lo desea. Como yegua, inflige 6 puntos de daño con sus pezuñas o mordiscos, puede volverse inmaterial como acción (hace que sea imposible atacarla con éxito, pero no puede atacar en esta forma), y puede moverse a un punto a larga distancia instantáneamente (no requiere una acción).</p>\n<p><strong>Interacción:</strong> Justa, sincera y bondadosa, áine es una poderosa aliada, siempre que no se sienta amenazada ni ella ni su reino. Aquellos que desean dañar a otros o que ella ve como malévolos en acción o pensamiento son más propensos a la ira de la Brillante.</p>\n<p><strong>Uso:</strong> Los personajes que desean que algo importante cambie en sus vidas pueden pedir a áine que les conceda una bendición. A veces ayuda a los necesitados sin que se lo pidan (pero, por supuesto, sólo a cambio de un precio). Si los personajes asisten a un baile o fiesta de hadas, pueden encontrarse con áine como invitada de honor.</p>\n<p><strong>Botín:</strong> áine lleva una corona de cristal, pero no es visible a menos que ella lo decida (rara vez lo hace) o muera. No lleva mucho más, ya que es una persona de hechos, no de objetos.</p>\n<p><strong>Intromisiones del DJ:</strong> Uno de los fervientes seguidores de áine cree que un personaje está amenazando a su amada reina.</p>",
+    "pools": {
+      "health": {
+        "max": 99,
+        "value": 99
+      }
+    },
+    "description": "",
+    "combat": {
+      "damage": 12,
+      "armor": 5
+    },
+    "basic": {
+      "level": 9,
+      "biography": "<p>Áine es la reina de las hadas del verano y del sol, y se la conoce por muchos nombres: Hada Reina de la Luz y el Amor, Brillante, Diosa del Sol y Novia de las Hadas. Es una soberana bondadosa, sincera y benévola, y es querida por casi todo el mundo. Conocida por hacer tratos justos y equitativos con los humanos, a menudo se la busca para obtener bendiciones y favores.</p>\n<p><strong>Motivación:</strong> Ser justa y verdadera, proteger su reino.</p>\n<p><strong>Entorno:</strong> Comparte un reino de hadas con su hermana, Gráinne, donde gobierna durante los meses de verano.</p>\n<p><strong>Salud:</strong> 99</p>\n<p><strong>Daño que inflige:</strong> 12 puntos</p>\n<p><strong>Armadura:</strong> 5</p>\n<p><strong>Movimiento:</strong> Corto; muy largo cuando cambia de forma</p>\n<p><strong>Combate:</strong> áine rara vez entra en combate, ya que prefiere dejar ese papel a su hijo Geroid y su ejército. Sin embargo, si es atacada o siente la necesidad de defender su reino o a alguien en él, no dudará en intervenir. Ataca utilizando el poder del sol, concentrando la luz en un haz estrecho que inflige 12 puntos de daño al objetivo.</p>\n<p>Además, áine tiene el poder de la cloroquinesis: puede manipular plantas y flores a muy larga distancia, haciéndolas crecer hasta alcanzar enormes proporciones. Puede utilizarlas como armas que agarran y sujetan a varias víctimas (tarea de Vigor de nivel 7 para liberarse) o que infligen daño mediante estrangulamiento o espinas (7 puntos de daño). Todas las abejas de la zona actúan para ayudar a la reina.</p>\n<p><strong>Abejas de la reina:</strong> nivel 3; pican a las víctimas para causarles 3 puntos de daño y paralizarlas durante una ronda.</p>\n<p>También puede transformarse en una yegua roja si lo desea. Como yegua, inflige 6 puntos de daño con sus pezuñas o mordiscos, puede volverse inmaterial como acción (hace que sea imposible atacarla con éxito, pero no puede atacar en esta forma), y puede moverse a un punto a larga distancia instantáneamente (no requiere una acción).</p>\n<p><strong>Interacción:</strong> Justa, sincera y bondadosa, áine es una poderosa aliada, siempre que no se sienta amenazada ni ella ni su reino. Aquellos que desean dañar a otros o que ella ve como malévolos en acción o pensamiento son más propensos a la ira de la Brillante.</p>\n<p><strong>Uso:</strong> Los personajes que desean que algo importante cambie en sus vidas pueden pedir a áine que les conceda una bendición. A veces ayuda a los necesitados sin que se lo pidan (pero, por supuesto, sólo a cambio de un precio). Si los personajes asisten a un baile o fiesta de hadas, pueden encontrarse con áine como invitada de honor.</p>\n<p><strong>Botín:</strong> áine lleva una corona de cristal, pero no es visible a menos que ella lo decida (rara vez lo hace) o muera. No lleva mucho más, ya que es una persona de hechos, no de objetos.</p>\n<p><strong>Intromisiones del DJ:</strong> Uno de los fervientes seguidores de áine cree que un personaje está amenazando a su amada reina.</p>"
+    },
+    "version": 3
+  },
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "name": "Áine, Hada Reina de la Luz y el Amor",
+  "_id": "KzCl0Zq1Z2cj5Ih4",
+  "items": [],
+  "_key": "!actors!KzCl0Zq1Z2cj5Ih4"
+}

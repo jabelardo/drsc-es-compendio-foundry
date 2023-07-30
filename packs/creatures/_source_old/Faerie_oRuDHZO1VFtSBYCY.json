@@ -1,0 +1,128 @@
+{
+  "img": "modules/drsc-es-compendio-foundry/img/tokens/fey_faerie.webp",
+  "_stats": {
+    "modifiedTime": 1676797809034,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "yThCrv1jSfPXOC2U",
+    "createdTime": 1676279040601,
+    "systemVersion": "2.3.0",
+    "coreVersion": "10.291"
+  },
+  "flags": {"core": {"sourceId": "Actor.YbqqaHSom0SOcCia"}},
+  "sort": 0,
+  "type": "npc",
+  "_key": "!actors!oRuDHZO1VFtSBYCY",
+  "prototypeToken": {
+    "displayBars": 40,
+    "displayName": 20,
+    "actorLink": false,
+    "texture": {
+      "scaleX": 1,
+      "offsetX": 0,
+      "scaleY": 1,
+      "offsetY": 0,
+      "src": "icons/svg/mystery-man.svg",
+      "rotation": 0,
+      "tint": null
+    },
+    "lockRotation": false,
+    "rotation": 0,
+    "detectionModes": [],
+    "flags": {},
+    "randomImg": false,
+    "bar1": {"attribute": "pools.health"},
+    "bar2": {"attribute": "basic.level"},
+    "disposition": 0,
+    "light": {
+      "attenuation": 0.5,
+      "color": null,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "animation": {
+        "intensity": 5,
+        "type": null,
+        "reverse": false,
+        "speed": 5
+      },
+      "saturation": 0,
+      "alpha": 0.5,
+      "contrast": 0,
+      "angle": 360,
+      "luminosity": 0.5,
+      "shadows": 0,
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "alpha": 1,
+    "name": "Hada",
+    "width": 1,
+    "sight": {
+      "saturation": 0,
+      "attenuation": 0.1,
+      "brightness": 0,
+      "color": null,
+      "visionMode": "basic",
+      "contrast": 0,
+      "range": null,
+      "angle": 360,
+      "enabled": false
+    },
+    "height": 1
+  },
+  "effects": [],
+  "system": {
+    "settings": {
+      "general": {
+        "initiativeBonus": 0,
+        "hideArchive": false
+      },
+      "equipment": {
+        "ammo": {"active": false},
+        "armor": {"active": false},
+        "attacks": {"active": false},
+        "materials": {
+          "active": false,
+          "label": ""
+        },
+        "cyphers": {
+          "active": false,
+          "label": ""
+        },
+        "oddities": {
+          "active": false,
+          "label": ""
+        },
+        "artifacts": {
+          "active": false,
+          "label": ""
+        }
+      }
+    },
+    "notes": "<p>Las hadas son criaturas mágicas de música, alegría, trucos y burlas. Algunas sólo interpretan una canción tonta o siguen a la gente durante un rato, revoloteando y haciendo preguntas como un niño pequeño molesto. Algunas hadas son más crueles y se deleitan robando ropa, equipo u objetos preciados. Y unas pocas son francamente maliciosas y, bajo la apariencia de un guía útil o una bonita luz en la distancia, atraen a los viajeros perdidos hacia diversos destinos.<\/p>\n<p><strong>Motivación:<\/strong> Impredecible<\/p>\n<p><strong>Entorno:<\/strong> Solo o en grupo de tres a doce individuos<\/p>\n<p><strong>Salud:<\/strong> 12<\/p>\n<p><strong>Daño que inflige:<\/strong> 4 puntos<\/p>\n<p><strong>Movimiento:<\/strong> Inmediato; largo al volar<\/p>\n<p><strong>Ajustes: <\/strong>Nivel 5 para tareas interpretativas y engaño; nivel 5 para defenza por Velocidad debido a su tamaño y rapidez<\/p>\n<p><strong>Combate:<\/strong> Un hada puede lanzar polvo mágico dañino a cualquier objetivo a corta distancia, pero a veces empuña armas diminutas como arcos, lanzas o espadas.<\/p>\n<p>Si un hada es tocada o golpeada por un arma melé, más polvo mágico sale despedido del hada y nubla al atacante, que debe hacer una tirada de Defensa por Velocidad o recibir la misma cantidad de daño que acaba de infligir al hada.<\/p>\n<p>Un hada puede ver en la oscuridad, pero también puede emitir luz brillante y aparecer como un humanoide resplandeciente o una esfera iluminada.<\/p>\n<p>Las hadas regeneran 1 punto de Vida por ronda mientras su Vida esté por encima de 0.<\/p>\n<p>Algunas hadas pueden intentar utilizar una canción o un despliegue de luz para encantar a otros a corta distancia. El objetivo debe tener éxito en una tirada de Defensa por Intelecto o caer en un estado sugestionable durante una hora. Durante este periodo, el objetivo puede ser guiado por el hada a su velocidad de movimiento normal. El objetivo puede salir pronto del hechizo si recibe daño o es abofeteado y sacudido con fuerza durante uno o dos rondas, lo que hace que el encanto se desvanezca. Un hada puede usar este poder una vez por minuto.<\/p>\n<p><strong>Interacción:<\/strong> Las hadas son criaturas volubles, pero a excepción de las maliciosas, se puede negociar con ellas, especialmente si se les ofrecen dulces, vino u otros regalos. Sin embargo, los lapsos de atención de las hadas son limitados, así que incluso una que tenga buenas intenciones podría acabar dejando a los PJs desprotegidos justo en el peor momento.<\/p>\n<p><strong>Uso:<\/strong> La luz danzante en la distancia, que conduce a los curiosos PJs más y más adentro en el oscuro bosque, es un hada. Y el destino podría ser una bruja malvada u otro lugar desagradable.<\/p>\n<p><strong>Botín:<\/strong> Las pequeñas bolsas que llevan las hadas están llenas de baratijas del bosque, pero algunas de esas bolsas son diez veces más grandes por dentro y pueden contener un puñado de monedas brillantes o un Cypher.<\/p>\n<p><strong>Intromisiones del DJ:<\/strong> Aparece otra hada, y si el personaje falla una tirada de Defensa por Velocidad, sale volando con su arma u otra posesión importante.<\/p>",
+    "pools": {"health": {
+      "max": 12,
+      "value": 12
+    }},
+    "description": "",
+    "combat": {
+      "damage": 4,
+      "armor": 0
+    },
+    "basic": {
+      "level": 3,
+      "biography": "<p>Las hadas son criaturas mágicas de música, alegría, trucos y burlas. Algunas sólo interpretan una canción tonta o siguen a la gente durante un rato, revoloteando y haciendo preguntas como un niño pequeño molesto. Algunas hadas son más crueles y se deleitan robando ropa, equipo u objetos preciados. Y unas pocas son francamente maliciosas y, bajo la apariencia de un guía útil o una bonita luz en la distancia, atraen a los viajeros perdidos hacia diversos destinos.<\/p>\n<p><strong>Motivación:<\/strong> Impredecible<\/p>\n<p><strong>Entorno:<\/strong> Solo o en grupo de tres a doce individuos<\/p>\n<p><strong>Salud:<\/strong> 12<\/p>\n<p><strong>Daño que inflige:<\/strong> 4 puntos<\/p>\n<p><strong>Movimiento:<\/strong> Inmediato; largo al volar<\/p>\n<p><strong>Ajustes: <\/strong>Nivel 5 para tareas interpretativas y engaño; nivel 5 para defenza por Velocidad debido a su tamaño y rapidez<\/p>\n<p><strong>Combate:<\/strong> Un hada puede lanzar polvo mágico dañino a cualquier objetivo a corta distancia, pero a veces empuña armas diminutas como arcos, lanzas o espadas.<\/p>\n<p>Si un hada es tocada o golpeada por un arma melé, más polvo mágico sale despedido del hada y nubla al atacante, que debe hacer una tirada de Defensa por Velocidad o recibir la misma cantidad de daño que acaba de infligir al hada.<\/p>\n<p>Un hada puede ver en la oscuridad, pero también puede emitir luz brillante y aparecer como un humanoide resplandeciente o una esfera iluminada.<\/p>\n<p>Las hadas regeneran 1 punto de Vida por ronda mientras su Vida esté por encima de 0.<\/p>\n<p>Algunas hadas pueden intentar utilizar una canción o un despliegue de luz para encantar a otros a corta distancia. El objetivo debe tener éxito en una tirada de Defensa por Intelecto o caer en un estado sugestionable durante una hora. Durante este periodo, el objetivo puede ser guiado por el hada a su velocidad de movimiento normal. El objetivo puede salir pronto del hechizo si recibe daño o es abofeteado y sacudido con fuerza durante uno o dos rondas, lo que hace que el encanto se desvanezca. Un hada puede usar este poder una vez por minuto.<\/p>\n<p><strong>Interacción:<\/strong> Las hadas son criaturas volubles, pero a excepción de las maliciosas, se puede negociar con ellas, especialmente si se les ofrecen dulces, vino u otros regalos. Sin embargo, los lapsos de atención de las hadas son limitados, así que incluso una que tenga buenas intenciones podría acabar dejando a los PJs desprotegidos justo en el peor momento.<\/p>\n<p><strong>Uso:<\/strong> La luz danzante en la distancia, que conduce a los curiosos PJs más y más adentro en el oscuro bosque, es un hada. Y el destino podría ser una bruja malvada u otro lugar desagradable.<\/p>\n<p><strong>Botín:<\/strong> Las pequeñas bolsas que llevan las hadas están llenas de baratijas del bosque, pero algunas de esas bolsas son diez veces más grandes por dentro y pueden contener un puñado de monedas brillantes o un Cypher.<\/p>\n<p><strong>Intromisiones del DJ:<\/strong> Aparece otra hada, y si el personaje falla una tirada de Defensa por Velocidad, sale volando con su arma u otra posesión importante.<\/p>"
+    },
+    "version": 2
+  },
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "name": "Hada",
+  "_id": "oRuDHZO1VFtSBYCY",
+  "items": []
+}

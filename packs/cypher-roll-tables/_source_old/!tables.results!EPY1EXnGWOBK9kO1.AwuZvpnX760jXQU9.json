@@ -1,0 +1,16 @@
+{
+  "img": "icons/svg/d20-black.svg",
+  "documentCollection": "",
+  "flags": {},
+  "weight": 1,
+  "range": [
+    16,
+    16
+  ],
+  "documentId": null,
+  "_id": "AwuZvpnX760jXQU9",
+  "text": "Mientras explorabas un lugar remoto, viste algo extraño que nunca has podido explicar.",
+  "type": 0,
+  "drawn": false,
+  "_key": "!tables.results!EPY1EXnGWOBK9kO1.AwuZvpnX760jXQU9"
+}

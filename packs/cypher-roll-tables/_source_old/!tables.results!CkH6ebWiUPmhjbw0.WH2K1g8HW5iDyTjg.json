@@ -1,0 +1,16 @@
+{
+  "img": "systems/cyphersystem/icons/items/cypher.svg",
+  "documentCollection": "cyphersystem-compendium.cyphers-fairy-tale",
+  "flags": {},
+  "weight": 1,
+  "range": [
+    38,
+    38
+  ],
+  "documentId": "T5LSdNUjaxyXdGng",
+  "text": "Flecha flameante",
+  "_id": "WH2K1g8HW5iDyTjg",
+  "type": 2,
+  "drawn": false,
+  "_key": "!tables.results!CkH6ebWiUPmhjbw0.WH2K1g8HW5iDyTjg"
+}

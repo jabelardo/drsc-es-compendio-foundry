@@ -1,0 +1,54 @@
+{
+  "img": "systems/cyphersystem/icons/items/ability.svg",
+  "effects": [],
+  "folder": null,
+  "system": {
+    "archived": false,
+    "settings": {
+      "general": {
+        "spellTier": "low",
+        "sorting": "Ability",
+        "unmaskedForm": "Mask"
+      },
+      "rollButton": {
+        "stepModifier": "eased",
+        "damage": 0,
+        "damagePerLOE": 3,
+        "bonus": 0,
+        "pool": "Pool",
+        "teen": "",
+        "additionalSteps": 0,
+        "effort1": 0,
+        "effort3": 0,
+        "assets": 0,
+        "effort2": 0,
+        "skill": "Practiced",
+        "additionalCost": 0
+      }
+    },
+    "description": "<p>Utilizas trucos, mentiras bien dichas y productos químicos que afectan a la mente (u otros medios, como la magia o la alta tecnología) para hacer que otros hagan temporalmente lo que tú quieres que hagan. Controlas las acciones de otra criatura que toques. Este efecto dura un minuto. El objetivo debe ser de nivel 3 o inferior. Puedes permitirle actuar libremente o anular su control en cada caso, siempre que puedas verlo. Además de las opciones normales para usar Esfuerzo, puedes elegir usar Esfuerzo para aumentar el nivel máximo del objetivo o aumentar la duración en un minuto. Así, para controlar la mente de un objetivo de nivel 6 (tres niveles por encima del límite normal) o controlar un objetivo durante cuatro minutos (tres minutos por encima de la duración normal), debes aplicar tres niveles de Esfuerzo. Cuando la duración termina, la criatura no recuerda haber sido controlada ni nada de lo que hizo mientras estaba bajo tu influencia. Acción para iniciar.<\/p>",
+    "basic": {
+      "cost": "6+",
+      "pool": "Intellect"
+    },
+    "version": 2
+  },
+  "ownership": {
+    "default": 0,
+    "k2TkElLx959B0lm5": 3
+  },
+  "_stats": {
+    "modifiedTime": 1664959714380,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "rLeavHPrdkq6xjNt",
+    "createdTime": null,
+    "systemVersion": "2.0.0-a1",
+    "coreVersion": "10.286"
+  },
+  "name": "Lavado de cerebro",
+  "flags": {"core": {"sourceId": "Compendium.cyphersystem-compendium.abilities.3SiJ5Drao8XtmgzV"}},
+  "_id": "3SiJ5Drao8XtmgzV",
+  "sort": 0,
+  "type": "ability",
+  "_key": "!items!3SiJ5Drao8XtmgzV"
+}

@@ -1,0 +1,58 @@
+{
+  "img": "systems/cyphersystem/icons/items/ability.svg",
+  "effects": [],
+  "folder": null,
+  "system": {
+    "archived": false,
+    "settings": {
+      "general": {
+        "spellTier": "low",
+        "sorting": "Ability",
+        "unmaskedForm": "Mask"
+      },
+      "rollButton": {
+        "stepModifier": "eased",
+        "damage": 0,
+        "damagePerLOE": 3,
+        "bonus": 0,
+        "pool": "Pool",
+        "teen": "",
+        "additionalSteps": 0,
+        "effort1": 0,
+        "effort3": 0,
+        "assets": 0,
+        "effort2": 0,
+        "skill": "Practiced",
+        "additionalCost": 0
+      }
+    },
+    "description": "<p>Creas una única imagen de ti mismo dentro del alcance inmediato. La imagen se parece a ti tal y como eres ahora (incluyendo tu forma de vestir). La imagen puede moverse (por ejemplo, puedes hacer que camine o ataque), pero no puede moverse más de una distancia inmediata desde donde la creaste. La ilusión incluye sonido y olor. Dura diez minutos y cambia según tus indicaciones (no es necesario concentrarse). Si te mueves más allá del corto alcance de la ilusión, ésta se desvanece. Acción de creación.</p>",
+    "basic": {
+      "cost": "2",
+      "pool": "Intellect"
+    },
+    "version": 2
+  },
+  "ownership": {
+    "default": 0,
+    "k2TkElLx959B0lm5": 3
+  },
+  "_stats": {
+    "modifiedTime": 1664959719726,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "rLeavHPrdkq6xjNt",
+    "createdTime": null,
+    "systemVersion": "2.0.0-a1",
+    "coreVersion": "10.286"
+  },
+  "name": "Duplicado ilusorio",
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.cyphersystem-compendium.abilities.BjWI1UVg9kpY7FKO"
+    }
+  },
+  "_id": "BjWI1UVg9kpY7FKO",
+  "sort": 0,
+  "type": "ability",
+  "_key": "!items!BjWI1UVg9kpY7FKO"
+}

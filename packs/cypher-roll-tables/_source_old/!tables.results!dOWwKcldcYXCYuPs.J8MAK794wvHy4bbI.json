@@ -1,0 +1,16 @@
+{
+  "img": "icons/svg/d20-black.svg",
+  "documentCollection": "",
+  "flags": {},
+  "weight": 1,
+  "range": [
+    18,
+    18
+  ],
+  "documentId": null,
+  "_id": "J8MAK794wvHy4bbI",
+  "text": "Cambia ligeramente de aspecto según el estado de ánimo de su portador.",
+  "type": 0,
+  "drawn": false,
+  "_key": "!tables.results!dOWwKcldcYXCYuPs.J8MAK794wvHy4bbI"
+}

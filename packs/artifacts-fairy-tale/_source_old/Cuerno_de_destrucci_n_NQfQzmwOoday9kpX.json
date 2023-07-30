@@ -1,0 +1,38 @@
+{
+  "img": "systems/cyphersystem/icons/items/artifact.svg",
+  "effects": [],
+  "system": {
+    "archived": false,
+    "settings": {
+      "general": {
+        "nameUnidentified": ""
+      }
+    },
+    "description": "<p><strong>Nivel:</strong> 1d6 + 3</p>\n<p><strong>Aspecto:</strong> Gran cuerno de latón</p>\n<p><strong>Efecto:</strong> Al soplar en el cuerno se destruyen todos los objetos de un área inmediata que se encuentre hasta una gran distancia, convirtiéndolo todo en escombros y cascotes. Los seres vivos dentro del área reciben 2 puntos de daño ambiental (ignora Armadura).</p>\n<p><strong>Agotamiento:</strong> 1 en 1d6</p>\n<p>Es costumbre que quien empuña el cuerno de destrucción se llame a sí mismo el Rey de los Escombros y Desechos y lleve una corona hecha de guijarros y cascotes.</p>",
+    "basic": {
+      "depletion": "1 in [[/r d6]]",
+      "identified": true,
+      "level": "1d6+3"
+    },
+    "version": 2
+  },
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "_stats": {
+    "modifiedTime": 1685302332334,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "yThCrv1jSfPXOC2U",
+    "createdTime": 1685300038131,
+    "systemVersion": "2.6.0",
+    "coreVersion": "10.291"
+  },
+  "name": "Cuerno de destrucción",
+  "flags": {},
+  "_id": "NQfQzmwOoday9kpX",
+  "sort": 0,
+  "type": "artifact",
+  "_key": "!items!NQfQzmwOoday9kpX"
+}

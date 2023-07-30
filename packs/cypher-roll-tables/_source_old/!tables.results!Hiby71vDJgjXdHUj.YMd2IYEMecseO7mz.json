@@ -1,0 +1,16 @@
+{
+  "img": "systems/cyphersystem/icons/items/cypher.svg",
+  "documentCollection": "cyphersystem-compendium.cyphers-power-boost",
+  "flags": {},
+  "weight": 10,
+  "range": [
+    41,
+    50
+  ],
+  "documentId": "xc7bsHHbEM84KLa9",
+  "text": "41-50",
+  "_id": "YMd2IYEMecseO7mz",
+  "type": 2,
+  "drawn": false,
+  "_key": "!tables.results!Hiby71vDJgjXdHUj.YMd2IYEMecseO7mz"
+}

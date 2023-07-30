@@ -1,0 +1,58 @@
+{
+  "img": "systems/cyphersystem/icons/items/ability.svg",
+  "effects": [],
+  "folder": null,
+  "system": {
+    "archived": false,
+    "settings": {
+      "general": {
+        "spellTier": "low",
+        "sorting": "Ability",
+        "unmaskedForm": "Mask"
+      },
+      "rollButton": {
+        "stepModifier": "eased",
+        "damage": 0,
+        "damagePerLOE": 3,
+        "bonus": 0,
+        "pool": "Pool",
+        "teen": "",
+        "additionalSteps": 0,
+        "effort1": 0,
+        "effort3": 0,
+        "assets": 0,
+        "effort2": 0,
+        "skill": "Practiced",
+        "additionalCost": 0
+      }
+    },
+    "description": "<p>Puedes hacer pequeños trucos: cambiar temporalmente el color o la apariencia básica de un objeto pequeño, hacer que objetos pequeños floten en el aire, limpiar una zona pequeña, arreglar un objeto roto, preparar (más no crear) comida, etc. No puedes usar Ardid mágico para dañar a una criatura u objeto. Acción.</p>",
+    "basic": {
+      "cost": "1",
+      "pool": "Intellect"
+    },
+    "version": 2
+  },
+  "ownership": {
+    "default": 0,
+    "k2TkElLx959B0lm5": 3
+  },
+  "_stats": {
+    "modifiedTime": 1664959719483,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "rLeavHPrdkq6xjNt",
+    "createdTime": null,
+    "systemVersion": "2.0.0-a1",
+    "coreVersion": "10.286"
+  },
+  "name": "Ardid mágico",
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.cyphersystem-compendium.abilities.zArjjFcf9tHQvJTx"
+    }
+  },
+  "_id": "zArjjFcf9tHQvJTx",
+  "sort": 0,
+  "type": "ability",
+  "_key": "!items!zArjjFcf9tHQvJTx"
+}

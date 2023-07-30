@@ -1,0 +1,54 @@
+{
+  "img": "systems/cyphersystem/icons/items/ability.svg",
+  "effects": [],
+  "folder": null,
+  "system": {
+    "archived": false,
+    "settings": {
+      "general": {
+        "spellTier": "low",
+        "sorting": "Ability",
+        "unmaskedForm": "Mask"
+      },
+      "rollButton": {
+        "stepModifier": "eased",
+        "damage": 0,
+        "damagePerLOE": 3,
+        "bonus": 0,
+        "pool": "Pool",
+        "teen": "",
+        "additionalSteps": 0,
+        "effort1": 0,
+        "effort3": 0,
+        "assets": 0,
+        "effort2": 0,
+        "skill": "Practiced",
+        "additionalCost": 0
+      }
+    },
+    "description": "<p>Si un arma tiene la capacidad de realizar disparos rápidos sin recargar (lo que se suele llamar un arma de disparo rápido, como una ballesta de manivela o un subfusil), puedes rociar múltiples disparos alrededor de tu objetivo para aumentar la probabilidad de acertar. Esta capacidad utiliza 1d6 + 1 rondas de munición (o toda la munición del arma, si tiene menos que el número tirado). Eres competente para realizar este ataque. Si el ataque tiene éxito, inflige 1 punto de daño menos de lo normal. También puedes utilizar esta capacidad con varias armas arrojadizas (piedras, shuriken, dagas, etc.) si las llevas encima o están todas a tu alcance. Acción.<\/p>",
+    "basic": {
+      "cost": "2",
+      "pool": "Speed"
+    },
+    "version": 2
+  },
+  "ownership": {
+    "default": 0,
+    "k2TkElLx959B0lm5": 3
+  },
+  "_stats": {
+    "modifiedTime": 1664959724664,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "rLeavHPrdkq6xjNt",
+    "createdTime": null,
+    "systemVersion": "2.0.0-a1",
+    "coreVersion": "10.286"
+  },
+  "name": "Rociada",
+  "flags": {"core": {"sourceId": "Compendium.cyphersystem-compendium.abilities.YIzrA5i8eBSPMFzj"}},
+  "_id": "YIzrA5i8eBSPMFzj",
+  "sort": 0,
+  "type": "ability",
+  "_key": "!items!YIzrA5i8eBSPMFzj"
+}

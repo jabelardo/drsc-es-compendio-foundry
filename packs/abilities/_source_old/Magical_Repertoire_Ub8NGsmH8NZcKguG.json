@@ -1,0 +1,54 @@
+{
+  "img": "systems/cyphersystem/icons/items/ability.svg",
+  "effects": [],
+  "system": {
+    "archived": false,
+    "settings": {
+      "general": {
+        "spellTier": "low",
+        "sorting": "Ability",
+        "unmaskedForm": "Mask"
+      },
+      "rollButton": {
+        "stepModifier": "eased",
+        "damage": 0,
+        "damagePerLOE": 3,
+        "bonus": 0,
+        "pool": "Pool",
+        "teen": "",
+        "additionalSteps": 0,
+        "effort1": "0",
+        "effort3": "0",
+        "assets": "0",
+        "effort2": "0",
+        "skill": "Practiced",
+        "additionalCost": 0
+      }
+    },
+    "description": "<p>El número de Cyphers sutiles que puedes llevar al mismo tiempo aumenta en dos. Si dedicas una hora a preparar tu magia, puedes rellenar cualquiera de tus espacios de Cypher libres con Cypher sutiles elegidos al azar por el DJ (esta hora puede formar parte de una acción de recuperación de una o diez horas si estás despierto durante todo ese tiempo). Como parte de este proceso de preparación, puedes descartar cualquier número de Cypher sutiles que lleves para abrir espacio para más Cypher sutiles. Capacitador.<\/p><p>Si un personaje tiene Repertorio mágico, el DJ debe dar al PJ oportunidades frecuentes de ganar nuevos Cypher sutiles, ya sea por preparación o ganándolos automáticamente como se explica en el capítulo de Cyphers.<\/p>",
+    "basic": {
+      "cost": "0",
+      "pool": "Pool"
+    },
+    "version": 2
+  },
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "_stats": {
+    "modifiedTime": 1676106495151,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "yThCrv1jSfPXOC2U",
+    "createdTime": 1676106326026,
+    "systemVersion": "2.3.0",
+    "coreVersion": "10.291"
+  },
+  "name": "Repertorio mágico",
+  "flags": {"core": {"sourceId": "Item.5NoLVk0t47z34H7W"}},
+  "sort": 0,
+  "_id": "Ub8NGsmH8NZcKguG",
+  "type": "ability",
+  "_key": "!items!Ub8NGsmH8NZcKguG"
+}

@@ -1,0 +1,57 @@
+{
+  "name": "Armas Pesadas",
+  "type": "skill",
+  "img": "systems/cyphersystem/icons/items/skill.svg",
+  "system": {
+    "version": 2,
+    "description": "",
+    "archived": false,
+    "settings": {
+      "rollButton": {
+        "pool": "Pool",
+        "skill": "Practiced",
+        "assets": "0",
+        "effort1": "0",
+        "effort2": "0",
+        "effort3": "0",
+        "stepModifier": "eased",
+        "additionalSteps": 0,
+        "additionalCost": 0,
+        "damage": 0,
+        "damagePerLOE": 3,
+        "teen": "",
+        "bonus": 0
+      },
+      "general": {
+        "sorting": "Skill",
+        "initiative": false,
+        "unmaskedForm": "Mask"
+      }
+    },
+    "basic": {
+      "rating": "Practiced"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "rLeavHPrdkq6xjNt": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Item.SsqQZvZt6kIfchkD"
+    }
+  },
+  "_stats": {
+    "systemId": "cyphersystem",
+    "systemVersion": "2.0.0-b1",
+    "coreVersion": "10.288",
+    "createdTime": 1666616633683,
+    "modifiedTime": 1666616783412,
+    "lastModifiedBy": "rLeavHPrdkq6xjNt"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "d554SLnkyNqPDDOc",
+  "_key": "!items!d554SLnkyNqPDDOc"
+}

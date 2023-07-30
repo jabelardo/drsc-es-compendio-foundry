@@ -1,0 +1,36 @@
+{
+  "name": "Aceite (frasco)",
+  "type": "equipment",
+  "img": "systems/cyphersystem/icons/items/equipment.svg",
+  "system": {
+    "version": 2,
+    "description": "<p>Medio litro [1 pinta] de aceite de lámpara en un frasco de cuero. Arde durante tres o cuatro horas en una linterna o lámpara. Si se prepara con una mecha encendida, puede lanzarse, infligiendo daño de fuego como arma ligera (ignora Armadura). Si se vierte sobre una superficie plana, hace resbaladiza un área inmediata. Una criatura puede moverse con seguridad a través de la mancha de aceite como si fuera terreno difícil (mitad de velocidad). Si una criatura se mueve por la zona a velocidad normal, debe realizar una tirada de Defensa por Velocidad de dificultad 3 o resbalará en el aceite y caerá boca abajo. Encender la mancha de aceite hace que arda durante uno o dos rondas e inflige 1 punto de daño por fuego (ignora Armadura) a cualquiera que se encuentre o se mueva por la zona.</p>",
+    "archived": false,
+    "basic": {
+      "level": null,
+      "quantity": 1
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Item.Sp77a0D3rzA53lpt"
+    }
+  },
+  "_stats": {
+    "systemId": "cyphersystem",
+    "systemVersion": "2.3.0",
+    "coreVersion": "10.291",
+    "createdTime": 1676110564270,
+    "modifiedTime": 1676110588835,
+    "lastModifiedBy": "yThCrv1jSfPXOC2U"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "qbV2yNIADgDGarcj",
+  "_key": "!items!qbV2yNIADgDGarcj"
+}

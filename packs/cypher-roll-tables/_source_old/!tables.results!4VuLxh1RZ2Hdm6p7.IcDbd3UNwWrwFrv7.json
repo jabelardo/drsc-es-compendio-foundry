@@ -1,0 +1,16 @@
+{
+  "img": "icons/svg/d20-black.svg",
+  "documentCollection": "",
+  "flags": {},
+  "weight": 2,
+  "range": [
+    43,
+    44
+  ],
+  "documentId": null,
+  "_id": "IcDbd3UNwWrwFrv7",
+  "text": "Poción humeante",
+  "type": 0,
+  "drawn": false,
+  "_key": "!tables.results!4VuLxh1RZ2Hdm6p7.IcDbd3UNwWrwFrv7"
+}

@@ -1,0 +1,33 @@
+{
+  "img": "systems/cyphersystem/icons/items/cypher.svg",
+  "effects": [],
+  "system": {
+    "archived": false,
+    "settings": {"general": {"nameUnidentified": ""}},
+    "description": "<p><strong>Nivel:<\/strong> 1d6 + 2<\/p>\n<p><strong>Aspecto:<\/strong> Pequeña figura tallada en madera o piedra, con la boca abierta<\/p>\n<p><strong>Efecto:<\/strong> Rellenar la boca abierta con algo que pertenezca a un ser vivo (como pelo, dientes o tela) conecta la figura con ese ser. Durante el día siguiente, el ser es incapaz de hablar, señalar, ver o relacionarse de cualquier otro modo con la persona que activó la figura.<\/p>",
+    "basic": {
+      "identified": true,
+      "level": "1d6+2"
+    },
+    "version": 2
+  },
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "_stats": {
+    "modifiedTime": 1685280982968,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "yThCrv1jSfPXOC2U",
+    "createdTime": 1685279470151,
+    "systemVersion": "2.6.0",
+    "coreVersion": "10.291"
+  },
+  "name": "Figurilla (Silencio)",
+  "flags": {},
+  "_id": "GbA7i3okoIIOJqHQ",
+  "sort": 0,
+  "type": "cypher",
+  "_key": "!items!GbA7i3okoIIOJqHQ"
+}

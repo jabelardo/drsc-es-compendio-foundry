@@ -1,0 +1,16 @@
+{
+  "img": "icons/svg/d20-black.svg",
+  "documentCollection": "",
+  "flags": {},
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "documentId": null,
+  "_id": "tummYWMDMUeSsdCy",
+  "text": "Fuiste un atleta estrella en el instituto. Todavía estás en gran forma, pero esos fueron los días de gloria, hombre.",
+  "type": 0,
+  "drawn": false,
+  "_key": "!tables.results!EPY1EXnGWOBK9kO1.tummYWMDMUeSsdCy"
+}

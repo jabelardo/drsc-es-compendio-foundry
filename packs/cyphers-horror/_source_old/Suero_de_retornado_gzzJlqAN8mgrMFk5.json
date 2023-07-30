@@ -1,0 +1,37 @@
+{
+  "img": "systems/cyphersystem/icons/items/cypher.svg",
+  "effects": [],
+  "system": {
+    "archived": false,
+    "settings": {
+      "general": {
+        "nameUnidentified": ""
+      }
+    },
+    "description": "<p><strong>Nivel:</strong> 1d6 + 4</p>\n<p><strong>Aspecto:</strong> Inyección o poción</p>\n<p><strong>Efecto:</strong> Devuelve a la vida a una persona muerta durante un tiempo limitado como una criatura obsesionada llamada retornado. El Cypher puede usarse hasta una hora antes o después de la muerte (en anticipación o en respuesta a la muerte de alguien) y requiere hasta una hora para hacer efecto, momento en el que la criatura recupera 1d6 + 6 puntos de sus Reservas. El nuevo retornado suele estar obsesionado con vengarse de quién lo mató o con llevar a cabo una última tarea antes de volver a morir de verdad.</p>\n<p>Un retornado tiene todas las capacidades que tenía cuando estaba vivo, pero todas sus acciones se ven obstaculizadas. Tiene la misma apariencia que antes, excepto que las heridas que lo mataron siguen siendo visibles, y en general tiene un aspecto antinatural. No necesita comer, beber ni dormir, pero puede descansar si lo desea (por ejemplo, para hacer una tirada de recuperación). El retornado permanece en este estado activo durante una hora por nivel de Cypher, tras lo cual muere de nuevo y no puede ser reanimado con este Cypher.</p>",
+    "basic": {
+      "identified": true,
+      "level": "1d6+4"
+    },
+    "version": 2
+  },
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "_stats": {
+    "modifiedTime": 1683655050999,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "yThCrv1jSfPXOC2U",
+    "createdTime": 1683654718519,
+    "systemVersion": "2.5.0",
+    "coreVersion": "10.291"
+  },
+  "name": "Suero de retornado",
+  "flags": {},
+  "_id": "gzzJlqAN8mgrMFk5",
+  "sort": 0,
+  "type": "cypher",
+  "_key": "!items!gzzJlqAN8mgrMFk5"
+}

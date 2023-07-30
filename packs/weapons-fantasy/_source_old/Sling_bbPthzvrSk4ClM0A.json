@@ -1,0 +1,66 @@
+{
+  "name": "Honda",
+  "type": "attack",
+  "img": "systems/cyphersystem/icons/items/attack.svg",
+  "system": {
+    "version": 2,
+    "description": "<p>Pequeña bolsa unida a dos cuerdas. Se introduce una piedra o una bala (proyectil metálico) en la bolsa, se sujeta el extremo de las cuerdas, se hace girar y se suelta una de las cuerdas para lanzar el proyectil. Se puede disparar con una mano. Necesitas las dos manos para cargarla. Acción para recargar.</p>",
+    "archived": false,
+    "settings": {
+      "rollButton": {
+        "pool": "Pool",
+        "skill": "Practiced",
+        "assets": "0",
+        "effort1": "0",
+        "effort2": "0",
+        "effort3": "0",
+        "stepModifier": "eased",
+        "additionalSteps": 0,
+        "additionalCost": 0,
+        "damage": 0,
+        "damagePerLOE": 3,
+        "teen": "",
+        "bonus": 0
+      },
+      "linkedItems": {
+        "ability": "",
+        "attack": "",
+        "skill": ""
+      },
+      "general": {
+        "unmaskedForm": "Mask"
+      }
+    },
+    "basic": {
+      "type": "light weapon",
+      "damage": 2,
+      "modifier": "eased",
+      "steps": 1,
+      "range": "short range",
+      "notes": "",
+      "skillRating": "Practiced"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Item.oveCxOsJkUgw4aZU"
+    }
+  },
+  "_stats": {
+    "systemId": "cyphersystem",
+    "systemVersion": "2.6.2",
+    "coreVersion": "11.299",
+    "createdTime": 1676108242830,
+    "modifiedTime": 1685559965399,
+    "lastModifiedBy": "7luxagQiisUFvSQn"
+  },
+  "folder": "uewmyPyGWan6LGt0",
+  "sort": 100391,
+  "_id": "bbPthzvrSk4ClM0A",
+  "_key": "!items!bbPthzvrSk4ClM0A"
+}

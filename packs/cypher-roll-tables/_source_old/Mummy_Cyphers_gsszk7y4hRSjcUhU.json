@@ -1,0 +1,31 @@
+{
+  "name": "Cyphers de Momias",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    "RGZhn5OBSBU98aMp",
+    "DZ3LoSClJVkfB3p7",
+    "vIvTzphX0o0rW4HF",
+    "uOnPqmnu4He9Pm22"
+  ],
+  "formula": "1d20",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "systemId": "cyphersystem",
+    "systemVersion": "2.6.2",
+    "coreVersion": "11.299",
+    "createdTime": 1683656698547,
+    "modifiedTime": 1685560232026,
+    "lastModifiedBy": "7luxagQiisUFvSQn"
+  },
+  "_id": "gsszk7y4hRSjcUhU",
+  "folder": "Y2TN81x3OW1ojdbn",
+  "sort": 118750,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "_key": "!tables!gsszk7y4hRSjcUhU"
+}

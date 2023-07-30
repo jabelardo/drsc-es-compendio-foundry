@@ -1,0 +1,54 @@
+{
+  "img": "systems/cyphersystem/icons/items/ability.svg",
+  "effects": [],
+  "folder": null,
+  "system": {
+    "archived": false,
+    "settings": {
+      "general": {
+        "spellTier": "low",
+        "sorting": "Ability",
+        "unmaskedForm": "Mask"
+      },
+      "rollButton": {
+        "stepModifier": "eased",
+        "damage": 0,
+        "damagePerLOE": 3,
+        "bonus": 0,
+        "pool": "Pool",
+        "teen": "",
+        "additionalSteps": 0,
+        "effort1": 0,
+        "effort3": 0,
+        "assets": 0,
+        "effort2": 0,
+        "skill": "Practiced",
+        "additionalCost": 0
+      }
+    },
+    "description": "<p>Puedes convertir tu Esprint en fase en un ataque melé rozando a propósito a otra criatura mientras corres. Cuando lo haces, el toque libera una violenta ráfaga de energía que inflige 2 puntos de daño al objetivo (ignora la Armadura). Tanto si aciertas como si fallas, tu movimiento (y tu turno) termina inmediatamente, lo que te sitúa a una distancia inmediata de tu objetivo. Si aplicas Esfuerzo para aumentar el daño en lugar de aliviar la tarea, infliges 2 puntos de daño adicional por nivel de Esfuerzo (en lugar de 3 puntos); el objetivo recibe 1 punto de daño incluso si fallas la tirada de ataque. Capacitador.<\/p>",
+    "basic": {
+      "cost": "1+",
+      "pool": "Might"
+    },
+    "version": 2
+  },
+  "ownership": {
+    "default": 0,
+    "k2TkElLx959B0lm5": 3
+  },
+  "_stats": {
+    "modifiedTime": 1664959716442,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "rLeavHPrdkq6xjNt",
+    "createdTime": null,
+    "systemVersion": "2.0.0-a1",
+    "coreVersion": "10.286"
+  },
+  "name": "Toque perturbador",
+  "flags": {"core": {"sourceId": "Compendium.cyphersystem-compendium.abilities.7f6ulMjWFw2BOK76"}},
+  "_id": "7f6ulMjWFw2BOK76",
+  "sort": 0,
+  "type": "ability",
+  "_key": "!items!7f6ulMjWFw2BOK76"
+}

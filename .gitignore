@@ -3,4 +3,5 @@ createdbes/
 packs/*/_source/
 packs/*/_source_en/
 packs/*/_source_es/
+packs/*/_source_old/
 *.lock

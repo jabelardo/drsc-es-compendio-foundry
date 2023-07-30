@@ -1,0 +1,128 @@
+{
+  "img": "modules/drsc-es-compendio-foundry/img/tokens/humanoid_mundane.webp",
+  "_stats": {
+    "modifiedTime": 1685376618955,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "yThCrv1jSfPXOC2U",
+    "createdTime": 1685376534197,
+    "systemVersion": "2.6.0",
+    "coreVersion": "10.291"
+  },
+  "flags": {"core": {"sourceId": "Actor.7iCLTlGw9LLIxj2E"}},
+  "sort": 0,
+  "type": "npc",
+  "_key": "!actors!zuIZxopJiJL4VBVh",
+  "prototypeToken": {
+    "displayBars": 40,
+    "displayName": 20,
+    "actorLink": false,
+    "texture": {
+      "scaleX": 1,
+      "offsetX": 0,
+      "scaleY": 1,
+      "offsetY": 0,
+      "src": "icons/svg/mystery-man.svg",
+      "rotation": 0,
+      "tint": null
+    },
+    "lockRotation": true,
+    "rotation": 0,
+    "detectionModes": [],
+    "flags": {"barbrawl": {"resourceBars": {}}},
+    "randomImg": false,
+    "bar1": {"attribute": "pools.health"},
+    "bar2": {"attribute": "basic.level"},
+    "disposition": 0,
+    "light": {
+      "attenuation": 0.5,
+      "color": null,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "animation": {
+        "intensity": 5,
+        "type": null,
+        "reverse": false,
+        "speed": 5
+      },
+      "saturation": 0,
+      "alpha": 0.5,
+      "contrast": 0,
+      "angle": 360,
+      "luminosity": 0.5,
+      "shadows": 0,
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "alpha": 1,
+    "name": "Erudito",
+    "width": 1,
+    "sight": {
+      "saturation": 0,
+      "attenuation": 0.1,
+      "brightness": 0,
+      "color": null,
+      "visionMode": "basic",
+      "contrast": 0,
+      "range": null,
+      "angle": 360,
+      "enabled": false
+    },
+    "height": 1
+  },
+  "effects": [],
+  "system": {
+    "settings": {
+      "general": {
+        "initiativeBonus": 0,
+        "hideArchive": false
+      },
+      "equipment": {
+        "ammo": {"active": false},
+        "armor": {"active": false},
+        "attacks": {"active": false},
+        "materials": {
+          "active": false,
+          "label": ""
+        },
+        "cyphers": {
+          "active": false,
+          "label": ""
+        },
+        "oddities": {
+          "active": false,
+          "label": ""
+        },
+        "artifacts": {
+          "active": false,
+          "label": ""
+        }
+      }
+    },
+    "notes": "<p>Los eruditos pueden ser bibliotecarios, sabios, mujeres sabias, arpías, expertos o adivinos. Normalmente, los eruditos buscan el conocimiento por encima de todo, y muchos también están dispuestos a compartirlo con los demás (a veces por un precio, a veces sólo por el placer de compartir el conocimiento). La experiencia de un erudito puede ser general o específica: puede estudiar el mundo en general o centrarse en un tipo específico de magia o ser feérico, por ejemplo.<\/p>\n<p><strong>Motivación:<\/strong> Encontrar respuestas, buscar conocimiento<\/p>\n<p><strong>Entorno:<\/strong> Escuelas, bibliotecas, el estudio real, laboratorios y otros lugares donde haya fuentes de información.<\/p>\n<p><strong>Salud:<\/strong> 6<\/p>\n<p><strong>Daño que inflige:<\/strong> 3 puntos<\/p>\n<p><strong>Movimiento:<\/strong> Corto<\/p>\n<p><strong>Ajustes:<\/strong> Nivel 4 para intuición, persuasión, detectar falsedades y la mayoría de las tareas de conocimiento<\/p>\n<p><strong>Combate:<\/strong> Los eruditos prefieren evitar la lucha. Si deben luchar, un erudito intenta deducir las debilidades de un enemigo (si las hay) y explotarlas en combate. Algunos eruditos pueden haber aprendido hechizos o capacidades de aquellos a los que han estudiado. Otros pueden estar examinando un Cypher o artefacto útil, y lo usarán contra sus atacantes.<\/p>\n<p><strong>Interacción:<\/strong> La mayoría de los eruditos son serviciales y están llenos de información (que sea útil o verdadera varía de un erudito a otro). Lo que no saben, pueden estar dispuestos a aprenderlo o estudiarlo, si se les dan las herramientas y el incentivo adecuados. Sin embargo, algunos eruditos son reservados y acaparan sus conocimientos para su uso personal.<\/p>\n<p><strong>Uso:<\/strong> Los eruditos pueden ser aliados increíbles, ofreciendo pistas, indicios e información que pueden ayudar a los personajes. Sin embargo, pueden ser reservados y difíciles de encontrar, escondidos en antiguas bibliotecas o laboratorios secretos.<\/p>\n<p><strong>Botín:<\/strong> La mayoría de los eruditos tienen dinero equivalente a un objeto muy caro y uno o dos Cyphers.<\/p>\n<p><strong>Intromisiones del DJ:<\/strong> Algo que el erudito está estudiando cobra vida, creando el caos y la confusión por doquier.<\/p>",
+    "pools": {"health": {
+      "max": 6,
+      "value": 6
+    }},
+    "description": "",
+    "combat": {
+      "damage": 3,
+      "armor": 0
+    },
+    "basic": {
+      "level": 2,
+      "biography": "<p>Los eruditos pueden ser bibliotecarios, sabios, mujeres sabias, arpías, expertos o adivinos. Normalmente, los eruditos buscan el conocimiento por encima de todo, y muchos también están dispuestos a compartirlo con los demás (a veces por un precio, a veces sólo por el placer de compartir el conocimiento). La experiencia de un erudito puede ser general o específica: puede estudiar el mundo en general o centrarse en un tipo específico de magia o ser feérico, por ejemplo.<\/p>\n<p><strong>Motivación:<\/strong> Encontrar respuestas, buscar conocimiento<\/p>\n<p><strong>Entorno:<\/strong> Escuelas, bibliotecas, el estudio real, laboratorios y otros lugares donde haya fuentes de información.<\/p>\n<p><strong>Salud:<\/strong> 6<\/p>\n<p><strong>Daño que inflige:<\/strong> 3 puntos<\/p>\n<p><strong>Movimiento:<\/strong> Corto<\/p>\n<p><strong>Ajustes:<\/strong> Nivel 4 para intuición, persuasión, detectar falsedades y la mayoría de las tareas de conocimiento<\/p>\n<p><strong>Combate:<\/strong> Los eruditos prefieren evitar la lucha. Si deben luchar, un erudito intenta deducir las debilidades de un enemigo (si las hay) y explotarlas en combate. Algunos eruditos pueden haber aprendido hechizos o capacidades de aquellos a los que han estudiado. Otros pueden estar examinando un Cypher o artefacto útil, y lo usarán contra sus atacantes.<\/p>\n<p><strong>Interacción:<\/strong> La mayoría de los eruditos son serviciales y están llenos de información (que sea útil o verdadera varía de un erudito a otro). Lo que no saben, pueden estar dispuestos a aprenderlo o estudiarlo, si se les dan las herramientas y el incentivo adecuados. Sin embargo, algunos eruditos son reservados y acaparan sus conocimientos para su uso personal.<\/p>\n<p><strong>Uso:<\/strong> Los eruditos pueden ser aliados increíbles, ofreciendo pistas, indicios e información que pueden ayudar a los personajes. Sin embargo, pueden ser reservados y difíciles de encontrar, escondidos en antiguas bibliotecas o laboratorios secretos.<\/p>\n<p><strong>Botín:<\/strong> La mayoría de los eruditos tienen dinero equivalente a un objeto muy caro y uno o dos Cyphers.<\/p>\n<p><strong>Intromisiones del DJ:<\/strong> Algo que el erudito está estudiando cobra vida, creando el caos y la confusión por doquier.<\/p>"
+    },
+    "version": 3
+  },
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "name": "Erudito",
+  "_id": "zuIZxopJiJL4VBVh",
+  "items": []
+}

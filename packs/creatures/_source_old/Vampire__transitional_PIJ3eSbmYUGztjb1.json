@@ -1,0 +1,135 @@
+{
+  "img": "modules/drsc-es-compendio-foundry/img/tokens/undead_sentient.webp",
+  "_stats": {
+    "modifiedTime": 1676797809341,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "yThCrv1jSfPXOC2U",
+    "createdTime": null,
+    "systemVersion": "2.3.0",
+    "coreVersion": "10.291"
+  },
+  "flags": {},
+  "sort": 0,
+  "type": "npc",
+  "_key": "!actors!PIJ3eSbmYUGztjb1",
+  "prototypeToken": {
+    "displayBars": 40,
+    "displayName": 20,
+    "actorLink": false,
+    "lockRotation": false,
+    "texture": {
+      "scaleX": 1,
+      "offsetX": 0,
+      "scaleY": 1,
+      "offsetY": 0,
+      "src": "icons/svg/mystery-man.svg",
+      "rotation": 0,
+      "tint": null
+    },
+    "rotation": 0,
+    "detectionModes": [],
+    "flags": {},
+    "randomImg": false,
+    "bar1": {"attribute": "pools.health"},
+    "bar2": {"attribute": "basic.level"},
+    "disposition": 0,
+    "light": {
+      "attenuation": 0.5,
+      "color": null,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "animation": {
+        "intensity": 5,
+        "reverse": false,
+        "type": null,
+        "speed": 5
+      },
+      "saturation": 0,
+      "alpha": 0.5,
+      "contrast": 0,
+      "angle": 360,
+      "luminosity": 0.5,
+      "shadows": 0,
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "alpha": 1,
+    "name": "Vampiro transitorio",
+    "width": 1,
+    "sight": {
+      "saturation": 0,
+      "brightness": 1,
+      "attenuation": 0.1,
+      "color": null,
+      "visionMode": "basic",
+      "contrast": 0,
+      "angle": 360,
+      "range": 0,
+      "enabled": false
+    },
+    "height": 1
+  },
+  "effects": [],
+  "folder": null,
+  "system": {
+    "settings": {
+      "skills": {},
+      "abilities": {},
+      "general": {
+        "initiativeBonus": 0,
+        "hideArchive": false
+      },
+      "equipment": {
+        "ammo": {"active": false},
+        "armor": {"active": false},
+        "attacks": {"active": false},
+        "materials": {
+          "active": false,
+          "label": ""
+        },
+        "cyphers": {
+          "active": false,
+          "label": ""
+        },
+        "oddities": {
+          "active": false,
+          "label": ""
+        },
+        "artifacts": {
+          "active": false,
+          "label": ""
+        }
+      }
+    },
+    "notes": "<p>Cuando los humanos son \"visitados\" (mordidos) por un vampiro, pueden ser asesinados, o pueden ser dejados vivos para comenzar una lenta transformación en una criatura de la noche. Si las víctimas son mordidas tres veces, se convierten en vampiros para siempre bajo el control del que les mordió. Desde el momento de la primera mordida hasta su completa transformación después de la tercera, son vampiros transitorios. Las formas de devolver a los vampiros transitorios a la normalidad incluyen el uso de rituales antiguos especiales o la destrucción del vampiro que los mordió en primer lugar.<\/p>\n<p>Los vampiros transitorios suelen servir como guardianes, consortes o espías de sus amos.<\/p>\n<p><strong>Motivación:<\/strong> Alimentación (sangre)<\/p>\n<p><strong>Entorno:<\/strong> En cualquier lugar, generalmente solitario pero a veces en grupos de dos o tres<\/p>\n<p><strong>Salud:<\/strong> 12<\/p>\n<p><strong>Daño que inflige:<\/strong> 4 puntos<\/p>\n<p><strong>Movimiento:<\/strong> Corto<\/p>\n<p><strong>Ajustes: <\/strong>Nivel 4 para escalada y sigilo<\/p>\n<p><strong>Combate:<\/strong> Los vampiros transitorios pueden mantener una existencia humana durante el día sin ninguno de los poderes o debilidades de un vampiro. Sin embargo, sienten desprecio por el ajo y el sol. Por la noche adoptan todas las características de un vampiro, y si se enfrentan a cualquiera de las debilidades vampíricas tradicionales (una estaca de madera, una cruz, etc.), huyen a menos que su amo esté presente.<\/p>\n<p><strong>Interacción:<\/strong> Los vampiros transitorios son totalmente devotos de su amo.<\/p>\n<p><strong>Uso:<\/strong> Los vampiros transitorios se encuentran en la intersección de enemigo y víctima. Un ser querido o un compañero de confianza que ha sido convertido en un vampiro transitorio intentará traicionar, derrotar y matar a los PJs, pero los personajes están motivados para salvarlos en lugar de destruirlos.<\/p>",
+    "pools": {"health": {
+      "max": 12,
+      "value": 12
+    }},
+    "description": "",
+    "combat": {
+      "damage": 4,
+      "armor": 0
+    },
+    "basic": {
+      "level": 3,
+      "biography": "<p>Cuando los humanos son \"visitados\" (mordidos) por un vampiro, pueden ser asesinados, o pueden ser dejados vivos para comenzar una lenta transformación en una criatura de la noche. Si las víctimas son mordidas tres veces, se convierten en vampiros para siempre bajo el control del que les mordió. Desde el momento de la primera mordida hasta su completa transformación después de la tercera, son vampiros transitorios. Las formas de devolver a los vampiros transitorios a la normalidad incluyen el uso de rituales antiguos especiales o la destrucción del vampiro que los mordió en primer lugar.<\/p>\n<p>Los vampiros transitorios suelen servir como guardianes, consortes o espías de sus amos.<\/p>\n<p><strong>Motivación:<\/strong> Alimentación (sangre)<\/p>\n<p><strong>Entorno:<\/strong> En cualquier lugar, generalmente solitario pero a veces en grupos de dos o tres<\/p>\n<p><strong>Salud:<\/strong> 12<\/p>\n<p><strong>Daño que inflige:<\/strong> 4 puntos<\/p>\n<p><strong>Movimiento:<\/strong> Corto<\/p>\n<p><strong>Ajustes: <\/strong>Nivel 4 para escalada y sigilo<\/p>\n<p><strong>Combate:<\/strong> Los vampiros transitorios pueden mantener una existencia humana durante el día sin ninguno de los poderes o debilidades de un vampiro. Sin embargo, sienten desprecio por el ajo y el sol. Por la noche adoptan todas las características de un vampiro, y si se enfrentan a cualquiera de las debilidades vampíricas tradicionales (una estaca de madera, una cruz, etc.), huyen a menos que su amo esté presente.<\/p>\n<p><strong>Interacción:<\/strong> Los vampiros transitorios son totalmente devotos de su amo.<\/p>\n<p><strong>Uso:<\/strong> Los vampiros transitorios se encuentran en la intersección de enemigo y víctima. Un ser querido o un compañero de confianza que ha sido convertido en un vampiro transitorio intentará traicionar, derrotar y matar a los PJs, pero los personajes están motivados para salvarlos en lugar de destruirlos.<\/p>"
+    },
+    "teen": {
+      "settings": {},
+      "pools": {},
+      "basic": {}
+    },
+    "version": 2
+  },
+  "ownership": {
+    "N1n5f3sdQOJFmoJe": 3,
+    "default": 0
+  },
+  "name": "Vampiro transitorio",
+  "_id": "PIJ3eSbmYUGztjb1",
+  "items": []
+}

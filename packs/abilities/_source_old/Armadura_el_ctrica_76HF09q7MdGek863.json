@@ -1,0 +1,58 @@
+{
+  "img": "systems/cyphersystem/icons/items/ability.svg",
+  "effects": [],
+  "folder": null,
+  "system": {
+    "archived": false,
+    "settings": {
+      "general": {
+        "spellTier": "low",
+        "sorting": "Ability",
+        "unmaskedForm": "Mask"
+      },
+      "rollButton": {
+        "stepModifier": "eased",
+        "damage": 0,
+        "damagePerLOE": 3,
+        "bonus": 0,
+        "pool": "Pool",
+        "teen": "",
+        "additionalSteps": 0,
+        "effort1": 0,
+        "effort3": 0,
+        "assets": 0,
+        "effort2": 0,
+        "skill": "Practiced",
+        "additionalCost": 0
+      }
+    },
+    "description": "<p>Cuando lo deseas, la electricidad crepita por tu cuerpo durante diez minutos, concediéndote +1 de Armadura. Mientras estás electrificado, tienes un +2 de Armadura adicional contra el daño eléctrico específicamente, e infliges 2 puntos de daño a cualquier criatura que te toque o te ataque con un arma melé que conduzca electricidad. Capacitador.</p>",
+    "basic": {
+      "cost": "4",
+      "pool": "Intellect"
+    },
+    "version": 2
+  },
+  "ownership": {
+    "default": 0,
+    "k2TkElLx959B0lm5": 3
+  },
+  "_stats": {
+    "modifiedTime": 1664959716991,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "rLeavHPrdkq6xjNt",
+    "createdTime": null,
+    "systemVersion": "2.0.0-a1",
+    "coreVersion": "10.286"
+  },
+  "name": "Armadura eléctrica",
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.cyphersystem-compendium.abilities.76HF09q7MdGek863"
+    }
+  },
+  "_id": "76HF09q7MdGek863",
+  "sort": 0,
+  "type": "ability",
+  "_key": "!items!76HF09q7MdGek863"
+}

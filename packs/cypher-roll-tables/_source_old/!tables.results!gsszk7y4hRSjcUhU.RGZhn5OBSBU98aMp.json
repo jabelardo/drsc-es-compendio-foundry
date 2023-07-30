@@ -1,0 +1,16 @@
+{
+  "img": "systems/cyphersystem/icons/items/cypher.svg",
+  "documentCollection": "cyphersystem-compendium.cyphers-horror",
+  "flags": {},
+  "weight": 6,
+  "range": [
+    1,
+    6
+  ],
+  "documentId": "XgCPT7ToRpfuVEMm",
+  "text": "Sirena anatema (momias)",
+  "_id": "RGZhn5OBSBU98aMp",
+  "type": 2,
+  "drawn": false,
+  "_key": "!tables.results!gsszk7y4hRSjcUhU.RGZhn5OBSBU98aMp"
+}

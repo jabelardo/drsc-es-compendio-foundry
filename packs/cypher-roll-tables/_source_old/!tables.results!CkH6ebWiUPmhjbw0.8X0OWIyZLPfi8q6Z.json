@@ -1,0 +1,16 @@
+{
+  "img": "systems/cyphersystem/icons/items/cypher.svg",
+  "documentCollection": "cyphersystem-compendium.cyphers-fairy-tale",
+  "flags": {},
+  "weight": 1,
+  "range": [
+    25,
+    25
+  ],
+  "documentId": "WVrjMQWj6kEfK10n",
+  "text": "Vela de la muerte",
+  "_id": "8X0OWIyZLPfi8q6Z",
+  "type": 2,
+  "drawn": false,
+  "_key": "!tables.results!CkH6ebWiUPmhjbw0.8X0OWIyZLPfi8q6Z"
+}

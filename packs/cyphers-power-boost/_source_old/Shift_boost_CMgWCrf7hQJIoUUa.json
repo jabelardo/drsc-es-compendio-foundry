@@ -1,0 +1,33 @@
+{
+  "img": "systems/cyphersystem/icons/items/cypher.svg",
+  "effects": [],
+  "system": {
+    "archived": false,
+    "settings": {"general": {"nameUnidentified": ""}},
+    "description": "<p><strong>Nivel:<\/strong> 1d6 + 2<\/p>\n<p><strong>Efecto:<\/strong> Este Cypher potencia a una mejora de poder que el usuario ya tenga, otorgándole una mejora de poder adicional en esa categoría que dura una ronda. Por ejemplo, si el usuario tiene una mejora en resiliencia, puede usar este Cypher para ganar una mejora adicional en resiliencia durante una ronda. Si el usuario tiene más de un tipo de mejora de poder (como destreza y fuerza), elige qué tipo de mejora de poder reforzará.<\/p>",
+    "basic": {
+      "identified": true,
+      "level": "1d6+2"
+    },
+    "version": 2
+  },
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "_stats": {
+    "modifiedTime": 1682098375935,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "yThCrv1jSfPXOC2U",
+    "createdTime": 1682098090265,
+    "systemVersion": "2.5.0",
+    "coreVersion": "10.291"
+  },
+  "name": "Reforzador de mejora",
+  "flags": {"core": {"sourceId": "Item.8gzZR252dtGa1kvA"}},
+  "sort": 0,
+  "_id": "CMgWCrf7hQJIoUUa",
+  "type": "cypher",
+  "_key": "!items!CMgWCrf7hQJIoUUa"
+}

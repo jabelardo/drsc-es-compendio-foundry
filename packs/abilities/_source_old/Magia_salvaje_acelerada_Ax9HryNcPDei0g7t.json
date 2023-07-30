@@ -1,0 +1,58 @@
+{
+  "img": "systems/cyphersystem/icons/items/ability.svg",
+  "effects": [],
+  "system": {
+    "archived": false,
+    "settings": {
+      "general": {
+        "spellTier": "low",
+        "sorting": "Ability",
+        "unmaskedForm": "Mask"
+      },
+      "rollButton": {
+        "stepModifier": "eased",
+        "damage": 0,
+        "damagePerLOE": 3,
+        "bonus": 0,
+        "pool": "Pool",
+        "teen": "",
+        "additionalSteps": 0,
+        "effort1": "0",
+        "effort3": "0",
+        "assets": "0",
+        "effort2": "0",
+        "skill": "Practiced",
+        "additionalCost": 0
+      }
+    },
+    "description": "<p>Si dedicas diez minutos a preparar tu magia, puedes rellenar cualquiera de tus espacios de Cypher abiertos con Cyphers sutiles elegidos al azar por el DJ (este tiempo puede formar parte de una acción de recuperación de diez minutos, una hora o diez horas si estás despierto durante todo ese tiempo). No puedes volver a utilizar esta capacidad hasta después de haber realizado una acción de recuperación de diez horas. Puedes seguir utilizando Repertorio mágico para rellenar tus espacios de Cypher. Acción para iniciar, diez minutos para completar.</p>",
+    "basic": {
+      "cost": "0",
+      "pool": "Pool"
+    },
+    "version": 2
+  },
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "_stats": {
+    "modifiedTime": 1676106518020,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "yThCrv1jSfPXOC2U",
+    "createdTime": 1676106102036,
+    "systemVersion": "2.3.0",
+    "coreVersion": "10.291"
+  },
+  "name": "Magia salvaje acelerada",
+  "flags": {
+    "core": {
+      "sourceId": "Item.6HicNu1aAKTfxPGt"
+    }
+  },
+  "sort": 0,
+  "_id": "Ax9HryNcPDei0g7t",
+  "type": "ability",
+  "_key": "!items!Ax9HryNcPDei0g7t"
+}

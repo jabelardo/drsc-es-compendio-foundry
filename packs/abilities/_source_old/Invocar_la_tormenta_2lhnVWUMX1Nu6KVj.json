@@ -1,0 +1,58 @@
+{
+  "img": "systems/cyphersystem/icons/items/ability.svg",
+  "effects": [],
+  "folder": null,
+  "system": {
+    "archived": false,
+    "settings": {
+      "general": {
+        "spellTier": "low",
+        "sorting": "Ability",
+        "unmaskedForm": "Mask"
+      },
+      "rollButton": {
+        "stepModifier": "eased",
+        "damage": 0,
+        "damagePerLOE": 3,
+        "bonus": 0,
+        "pool": "Pool",
+        "teen": "",
+        "additionalSteps": 0,
+        "effort1": 0,
+        "effort3": 0,
+        "assets": 0,
+        "effort2": 0,
+        "skill": "Practiced",
+        "additionalCost": 0
+      }
+    },
+    "description": "<p>Si estás en el exterior o en un lugar que tenga un techo de al menos 90 m [300 pies] sobre el suelo, invocas una capa amenazante de nubes iluminadas por rayos y retumbantes de hasta 460 m [1500 pies] de diámetro durante diez minutos. Durante las horas de luz, la iluminación natural bajo la tormenta se reduce a una luz tenue. Mientras la tormenta ruge, puedes usar una acción para enviar un rayo desde la nube para atacar a un objetivo que puedas ver directamente, infligiendo 4 puntos de daño (puedes gastar Esfuerzo normalmente en cada ataque individual con un rayo). Tres acciones para iniciar; acción para invocar un rayo.</p>",
+    "basic": {
+      "cost": "7+",
+      "pool": "Intellect"
+    },
+    "version": 2
+  },
+  "ownership": {
+    "default": 0,
+    "k2TkElLx959B0lm5": 3
+  },
+  "_stats": {
+    "modifiedTime": 1664959714618,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "rLeavHPrdkq6xjNt",
+    "createdTime": null,
+    "systemVersion": "2.0.0-a1",
+    "coreVersion": "10.286"
+  },
+  "name": "Invocar la tormenta",
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.cyphersystem-compendium.abilities.2lhnVWUMX1Nu6KVj"
+    }
+  },
+  "_id": "2lhnVWUMX1Nu6KVj",
+  "sort": 0,
+  "type": "ability",
+  "_key": "!items!2lhnVWUMX1Nu6KVj"
+}

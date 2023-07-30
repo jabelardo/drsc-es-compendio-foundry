@@ -1,0 +1,37 @@
+{
+  "img": "systems/cyphersystem/icons/items/cypher.svg",
+  "effects": [],
+  "system": {
+    "archived": false,
+    "settings": {
+      "general": {
+        "nameUnidentified": ""
+      }
+    },
+    "description": "<p><strong>Nivel:</strong> 1d6 + 4</p>\n<p><strong>Aspecto:</strong> Poema sin sentido escrito con letra de espejo</p>\n<p><strong>Efecto:</strong> Leer el poema en voz alta permite al usuario revertir una cosa de su situación actual durante un máximo de diez minutos. Arriba se convierte en abajo. La gravedad funciona al revés. Un río fluye hacia atrás. El sol brilla por la noche. (El jugador debe colaborar con el DJ para idear un cambio apropiado y aceptable).</p>",
+    "basic": {
+      "identified": true,
+      "level": "1d6+4"
+    },
+    "version": 2
+  },
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "_stats": {
+    "modifiedTime": 1685280982967,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "yThCrv1jSfPXOC2U",
+    "createdTime": 1685278791510,
+    "systemVersion": "2.6.0",
+    "coreVersion": "10.291"
+  },
+  "name": "Poema sinsentido",
+  "flags": {},
+  "_id": "NNXpxlir8F6SQDvJ",
+  "sort": 0,
+  "type": "cypher",
+  "_key": "!items!NNXpxlir8F6SQDvJ"
+}

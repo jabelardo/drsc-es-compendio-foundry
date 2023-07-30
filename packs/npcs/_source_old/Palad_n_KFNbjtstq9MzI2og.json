@@ -1,0 +1,128 @@
+{
+  "img": "modules/drsc-es-compendio-foundry/img/tokens/humanoid_magical.webp",
+  "_stats": {
+    "modifiedTime": 1676797809453,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "yThCrv1jSfPXOC2U",
+    "createdTime": 1676296925662,
+    "systemVersion": "2.3.0",
+    "coreVersion": "10.291"
+  },
+  "flags": {"core": {"sourceId": "Actor.ft0FHKoM3vcZSoTZ"}},
+  "sort": 0,
+  "type": "npc",
+  "_key": "!actors!KFNbjtstq9MzI2og",
+  "prototypeToken": {
+    "displayBars": 40,
+    "displayName": 20,
+    "actorLink": false,
+    "texture": {
+      "scaleX": 1,
+      "offsetX": 0,
+      "scaleY": 1,
+      "offsetY": 0,
+      "src": "icons/svg/mystery-man.svg",
+      "rotation": 0,
+      "tint": null
+    },
+    "lockRotation": false,
+    "rotation": 0,
+    "detectionModes": [],
+    "flags": {},
+    "randomImg": false,
+    "bar1": {"attribute": "pools.health"},
+    "bar2": {"attribute": "basic.level"},
+    "disposition": 0,
+    "light": {
+      "attenuation": 0.5,
+      "color": null,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "animation": {
+        "intensity": 5,
+        "type": null,
+        "reverse": false,
+        "speed": 5
+      },
+      "saturation": 0,
+      "alpha": 0.5,
+      "contrast": 0,
+      "angle": 360,
+      "luminosity": 0.5,
+      "shadows": 0,
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "alpha": 1,
+    "name": "Paladín",
+    "width": 1,
+    "sight": {
+      "saturation": 0,
+      "attenuation": 0.1,
+      "brightness": 0,
+      "color": null,
+      "visionMode": "basic",
+      "contrast": 0,
+      "range": null,
+      "angle": 360,
+      "enabled": false
+    },
+    "height": 1
+  },
+  "effects": [],
+  "system": {
+    "settings": {
+      "general": {
+        "initiativeBonus": 0,
+        "hideArchive": false
+      },
+      "equipment": {
+        "ammo": {"active": false},
+        "armor": {"active": false},
+        "attacks": {"active": false},
+        "materials": {
+          "active": false,
+          "label": ""
+        },
+        "cyphers": {
+          "active": false,
+          "label": ""
+        },
+        "oddities": {
+          "active": false,
+          "label": ""
+        },
+        "artifacts": {
+          "active": false,
+          "label": ""
+        }
+      }
+    },
+    "notes": "<p>Los paladines son héroes que hacen un juramento sagrado para derrotar al mal. Su poder y rectitud son un don y una pesada carga, y la mayoría de ellos esperan morir en batalla contra un enemigo maligno.<\/p>\n<p><strong>Motivación:<\/strong> Proteger a los inocentes, destruir el mal<\/p>\n<p><strong>Salud:<\/strong> 15<\/p>\n<p><strong>Daño que inflige:<\/strong> 5 puntos<\/p>\n<p><strong>Armadura:<\/strong> 2 o 3<\/p>\n<p><strong>Movimiento:<\/strong> Corto<\/p>\n<p><strong>Ajustes: <\/strong>Nivel 5 para ataques y Defensa por Vigor<\/p>\n<p><strong>Combate:<\/strong> A los paladines les gustan las armas llamativas y las armaduras relucientes, que les ayudan a mostrar su devoción a los ideales del bien y a llamar la atención de los enemigos malvados. Muchos eligen un arma a dos manos, pero algunos prefieren usar un escudo en su mano libre (los paladines orientados a la defensa como éstos infligen sólo 4 puntos de daño con sus ataques, pero ganan un recurso en Defensa por Velocidad).<\/p>\n<p>Bendecidos por los poderes del bien, los paladines pueden recurrir a la magia sagrada innata para varios propósitos, como detectar la presencia del mal sobrenatural (demonios, dragones malignos, no muertos, etc.), restaurar 4 puntos de vida para sí mismos o para una criatura tocada, golpear a un enemigo maligno para infligirle 4 puntos de daño adicionales o liberarse del control mental.<\/p>\n<p><strong>Interacción:<\/strong> Los paladines tienen una gran personalidad y creen firmemente en su propósito y objetivos. No toleran los actos malvados y no están dispuestos a mirar hacia otro lado cuando sus aliados quieren saltarse las reglas o aprovecharse de una \"zona gris\". Sin embargo, no son tontos y no desperdiciarán sus vidas por nada.<\/p>\n<p><strong>Uso:<\/strong> Un paladín reclama a un enemigo que los personajes buscan o han capturado. Un viejo paladín busca un último villano al que herir.<\/p>\n<p><strong>Botín:<\/strong> Además de sus armas y armadura, los paladines pueden tener uno o dos Cyphers. Los más experimentados pueden tener la suerte de poseer un artefacto (normalmente un arma o una armadura).<\/p>",
+    "pools": {"health": {
+      "max": 15,
+      "value": 15
+    }},
+    "description": "",
+    "combat": {
+      "damage": 5,
+      "armor": 2
+    },
+    "basic": {
+      "level": 4,
+      "biography": "<p>Los paladines son héroes que hacen un juramento sagrado para derrotar al mal. Su poder y rectitud son un don y una pesada carga, y la mayoría de ellos esperan morir en batalla contra un enemigo maligno.<\/p>\n<p><strong>Motivación:<\/strong> Proteger a los inocentes, destruir el mal<\/p>\n<p><strong>Salud:<\/strong> 15<\/p>\n<p><strong>Daño que inflige:<\/strong> 5 puntos<\/p>\n<p><strong>Armadura:<\/strong> 2 o 3<\/p>\n<p><strong>Movimiento:<\/strong> Corto<\/p>\n<p><strong>Ajustes: <\/strong>Nivel 5 para ataques y Defensa por Vigor<\/p>\n<p><strong>Combate:<\/strong> A los paladines les gustan las armas llamativas y las armaduras relucientes, que les ayudan a mostrar su devoción a los ideales del bien y a llamar la atención de los enemigos malvados. Muchos eligen un arma a dos manos, pero algunos prefieren usar un escudo en su mano libre (los paladines orientados a la defensa como éstos infligen sólo 4 puntos de daño con sus ataques, pero ganan un recurso en Defensa por Velocidad).<\/p>\n<p>Bendecidos por los poderes del bien, los paladines pueden recurrir a la magia sagrada innata para varios propósitos, como detectar la presencia del mal sobrenatural (demonios, dragones malignos, no muertos, etc.), restaurar 4 puntos de vida para sí mismos o para una criatura tocada, golpear a un enemigo maligno para infligirle 4 puntos de daño adicionales o liberarse del control mental.<\/p>\n<p><strong>Interacción:<\/strong> Los paladines tienen una gran personalidad y creen firmemente en su propósito y objetivos. No toleran los actos malvados y no están dispuestos a mirar hacia otro lado cuando sus aliados quieren saltarse las reglas o aprovecharse de una \"zona gris\". Sin embargo, no son tontos y no desperdiciarán sus vidas por nada.<\/p>\n<p><strong>Uso:<\/strong> Un paladín reclama a un enemigo que los personajes buscan o han capturado. Un viejo paladín busca un último villano al que herir.<\/p>\n<p><strong>Botín:<\/strong> Además de sus armas y armadura, los paladines pueden tener uno o dos Cyphers. Los más experimentados pueden tener la suerte de poseer un artefacto (normalmente un arma o una armadura).<\/p>"
+    },
+    "version": 2
+  },
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "name": "Paladín",
+  "_id": "KFNbjtstq9MzI2og",
+  "items": []
+}

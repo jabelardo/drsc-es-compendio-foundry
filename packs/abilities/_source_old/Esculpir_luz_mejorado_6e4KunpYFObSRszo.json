@@ -1,0 +1,58 @@
+{
+  "img": "systems/cyphersystem/icons/items/ability.svg",
+  "effects": [],
+  "folder": null,
+  "system": {
+    "archived": false,
+    "settings": {
+      "general": {
+        "spellTier": "low",
+        "sorting": "Ability",
+        "unmaskedForm": "Mask"
+      },
+      "rollButton": {
+        "stepModifier": "eased",
+        "damage": 0,
+        "damagePerLOE": 3,
+        "bonus": 0,
+        "pool": "Pool",
+        "teen": "",
+        "additionalSteps": 0,
+        "effort1": 0,
+        "effort3": 0,
+        "assets": 0,
+        "effort2": 0,
+        "skill": "Practiced",
+        "additionalCost": 0
+      }
+    },
+    "description": "<p>Creas un objeto de luz sólida con cualquier forma que puedas imaginar y cuya base pueda caber en un cubo de 3 m [10 pies]. El objeto aparece en un área adyacente a ti o flotando libremente en el espacio hasta una larga distancia, y el objeto dura unos días. El objeto es tosco y no puede tener partes móviles, por lo que puedes hacer un segmento de pared, un bloque, una caja, escaleras, etc. El objeto esculpido tiene la masa aproximada del objeto real y es de nivel 6. Si aplicas Esfuerzo para aumentar el tamaño del objeto, cada nivel aplicado aumenta el tamaño en un cubo adicional de 3 m [10 pies]. Acción.</p>",
+    "basic": {
+      "cost": "7+",
+      "pool": "Intellect"
+    },
+    "version": 2
+  },
+  "ownership": {
+    "default": 0,
+    "k2TkElLx959B0lm5": 3
+  },
+  "_stats": {
+    "modifiedTime": 1664959720024,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "rLeavHPrdkq6xjNt",
+    "createdTime": null,
+    "systemVersion": "2.0.0-a1",
+    "coreVersion": "10.286"
+  },
+  "name": "Esculpir luz mejorado",
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.cyphersystem-compendium.abilities.6e4KunpYFObSRszo"
+    }
+  },
+  "_id": "6e4KunpYFObSRszo",
+  "sort": 0,
+  "type": "ability",
+  "_key": "!items!6e4KunpYFObSRszo"
+}

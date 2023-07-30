@@ -1,0 +1,58 @@
+{
+  "img": "systems/cyphersystem/icons/items/ability.svg",
+  "effects": [],
+  "folder": null,
+  "system": {
+    "archived": false,
+    "settings": {
+      "general": {
+        "spellTier": "low",
+        "sorting": "Ability",
+        "unmaskedForm": "Mask"
+      },
+      "rollButton": {
+        "stepModifier": "eased",
+        "damage": 0,
+        "damagePerLOE": 3,
+        "bonus": 0,
+        "pool": "Pool",
+        "teen": "",
+        "additionalSteps": 0,
+        "effort1": 0,
+        "effort3": 0,
+        "assets": 0,
+        "effort2": 0,
+        "skill": "Practiced",
+        "additionalCost": 0
+      }
+    },
+    "description": "<p>Tu capacidad de curar (ya sea por un potente hechizo, una mutación única o un injerto cibernético) sigue funcionando aunque mueras de forma violenta, siempre que tu cuerpo esté intacto en su mayor parte. Un minuto después de tu muerte, esta capacidad se activa y te devuelve a la vida; sin embargo, vuelves con una deducción permanente de 2 puntos de tu Reserva de Intelecto. Capacitador. (Un personaje puede descubrir que Regenerar es a la vez una bendición y una maldición, porque depender demasiado de ella conduce a una especie de malestar que la vitalidad por sí sola no puede arreglar).</p>",
+    "basic": {
+      "cost": "0",
+      "pool": "Pool"
+    },
+    "version": 2
+  },
+  "ownership": {
+    "default": 0,
+    "k2TkElLx959B0lm5": 3
+  },
+  "_stats": {
+    "modifiedTime": 1664959723218,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "rLeavHPrdkq6xjNt",
+    "createdTime": null,
+    "systemVersion": "2.0.0-a1",
+    "coreVersion": "10.286"
+  },
+  "name": "Regenerar",
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.cyphersystem-compendium.abilities.aS13LBRfyrWXAMMp"
+    }
+  },
+  "_id": "aS13LBRfyrWXAMMp",
+  "sort": 0,
+  "type": "ability",
+  "_key": "!items!aS13LBRfyrWXAMMp"
+}

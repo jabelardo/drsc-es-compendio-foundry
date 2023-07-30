@@ -1,0 +1,128 @@
+{
+  "img": "modules/drsc-es-compendio-foundry/img/tokens/humanoid_mundane.webp",
+  "_stats": {
+    "modifiedTime": 1676797809445,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "yThCrv1jSfPXOC2U",
+    "createdTime": 1676296637981,
+    "systemVersion": "2.3.0",
+    "coreVersion": "10.291"
+  },
+  "flags": {"core": {"sourceId": "Actor.JEZmk5ZLYT1tdA4x"}},
+  "sort": 0,
+  "type": "npc",
+  "_key": "!actors!TiYuIwshoqqT4Bfh",
+  "prototypeToken": {
+    "displayBars": 40,
+    "displayName": 20,
+    "actorLink": false,
+    "texture": {
+      "scaleX": 1,
+      "offsetX": 0,
+      "scaleY": 1,
+      "offsetY": 0,
+      "src": "icons/svg/mystery-man.svg",
+      "rotation": 0,
+      "tint": null
+    },
+    "lockRotation": false,
+    "rotation": 0,
+    "detectionModes": [],
+    "flags": {},
+    "randomImg": false,
+    "bar1": {"attribute": "pools.health"},
+    "bar2": {"attribute": "basic.level"},
+    "disposition": 0,
+    "light": {
+      "attenuation": 0.5,
+      "color": null,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "animation": {
+        "intensity": 5,
+        "type": null,
+        "reverse": false,
+        "speed": 5
+      },
+      "saturation": 0,
+      "alpha": 0.5,
+      "contrast": 0,
+      "angle": 360,
+      "luminosity": 0.5,
+      "shadows": 0,
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "alpha": 1,
+    "name": "Elfo",
+    "width": 1,
+    "sight": {
+      "saturation": 0,
+      "attenuation": 0.1,
+      "brightness": 0,
+      "color": null,
+      "visionMode": "basic",
+      "contrast": 0,
+      "range": null,
+      "angle": 360,
+      "enabled": false
+    },
+    "height": 1
+  },
+  "effects": [],
+  "system": {
+    "settings": {
+      "general": {
+        "initiativeBonus": 0,
+        "hideArchive": false
+      },
+      "equipment": {
+        "ammo": {"active": false},
+        "armor": {"active": false},
+        "attacks": {"active": false},
+        "materials": {
+          "active": false,
+          "label": ""
+        },
+        "cyphers": {
+          "active": false,
+          "label": ""
+        },
+        "oddities": {
+          "active": false,
+          "label": ""
+        },
+        "artifacts": {
+          "active": false,
+          "label": ""
+        }
+      }
+    },
+    "notes": "<p>Un elfo tiene una vida muy larga y tiende a aprender y abandonar muchas habilidades e intereses, incluidos el combate y la magia. Es probable que los elfos vaguen en busca de algo nuevo e interesante, como encontrar el árbol más alto del bosque, la puesta de sol más hermosa o la canción de amor perfecta.<\/p>\n<p><strong>Motivación:<\/strong> Curiosidad<\/p>\n<p><strong>Salud:<\/strong> 12<\/p>\n<p><strong>Daño que inflige:<\/strong> 5 puntos<\/p>\n<p><strong>Armadura:<\/strong> 1<\/p>\n<p><strong>Movimiento:<\/strong> Corto<\/p>\n<p><strong>Ajustes: <\/strong>Nivel 5 para percepción, Defensa por Velocidad y dos habilidades no de combate cualesquiera<\/p>\n<p><strong>Combate:<\/strong> Los elfos suelen luchar con espadas cortas o medias y arcos delicados pero mortales. Debido a su sutil habilidad y rápidas reacciones, su primer ataque en cualquier combate inflige 2 puntos de daño adicionales.<\/p>\n<p>Un elfo típico puede conocer algunos hechizos menores, como calentar o enfriar comida, crear un poco de luz de luna y limpiar o reparar ropa.<\/p>\n<p><strong>Interacción:<\/strong> Los elfos aprecian la belleza, la gracia y la habilidad, y no responden bien a la grosería o la bravuconería, especialmente de personas décadas o siglos más jóvenes que ellos. Son sutiles en sus insultos, pero tienen sentido del humor.<\/p>\n<p><strong>Uso:<\/strong> Un grupo de jóvenes elfos llega a una ciudad, queriendo ver de primera mano cómo hacen las cosas los efímeros humanos. Se dice que un elfo ha vivido en el bosque durante mil años, escuchando los secretos susurrados por los árboles.<\/p>\n<p><strong>Botín:<\/strong> Además de sus armas y armadura ligera, un elfo lleva unas cuantas curiosidades y recuerdos de precio moderado (pero extremadamente bien hechos), y normalmente un Cypher.<\/p>",
+    "pools": {"health": {
+      "max": 12,
+      "value": 12
+    }},
+    "description": "",
+    "combat": {
+      "damage": 5,
+      "armor": 1
+    },
+    "basic": {
+      "level": 4,
+      "biography": "<p>Un elfo tiene una vida muy larga y tiende a aprender y abandonar muchas habilidades e intereses, incluidos el combate y la magia. Es probable que los elfos vaguen en busca de algo nuevo e interesante, como encontrar el árbol más alto del bosque, la puesta de sol más hermosa o la canción de amor perfecta.<\/p>\n<p><strong>Motivación:<\/strong> Curiosidad<\/p>\n<p><strong>Salud:<\/strong> 12<\/p>\n<p><strong>Daño que inflige:<\/strong> 5 puntos<\/p>\n<p><strong>Armadura:<\/strong> 1<\/p>\n<p><strong>Movimiento:<\/strong> Corto<\/p>\n<p><strong>Ajustes: <\/strong>Nivel 5 para percepción, Defensa por Velocidad y dos habilidades no de combate cualesquiera<\/p>\n<p><strong>Combate:<\/strong> Los elfos suelen luchar con espadas cortas o medias y arcos delicados pero mortales. Debido a su sutil habilidad y rápidas reacciones, su primer ataque en cualquier combate inflige 2 puntos de daño adicionales.<\/p>\n<p>Un elfo típico puede conocer algunos hechizos menores, como calentar o enfriar comida, crear un poco de luz de luna y limpiar o reparar ropa.<\/p>\n<p><strong>Interacción:<\/strong> Los elfos aprecian la belleza, la gracia y la habilidad, y no responden bien a la grosería o la bravuconería, especialmente de personas décadas o siglos más jóvenes que ellos. Son sutiles en sus insultos, pero tienen sentido del humor.<\/p>\n<p><strong>Uso:<\/strong> Un grupo de jóvenes elfos llega a una ciudad, queriendo ver de primera mano cómo hacen las cosas los efímeros humanos. Se dice que un elfo ha vivido en el bosque durante mil años, escuchando los secretos susurrados por los árboles.<\/p>\n<p><strong>Botín:<\/strong> Además de sus armas y armadura ligera, un elfo lleva unas cuantas curiosidades y recuerdos de precio moderado (pero extremadamente bien hechos), y normalmente un Cypher.<\/p>"
+    },
+    "version": 2
+  },
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "name": "Elfo",
+  "_id": "TiYuIwshoqqT4Bfh",
+  "items": []
+}

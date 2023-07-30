@@ -1,0 +1,16 @@
+{
+  "img": "systems/cyphersystem/icons/items/cypher.svg",
+  "documentCollection": "cyphersystem-compendium.cyphers-fantasy",
+  "flags": {},
+  "weight": 5,
+  "range": [
+    1,
+    5
+  ],
+  "documentId": "maBLgVh0syYE86pC",
+  "text": "Resistencia al ácido",
+  "_id": "6NGHjN3Vdse4onP7",
+  "type": 2,
+  "drawn": false,
+  "_key": "!tables.results!a3RrTgxzpJRhBZgA.6NGHjN3Vdse4onP7"
+}

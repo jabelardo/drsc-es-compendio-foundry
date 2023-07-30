@@ -1,0 +1,58 @@
+{
+  "img": "systems/cyphersystem/icons/items/ability.svg",
+  "effects": [],
+  "folder": null,
+  "system": {
+    "archived": false,
+    "settings": {
+      "general": {
+        "spellTier": "low",
+        "sorting": "Ability",
+        "unmaskedForm": "Mask"
+      },
+      "rollButton": {
+        "stepModifier": "eased",
+        "damage": 0,
+        "damagePerLOE": 3,
+        "bonus": 0,
+        "pool": "Pool",
+        "teen": "",
+        "additionalSteps": 0,
+        "effort1": 0,
+        "effort3": 0,
+        "assets": 0,
+        "effort2": 0,
+        "skill": "Practiced",
+        "additionalCost": 0
+      }
+    },
+    "description": "<p>Accediendo a los recursos apropiados para tu personaje, puedes hacer una pregunta al DJ y obtener una respuesta general. El DJ asigna un nivel a la pregunta, por lo que cuanto más oscura sea la respuesta, más difícil será la tarea. Generalmente, el conocimiento que podrías encontrar buscando en otro lugar que no sea tu ubicación actual es de nivel 1, y el conocimiento oscuro del pasado es de nivel 7. Obtener conocimiento del futuro es imposible. Acción.</p>",
+    "basic": {
+      "cost": "6",
+      "pool": "Intellect"
+    },
+    "version": 2
+  },
+  "ownership": {
+    "default": 0,
+    "k2TkElLx959B0lm5": 3
+  },
+  "_stats": {
+    "modifiedTime": 1664959720645,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "rLeavHPrdkq6xjNt",
+    "createdTime": null,
+    "systemVersion": "2.0.0-a1",
+    "coreVersion": "10.286"
+  },
+  "name": "Conocer lo desconocido",
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.cyphersystem-compendium.abilities.wlkPdME0r3hx9VbE"
+    }
+  },
+  "_id": "wlkPdME0r3hx9VbE",
+  "sort": 0,
+  "type": "ability",
+  "_key": "!items!wlkPdME0r3hx9VbE"
+}

@@ -1,0 +1,58 @@
+{
+  "img": "systems/cyphersystem/icons/items/ability.svg",
+  "effects": [],
+  "folder": null,
+  "system": {
+    "archived": false,
+    "settings": {
+      "general": {
+        "spellTier": "low",
+        "sorting": "Ability",
+        "unmaskedForm": "Mask"
+      },
+      "rollButton": {
+        "stepModifier": "eased",
+        "damage": "0",
+        "damagePerLOE": "3",
+        "bonus": "0",
+        "pool": "Pool",
+        "teen": "",
+        "additionalSteps": "0",
+        "effort1": "0",
+        "effort3": "0",
+        "assets": "0",
+        "effort2": "0",
+        "skill": "Practiced",
+        "additionalCost": 0
+      }
+    },
+    "description": "<p>Una copia perfecta de ti aparece a una distancia inmediata. Este doppelganger es probablemente una versión tuya de otra línea temporal o del pasado. El doppelganger es un PNJ de nivel 5 con 15 de salud. Tiene tu mente y tus recuerdos, y lo controlas como si fueras tú en otro cuerpo. En efecto, mientras esta capacidad está activa, tienes dos cuerpos.</p><p>Si el doppelganger utiliza alguna de tus capacidades que cuestan puntos, esos puntos provienen de tus Reservas (incluyendo el gasto de Esfuerzo). Controlar dos cuerpos a la vez es difícil y distrae; mientras esta capacidad está activa, todas las tareas realizadas por ti o por el doble se ven obstaculizadas. El doppelganger no tiene más equipo que una simple ropa.</p><p>Éste permanece hasta por un minuto, pero desaparece si lo matas o si utilizas una acción para descartarlo. Si se mata al doppelganger, tu recibes 5 puntos de daño que ignoran la Armadura y pierdes tu siguiente acción. Si te matan mientras el doppelganger está presente, sigues viviendo como el doppelganger (se convierte en tu personaje en lugar de ser un PNJ que desaparece). Además de las opciones normales para usar Esfuerzo, puedes elegir usar Esfuerzo para aumentar la duración de esta capacidad; cada nivel de Esfuerzo usado de esta manera añade un minuto a la existencia del doble.</p><p>Si también tienes esta capacidad de otra fuente, puedes usar cualquiera de las dos capacidades, el doppelganger es 1 nivel más alto y tiene 3 puntos de salud adicionales. Acción.</p>",
+    "basic": {
+      "cost": "6+",
+      "pool": "Intellect"
+    },
+    "version": 2
+  },
+  "ownership": {
+    "default": 0,
+    "k2TkElLx959B0lm5": 3
+  },
+  "_stats": {
+    "modifiedTime": 1664959725415,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "rLeavHPrdkq6xjNt",
+    "createdTime": null,
+    "systemVersion": "2.0.0-a1",
+    "coreVersion": "10.286"
+  },
+  "name": "Doppelganger del tiempo",
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.cyphersystem-compendium.abilities.OWRsjlf3ahyH9eez"
+    }
+  },
+  "_id": "OWRsjlf3ahyH9eez",
+  "sort": 0,
+  "type": "ability",
+  "_key": "!items!OWRsjlf3ahyH9eez"
+}

@@ -1,0 +1,16 @@
+{
+  "img": "systems/cyphersystem/icons/items/cypher.svg",
+  "documentCollection": "cyphersystem-compendium.cyphers-fairy-tale",
+  "flags": {},
+  "weight": 1,
+  "range": [
+    76,
+    76
+  ],
+  "documentId": "gfzpcNr5DryyOEVL",
+  "text": "Hoja de Rapunzel",
+  "_id": "BRE0MFrQqdQ5YByX",
+  "type": 2,
+  "drawn": false,
+  "_key": "!tables.results!CkH6ebWiUPmhjbw0.BRE0MFrQqdQ5YByX"
+}

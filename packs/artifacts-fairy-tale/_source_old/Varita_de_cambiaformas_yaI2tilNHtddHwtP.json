@@ -1,0 +1,38 @@
+{
+  "img": "systems/cyphersystem/icons/items/artifact.svg",
+  "effects": [],
+  "system": {
+    "archived": false,
+    "settings": {
+      "general": {
+        "nameUnidentified": ""
+      }
+    },
+    "description": "<p><strong>Nivel:</strong> 1d6</p>\n<p><strong>Aspecto:</strong> Varita de madera, cristal, metal o piedra</p>\n<p><strong>Efecto:</strong> Permite al usuario convertir a un ser vivo (incluido él mismo) en uno de los siguientes: flor, lago, pato, cisne, cabaña, rosal o pez. Mientras se encuentra en su nueva forma, el ser transformado conserva toda su salud y otras características, pero no puede realizar ninguna acción más allá de las que el objeto o criatura no mágica podría realizar normalmente. Así, una flor puede ser movida por el viento, florecer, atraer insectos, ser cortada y oler bien. Cualquier intento de detectar al ser metamorfoseado mediante los sentidos físicos o la magia se ve obstaculizado en dos grados. Mientras está transformado, el ser no puede morir; sin embargo, puede ser herido, maldecido o descender en el registro de daño. El efecto dura diez minutos o hasta que el usuario decida terminarlo antes.</p>\n<p><strong>Agotamiento:</strong> 1 en 1d10</p>",
+    "basic": {
+      "depletion": "1 in [[/r d10]]",
+      "identified": true,
+      "level": "1d6"
+    },
+    "version": 2
+  },
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "_stats": {
+    "modifiedTime": 1685302332335,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "yThCrv1jSfPXOC2U",
+    "createdTime": 1685301110996,
+    "systemVersion": "2.6.0",
+    "coreVersion": "10.291"
+  },
+  "name": "Varita de cambiaformas",
+  "flags": {},
+  "_id": "yaI2tilNHtddHwtP",
+  "sort": 0,
+  "type": "artifact",
+  "_key": "!items!yaI2tilNHtddHwtP"
+}

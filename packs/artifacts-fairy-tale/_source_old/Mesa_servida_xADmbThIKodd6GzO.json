@@ -1,0 +1,38 @@
+{
+  "img": "systems/cyphersystem/icons/items/artifact.svg",
+  "effects": [],
+  "system": {
+    "archived": false,
+    "settings": {
+      "general": {
+        "nameUnidentified": ""
+      }
+    },
+    "description": "<p><strong>Nivel:</strong> 1d6</p>\n<p><strong>Aspecto:</strong> Mesa de madera de aspecto común</p>\n<p><strong>Efecto:</strong> Poner la mesa y decir</p>\n<p>\"Mesa servida\" automáticamente llena la mesa con tanta comida y bebida como quepa en su superficie. La mesa no se vacía mientras haya alguien a distancia que aún desee comer. Una vez que un personaje utiliza la capacidad de la mesa, no puede volver a hacerlo hasta después de hacer una tirada de recuperación de diez horas.</p>\n<p><strong>Agotamiento:</strong> 1 en 1d100</p>\n<p>Además de las peculiaridades de los artefactos, el sentido común sugiere que los efectos de algunos artefactos atraerán oportunidades o peligros interesantes adicionales. Por ejemplo, si se usa Mesa servida en medio de un bosque, es probable que atraiga a osos y otras bestias hambrientas, mientras que si se usa en medio de la ciudad puede que los personajes consigan nuevos amigos o llamen la atención de los ladrones.</p>",
+    "basic": {
+      "depletion": "1 in [[/r d100]]",
+      "identified": true,
+      "level": "1d6"
+    },
+    "version": 2
+  },
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "_stats": {
+    "modifiedTime": 1685302332336,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "yThCrv1jSfPXOC2U",
+    "createdTime": 1685301890834,
+    "systemVersion": "2.6.0",
+    "coreVersion": "10.291"
+  },
+  "name": "Mesa servida",
+  "flags": {},
+  "_id": "xADmbThIKodd6GzO",
+  "sort": 0,
+  "type": "artifact",
+  "_key": "!items!xADmbThIKodd6GzO"
+}

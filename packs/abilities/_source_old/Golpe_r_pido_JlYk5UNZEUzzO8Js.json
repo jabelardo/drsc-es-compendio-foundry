@@ -1,0 +1,58 @@
+{
+  "img": "systems/cyphersystem/icons/items/ability.svg",
+  "effects": [],
+  "folder": null,
+  "system": {
+    "archived": false,
+    "settings": {
+      "general": {
+        "spellTier": "low",
+        "sorting": "Ability",
+        "unmaskedForm": "Mask"
+      },
+      "rollButton": {
+        "stepModifier": "eased",
+        "damage": 0,
+        "damagePerLOE": 3,
+        "bonus": 0,
+        "pool": "Pool",
+        "teen": "",
+        "additionalSteps": 0,
+        "effort1": 0,
+        "effort3": 0,
+        "assets": 0,
+        "effort2": 0,
+        "skill": "Practiced",
+        "additionalCost": 0
+      }
+    },
+    "description": "<p>Realizas un ataque melé con tal velocidad que es difícil de defender para tu enemigo, y lo hace perder el equilibrio. Tu ataque se alivia en dos grados, y el enemigo, si es golpeado, recibe el daño normal pero queda aturdido, de modo que sus tareas se ven obstaculizadas durante la siguiente ronda. Acción.</p>",
+    "basic": {
+      "cost": "4",
+      "pool": "Speed"
+    },
+    "version": 2
+  },
+  "ownership": {
+    "default": 0,
+    "k2TkElLx959B0lm5": 3
+  },
+  "_stats": {
+    "modifiedTime": 1664959722937,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "rLeavHPrdkq6xjNt",
+    "createdTime": null,
+    "systemVersion": "2.0.0-a1",
+    "coreVersion": "10.286"
+  },
+  "name": "Golpe rápido",
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.cyphersystem-compendium.abilities.JlYk5UNZEUzzO8Js"
+    }
+  },
+  "_id": "JlYk5UNZEUzzO8Js",
+  "sort": 0,
+  "type": "ability",
+  "_key": "!items!JlYk5UNZEUzzO8Js"
+}

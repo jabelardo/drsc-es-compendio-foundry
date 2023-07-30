@@ -1,0 +1,66 @@
+{
+  "name": "Rifle láser/fotón",
+  "type": "attack",
+  "img": "systems/cyphersystem/icons/items/attack.svg",
+  "system": {
+    "version": 2,
+    "description": "<p>Rifle que dispara haces de luz coherentes; arma media pero requiere ambas manos (4 de daño), alcance muy largo. Nivel 4.</p>",
+    "archived": false,
+    "settings": {
+      "rollButton": {
+        "pool": "Pool",
+        "skill": "Practiced",
+        "assets": "0",
+        "effort1": "0",
+        "effort2": "0",
+        "effort3": "0",
+        "stepModifier": "eased",
+        "additionalSteps": 0,
+        "additionalCost": 0,
+        "damage": 0,
+        "damagePerLOE": 3,
+        "teen": "",
+        "bonus": 0
+      },
+      "linkedItems": {
+        "ability": "",
+        "attack": "",
+        "skill": ""
+      },
+      "general": {
+        "unmaskedForm": "Mask"
+      }
+    },
+    "basic": {
+      "type": "medium weapon",
+      "damage": 4,
+      "modifier": "eased",
+      "steps": 0,
+      "range": "very long range",
+      "notes": "requires both hands",
+      "skillRating": "Practiced"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Item.2qMQQQwHQ9AdbUpF"
+    }
+  },
+  "_stats": {
+    "systemId": "cyphersystem",
+    "systemVersion": "2.6.2",
+    "coreVersion": "11.299",
+    "createdTime": 1676815743269,
+    "modifiedTime": 1685561588788,
+    "lastModifiedBy": "7luxagQiisUFvSQn"
+  },
+  "folder": "KEjPNGkvIkvlRnz0",
+  "sort": 400000,
+  "_id": "wXAQbqYqbn45C4eK",
+  "_key": "!items!wXAQbqYqbn45C4eK"
+}

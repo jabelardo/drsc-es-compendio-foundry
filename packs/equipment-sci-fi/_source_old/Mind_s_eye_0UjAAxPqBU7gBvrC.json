@@ -1,0 +1,32 @@
+{
+  "name": "Mind’s eye",
+  "type": "equipment",
+  "img": "systems/cyphersystem/icons/items/equipment.svg",
+  "system": {
+    "version": 2,
+    "description": "<p>Como las gafas AR contemporáneas, pero incorporadas directamente al cerebro como implante cortical. La incorporación otorga memoria eidética, la capacidad de vincular sentidos entre usuarios autorizados dentro del alcance de la red y cierto control sobre la química cerebral, lo que otorga un recurso en todas las tareas que el usuario intente controlar o moderar sus propias reacciones.</p>",
+    "archived": false,
+    "basic": {
+      "level": null,
+      "quantity": 1
+    }
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "cyphersystem",
+    "systemVersion": "2.6.2",
+    "coreVersion": "11.301",
+    "createdTime": 1676537540590,
+    "modifiedTime": 1686394124182,
+    "lastModifiedBy": "ZyqFG5NpQtVrpwj7"
+  },
+  "_id": "0UjAAxPqBU7gBvrC",
+  "folder": "7rmYjOb7uxsMhqw2",
+  "sort": 100000,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "_key": "!items!0UjAAxPqBU7gBvrC"
+}

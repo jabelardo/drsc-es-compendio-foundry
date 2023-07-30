@@ -1,0 +1,16 @@
+{
+  "img": "systems/cyphersystem/icons/items/cypher.svg",
+  "documentCollection": "cyphersystem-compendium.cyphers-horror",
+  "flags": {},
+  "weight": 3,
+  "range": [
+    4,
+    6
+  ],
+  "documentId": "rbyrTS2eYk1x90iu",
+  "text": "Sirena anatema (vampiros)",
+  "_id": "wUd3dSW8Xn8CEhAs",
+  "type": 2,
+  "drawn": false,
+  "_key": "!tables.results!WFPeN7inYvmGBw8O.wUd3dSW8Xn8CEhAs"
+}

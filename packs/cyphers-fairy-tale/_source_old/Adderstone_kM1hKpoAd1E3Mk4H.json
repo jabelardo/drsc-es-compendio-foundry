@@ -1,0 +1,37 @@
+{
+  "img": "systems/cyphersystem/icons/items/cypher.svg",
+  "effects": [],
+  "system": {
+    "archived": false,
+    "settings": {
+      "general": {
+        "nameUnidentified": ""
+      }
+    },
+    "description": "<p><strong>Nivel:</strong> 1d6 + 3</p>\n<p><strong>Aspecto:</strong> Piedra con un agujero en el centro</p>\n<p><strong>Efecto:</strong> Durante el día siguiente, proporciona al personaje uno de los siguientes beneficios. Tira un d20 o elige de la tabla.</p>\n<p>Las adderstone a veces también se llaman hagstones, piedras videntes y piedras agujereadas.</p>\n<p>Ten cuidado con las falsas adderstones, que son fabricadas por estafadores emprendedores que taladran o tallan un agujero en una piedra normal e intentan hacerla pasar por algo más.</p>\n<p>Si un personaje no tiene cabello con el que atar una adderstones, tal vez pueda \"tomarlo prestado\" de un amigo, un animal doméstico o un enemigo.</p>\n<table class=\"table table-dark table-striped table-sm\">\n <thead>\n  <tr>\n   <th scope=\"col\" class=\"text-center\">d20</th>\n   <th scope=\"col\">Efecto</th>\n  </tr>\n </thead>\n <tbody>\n  <tr>\n   <td scope=\"row\" class=\"text-center fw-normal\">1-3</td>\n   <td>Al mirar a través del agujero, el usuario obtiene un recurso para ver cosas que normalmente son invisibles a los ojos, incluidos portales, seres, espíritus, efectos mágicos, etc.</td>\n  </tr>\n  <tr>\n   <td scope=\"row\" class=\"text-center fw-normal\">4-6</td>\n   <td>Cuando se usa en el dedo como anillo, aleja a los espíritus de los muertos (otorga +1 a la Armadura contra ataques de fantasmas, embrujos y otros espíritus de los muertos).</td>\n  </tr>\n  <tr>\n   <td scope=\"row\" class=\"text-center fw-normal\">7-9</td>\n   <td>Cuando se ata a una armadura física, añade 1 a la Armadura que proporciona (añade 2 a la Armadura si el Cypher es de nivel 6 o superior).</td>\n  </tr>\n  <tr>\n   <td scope=\"row\" class=\"text-center fw-normal\">10-12</td>\n   <td>Cuando se mantiene en la boca, protege contra venenos (hasta el nivel de la Cypher).</td>\n  </tr>\n  <tr>\n   <td scope=\"row\" class=\"text-center fw-normal\">13-15</td>\n   <td>Cuando se coloca en el dedo de otro con buena intención, suma 1 a las tiradas de recuperación tanto del usuario como del portador.</td>\n  </tr>\n  <tr>\n   <td scope=\"row\" class=\"text-center fw-normal\">16-18</td>\n   <td>Cuando se lleva en una cuerda alrededor del cuello, otorga competencia en dos habilidades no de combate a elección del usuario en las que no sea competente.</td>\n  </tr>\n  <tr>\n   <td scope=\"row\" class=\"text-center fw-normal\">19-20</td>\n   <td>Cuando se ata en el cabello, alivia en dos grados todas las tareas de defensa contra maldiciones.</td>\n  </tr>\n </tbody>\n</table>",
+    "basic": {
+      "identified": true,
+      "level": "1d6+3"
+    },
+    "version": 2
+  },
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "_stats": {
+    "modifiedTime": 1685280982950,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "yThCrv1jSfPXOC2U",
+    "createdTime": 1685274832569,
+    "systemVersion": "2.6.0",
+    "coreVersion": "10.291"
+  },
+  "name": "Adderstone",
+  "flags": {},
+  "_id": "kM1hKpoAd1E3Mk4H",
+  "sort": 0,
+  "type": "cypher",
+  "_key": "!items!kM1hKpoAd1E3Mk4H"
+}

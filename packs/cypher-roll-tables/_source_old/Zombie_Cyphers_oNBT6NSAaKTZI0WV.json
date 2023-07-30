@@ -1,0 +1,30 @@
+{
+  "name": "Cyphers de Zombies",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    "dwXeJGkV4jd7KCV9",
+    "TJtktLvvKIFUBngF",
+    "92kqNXVIEuaOj3yx"
+  ],
+  "formula": "1d20",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "systemId": "cyphersystem",
+    "systemVersion": "2.6.2",
+    "coreVersion": "11.299",
+    "createdTime": 1683656935913,
+    "modifiedTime": 1685560261481,
+    "lastModifiedBy": "7luxagQiisUFvSQn"
+  },
+  "_id": "oNBT6NSAaKTZI0WV",
+  "folder": "Y2TN81x3OW1ojdbn",
+  "sort": 119141,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "_key": "!tables!oNBT6NSAaKTZI0WV"
+}

@@ -1,0 +1,135 @@
+{
+  "img": "modules/drsc-es-compendio-foundry/img/tokens/construct_technological.webp",
+  "_stats": {
+    "modifiedTime": 1676797809346,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "yThCrv1jSfPXOC2U",
+    "createdTime": null,
+    "systemVersion": "2.3.0",
+    "coreVersion": "10.291"
+  },
+  "flags": {},
+  "sort": 0,
+  "type": "npc",
+  "_key": "!actors!WsWJRqBjUW1WO1Wp",
+  "prototypeToken": {
+    "displayBars": 40,
+    "displayName": 20,
+    "actorLink": false,
+    "lockRotation": false,
+    "texture": {
+      "scaleX": 1,
+      "offsetX": 0,
+      "scaleY": 1,
+      "offsetY": 0,
+      "src": "icons/svg/mystery-man.svg",
+      "rotation": 0,
+      "tint": null
+    },
+    "rotation": 0,
+    "detectionModes": [],
+    "flags": {},
+    "randomImg": false,
+    "bar1": {"attribute": "pools.health"},
+    "bar2": {"attribute": "basic.level"},
+    "disposition": 0,
+    "light": {
+      "attenuation": 0.5,
+      "color": null,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "animation": {
+        "intensity": 5,
+        "reverse": false,
+        "type": null,
+        "speed": 5
+      },
+      "saturation": 0,
+      "alpha": 0.5,
+      "contrast": 0,
+      "angle": 360,
+      "luminosity": 0.5,
+      "shadows": 0,
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "alpha": 1,
+    "name": "Wardroid",
+    "width": 1,
+    "sight": {
+      "saturation": 0,
+      "brightness": 1,
+      "attenuation": 0.1,
+      "color": null,
+      "visionMode": "basic",
+      "contrast": 0,
+      "angle": 360,
+      "range": 0,
+      "enabled": false
+    },
+    "height": 1
+  },
+  "effects": [],
+  "folder": null,
+  "system": {
+    "settings": {
+      "skills": {},
+      "abilities": {},
+      "general": {
+        "initiativeBonus": 0,
+        "hideArchive": false
+      },
+      "equipment": {
+        "ammo": {"active": false},
+        "armor": {"active": false},
+        "attacks": {"active": false},
+        "materials": {
+          "active": false,
+          "label": ""
+        },
+        "cyphers": {
+          "active": false,
+          "label": ""
+        },
+        "oddities": {
+          "active": false,
+          "label": ""
+        },
+        "artifacts": {
+          "active": false,
+          "label": ""
+        }
+      }
+    },
+    "notes": "<p>Cuando las tropas estelares necesitan apoyo pesado, a veces traen a los wardroids. Estos temibles robots, de unos 2 metros de altura, son despiadados incluso para los estándares de las tropas y se sabe que matan a transeúntes inocentes con la misma frecuencia que a los enemigos. Se dice que cuando los wardroids se desatan, los soldados sabios retroceden y se ponen a cubierto.<\/p>\n<p><strong>Motivación:<\/strong> Mantener el control, aplastar, matar, destruir<\/p>\n<p><strong>Entorno:<\/strong> En cualquier lugar<\/p>\n<p><strong>Salud:<\/strong> 30<\/p>\n<p><strong>Daño que inflige:<\/strong> 8 puntos<\/p>\n<p><strong>Armadura:<\/strong> 3<\/p>\n<p><strong>Movimiento:<\/strong> Corto; algunos modelos pueden volar una distancia corta cada ronda<\/p>\n<p><strong>Ajustes: <\/strong>Nivel 7 para atacar<\/p>\n<p><strong>Combate:<\/strong> El arma principal de un wardroid es un banco de pistolas láser que puede utilizar para atacar a un máximo de tres enemigos situados uno al lado del otro como una acción. Cuando es dañado, un wardroid recupera 1 punto de salud cada ronda. Además, cada wardroid tiene una capacidad adicional:<\/p>\n<table class=\"table table-dark table-striped table-sm\">\n <thead>\n  <tr>\n   <th scope=\"col\" class=\"text-center\">d6<\/th>\n   <th scope=\"col\">Habilidad<\/th>\n  <\/tr>\n <\/thead>\n <tbody>\n  <tr>\n   <td scope=\"row\" class=\"fw-normal text-center\">1<\/td>\n   <td>Emite un gas venenoso que inflige 5 puntos de daño a los seres orgánicos en el rango inmediato<\/td>\n  <\/tr>\n  <tr>\n   <td scope=\"row\" class=\"fw-normal text-center\">2<\/td>\n   <td>Proyecta granadas a larga distancia que detonan en un radio inmediato, infligiendo 5 puntos de daño<\/td>\n  <\/tr>\n  <tr>\n   <td scope=\"row\" class=\"fw-normal text-center\">3<\/td>\n   <td>Dispara un rayo que aturde a un ser orgánico durante una ronda, durante la cual no puede realizar acciones<\/td>\n  <\/tr>\n  <tr>\n   <td scope=\"row\" class=\"fw-normal text-center\">4<\/td>\n   <td>Emite un campo que perturba las máquinas; los dispositivos tecnológicos y las criaturas máquina en rango inmediato no pueden funcionar durante una ronda<\/td>\n  <\/tr>\n  <tr>\n   <td scope=\"row\" class=\"fw-normal text-center\">5<\/td>\n   <td>Dispara un proyectil perforante hasta alcance largo que inflige 6 puntos de daño que ignora la armadura física (pero no necesariamente otra Armadura)<\/td>\n  <\/tr>\n  <tr>\n   <td scope=\"row\" class=\"fw-normal text-center\">6<\/td>\n   <td><p>Rocía un corrosivo que inflige 5 puntos de daño a todo lo que tenga a su alcance inmediato<\/p><\/td>\n  <\/tr>\n <\/tbody>\n<\/table>\n<p><strong>Interacción:<\/strong> La interacción es difícil para aquellos que no están autorizados a comunicarse con un wardroid.<\/p>\n<p><strong>Uso:<\/strong> Los wardroids suelen desplegarse en grupos de dos o tres para vigilar una cámara acorazada o la entrada de una nave espacial, o para rastrear a los intrusos a bordo de una estación espacial.<\/p>\n<p><strong>Botín:<\/strong> Los restos de un wardroid pueden dar uno o dos Cyphers a alguien experto en salvamento.<\/p>\n<p><strong>Intromisiones del DJ:<\/strong> Cuando es derrotado, el wardroid detona, infligiendo 8 puntos de daño a todas las criaturas dentro del alcance inmediato.<\/p>",
+    "pools": {"health": {
+      "max": 30,
+      "value": 30
+    }},
+    "description": "",
+    "combat": {
+      "damage": 8,
+      "armor": 3
+    },
+    "basic": {
+      "level": 6,
+      "biography": "<p>Cuando las tropas estelares necesitan apoyo pesado, a veces traen a los wardroids. Estos temibles robots, de unos 2 metros de altura, son despiadados incluso para los estándares de las tropas y se sabe que matan a transeúntes inocentes con la misma frecuencia que a los enemigos. Se dice que cuando los wardroids se desatan, los soldados sabios retroceden y se ponen a cubierto.<\/p>\n<p><strong>Motivación:<\/strong> Mantener el control, aplastar, matar, destruir<\/p>\n<p><strong>Entorno:<\/strong> En cualquier lugar<\/p>\n<p><strong>Salud:<\/strong> 30<\/p>\n<p><strong>Daño que inflige:<\/strong> 8 puntos<\/p>\n<p><strong>Armadura:<\/strong> 3<\/p>\n<p><strong>Movimiento:<\/strong> Corto; algunos modelos pueden volar una distancia corta cada ronda<\/p>\n<p><strong>Ajustes: <\/strong>Nivel 7 para atacar<\/p>\n<p><strong>Combate:<\/strong> El arma principal de un wardroid es un banco de pistolas láser que puede utilizar para atacar a un máximo de tres enemigos situados uno al lado del otro como una acción. Cuando es dañado, un wardroid recupera 1 punto de salud cada ronda. Además, cada wardroid tiene una capacidad adicional:<\/p>\n<table class=\"table table-dark table-striped table-sm\">\n <thead>\n  <tr>\n   <th scope=\"col\" class=\"text-center\">d6<\/th>\n   <th scope=\"col\">Habilidad<\/th>\n  <\/tr>\n <\/thead>\n <tbody>\n  <tr>\n   <td scope=\"row\" class=\"fw-normal text-center\">1<\/td>\n   <td>Emite un gas venenoso que inflige 5 puntos de daño a los seres orgánicos en el rango inmediato<\/td>\n  <\/tr>\n  <tr>\n   <td scope=\"row\" class=\"fw-normal text-center\">2<\/td>\n   <td>Proyecta granadas a larga distancia que detonan en un radio inmediato, infligiendo 5 puntos de daño<\/td>\n  <\/tr>\n  <tr>\n   <td scope=\"row\" class=\"fw-normal text-center\">3<\/td>\n   <td>Dispara un rayo que aturde a un ser orgánico durante una ronda, durante la cual no puede realizar acciones<\/td>\n  <\/tr>\n  <tr>\n   <td scope=\"row\" class=\"fw-normal text-center\">4<\/td>\n   <td>Emite un campo que perturba las máquinas; los dispositivos tecnológicos y las criaturas máquina en rango inmediato no pueden funcionar durante una ronda<\/td>\n  <\/tr>\n  <tr>\n   <td scope=\"row\" class=\"fw-normal text-center\">5<\/td>\n   <td>Dispara un proyectil perforante hasta alcance largo que inflige 6 puntos de daño que ignora la armadura física (pero no necesariamente otra Armadura)<\/td>\n  <\/tr>\n  <tr>\n   <td scope=\"row\" class=\"fw-normal text-center\">6<\/td>\n   <td><p>Rocía un corrosivo que inflige 5 puntos de daño a todo lo que tenga a su alcance inmediato<\/p><\/td>\n  <\/tr>\n <\/tbody>\n<\/table>\n<p><strong>Interacción:<\/strong> La interacción es difícil para aquellos que no están autorizados a comunicarse con un wardroid.<\/p>\n<p><strong>Uso:<\/strong> Los wardroids suelen desplegarse en grupos de dos o tres para vigilar una cámara acorazada o la entrada de una nave espacial, o para rastrear a los intrusos a bordo de una estación espacial.<\/p>\n<p><strong>Botín:<\/strong> Los restos de un wardroid pueden dar uno o dos Cyphers a alguien experto en salvamento.<\/p>\n<p><strong>Intromisiones del DJ:<\/strong> Cuando es derrotado, el wardroid detona, infligiendo 8 puntos de daño a todas las criaturas dentro del alcance inmediato.<\/p>"
+    },
+    "teen": {
+      "settings": {},
+      "pools": {},
+      "basic": {}
+    },
+    "version": 2
+  },
+  "ownership": {
+    "N1n5f3sdQOJFmoJe": 3,
+    "default": 0
+  },
+  "name": "Wardroid",
+  "_id": "WsWJRqBjUW1WO1Wp",
+  "items": []
+}

@@ -1,0 +1,58 @@
+{
+  "img": "systems/cyphersystem/icons/items/ability.svg",
+  "effects": [],
+  "folder": null,
+  "system": {
+    "archived": false,
+    "settings": {
+      "general": {
+        "spellTier": "low",
+        "sorting": "Ability",
+        "unmaskedForm": "Mask"
+      },
+      "rollButton": {
+        "stepModifier": "eased",
+        "damage": 0,
+        "damagePerLOE": 3,
+        "bonus": 0,
+        "pool": "Pool",
+        "teen": "",
+        "additionalSteps": 0,
+        "effort1": 0,
+        "effort3": 0,
+        "assets": 0,
+        "effort2": 0,
+        "skill": "Practiced",
+        "additionalCost": 0
+      }
+    },
+    "description": "<p>A través de historias, canciones, arte u otras formas de entretenimiento, inspiras a tus amigos. Después de pasar 24 horas contigo, una vez al día cada uno de tus amigos puede aliviar una tarea. Este beneficio es continuo mientras permanezcas en la compañía del amigo. Termina si te vas, pero se reanuda si regresas en las siguientes 24 horas. Si dejas la compañía del amigo durante más de 24 horas, deben pasar otras 24 horas juntos para reactivar el beneficio. Capacitador.</p>",
+    "basic": {
+      "cost": "0",
+      "pool": "Pool"
+    },
+    "version": 2
+  },
+  "ownership": {
+    "default": 0,
+    "k2TkElLx959B0lm5": 3
+  },
+  "_stats": {
+    "modifiedTime": 1664959720336,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "rLeavHPrdkq6xjNt",
+    "createdTime": null,
+    "systemVersion": "2.0.0-a1",
+    "coreVersion": "10.286"
+  },
+  "name": "Inspirar alivio",
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.cyphersystem-compendium.abilities.DLxDL49VjUEMAjxZ"
+    }
+  },
+  "_id": "DLxDL49VjUEMAjxZ",
+  "sort": 0,
+  "type": "ability",
+  "_key": "!items!DLxDL49VjUEMAjxZ"
+}

@@ -1,0 +1,33 @@
+{
+  "img": "systems/cyphersystem/icons/items/cypher.svg",
+  "effects": [],
+  "system": {
+    "archived": false,
+    "settings": {"general": {"nameUnidentified": ""}},
+    "description": "<p><strong>Nivel:<\/strong> 1d6<\/p>\n<p><strong>Aspecto:<\/strong> Set de tocador dorado en una caja pequeña y resistente que incluye un cepillo, un peine y un espejo.<\/p>\n<p><strong>Efecto:<\/strong> Cada objeto puede usarse una vez y tiene un efecto diferente:<\/p>\n<p><strong>Cepillo dorado: <\/strong>Crea terreno escabroso en un área inmediata, que cuenta como terreno difícil.<\/p>\n<p><strong>Peine dorado:<\/strong> Crea rocas dentadas en un área inmediata, lo que hace que sea extremadamente doloroso atravesarla. Los personajes que se encuentren en la zona sufren 1 punto de daño cada ronda a causa de las rocas.<\/p>\n<p><strong>Espejo dorado:<\/strong> Se convierte en una alta montaña de cristal de 9 m por 90 m [30 pies de alto por 300 pies de ancho]. Todas las tareas de escalada se ven obstaculizadas, y una caída desde cualquier altura causa 3 puntos de daño ambiental (ignora Armadura).<\/p>\n<p>Los efectos del paisaje son permanentes. La vanidad dorada cuenta como un solo Cypher contra el límite de Cyphers del personaje. Cuando se han utilizado los tres objetos, sigue siendo un conjunto de vanidad funcional, pero ya no contiene magia.<\/p>",
+    "basic": {
+      "identified": true,
+      "level": "1d6"
+    },
+    "version": 2
+  },
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "_stats": {
+    "modifiedTime": 1685280982960,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "yThCrv1jSfPXOC2U",
+    "createdTime": 1685277879683,
+    "systemVersion": "2.6.0",
+    "coreVersion": "10.291"
+  },
+  "name": "Vanidad dorada",
+  "flags": {},
+  "_id": "pRBQtzlYnk2r8dQt",
+  "sort": 0,
+  "type": "cypher",
+  "_key": "!items!pRBQtzlYnk2r8dQt"
+}

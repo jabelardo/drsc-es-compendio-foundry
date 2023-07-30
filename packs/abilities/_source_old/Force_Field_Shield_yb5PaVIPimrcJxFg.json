@@ -1,0 +1,54 @@
+{
+  "img": "systems/cyphersystem/icons/items/ability.svg",
+  "effects": [],
+  "folder": null,
+  "system": {
+    "archived": false,
+    "settings": {
+      "general": {
+        "spellTier": "low",
+        "sorting": "Ability",
+        "unmaskedForm": "Mask"
+      },
+      "rollButton": {
+        "stepModifier": "eased",
+        "damage": 0,
+        "damagePerLOE": 3,
+        "bonus": 0,
+        "pool": "Pool",
+        "teen": "",
+        "additionalSteps": 0,
+        "effort1": "0",
+        "effort3": "0",
+        "assets": "0",
+        "effort2": "0",
+        "skill": "Practiced",
+        "additionalCost": 0
+      }
+    },
+    "description": "<p>Manifiesta un pequeño plano de fuerza pura, que adquiere forma de escudo con el más mínimo parpadeo de un pensamiento. Puedes desecharlo con la misma facilidad. Para utilizar el escudo de fuerza, debes sostenerlo en una de tus manos. Tienes práctica en utilizar tu escudo exótico en una mano como arma ligera de combate melé; sin embargo, si atacas con tu escudo y con un arma sostenida en la otra mano, ambos ataques se ven obstaculizados. Cuando estás inconsciente o dormido, el campo de fuerza se disipa. Capacitador. (Un escudo, incluido el producido por un campo de fuerza, proporciona un recurso a la tarea de Defensa por Velocidad de un personaje mientras se mantiene en una mano).<\/p>",
+    "basic": {
+      "cost": "0",
+      "pool": "Pool"
+    },
+    "version": 2
+  },
+  "ownership": {
+    "default": 0,
+    "k2TkElLx959B0lm5": 3
+  },
+  "_stats": {
+    "modifiedTime": 1670335848601,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "yThCrv1jSfPXOC2U",
+    "createdTime": null,
+    "systemVersion": "2.1.0",
+    "coreVersion": "10.291"
+  },
+  "name": "Escudo de campo de fuerza",
+  "flags": {"core": {"sourceId": "Compendium.cyphersystem-compendium.abilities.yb5PaVIPimrcJxFg"}},
+  "_id": "yb5PaVIPimrcJxFg",
+  "sort": 0,
+  "type": "ability",
+  "_key": "!items!yb5PaVIPimrcJxFg"
+}

@@ -1,0 +1,184 @@
+{
+  "img": "modules/drsc-es-compendio-foundry/img/tokens/aberration.webp",
+  "_stats": {
+    "modifiedTime": 1683061880595,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "yThCrv1jSfPXOC2U",
+    "createdTime": 1676452617220,
+    "systemVersion": "2.5.0",
+    "coreVersion": "10.291"
+  },
+  "flags": {"core": {"sourceId": "Actor.ruX8suZc4K3YE5Gv"}},
+  "sort": 0,
+  "type": "npc",
+  "_key": "!actors!WdSjINOj0PaVAnAS",
+  "prototypeToken": {
+    "displayBars": 50,
+    "displayName": 20,
+    "actorLink": false,
+    "texture": {
+      "scaleX": 1,
+      "offsetX": 0,
+      "scaleY": 1,
+      "offsetY": 0,
+      "src": "icons/svg/mystery-man.svg",
+      "rotation": 0,
+      "tint": null
+    },
+    "lockRotation": false,
+    "rotation": 0,
+    "detectionModes": [],
+    "flags": {"barbrawl": {"resourceBars": {
+      "bar1": {
+        "hideCombat": false,
+        "bgImage": "",
+        "hideNoCombat": false,
+        "hideFull": false,
+        "otherVisibility": 0,
+        "indentRight": null,
+        "subdivisionsOwner": false,
+        "id": "bar1",
+        "attribute": "pools.health",
+        "ownerVisibility": 50,
+        "hideEmpty": false,
+        "indentLeft": null,
+        "order": 0,
+        "shareHeight": false,
+        "invert": false,
+        "label": "",
+        "fgImage": "",
+        "maxcolor": "#80FF00",
+        "gmVisibility": -1,
+        "style": "user",
+        "mincolor": "#FF0000",
+        "position": "bottom-inner",
+        "opacity": null,
+        "invertDirection": false,
+        "subdivisions": null
+      },
+      "bar2": {
+        "hideCombat": false,
+        "bgImage": "",
+        "hideNoCombat": false,
+        "hideFull": false,
+        "otherVisibility": 0,
+        "indentRight": null,
+        "subdivisionsOwner": false,
+        "id": "bar2",
+        "attribute": "basic.level",
+        "ownerVisibility": 50,
+        "hideEmpty": false,
+        "indentLeft": null,
+        "order": 1,
+        "shareHeight": false,
+        "invert": false,
+        "max": null,
+        "label": "",
+        "fgImage": "",
+        "maxcolor": "#80B3FF",
+        "gmVisibility": -1,
+        "style": "user",
+        "mincolor": "#000080",
+        "position": "top-inner",
+        "opacity": null,
+        "invertDirection": false,
+        "subdivisions": null
+      }
+    }}},
+    "randomImg": false,
+    "bar1": {"attribute": "pools.health"},
+    "bar2": {"attribute": "basic.level"},
+    "disposition": 0,
+    "light": {
+      "attenuation": 0.5,
+      "color": null,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "animation": {
+        "intensity": 5,
+        "type": null,
+        "reverse": false,
+        "speed": 5
+      },
+      "saturation": 0,
+      "alpha": 0.5,
+      "contrast": 0,
+      "angle": 360,
+      "luminosity": 0.5,
+      "shadows": 0,
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "alpha": 1,
+    "name": "Organismo simulado",
+    "width": 1,
+    "sight": {
+      "saturation": 0,
+      "attenuation": 0.1,
+      "brightness": 0,
+      "color": null,
+      "visionMode": "basic",
+      "contrast": 0,
+      "range": null,
+      "angle": 360,
+      "enabled": false
+    },
+    "height": 1
+  },
+  "effects": [],
+  "system": {
+    "settings": {
+      "general": {
+        "initiativeBonus": 0,
+        "hideArchive": false
+      },
+      "equipment": {
+        "ammo": {"active": false},
+        "armor": {"active": false},
+        "attacks": {"active": false},
+        "materials": {
+          "active": false,
+          "label": ""
+        },
+        "cyphers": {
+          "active": false,
+          "label": ""
+        },
+        "oddities": {
+          "active": false,
+          "label": ""
+        },
+        "artifacts": {
+          "active": false,
+          "label": ""
+        }
+      }
+    },
+    "notes": "<p>La vida artificial puede crearse mediante la cría selectiva, la ingeniería sintética y genética o por un error de cálculo accidental en algún programa no relacionado de investigación de alta energía o alimentos. Cuando la vida artificial toma un rumbo equivocado, los resultados van de decepcionantes a peligrosos. Si una entidad artificial empieza siendo benigna, es difícil saber si un defecto oculto o de desarrollo lento la llevará al borde de una disfunción peligrosa, o si simplemente actúa de forma extraña porque no conoce las señales sociales. ¿Hay que tratar a los seres sintéticos como personas, mascotas o monstruos que hay que erradicar y destruir? ésa es la eterna pregunta, a la que suelen responder los más temerosos de los peligros potenciales que podría entrañar la creación de algo que nadie pretendía.<\/p>\n<p><strong>Motivación:<\/strong> Defensa o destrucción<\/p>\n<p><strong>Entorno:<\/strong> Suelen estar solos en lugares apartados, a menos que se escondan en almacenes no utilizados de una gran instalación<\/p>\n<p><strong>Salud:<\/strong> 18<\/p>\n<p><strong>Daño que inflige:<\/strong> 5 puntos<\/p>\n<p><strong>Armadura:<\/strong> 2<\/p>\n<p><strong>Movimiento: <\/strong>Corto<\/p>\n<p><strong>Combate:<\/strong> Un organismo simulado puede liberar una descarga eléctrica contra un objetivo a corta distancia. En combate melé, las garras envenenadas de un organismo simulado infligen daño y requieren que el objetivo tenga éxito en una tarea de Defensa por Vigor, o el veneno induce un sueño similar al coma en el objetivo. Cada vez que el objetivo no consigue despertarse (tarea de Intelecto), recibe 3 puntos de daño ambiental.<\/p>\n<p><strong>Interacción:<\/strong> Un organismo simulado es inteligente y a veces puede dejarse llevar por la razón. Puede ser pasivo, pero si se le molesta en un lugar que creía seguro contra intrusiones, puede volverse beligerante e incluso asesino. Una vez en ese estado, un organismo simulado aún puede ser calmado, pero todos los intentos se ven obstaculizados.<\/p>\n<p><strong>Uso:<\/strong> El laboratorio en ruinas de un científico contiene varias sorpresas inesperadas, incluido un organismo simulado que aún se lamenta por la pérdida de su creador.<\/p>\n<p><strong>Botín:<\/strong> Un organismo simulado requiere muchas piezas. El rescate de un organismo simulado destruido puede dar como resultado uno o dos Cyphers manifiestos y otro objeto que, con un poco de manipulación, funcione como artefacto.<\/p>\n<p><strong>Intromisiones del DJ:<\/strong> El personaje golpeado por el ataque melé del organismo simulado no recibe el daño normal. En su lugar, el organismo simulado cae sobre el personaje. El PJ queda inmovilizado hasta que pueda tener éxito en una tarea basada en Vigor de dificultad 6 para escapar. Mientras está inmovilizado, la creación susurra locuras al oído del objetivo.<\/p>",
+    "pools": {"health": {
+      "max": 18,
+      "value": 18
+    }},
+    "description": "",
+    "combat": {
+      "damage": 5,
+      "armor": 2
+    },
+    "basic": {
+      "level": 3,
+      "biography": "<p>La vida artificial puede crearse mediante la cría selectiva, la ingeniería sintética y genética o por un error de cálculo accidental en algún programa no relacionado de investigación de alta energía o alimentos. Cuando la vida artificial toma un rumbo equivocado, los resultados van de decepcionantes a peligrosos. Si una entidad artificial empieza siendo benigna, es difícil saber si un defecto oculto o de desarrollo lento la llevará al borde de una disfunción peligrosa, o si simplemente actúa de forma extraña porque no conoce las señales sociales. ¿Hay que tratar a los seres sintéticos como personas, mascotas o monstruos que hay que erradicar y destruir? ésa es la eterna pregunta, a la que suelen responder los más temerosos de los peligros potenciales que podría entrañar la creación de algo que nadie pretendía.<\/p>\n<p><strong>Motivación:<\/strong> Defensa o destrucción<\/p>\n<p><strong>Entorno:<\/strong> Suelen estar solos en lugares apartados, a menos que se escondan en almacenes no utilizados de una gran instalación<\/p>\n<p><strong>Salud:<\/strong> 18<\/p>\n<p><strong>Daño que inflige:<\/strong> 5 puntos<\/p>\n<p><strong>Armadura:<\/strong> 2<\/p>\n<p><strong>Movimiento: <\/strong>Corto<\/p>\n<p><strong>Combate:<\/strong> Un organismo simulado puede liberar una descarga eléctrica contra un objetivo a corta distancia. En combate melé, las garras envenenadas de un organismo simulado infligen daño y requieren que el objetivo tenga éxito en una tarea de Defensa por Vigor, o el veneno induce un sueño similar al coma en el objetivo. Cada vez que el objetivo no consigue despertarse (tarea de Intelecto), recibe 3 puntos de daño ambiental.<\/p>\n<p><strong>Interacción:<\/strong> Un organismo simulado es inteligente y a veces puede dejarse llevar por la razón. Puede ser pasivo, pero si se le molesta en un lugar que creía seguro contra intrusiones, puede volverse beligerante e incluso asesino. Una vez en ese estado, un organismo simulado aún puede ser calmado, pero todos los intentos se ven obstaculizados.<\/p>\n<p><strong>Uso:<\/strong> El laboratorio en ruinas de un científico contiene varias sorpresas inesperadas, incluido un organismo simulado que aún se lamenta por la pérdida de su creador.<\/p>\n<p><strong>Botín:<\/strong> Un organismo simulado requiere muchas piezas. El rescate de un organismo simulado destruido puede dar como resultado uno o dos Cyphers manifiestos y otro objeto que, con un poco de manipulación, funcione como artefacto.<\/p>\n<p><strong>Intromisiones del DJ:<\/strong> El personaje golpeado por el ataque melé del organismo simulado no recibe el daño normal. En su lugar, el organismo simulado cae sobre el personaje. El PJ queda inmovilizado hasta que pueda tener éxito en una tarea basada en Vigor de dificultad 6 para escapar. Mientras está inmovilizado, la creación susurra locuras al oído del objetivo.<\/p>"
+    },
+    "version": 2
+  },
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "name": "Organismo simulado",
+  "_id": "WdSjINOj0PaVAnAS",
+  "items": []
+}

@@ -1,0 +1,32 @@
+{
+  "name": "Suero antiveneno",
+  "type": "equipment",
+  "img": "systems/cyphersystem/icons/items/equipment.svg",
+  "system": {
+    "version": 2,
+    "description": "<p>Como el suero curativo, pero concede una tarea de Vigor aliviada en cuatro grados para resistir y eliminar el veneno del sistema del usuario y proporciona una resistencia al veneno similar durante un día.</p>",
+    "archived": false,
+    "basic": {
+      "level": 4,
+      "quantity": 1
+    }
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "cyphersystem",
+    "systemVersion": "2.6.2",
+    "coreVersion": "11.301",
+    "createdTime": 1676551810397,
+    "modifiedTime": 1686394011937,
+    "lastModifiedBy": "ZyqFG5NpQtVrpwj7"
+  },
+  "_id": "8T7wyV8GgyvzvTHB",
+  "folder": "40FMwVrL57gMPm5j",
+  "sort": 3800000,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "_key": "!items!8T7wyV8GgyvzvTHB"
+}

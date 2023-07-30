@@ -1,0 +1,16 @@
+{
+  "img": "systems/cyphersystem/icons/items/artifact.svg",
+  "documentCollection": "cyphersystem-compendium.artifacts-fairy-tale",
+  "flags": {},
+  "weight": 3,
+  "range": [
+    18,
+    20
+  ],
+  "documentId": "eXccrn31sLgt3jqw",
+  "text": "Violín del Fossegrim",
+  "_id": "AURGVXbZwGrd7iKs",
+  "type": 2,
+  "drawn": false,
+  "_key": "!tables.results!rE7quqfGeVxHOAma.AURGVXbZwGrd7iKs"
+}

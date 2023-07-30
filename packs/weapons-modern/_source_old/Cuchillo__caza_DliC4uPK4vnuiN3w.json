@@ -1,0 +1,62 @@
+{
+  "name": "Cuchillo, caza",
+  "type": "attack",
+  "img": "systems/cyphersystem/icons/items/attack.svg",
+  "effects": [],
+  "folder": "Mc5ZVwKa7auAvVlw",
+  "sort": 200000,
+  "flags": {},
+  "_id": "DliC4uPK4vnuiN3w",
+  "system": {
+    "version": 2,
+    "description": "<p>Arma ligera (2 de daño, dificultad de ataque aliviado). Nivel 2.</p>",
+    "archived": false,
+    "settings": {
+      "rollButton": {
+        "pool": "Pool",
+        "skill": "Practiced",
+        "assets": "0",
+        "effort1": "0",
+        "effort2": "0",
+        "effort3": "0",
+        "stepModifier": "eased",
+        "additionalSteps": 0,
+        "additionalCost": 0,
+        "damage": 0,
+        "damagePerLOE": 3,
+        "teen": "",
+        "bonus": 0
+      },
+      "linkedItems": {
+        "ability": "",
+        "attack": "",
+        "skill": ""
+      },
+      "general": {
+        "unmaskedForm": "Mask"
+      }
+    },
+    "basic": {
+      "type": "light weapon",
+      "damage": 2,
+      "modifier": "eased",
+      "steps": 1,
+      "range": "",
+      "notes": "",
+      "skillRating": "Practiced"
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "k2TkElLx959B0lm5": 3
+  },
+  "_stats": {
+    "systemId": "cyphersystem",
+    "systemVersion": "2.6.2",
+    "coreVersion": "11.299",
+    "createdTime": null,
+    "modifiedTime": 1685560580819,
+    "lastModifiedBy": "7luxagQiisUFvSQn"
+  },
+  "_key": "!items!DliC4uPK4vnuiN3w"
+}

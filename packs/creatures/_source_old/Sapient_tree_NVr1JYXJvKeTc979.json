@@ -1,0 +1,128 @@
+{
+  "img": "modules/drsc-es-compendio-foundry/img/tokens/plant.webp",
+  "_stats": {
+    "modifiedTime": 1676797809267,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "yThCrv1jSfPXOC2U",
+    "createdTime": 1676287609684,
+    "systemVersion": "2.3.0",
+    "coreVersion": "10.291"
+  },
+  "flags": {"core": {"sourceId": "Actor.C50nYHLJQS5JpWqu"}},
+  "sort": 0,
+  "type": "npc",
+  "_key": "!actors!NVr1JYXJvKeTc979",
+  "prototypeToken": {
+    "displayBars": 40,
+    "displayName": 20,
+    "actorLink": false,
+    "texture": {
+      "scaleX": 1,
+      "offsetX": 0,
+      "scaleY": 1,
+      "offsetY": 0,
+      "src": "icons/svg/mystery-man.svg",
+      "rotation": 0,
+      "tint": null
+    },
+    "lockRotation": false,
+    "rotation": 0,
+    "detectionModes": [],
+    "flags": {},
+    "randomImg": false,
+    "bar1": {"attribute": "pools.health"},
+    "bar2": {"attribute": "basic.level"},
+    "disposition": 0,
+    "light": {
+      "attenuation": 0.5,
+      "color": null,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "animation": {
+        "intensity": 5,
+        "type": null,
+        "reverse": false,
+        "speed": 5
+      },
+      "saturation": 0,
+      "alpha": 0.5,
+      "contrast": 0,
+      "angle": 360,
+      "luminosity": 0.5,
+      "shadows": 0,
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "alpha": 1,
+    "name": "Árbol sapiente",
+    "width": 1,
+    "sight": {
+      "saturation": 0,
+      "attenuation": 0.1,
+      "brightness": 0,
+      "color": null,
+      "visionMode": "basic",
+      "contrast": 0,
+      "range": null,
+      "angle": 360,
+      "enabled": false
+    },
+    "height": 1
+  },
+  "effects": [],
+  "system": {
+    "settings": {
+      "general": {
+        "initiativeBonus": 0,
+        "hideArchive": false
+      },
+      "equipment": {
+        "ammo": {"active": false},
+        "armor": {"active": false},
+        "attacks": {"active": false},
+        "materials": {
+          "active": false,
+          "label": ""
+        },
+        "cyphers": {
+          "active": false,
+          "label": ""
+        },
+        "oddities": {
+          "active": false,
+          "label": ""
+        },
+        "artifacts": {
+          "active": false,
+          "label": ""
+        }
+      }
+    },
+    "notes": "<p>Guardianes del bosque, los árboles sapientes permanecen eternamente vigilantes, a menudo en las afueras de su arboleda o bosque para mantener alejados a quienes podrían intentar hacerles daño a ellos o a otros árboles normales. Parecen árboles normales hasta que revelan su verdadera naturaleza, con extremidades en forma de ramas y caras en la corteza del tronco. No siempre se mueven, pero con esfuerzo pueden desarraigarse y caminar. Sin embargo, suelen hacerlo sólo cuando nadie está mirando. El origen y carácter de los árboles sapientes varía; pueden ser árboles encantados poseídos por espíritus, árboles animados por hechizos mágicos o antiguos seres míticos. Algunos son pacíficos y nobles, pero otros son de hecho malvados y crueles.<\/p>\n<p><strong>Motivación:<\/strong> Defensa<\/p>\n<p><strong>Entorno:<\/strong> Se encuentran en arboledas o bosquecillos de cinco a veinte ejemplares.<\/p>\n<p><strong>Salud:<\/strong> 16<\/p>\n<p><strong>Daño que inflige:<\/strong> 4 puntos<\/p>\n<p><strong>Armadura:<\/strong> 3<\/p>\n<p><strong>Movimiento:<\/strong> Corto<\/p>\n<p><strong>Ajustes: <\/strong>Nivel 4 para iniciativa; nivel 2 para Defensa por Velocidad debido al tamaño.<\/p>\n<p><strong>Combate:<\/strong> Cuando un árbol sapiente ataca, suele hacerlo por sorpresa, ya que al principio parece un árbol normal. Si un personaje a punto de ser atacado falla una tirada de Defensa por Intelecto, no percibe el ataque a tiempo y el ataque del árbol se alivia.<\/p>\n<p>Si un árbol golpea en combate con una de sus ramas-brazo, puede elegir agarrar al enemigo (en lugar de infligirle daño) y lanzarlo a una distancia inmediata, infligiendo 2 puntos de daño ambiental si golpea el suelo u otro objeto sólido. Si son lanzados contra otra criatura, esa segunda criatura debe realizar una tirada de Defensa por Velocidad con éxito o también recibirá este daño.<\/p>\n<p>A veces, un árbol sapiente que da frutos lanzará sus frutos a corta distancia, infligiendo 4 puntos de daño.<\/p>\n<p><strong>Interacción:<\/strong> Los árboles sapientes suelen ser poco amistosos y estar indignados hacia la vida animal. Son temerosos y asumen que cualquier criatura que no sea nativa de su bosque es una amenaza. Es probable que ataquen primero antes que hablar, aunque pueden hablar con elocuencia, aunque a veces lentamente.<\/p>\n<p><strong>Uso:<\/strong> Estos árboles pueblan los bosques mágicos. Pueden utilizarse para sorprender a los personajes con un ataque desde una dirección inesperada.<\/p>\n<p><strong>Intromisiones del DJ:<\/strong> El árbol agarra al personaje y lo sujeta, sacudiéndolo. Sufre 4 puntos de daño cada asalto y no puede hacer nada más que intentar escapar (la tarea se ve obstaculiza en dos grados debido a las sacudidas).<\/p>",
+    "pools": {"health": {
+      "max": 16,
+      "value": 16
+    }},
+    "description": "",
+    "combat": {
+      "damage": 4,
+      "armor": 3
+    },
+    "basic": {
+      "level": 3,
+      "biography": "<p>Guardianes del bosque, los árboles sapientes permanecen eternamente vigilantes, a menudo en las afueras de su arboleda o bosque para mantener alejados a quienes podrían intentar hacerles daño a ellos o a otros árboles normales. Parecen árboles normales hasta que revelan su verdadera naturaleza, con extremidades en forma de ramas y caras en la corteza del tronco. No siempre se mueven, pero con esfuerzo pueden desarraigarse y caminar. Sin embargo, suelen hacerlo sólo cuando nadie está mirando. El origen y carácter de los árboles sapientes varía; pueden ser árboles encantados poseídos por espíritus, árboles animados por hechizos mágicos o antiguos seres míticos. Algunos son pacíficos y nobles, pero otros son de hecho malvados y crueles.<\/p>\n<p><strong>Motivación:<\/strong> Defensa<\/p>\n<p><strong>Entorno:<\/strong> Se encuentran en arboledas o bosquecillos de cinco a veinte ejemplares.<\/p>\n<p><strong>Salud:<\/strong> 16<\/p>\n<p><strong>Daño que inflige:<\/strong> 4 puntos<\/p>\n<p><strong>Armadura:<\/strong> 3<\/p>\n<p><strong>Movimiento:<\/strong> Corto<\/p>\n<p><strong>Ajustes: <\/strong>Nivel 4 para iniciativa; nivel 2 para Defensa por Velocidad debido al tamaño.<\/p>\n<p><strong>Combate:<\/strong> Cuando un árbol sapiente ataca, suele hacerlo por sorpresa, ya que al principio parece un árbol normal. Si un personaje a punto de ser atacado falla una tirada de Defensa por Intelecto, no percibe el ataque a tiempo y el ataque del árbol se alivia.<\/p>\n<p>Si un árbol golpea en combate con una de sus ramas-brazo, puede elegir agarrar al enemigo (en lugar de infligirle daño) y lanzarlo a una distancia inmediata, infligiendo 2 puntos de daño ambiental si golpea el suelo u otro objeto sólido. Si son lanzados contra otra criatura, esa segunda criatura debe realizar una tirada de Defensa por Velocidad con éxito o también recibirá este daño.<\/p>\n<p>A veces, un árbol sapiente que da frutos lanzará sus frutos a corta distancia, infligiendo 4 puntos de daño.<\/p>\n<p><strong>Interacción:<\/strong> Los árboles sapientes suelen ser poco amistosos y estar indignados hacia la vida animal. Son temerosos y asumen que cualquier criatura que no sea nativa de su bosque es una amenaza. Es probable que ataquen primero antes que hablar, aunque pueden hablar con elocuencia, aunque a veces lentamente.<\/p>\n<p><strong>Uso:<\/strong> Estos árboles pueblan los bosques mágicos. Pueden utilizarse para sorprender a los personajes con un ataque desde una dirección inesperada.<\/p>\n<p><strong>Intromisiones del DJ:<\/strong> El árbol agarra al personaje y lo sujeta, sacudiéndolo. Sufre 4 puntos de daño cada asalto y no puede hacer nada más que intentar escapar (la tarea se ve obstaculiza en dos grados debido a las sacudidas).<\/p>"
+    },
+    "version": 2
+  },
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "name": "Árbol sapiente",
+  "_id": "NVr1JYXJvKeTc979",
+  "items": []
+}

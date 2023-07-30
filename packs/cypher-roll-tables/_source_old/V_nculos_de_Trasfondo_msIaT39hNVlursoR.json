@@ -1,0 +1,19 @@
+{
+  "name": "Vínculos de Trasfondo",
+  "sorting": "a",
+  "folder": null,
+  "type": "RollTable",
+  "_id": "msIaT39hNVlursoR",
+  "sort": 200000,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "systemId": "cyphersystem",
+    "systemVersion": "2.6.2",
+    "coreVersion": "11.299",
+    "createdTime": null,
+    "modifiedTime": 1685560215699,
+    "lastModifiedBy": "7luxagQiisUFvSQn"
+  },
+  "_key": "!folders!msIaT39hNVlursoR"
+}

@@ -1,0 +1,16 @@
+{
+  "img": "systems/cyphersystem/icons/items/cypher.svg",
+  "documentCollection": "cyphersystem-compendium.cyphers-fairy-tale",
+  "flags": {},
+  "weight": 1,
+  "range": [
+    8,
+    8
+  ],
+  "documentId": "JaDk6zK8xN1IXDUM",
+  "text": "Mapa oceánico de Bellman",
+  "_id": "rJxGAtxn7gZkGFzw",
+  "type": 2,
+  "drawn": false,
+  "_key": "!tables.results!CkH6ebWiUPmhjbw0.rJxGAtxn7gZkGFzw"
+}

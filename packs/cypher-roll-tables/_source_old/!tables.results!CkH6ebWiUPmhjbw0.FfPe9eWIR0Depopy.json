@@ -1,0 +1,16 @@
+{
+  "img": "systems/cyphersystem/icons/items/cypher.svg",
+  "documentCollection": "cyphersystem-compendium.cyphers-fairy-tale",
+  "flags": {},
+  "weight": 1,
+  "range": [
+    89,
+    89
+  ],
+  "documentId": "IuSlVnHJcz3E7021",
+  "text": "Tres agujas",
+  "_id": "FfPe9eWIR0Depopy",
+  "type": 2,
+  "drawn": false,
+  "_key": "!tables.results!CkH6ebWiUPmhjbw0.FfPe9eWIR0Depopy"
+}

@@ -1,0 +1,34 @@
+{
+  "img": "systems/cyphersystem/icons/items/artifact.svg",
+  "effects": [],
+  "system": {
+    "archived": false,
+    "settings": {"general": {"nameUnidentified": ""}},
+    "description": "<p><strong>Nivel:<\/strong> 1d6<\/p>\n<p><strong>Aspecto:<\/strong> Mochila simple<\/p>\n<p><strong>Efecto:<\/strong> Golpear la mochila siete veces hace que salgan volando siete cisnes. Mientras el usuario no hable ni emita ningún sonido, los cisnes vuelan a su alrededor, dándole +1 Armadura contra ataques mentales y físicos durante los siguientes diez minutos.<\/p>\n<p>En cuanto el usuario emite un sonido, los cisnes vuelven a la mochila.<\/p>\n<p><strong>Agotamiento:<\/strong> 1 en 1d20<\/p>",
+    "basic": {
+      "depletion": "1 in [[/r d20]]",
+      "identified": true,
+      "level": "1d6"
+    },
+    "version": 2
+  },
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "_stats": {
+    "modifiedTime": 1685302332334,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "yThCrv1jSfPXOC2U",
+    "createdTime": 1685300290482,
+    "systemVersion": "2.6.0",
+    "coreVersion": "10.291"
+  },
+  "name": "Mochila de sietes",
+  "flags": {},
+  "_id": "VgRFEioLMVOC4g6A",
+  "sort": 0,
+  "type": "artifact",
+  "_key": "!items!VgRFEioLMVOC4g6A"
+}

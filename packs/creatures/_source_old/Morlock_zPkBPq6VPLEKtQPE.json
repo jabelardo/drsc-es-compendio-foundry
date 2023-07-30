@@ -1,0 +1,128 @@
+{
+  "img": "modules/drsc-es-compendio-foundry/img/tokens/monstrous-humanoid.webp",
+  "_stats": {
+    "modifiedTime": 1676797809216,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "yThCrv1jSfPXOC2U",
+    "createdTime": 1676287066794,
+    "systemVersion": "2.3.0",
+    "coreVersion": "10.291"
+  },
+  "flags": {"core": {"sourceId": "Actor.Co277BBaGgmcyi94"}},
+  "sort": 0,
+  "type": "npc",
+  "_key": "!actors!zPkBPq6VPLEKtQPE",
+  "prototypeToken": {
+    "displayBars": 40,
+    "displayName": 20,
+    "actorLink": false,
+    "texture": {
+      "scaleX": 1,
+      "offsetX": 0,
+      "scaleY": 1,
+      "offsetY": 0,
+      "src": "icons/svg/mystery-man.svg",
+      "rotation": 0,
+      "tint": null
+    },
+    "lockRotation": false,
+    "rotation": 0,
+    "detectionModes": [],
+    "flags": {},
+    "randomImg": false,
+    "bar1": {"attribute": "pools.health"},
+    "bar2": {"attribute": "basic.level"},
+    "disposition": 0,
+    "light": {
+      "attenuation": 0.5,
+      "color": null,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "animation": {
+        "intensity": 5,
+        "type": null,
+        "reverse": false,
+        "speed": 5
+      },
+      "saturation": 0,
+      "alpha": 0.5,
+      "contrast": 0,
+      "angle": 360,
+      "luminosity": 0.5,
+      "shadows": 0,
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "alpha": 1,
+    "name": "Morlock",
+    "width": 1,
+    "sight": {
+      "saturation": 0,
+      "attenuation": 0.1,
+      "brightness": 0,
+      "color": null,
+      "visionMode": "basic",
+      "contrast": 0,
+      "range": null,
+      "angle": 360,
+      "enabled": false
+    },
+    "height": 1
+  },
+  "effects": [],
+  "system": {
+    "settings": {
+      "general": {
+        "initiativeBonus": 0,
+        "hideArchive": false
+      },
+      "equipment": {
+        "ammo": {"active": false},
+        "armor": {"active": false},
+        "attacks": {"active": false},
+        "materials": {
+          "active": false,
+          "label": ""
+        },
+        "cyphers": {
+          "active": false,
+          "label": ""
+        },
+        "oddities": {
+          "active": false,
+          "label": ""
+        },
+        "artifacts": {
+          "active": false,
+          "label": ""
+        }
+      }
+    },
+    "notes": "<p>Los morlocks son humanoides caníbales degenerados y ciegos que evitan la luz. Tienen dientes prominentes, ojos de cerdo, piel suelta y posturas encorvadas. Evitan la luz del día y prefieren cazar y buscar comida cuando está oscuro (o al menos bajo el dosel crepuscular de un bosque espeso). Los morlocks comen cualquier tipo de carne, incluso carroña y sus propios muertos. Los morlocks construyen montones de piedras para marcar su territorio. En las noches de luna nueva, crean una música inquietante tocando sencillos tambores hechos con calaveras y troncos. Carecen de la previsión necesaria para almacenar alimentos en épocas de escasez, por lo que se alejan de sus hogares en invierno y en épocas de hambruna. A veces son esclavizados por criaturas más poderosas, como ogros o vampiros.<\/p>\n<p><strong>Motivación:<\/strong> Alimentación (carne), defensa<\/p>\n<p><strong>Entorno:<\/strong> Cuevas, bosques, colinas y bajo tierra<\/p>\n<p><strong>Salud:<\/strong> 6<\/p>\n<p><strong>Daño que inflige:<\/strong> 2 puntos<\/p>\n<p><strong>Movimiento:<\/strong> Corto; corto al trepar<\/p>\n<p><strong>Ajustes: <\/strong>Nivel 4 para sigilo y rastreo<\/p>\n<p><strong>Combate:<\/strong> Los morlocks luchan con las uñas y los dientes, pero a veces utilizan armas sencillas como garrotes, cuchillos de piedra, lanzas y jabalinas si han observado a otros humanoides hacerlo. Algunas tribus cavan trampas sencillas y persiguen a sus presas hasta ellas.<\/p>\n<p>A los morlocks no les gusta la luz intensa, pero no les hace daño. Su oído y su olfato son tan fuertes que pueden \"ver\" con luz tenue o muy tenue como si fuera luz normal. Pueden rastrear olores tan bien como un perro adiestrado.<\/p>\n<p><strong>Interacción:<\/strong> Los morlocks tienen un lenguaje simple de aullidos y gruñidos que comunican conceptos básicos como comida, fuego, peligro y frío. Si son esclavizados por una criatura más poderosa, algunos de ellos pueden llegar a aprender algunas palabras en el idioma de esa criatura.<\/p>\n<p><strong>Uso:<\/strong> Los ancianos del pueblo advierten de que los tambores y aullidos casi humanos en las noches oscuras son señales de morlocks que robarán a los niños imprudentes. Se encuentran montones de piedras apiladas en el bosque, cada una rodeada de huellas humanoides desnudas.<\/p>\n<p><strong>Botín:<\/strong> Los morlocks no valoran lo que no pueden comer, pero su guarida puede tener uno o dos Cyphers de una víctima reciente.<\/p>\n<p><strong>Intromisiones del DJ:<\/strong> Un morlock inadvertido arrastra a un personaje o animal inconsciente para comérselo una vez que se pierde de vista.<\/p>",
+    "pools": {"health": {
+      "max": 6,
+      "value": 6
+    }},
+    "description": "",
+    "combat": {
+      "damage": 2,
+      "armor": 0
+    },
+    "basic": {
+      "level": 2,
+      "biography": "<p>Los morlocks son humanoides caníbales degenerados y ciegos que evitan la luz. Tienen dientes prominentes, ojos de cerdo, piel suelta y posturas encorvadas. Evitan la luz del día y prefieren cazar y buscar comida cuando está oscuro (o al menos bajo el dosel crepuscular de un bosque espeso). Los morlocks comen cualquier tipo de carne, incluso carroña y sus propios muertos. Los morlocks construyen montones de piedras para marcar su territorio. En las noches de luna nueva, crean una música inquietante tocando sencillos tambores hechos con calaveras y troncos. Carecen de la previsión necesaria para almacenar alimentos en épocas de escasez, por lo que se alejan de sus hogares en invierno y en épocas de hambruna. A veces son esclavizados por criaturas más poderosas, como ogros o vampiros.<\/p>\n<p><strong>Motivación:<\/strong> Alimentación (carne), defensa<\/p>\n<p><strong>Entorno:<\/strong> Cuevas, bosques, colinas y bajo tierra<\/p>\n<p><strong>Salud:<\/strong> 6<\/p>\n<p><strong>Daño que inflige:<\/strong> 2 puntos<\/p>\n<p><strong>Movimiento:<\/strong> Corto; corto al trepar<\/p>\n<p><strong>Ajustes: <\/strong>Nivel 4 para sigilo y rastreo<\/p>\n<p><strong>Combate:<\/strong> Los morlocks luchan con las uñas y los dientes, pero a veces utilizan armas sencillas como garrotes, cuchillos de piedra, lanzas y jabalinas si han observado a otros humanoides hacerlo. Algunas tribus cavan trampas sencillas y persiguen a sus presas hasta ellas.<\/p>\n<p>A los morlocks no les gusta la luz intensa, pero no les hace daño. Su oído y su olfato son tan fuertes que pueden \"ver\" con luz tenue o muy tenue como si fuera luz normal. Pueden rastrear olores tan bien como un perro adiestrado.<\/p>\n<p><strong>Interacción:<\/strong> Los morlocks tienen un lenguaje simple de aullidos y gruñidos que comunican conceptos básicos como comida, fuego, peligro y frío. Si son esclavizados por una criatura más poderosa, algunos de ellos pueden llegar a aprender algunas palabras en el idioma de esa criatura.<\/p>\n<p><strong>Uso:<\/strong> Los ancianos del pueblo advierten de que los tambores y aullidos casi humanos en las noches oscuras son señales de morlocks que robarán a los niños imprudentes. Se encuentran montones de piedras apiladas en el bosque, cada una rodeada de huellas humanoides desnudas.<\/p>\n<p><strong>Botín:<\/strong> Los morlocks no valoran lo que no pueden comer, pero su guarida puede tener uno o dos Cyphers de una víctima reciente.<\/p>\n<p><strong>Intromisiones del DJ:<\/strong> Un morlock inadvertido arrastra a un personaje o animal inconsciente para comérselo una vez que se pierde de vista.<\/p>"
+    },
+    "version": 2
+  },
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "name": "Morlock",
+  "_id": "zPkBPq6VPLEKtQPE",
+  "items": []
+}

@@ -1,0 +1,59 @@
+{
+  "img": "systems/cyphersystem/icons/items/ability.svg",
+  "effects": [],
+  "folder": null,
+  "system": {
+    "archived": false,
+    "settings": {
+      "general": {
+        "spellTier": "low",
+        "sorting": "Ability",
+        "unmaskedForm": "Mask"
+      },
+      "linkedItems": {
+        "attack": "",
+        "skill": "",
+        "ability": ""
+      },
+      "rollButton": {
+        "stepModifier": "eased",
+        "damage": 0,
+        "damagePerLOE": 3,
+        "bonus": 0,
+        "pool": "Pool",
+        "teen": "",
+        "additionalSteps": 0,
+        "effort1": "0",
+        "effort3": "0",
+        "assets": "0",
+        "effort2": "0",
+        "skill": "Practiced",
+        "additionalCost": 0
+      }
+    },
+    "description": "<p>Modificas tu asistente artificial de la capacidad Asistente robot con una nueva característica. Las opciones estándar son las siguientes. Trabaja con tu DJ si prefieres una diferente.<\/p><ul> <li><p><em><strong>Cypher Pod:<\/strong><\/em> El robot puede llevar un Cypher manifiesto extra por ti. Capacitador.<\/p><\/li> <li><p><em><strong>Vuelo:<\/strong><\/em> El robot puede volar una larga distancia cada ronda. Puede transportarlo, pero sólo durante un máximo de una hora entre cada una de sus Tiradas de Recuperación de diez horas. Capacitador.<\/p><\/li> <li><p><em><strong>Escudo de fuerza:<\/strong><\/em> El robot puede erigir un campo de fuerza opaco de nivel 5 alrededor de sí mismo y de cualquiera que se encuentre a 3 m [10 pies] de él durante un minuto (o hasta que sea destruido). No puede volver a hacer esto hasta después de tu próxima Tirada de Recuperación. Acción.<\/p><\/li> <li><p><em><strong>Configuración de láser montado:<\/strong><\/em> El robot puede reconfigurarse y convertirse en un arma láser inmóvil sobre una montura giratoria. En esta configuración, el robot es un arma pesada que inflige 7 puntos de daño. Si el robot actúa como torreta autónoma, se trata como un nivel inferior a su nivel normal. Sin embargo, si el láser es disparado por ti o por otra persona que tenga tu permiso, los ataques del láser se alivian. Acción para reconfigurar; acción para volver a la configuración normal del robot.<\/p><\/li><\/ul>",
+    "basic": {
+      "cost": "0",
+      "pool": "Pool"
+    },
+    "version": 2
+  },
+  "ownership": {
+    "default": 0,
+    "k2TkElLx959B0lm5": 3
+  },
+  "_stats": {
+    "modifiedTime": 1684527089784,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "yThCrv1jSfPXOC2U",
+    "createdTime": null,
+    "systemVersion": "2.6.0",
+    "coreVersion": "10.291"
+  },
+  "name": "Actualización de robot",
+  "flags": {"core": {"sourceId": "Compendium.cyphersystem-compendium.abilities.BSx4qB29VwRUISm6"}},
+  "_id": "BSx4qB29VwRUISm6",
+  "sort": 0,
+  "type": "ability",
+  "_key": "!items!BSx4qB29VwRUISm6"
+}

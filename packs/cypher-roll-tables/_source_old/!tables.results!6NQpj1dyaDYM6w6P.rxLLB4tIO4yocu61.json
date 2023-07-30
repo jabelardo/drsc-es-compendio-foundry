@@ -1,0 +1,16 @@
+{
+  "img": "systems/cyphersystem/icons/items/cypher.svg",
+  "documentCollection": "cyphersystem-compendium.cyphers-horror",
+  "flags": {},
+  "weight": 2,
+  "range": [
+    18,
+    19
+  ],
+  "documentId": "r5QRL7OjGkDkUw7y",
+  "text": "Revelador de invisibilidad",
+  "_id": "rxLLB4tIO4yocu61",
+  "type": 2,
+  "drawn": false,
+  "_key": "!tables.results!6NQpj1dyaDYM6w6P.rxLLB4tIO4yocu61"
+}

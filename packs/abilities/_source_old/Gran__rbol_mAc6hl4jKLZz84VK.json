@@ -1,0 +1,58 @@
+{
+  "img": "systems/cyphersystem/icons/items/ability.svg",
+  "effects": [],
+  "system": {
+    "archived": false,
+    "settings": {
+      "general": {
+        "spellTier": "low",
+        "sorting": "Ability",
+        "unmaskedForm": "Mask"
+      },
+      "rollButton": {
+        "stepModifier": "eased",
+        "damage": 0,
+        "damagePerLOE": 3,
+        "bonus": 0,
+        "pool": "Pool",
+        "teen": "",
+        "additionalSteps": 0,
+        "effort1": "0",
+        "effort3": "0",
+        "assets": "0",
+        "effort2": "0",
+        "skill": "Practiced",
+        "additionalCost": 0
+      }
+    },
+    "description": "<p>Cuando usas Cuerpo de madera, puedes crecer hasta 4 m [12 pies] de altura. En esta forma más grande, añades 7 puntos a tu Reserva de Vigor y +2 a tu Ventaja de Vigor. Si eliges crecer, cuando Cuerpo de madera termina restas 7 puntos de tu reserva de Vigor (si esto hace que la reserva llegue a 0, resta el exceso primero de tu reserva de Velocidad y luego, si es necesario, de tu reserva de Intelecto). Cuando usas Cuerpo de madera, tanto si decides crecer como si no, en lugar de parecer una versión de madera de tu yo normal, puedes adoptar la apariencia completa de una criatura arbórea humanoide o de un árbol real (incluyendo el crecimiento de ramas adicionales, follaje extra, etc.). Esto no afecta a ninguna de tus capacidades: en forma de árbol, puedes utilizar capacidades de tipo, otras capacidades de rasgo, etc. En forma de árbol, fingir ser un árbol y esconderse entre árboles normales se alivia en dos grados. Capacitador.</p>",
+    "basic": {
+      "cost": "0",
+      "pool": "Pool"
+    },
+    "version": 2
+  },
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "_stats": {
+    "modifiedTime": 1676106175365,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "yThCrv1jSfPXOC2U",
+    "createdTime": 1676106152996,
+    "systemVersion": "2.3.0",
+    "coreVersion": "10.291"
+  },
+  "name": "Gran árbol",
+  "flags": {
+    "core": {
+      "sourceId": "Item.EbtjgfMTKlxt5ckJ"
+    }
+  },
+  "sort": 0,
+  "_id": "mAc6hl4jKLZz84VK",
+  "type": "ability",
+  "_key": "!items!mAc6hl4jKLZz84VK"
+}

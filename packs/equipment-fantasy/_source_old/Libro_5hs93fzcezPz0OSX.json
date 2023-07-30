@@ -1,0 +1,36 @@
+{
+  "name": "Libro",
+  "type": "equipment",
+  "img": "systems/cyphersystem/icons/items/equipment.svg",
+  "system": {
+    "version": 2,
+    "description": "<p>Un libro con información sobre un tema en particular, como geografía, historia, magia o religión. Proporciona un recurso en las tiradas apropiadas si el personaje lee u hojea el libro durante al menos diez minutos antes de intentar la tarea (esto supone que el personaje ya ha leído el libro y está buscando información relevante).</p>",
+    "archived": false,
+    "basic": {
+      "level": null,
+      "quantity": 1
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Item.TXh5NZwDbkJBIbP8"
+    }
+  },
+  "_stats": {
+    "systemId": "cyphersystem",
+    "systemVersion": "2.3.0",
+    "coreVersion": "10.291",
+    "createdTime": 1676110016396,
+    "modifiedTime": 1676110035479,
+    "lastModifiedBy": "yThCrv1jSfPXOC2U"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "5hs93fzcezPz0OSX",
+  "_key": "!items!5hs93fzcezPz0OSX"
+}

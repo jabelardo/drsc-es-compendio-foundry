@@ -1,0 +1,58 @@
+{
+  "img": "systems/cyphersystem/icons/items/ability.svg",
+  "effects": [],
+  "folder": null,
+  "system": {
+    "archived": false,
+    "settings": {
+      "general": {
+        "spellTier": "low",
+        "sorting": "Ability",
+        "unmaskedForm": "Mask"
+      },
+      "rollButton": {
+        "stepModifier": "eased",
+        "damage": 0,
+        "damagePerLOE": 3,
+        "bonus": 0,
+        "pool": "Pool",
+        "teen": "",
+        "additionalSteps": 0,
+        "effort1": 0,
+        "effort3": 0,
+        "assets": 0,
+        "effort2": 0,
+        "skill": "Practiced",
+        "additionalCost": 0
+      }
+    },
+    "description": "<p>Creas rápidamente un objeto utilizando lo que parecen ser materiales totalmente inapropiados. Puedes hacer una bomba con una lata y limpiadores domésticos, una ganzúa con papel de aluminio o una espada con muebles rotos. El nivel del objeto determina la dificultad de la tarea, pero lo adecuado de los materiales también la aliviar o la obstaculiza. Por lo general, el objeto no puede ser más grande que algo que puedas sostener en una mano, y funciona una vez (o, en el caso de un arma u objeto similar, es esencialmente útil para un encuentro). Si dedicas al menos diez minutos a la tarea, puedes crear un objeto de nivel 5 o inferior. No puedes cambiar la naturaleza de los materiales involucrados. Por ejemplo, no puedes coger barras de hierro y hacer un montón de monedas de oro o una cesta de mimbre. Acción.</p>",
+    "basic": {
+      "cost": "5",
+      "pool": "Intellect"
+    },
+    "version": 2
+  },
+  "ownership": {
+    "default": 0,
+    "k2TkElLx959B0lm5": 3
+  },
+  "_stats": {
+    "modifiedTime": 1664959720589,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "rLeavHPrdkq6xjNt",
+    "createdTime": null,
+    "systemVersion": "2.0.0-a1",
+    "coreVersion": "10.286"
+  },
+  "name": "Jury-Rig",
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.cyphersystem-compendium.abilities.KQDFvUEnIWed1ebo"
+    }
+  },
+  "_id": "KQDFvUEnIWed1ebo",
+  "sort": 0,
+  "type": "ability",
+  "_key": "!items!KQDFvUEnIWed1ebo"
+}

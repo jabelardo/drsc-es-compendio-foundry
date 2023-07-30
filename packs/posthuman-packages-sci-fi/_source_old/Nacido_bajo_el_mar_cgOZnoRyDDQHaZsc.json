@@ -1,0 +1,58 @@
+{
+  "name": "Nacido bajo el mar",
+  "type": "ability",
+  "img": "systems/cyphersystem/icons/items/ability.svg",
+  "system": {
+    "version": 2,
+    "description": "<p>Puedes respirar bajo el agua a presiones de hasta 100 atmósferas indefinidamente, hasta el triple durante una hora. Tienes un recurso para todas las tareas realizadas en el agua. Añade +1 a tu Ventaja de Velocidad. Capacitador.</p>",
+    "archived": false,
+    "settings": {
+      "rollButton": {
+        "pool": "Pool",
+        "skill": "Practiced",
+        "assets": "0",
+        "effort1": "0",
+        "effort2": "0",
+        "effort3": "0",
+        "stepModifier": "eased",
+        "additionalSteps": 0,
+        "additionalCost": 0,
+        "damage": 0,
+        "damagePerLOE": 3,
+        "teen": "",
+        "bonus": 0
+      },
+      "general": {
+        "sorting": "Ability",
+        "spellTier": "low",
+        "unmaskedForm": "Mask"
+      }
+    },
+    "basic": {
+      "cost": "0",
+      "pool": "Pool"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Item.jLgYKbvzP7olTFYc"
+    }
+  },
+  "_stats": {
+    "systemId": "cyphersystem",
+    "systemVersion": "2.3.0",
+    "coreVersion": "10.291",
+    "createdTime": 1676384502310,
+    "modifiedTime": 1676384743109,
+    "lastModifiedBy": "yThCrv1jSfPXOC2U"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "cgOZnoRyDDQHaZsc",
+  "_key": "!items!cgOZnoRyDDQHaZsc"
+}

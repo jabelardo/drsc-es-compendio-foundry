@@ -1,0 +1,135 @@
+{
+  "img": "modules/drsc-es-compendio-foundry/img/tokens/construct_technological.webp",
+  "_stats": {
+    "modifiedTime": 1676797809201,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "yThCrv1jSfPXOC2U",
+    "createdTime": null,
+    "systemVersion": "2.3.0",
+    "coreVersion": "10.291"
+  },
+  "flags": {},
+  "sort": 0,
+  "type": "npc",
+  "_key": "!actors!EX0RBWZzdGetaDK9",
+  "prototypeToken": {
+    "displayBars": 40,
+    "displayName": 20,
+    "actorLink": false,
+    "lockRotation": false,
+    "texture": {
+      "scaleX": 1,
+      "offsetX": 0,
+      "scaleY": 1,
+      "offsetY": 0,
+      "src": "icons/svg/mystery-man.svg",
+      "rotation": 0,
+      "tint": null
+    },
+    "rotation": 0,
+    "detectionModes": [],
+    "flags": {},
+    "randomImg": false,
+    "bar1": {"attribute": "pools.health"},
+    "bar2": {"attribute": "basic.level"},
+    "disposition": 0,
+    "light": {
+      "attenuation": 0.5,
+      "color": null,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "animation": {
+        "intensity": 5,
+        "reverse": false,
+        "type": null,
+        "speed": 5
+      },
+      "saturation": 0,
+      "alpha": 0.5,
+      "contrast": 0,
+      "angle": 360,
+      "luminosity": 0.5,
+      "shadows": 0,
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "alpha": 1,
+    "name": "Soldado mecánico",
+    "width": 1,
+    "sight": {
+      "saturation": 0,
+      "brightness": 1,
+      "attenuation": 0.1,
+      "color": null,
+      "visionMode": "basic",
+      "contrast": 0,
+      "angle": 360,
+      "range": 0,
+      "enabled": false
+    },
+    "height": 1
+  },
+  "effects": [],
+  "folder": null,
+  "system": {
+    "settings": {
+      "skills": {},
+      "abilities": {},
+      "general": {
+        "initiativeBonus": 0,
+        "hideArchive": false
+      },
+      "equipment": {
+        "ammo": {"active": false},
+        "armor": {"active": false},
+        "attacks": {"active": false},
+        "materials": {
+          "active": false,
+          "label": ""
+        },
+        "cyphers": {
+          "active": false,
+          "label": ""
+        },
+        "oddities": {
+          "active": false,
+          "label": ""
+        },
+        "artifacts": {
+          "active": false,
+          "label": ""
+        }
+      }
+    },
+    "notes": "<p>Autómatas de relojería accionados por vapor, estos hombres mecánicos patrullan y vigilan lugares importantes para sus creadores. Larguiruchos y torpes en sus movimientos, estos autómatas casi humanoides miden casi 2 m [8 pies] de altura. En sus manos de tres dedos empuñan diversas armas.<\/p>\n<p>Algunas personas se han preguntado si un soldado accionado por engranajes podría llegar a sentir de verdad. La mayoría se burla de la sugerencia, pero ¿se trata de un brillo en la lente de cristal de su ojo?<\/p>\n<p><strong>Motivación:<\/strong> Incomprensible<\/p>\n<p><strong>Entorno:<\/strong> En cualquier lugar, normalmente en grupos de tres a ocho<\/p>\n<p><strong>Salud:<\/strong> 15<\/p>\n<p><strong>Daño que inflige:<\/strong> 4 puntos<\/p>\n<p><strong>Armadura:<\/strong> 3<\/p>\n<p><strong>Movimiento:<\/strong> Corto<\/p>\n<p><strong>Ajustes: <\/strong>Nivel 5 para percepción; nivel 3 para saltos, carreras y equilibrio<\/p>\n<p><strong>Combate:<\/strong> Los soldados mecánicos atacan en grupos utilizando tácticas bien organizadas. Aunque pueden hablar, se transmiten información entre sí de forma silenciosa e instantánea en un radio de acción de 160 km [100 millas] mediante transmisiones de radio inalámbricas.<\/p>\n<p>Los soldados mecánicos armados con armamento avanzado suelen llevar armas de fuego tipo rifle que pueden realizar varios disparos rápidos sin necesidad de recargar. Los soldados disparan a un máximo de tres objetivos (todos juntos) a la vez. Por cada objetivo después del primero, las tiradas de defensa se alivian.<\/p>\n<p>Además, uno de cada cuatro soldados lleva un dispositivo montado en la espalda que lanza bombas a larga distancia con una precisión mortal. Explotan en el rango inmediato para 4 puntos de daño. Cada dispositivo contiene 1d6 bombas de este tipo.<\/p>\n<p>Un soldado mecánico que ha perdido su armamento original rebusca en cualquier cosa disponible.<\/p>\n<p>Ciertas frecuencias de sonido confunden a estos soldados mecánicos, obstaculizando todas sus acciones en dos grados, y otras frecuencias les impiden actuar en absoluto durante 1d6 + 1 rondas.<\/p>\n<p><strong>Interacción: <\/strong>Por sí solos, los soldados mecánicos actúan siguiendo órdenes previas. Por lo demás, escuchan y obedecen a su creador, y sólo a su creador.<\/p>\n<p><strong>Uso:<\/strong> Un bandido emprendedor ha capturado y reutilizado varios soldados mecánicos, probablemente utilizando el sonido. Estos soldados no recuerdan nada de sus antiguos deberes y trabajan para su nuevo amo como bandidos y piratas de alta tecnología. El bandido no tiene ni idea de cómo repararlos si se dañan, y mucho menos de cómo hacer nuevos soldados.<\/p>\n<p><strong>Botín:<\/strong> Un científico decidido podría hurgar en el cuerpo de uno de estos autómatas para encontrar un Cypher.<\/p>\n<p><strong>Intromisiones del DJ:<\/strong> El soldado destruido explota en un chorro de llamas, humo negro y vapor, infligiendo 6 puntos de daño a todos los que estén dentro del alcance inmediato.<\/p>",
+    "pools": {"health": {
+      "max": 15,
+      "value": 15
+    }},
+    "description": "",
+    "combat": {
+      "damage": 4,
+      "armor": 3
+    },
+    "basic": {
+      "level": 4,
+      "biography": "<p>Autómatas de relojería accionados por vapor, estos hombres mecánicos patrullan y vigilan lugares importantes para sus creadores. Larguiruchos y torpes en sus movimientos, estos autómatas casi humanoides miden casi 2 m [8 pies] de altura. En sus manos de tres dedos empuñan diversas armas.<\/p>\n<p>Algunas personas se han preguntado si un soldado accionado por engranajes podría llegar a sentir de verdad. La mayoría se burla de la sugerencia, pero ¿se trata de un brillo en la lente de cristal de su ojo?<\/p>\n<p><strong>Motivación:<\/strong> Incomprensible<\/p>\n<p><strong>Entorno:<\/strong> En cualquier lugar, normalmente en grupos de tres a ocho<\/p>\n<p><strong>Salud:<\/strong> 15<\/p>\n<p><strong>Daño que inflige:<\/strong> 4 puntos<\/p>\n<p><strong>Armadura:<\/strong> 3<\/p>\n<p><strong>Movimiento:<\/strong> Corto<\/p>\n<p><strong>Ajustes: <\/strong>Nivel 5 para percepción; nivel 3 para saltos, carreras y equilibrio<\/p>\n<p><strong>Combate:<\/strong> Los soldados mecánicos atacan en grupos utilizando tácticas bien organizadas. Aunque pueden hablar, se transmiten información entre sí de forma silenciosa e instantánea en un radio de acción de 160 km [100 millas] mediante transmisiones de radio inalámbricas.<\/p>\n<p>Los soldados mecánicos armados con armamento avanzado suelen llevar armas de fuego tipo rifle que pueden realizar varios disparos rápidos sin necesidad de recargar. Los soldados disparan a un máximo de tres objetivos (todos juntos) a la vez. Por cada objetivo después del primero, las tiradas de defensa se alivian.<\/p>\n<p>Además, uno de cada cuatro soldados lleva un dispositivo montado en la espalda que lanza bombas a larga distancia con una precisión mortal. Explotan en el rango inmediato para 4 puntos de daño. Cada dispositivo contiene 1d6 bombas de este tipo.<\/p>\n<p>Un soldado mecánico que ha perdido su armamento original rebusca en cualquier cosa disponible.<\/p>\n<p>Ciertas frecuencias de sonido confunden a estos soldados mecánicos, obstaculizando todas sus acciones en dos grados, y otras frecuencias les impiden actuar en absoluto durante 1d6 + 1 rondas.<\/p>\n<p><strong>Interacción: <\/strong>Por sí solos, los soldados mecánicos actúan siguiendo órdenes previas. Por lo demás, escuchan y obedecen a su creador, y sólo a su creador.<\/p>\n<p><strong>Uso:<\/strong> Un bandido emprendedor ha capturado y reutilizado varios soldados mecánicos, probablemente utilizando el sonido. Estos soldados no recuerdan nada de sus antiguos deberes y trabajan para su nuevo amo como bandidos y piratas de alta tecnología. El bandido no tiene ni idea de cómo repararlos si se dañan, y mucho menos de cómo hacer nuevos soldados.<\/p>\n<p><strong>Botín:<\/strong> Un científico decidido podría hurgar en el cuerpo de uno de estos autómatas para encontrar un Cypher.<\/p>\n<p><strong>Intromisiones del DJ:<\/strong> El soldado destruido explota en un chorro de llamas, humo negro y vapor, infligiendo 6 puntos de daño a todos los que estén dentro del alcance inmediato.<\/p>"
+    },
+    "teen": {
+      "settings": {},
+      "pools": {},
+      "basic": {}
+    },
+    "version": 2
+  },
+  "ownership": {
+    "N1n5f3sdQOJFmoJe": 3,
+    "default": 0
+  },
+  "name": "Soldado mecánico",
+  "_id": "EX0RBWZzdGetaDK9",
+  "items": []
+}

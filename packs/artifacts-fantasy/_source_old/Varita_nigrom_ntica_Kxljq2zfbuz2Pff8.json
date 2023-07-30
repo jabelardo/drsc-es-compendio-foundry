@@ -1,0 +1,57 @@
+{
+  "img": "systems/cyphersystem/icons/items/artifact.svg",
+  "effects": [],
+  "system": {
+    "archived": false,
+    "settings": {
+      "general": {
+        "nameUnidentified": ""
+      }
+    },
+    "rollButton": {
+      "stepModifier": "eased",
+      "damage": 0,
+      "damagePerLOE": 3,
+      "bonus": 0,
+      "pool": "Pool",
+      "teen": "",
+      "additionalSteps": 0,
+      "effort1": 0,
+      "effort3": 0,
+      "assets": 0,
+      "effort2": 0,
+      "skill": "Practiced",
+      "additionalCost": 0
+    },
+    "description": "<p><strong>Nivel:</strong> 1d6 + 4</p>\n<p><strong>Aspecto:</strong> Varita de hueso tallada con runas</p>\n<p><strong>Efecto:</strong> Esta varita emite un tenue haz de luz violeta pálida de corto alcance que sólo afecta a criaturas y materiales orgánicos. Los objetivos vivos alcanzados por el rayo descienden un grado en el registro de daño. Los objetivos orgánicos no vivos son probablemente destruidos.</p>\n<p>Este dispositivo es un arma de disparo rápido y, por tanto, puede utilizarse con las habilidades Rociada o Ráfaga que poseen algunos personajes, pero cada \"ronda de munición\" utilizada o cada objetivo adicional seleccionado requiere una tirada de agotamiento adicional.</p>\n<p><strong>Agotamiento:</strong> 1 en 1d10</p>",
+    "basic": {
+      "depletion": "1 in [[/r 1d10 # Depletion roll]]",
+      "identified": true,
+      "level": "1d6+4"
+    },
+    "version": 2
+  },
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "_stats": {
+    "modifiedTime": 1676451419018,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "yThCrv1jSfPXOC2U",
+    "createdTime": 1676367597899,
+    "systemVersion": "2.3.0",
+    "coreVersion": "10.291"
+  },
+  "name": "Varita nigromántica",
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.cyphersystem-compendium.artifacts-fantasy.yd4gAiKw2ruhy342"
+    }
+  },
+  "sort": 0,
+  "_id": "Kxljq2zfbuz2Pff8",
+  "type": "artifact",
+  "_key": "!items!Kxljq2zfbuz2Pff8"
+}

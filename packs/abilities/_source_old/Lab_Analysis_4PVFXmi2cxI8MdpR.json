@@ -1,0 +1,59 @@
+{
+  "img": "systems/cyphersystem/icons/items/ability.svg",
+  "effects": [],
+  "folder": null,
+  "system": {
+    "archived": false,
+    "settings": {
+      "general": {
+        "spellTier": "low",
+        "sorting": "Ability",
+        "unmaskedForm": "Mask"
+      },
+      "linkedItems": {
+        "attack": "",
+        "skill": "",
+        "ability": ""
+      },
+      "rollButton": {
+        "stepModifier": "eased",
+        "damage": 0,
+        "damagePerLOE": 3,
+        "bonus": 0,
+        "pool": "Pool",
+        "teen": "",
+        "additionalSteps": 0,
+        "effort1": "0",
+        "effort3": "0",
+        "assets": "0",
+        "effort2": "0",
+        "skill": "Practiced",
+        "additionalCost": 0
+      }
+    },
+    "description": "<p>Analizas la escena de un crimen, el lugar de un incidente misterioso o una serie de fenómenos inexplicables, y quizás aprendas una cantidad sorprendente de información sobre los autores, los participantes o la(s) fuerza(s) responsable(s). Para ello, debe recoger muestras en el lugar de los hechos. Las muestras son restos de pintura o madera, suciedad, fotografías de la zona, cabellos, un cadáver entero, etc. Con las muestras en la mano, puedes descubrir hasta tres piezas de información pertinentes sobre la escena, posiblemente aclarando un misterio menor y señalando el camino para resolver uno mayor. El DJ decide lo que aprendes y el nivel de dificultad necesario para ello. (A modo de comparación, descubrir que una víctima no murió por una caída, como pareciera obvio, sino por electrocución, es una tarea de dificultad 3). La tarea se alivia si te tomas el tiempo de transportar las muestras a un laboratorio permanente (si tienes acceso a uno), en lugar de realizar el análisis con tu kit científico de campo. Acción para iniciar, 2d20 minutos para completar.<\/p>",
+    "basic": {
+      "cost": "3",
+      "pool": "Intellect"
+    },
+    "version": 2
+  },
+  "ownership": {
+    "default": 0,
+    "k2TkElLx959B0lm5": 3
+  },
+  "_stats": {
+    "modifiedTime": 1682359392895,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "yThCrv1jSfPXOC2U",
+    "createdTime": null,
+    "systemVersion": "2.5.0",
+    "coreVersion": "10.291"
+  },
+  "name": "Análisis de laboratorio",
+  "flags": {"core": {"sourceId": "Compendium.cyphersystem-compendium.abilities.4PVFXmi2cxI8MdpR"}},
+  "_id": "4PVFXmi2cxI8MdpR",
+  "sort": 0,
+  "type": "ability",
+  "_key": "!items!4PVFXmi2cxI8MdpR"
+}

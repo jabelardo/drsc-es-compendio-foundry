@@ -1,0 +1,59 @@
+{
+  "img": "systems/cyphersystem/icons/items/ability.svg",
+  "effects": [],
+  "system": {
+    "archived": false,
+    "settings": {
+      "general": {
+        "spellTier": "low",
+        "sorting": "Ability",
+        "unmaskedForm": "Mask"
+      },
+      "linkedItems": {
+        "attack": "",
+        "skill": "",
+        "ability": ""
+      },
+      "rollButton": {
+        "stepModifier": "eased",
+        "damage": 0,
+        "damagePerLOE": 3,
+        "bonus": 0,
+        "pool": "Pool",
+        "teen": "",
+        "additionalSteps": 0,
+        "effort1": "0",
+        "effort3": "0",
+        "assets": "0",
+        "effort2": "0",
+        "skill": "Practiced",
+        "additionalCost": 0
+      }
+    },
+    "description": "<p>Haces invisibles hasta cinco criaturas u objetos de tamaño humano durante un breve periodo de tiempo. Los objetivos que elijas deben estar dentro de un área inmediata y a corta distancia de ti (si estás en el área, puedes hacerte invisible y no cuentas para el límite de cinco objetivos invisibles). Cualquier cosa invisible tiene un recurso en las tareas de sigilo y defensa de Velocidad. Las criaturas afectadas pueden verse entre sí de forma limitada, y tú puedes verlas claramente.<\/p><p>La invisibilidad termina al final de tu siguiente turno. Si una de las criaturas afectadas hace algo que revele su presencia o posición -atacar, usar una capacidad, mover un objeto grande, etc.- la invisibilidad termina antes para esa criatura. Además de las opciones normales para usar Esfuerzo, puedes elegir usar Esfuerzo para aumentar la duración; cada nivel de Esfuerzo usado de esta manera aumenta la duración en una ronda (pero las criaturas aún pueden terminarla antes para sí mismas). Acción.<\/p>",
+    "basic": {
+      "cost": "4+",
+      "pool": "Intellect"
+    },
+    "version": 2
+  },
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "_stats": {
+    "modifiedTime": 1681934250939,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "yThCrv1jSfPXOC2U",
+    "createdTime": 1681932430963,
+    "systemVersion": "2.5.0",
+    "coreVersion": "10.291"
+  },
+  "name": "Multi-desvanecer",
+  "flags": {"core": {"sourceId": "Item.KEMOjGXyf6tyCUZz"}},
+  "sort": 0,
+  "_id": "9mglCmjkC7lyomVe",
+  "type": "ability",
+  "_key": "!items!9mglCmjkC7lyomVe"
+}

@@ -1,0 +1,54 @@
+{
+  "img": "systems/cyphersystem/icons/items/ability.svg",
+  "effects": [],
+  "folder": null,
+  "system": {
+    "archived": false,
+    "settings": {
+      "general": {
+        "spellTier": "low",
+        "sorting": "Ability",
+        "unmaskedForm": "Mask"
+      },
+      "rollButton": {
+        "stepModifier": "eased",
+        "damage": 0,
+        "damagePerLOE": 3,
+        "bonus": 0,
+        "pool": "Pool",
+        "teen": "",
+        "additionalSteps": 0,
+        "effort1": 0,
+        "effort3": 0,
+        "assets": 0,
+        "effort2": 0,
+        "skill": "Practiced",
+        "additionalCost": 0
+      }
+    },
+    "description": "<p>Cuando drenas energía con tus capacidades, puedes almacenar parte de ella para más tarde en una <em><strong>Reserva de Energía<\/strong><\/em>. Puedes gastar puntos de tu Reserva de Energía como si fueran de tu Reserva de Vigor o Velocidad, o usar una acción para gastarlos y restaurar un número igual de puntos en tu Reserva de Vigor o Velocidad. Tu Reserva de Energía almacena con seguridad hasta 3 puntos; cada punto adicional obstaculiza todas tus tareas. Capacitador.<\/p>",
+    "basic": {
+      "cost": "0",
+      "pool": "Pool"
+    },
+    "version": 2
+  },
+  "ownership": {
+    "default": 0,
+    "k2TkElLx959B0lm5": 3
+  },
+  "_stats": {
+    "modifiedTime": 1664959724843,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "rLeavHPrdkq6xjNt",
+    "createdTime": null,
+    "systemVersion": "2.0.0-a1",
+    "coreVersion": "10.286"
+  },
+  "name": "Almacenar energía",
+  "flags": {"core": {"sourceId": "Compendium.cyphersystem-compendium.abilities.gn1jtMLhp6qPNXUL"}},
+  "_id": "gn1jtMLhp6qPNXUL",
+  "sort": 0,
+  "type": "ability",
+  "_key": "!items!gn1jtMLhp6qPNXUL"
+}

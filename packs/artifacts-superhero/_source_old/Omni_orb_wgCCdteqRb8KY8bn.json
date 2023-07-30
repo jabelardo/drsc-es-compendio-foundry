@@ -1,0 +1,34 @@
+{
+  "img": "systems/cyphersystem/icons/items/artifact.svg",
+  "effects": [],
+  "system": {
+    "archived": false,
+    "settings": {"general": {"nameUnidentified": ""}},
+    "description": "<p><strong>Nivel:<\/strong> 1d6 + 4<\/p>\n<p><strong>Aspecto:<\/strong> Dispositivo tecnológico brillante con forma de orbe<\/p>\n<p><strong>Efecto:<\/strong> El usuario que sostiene el orbe imagina lo que quiere que suceda (similar al uso de un deseo mágico), y sucede, dentro de ciertos límites. El nivel del efecto concedido no es mayor que el nivel del orbe, según determine el DJ, que puede modificar el efecto en consecuencia. (Cuanto mayor sea el efecto deseado, más probable es que el DJ lo limite.) Activar el orbe omni hace descender automáticamente al personaje que lo utiliza un grado en el registro de daño.<\/p>\n<p><strong>Agotamiento:<\/strong> 1 en 1d6 (en lugar de agotarse, una tirada de 1 significa que el usuario experimenta una intromisión de DJ relacionada con el efecto que creó)<\/p>\n<p>Un punto de referencia para establecer los límites de un orbe omni es compararlo con un Cypher del nivel del orbe - si hay un Cypher que puede hacer lo que el PJ quiere, y ese Cypher es igual o menor que el nivel del orbe, funciona. Por ejemplo, si un equipo de superhéroes intenta usar un orbe de nivel 5 para teletransportarse a su base a 160 km [100 millas] de distancia, el DJ puede mirar la lista de Cyphers y ver que un Cypher Teletransportador (viajero) puede transportar un personaje hasta 160 km [100 millas] por nivel de Cypher, así que transportar un grupo de PJs 160 km [100 millas] está probablemente dentro del poder del orbe.<\/p>",
+    "basic": {
+      "depletion": "1 in [[/r 1d6]]",
+      "identified": true,
+      "level": "1d6+4"
+    },
+    "version": 2
+  },
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "_stats": {
+    "modifiedTime": 1682098900518,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "yThCrv1jSfPXOC2U",
+    "createdTime": 1682098595186,
+    "systemVersion": "2.5.0",
+    "coreVersion": "10.291"
+  },
+  "name": "Orbe Omni",
+  "flags": {"core": {"sourceId": "Item.YCNYHLKsxtC6M8iR"}},
+  "sort": 0,
+  "_id": "wgCCdteqRb8KY8bn",
+  "type": "artifact",
+  "_key": "!items!wgCCdteqRb8KY8bn"
+}

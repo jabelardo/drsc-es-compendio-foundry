@@ -1,0 +1,36 @@
+{
+  "name": "Amuleto protector",
+  "type": "equipment",
+  "img": "systems/cyphersystem/icons/items/equipment.svg",
+  "system": {
+    "version": 2,
+    "description": "<p>Campana de iglesia, trébol de cuatro hojas, pata de conejo, etc. Recurso para tiradas de defensa contra hadas y otras criaturas feéricas.</p>",
+    "archived": false,
+    "basic": {
+      "level": null,
+      "quantity": 1
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Item.a6ScTgMMdDPizTeS"
+    }
+  },
+  "_stats": {
+    "systemId": "cyphersystem",
+    "systemVersion": "2.6.0",
+    "coreVersion": "10.291",
+    "createdTime": 1685270023039,
+    "modifiedTime": 1685270035784,
+    "lastModifiedBy": "yThCrv1jSfPXOC2U"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "FlXnZZJJYmsE35sH",
+  "_key": "!items!FlXnZZJJYmsE35sH"
+}

@@ -1,0 +1,57 @@
+{
+  "img": "systems/cyphersystem/icons/items/artifact.svg",
+  "effects": [],
+  "system": {
+    "archived": false,
+    "settings": {
+      "general": {
+        "nameUnidentified": ""
+      }
+    },
+    "rollButton": {
+      "stepModifier": "eased",
+      "damage": 0,
+      "damagePerLOE": 3,
+      "bonus": 0,
+      "pool": "Pool",
+      "teen": "",
+      "additionalSteps": 0,
+      "effort1": 0,
+      "effort3": 0,
+      "assets": 0,
+      "effort2": 0,
+      "skill": "Practiced",
+      "additionalCost": 0
+    },
+    "description": "<p><strong>Nivel:</strong> 1d6</p>\n<p><strong>Aspecto:</strong> Circulo metálico engastado con varias esferas de cristal</p>\n<p><strong>Efecto:</strong> Se tarda una ronda en activar la corona. Cuando se activa, las esferas de cristal se separan de la corona y vuelan alrededor del portador a distancia inmediata durante una hora. El portador puede ver todo lo que ven las esferas de cristal. Esto le permite asomarse a las esquinas sin exponerse al peligro. Esto da al portador un recurso en iniciativa y en todas las tareas de percepción.</p>\n<p><strong>Agotamiento:</strong> 1 en 1d100</p>",
+    "basic": {
+      "depletion": "1 in [[/r 1d100 # Depletion roll]]",
+      "identified": true,
+      "level": "1d6"
+    },
+    "version": 2
+  },
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "_stats": {
+    "modifiedTime": 1676451418867,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "yThCrv1jSfPXOC2U",
+    "createdTime": 1676367597898,
+    "systemVersion": "2.3.0",
+    "coreVersion": "10.291"
+  },
+  "name": "Corona de ojos",
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.cyphersystem-compendium.artifacts-fantasy.vfR2YeNLDL95A6yR"
+    }
+  },
+  "sort": 0,
+  "_id": "ZOb1WsbQqL21l9yf",
+  "type": "artifact",
+  "_key": "!items!ZOb1WsbQqL21l9yf"
+}

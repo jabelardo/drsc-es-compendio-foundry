@@ -1,0 +1,47 @@
+{
+  "img": "systems/cyphersystem/icons/items/cypher.svg",
+  "effects": [],
+  "folder": null,
+  "system": {
+    "archived": false,
+    "rollButton": {
+      "stepModifier": "eased",
+      "damage": 0,
+      "damagePerLOE": 3,
+      "bonus": 0,
+      "pool": "Pool",
+      "teen": "",
+      "additionalSteps": 0,
+      "effort1": 0,
+      "effort3": 0,
+      "assets": 0,
+      "effort2": 0,
+      "skill": "Practiced",
+      "additionalCost": 0
+    },
+    "description": "<p><strong>Nivel:</strong> 1d6 + 2</p>\n<p><strong>Efecto:</strong> En el transcurso de un día, el usuario puede activar el Cypher un número total de veces igual a su nivel. Cada vez, puede afectar a un objeto que pueda ver a larga distancia y que no sea demasiado pesado para afectarlo físicamente. El efecto debe producirse en el transcurso de una ronda y puede incluir el cierre o la apertura de una puerta, la introducción de un número en un teclado, el traslado de un objeto a una distancia corta, la sustracción de un objeto de las garras de otra criatura (con una tirada exitosa basada en el Vigor) o el empuje de una criatura a una distancia inmediata. (Un rayo de manipulación podría utilizarse para hacer funcionar un ordenador a distancia, lo que facilitaría algunos trabajos de infiltración y piratería).</p>",
+    "basic": {
+      "identified": true,
+      "level": "1d6 + 2"
+    },
+    "version": 2
+  },
+  "ownership": {
+    "default": 0,
+    "k2TkElLx959B0lm5": 3
+  },
+  "_stats": {
+    "modifiedTime": 1664959728565,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "rLeavHPrdkq6xjNt",
+    "createdTime": null,
+    "systemVersion": "2.0.0-a1",
+    "coreVersion": "10.286"
+  },
+  "name": "Rayo manipulador",
+  "flags": {},
+  "sort": 0,
+  "_id": "3ww0ueljUh3Fu4WN",
+  "type": "cypher",
+  "_key": "!items!3ww0ueljUh3Fu4WN"
+}

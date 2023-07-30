@@ -1,0 +1,27 @@
+{
+  "sort": 100000,
+  "name": "Introducción",
+  "type": "text",
+  "_id": "dR95VGashXKo5ggS",
+  "title": {
+    "show": true,
+    "level": 1
+  },
+  "image": {},
+  "text": {
+    "format": 1,
+    "content": "<img src=\"systems/cyphersystem/icons/journals/csrd-logo-color.webp\" style=\"border:none;margin:10px;float:right\" width=\"128\" /><p>El género de los cuentos de hadas es muy amplio, ya que atraviesa casi todas las culturas y abarca desde las primeras historias orales transmitidas de generación en generación hasta el cuento literario más moderno. ¿Qué hace que algo sea un cuento de hadas? Aunque se discute mucho sobre esta cuestión, la mayoría tienen una serie de cosas en común: una serie de sucesos inverosímiles; seres fantásticos como animales parlantes, elfos, duendes, sirenas, brujas y dragones; y objetos que tienen elementos mágicos.</p><p>Uno de los poderes de un cuento de hadas -o de un juego ambientado en un escenario inspirado en un cuento de hadas- es su capacidad para crear una sensación de asombro y evocar la imaginación de los jugadores, al tiempo que les permite mantener un pie en lo conocido. Los propios escenarios están encantados y a la vez son familiares, tanto si los personajes entran en un bosque mágico como si caen por una madriguera de conejo o se embarcan en un viaje a Nunca Jamás. Las bestias y los seres que acechan esos lugares son igualmente maravillosos, y ofrecen fantásticos puntos de partida para cualquier cantidad de aventuras.</p><p>Para aumentar la sensación de asombro en una aventura o campaña de cuento de hadas, un DJ podría considerar presentar el juego en un entorno moderno. En una ambientación moderna, los personajes tienen trabajos habituales que no suelen implicar cazar duendes o ayudar a peces parlantes a resolver rompecabezas. Esto significa que cuando las polillas tomen forma y se conviertan en el manto de una princesa del verano que venga a pedir un favor o a robar un niño, o la casa tenga piernas y se escape una mañana, los personajes jugadores estarán legítimamente asombrados (y quizás algo aterrorizados).</p><h1>La Naturaleza del Mundo Feérico</h1><p>El mundo feérico (también llamado de muchas otras maneras) es una dimensión mágica separada del mundo mundano, pero estrechamente paralela a él. No importa si mundo feérico es sólo un término colectivo para miles de dimensiones separadas y enroscadas escondidas en rincones, en armarios o en el centro de los bosques, o si es un reino continuo que se superpone al mundo real donde es más delgado. Es un lugar que los que tienen el corazón abierto pueden encontrar siguiendo un camino entre los altos árboles (o las imponentes estanterías de las bibliotecas) hacia un reino donde todo es diferente. Donde los elfos caminan, las ninfas bailan, los unicornios galopan, y tanto los crecimientos naturales como las estructuras construidas se vuelven vastas y encantadoras.</p><p>Los humanos no suelen estar bien en un mundo así si permanecen demasiado tiempo, ya que la entrada sensorial es dura para el sistema nervioso. Pero las criaturas feéricas dependen de ello, como las plantas de la luz. Una criatura feérica aislada demasiado tiempo de su tierra de origen (o de su arroyo, colina o madriguera) se convierte lentamente en mortal y luego muere.</p><p>Cuando una criatura feérica es cortada por armas argentadas o de hierro frío, pierde temporalmente el beneficio sustentador de su conexión con mundo feérico. Esta conexión cortada suele interrumpir la capacidad de curación de la criatura feérica. Un arma argentadas es aquella que contiene plata como parte de un proceso de aleación, o tiene incrustaciones de plata, o ha sido recubierta con una capa de polvo de plata (que suele durar sólo un combate). En realidad, muchos objetos de la era moderna están forjados en frío, mientras que muchos otros no lo están. Sugerimos que cualquier objeto forjado a mano que contenga hierro podría considerarse un arma forjada en frío para dañar a las criaturas feéricas. Así, la mayoría de las balas y otros objetos modernos no se considerarían hierro frío según esta definición, pero algunos sí encajarían.</p>",
+    "markdown": ""
+  },
+  "video": {
+    "controls": true,
+    "volume": 0.5
+  },
+  "src": null,
+  "system": {},
+  "ownership": {
+    "default": -1
+  },
+  "flags": {},
+  "_key": "!journal.pages!n1Ve9K17Pxjvc1yk.dR95VGashXKo5ggS"
+}

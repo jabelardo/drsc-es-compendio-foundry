@@ -1,0 +1,32 @@
+{
+  "name": "Matriz Láser",
+  "type": "equipment",
+  "img": "systems/cyphersystem/icons/items/equipment.svg",
+  "system": {
+    "version": 2,
+    "description": "<p>Un equipo voluminoso que tarda varios días en configurarse y calibrarse. Resulta útil para la comunicación entre naves, para transmitir información de forma  &ldquo;ajustada&rdquo;; incluso los láseres muy enfocados se propagan a varios kilómetros tras viajar sólo unos pocos segundos luz, lo que disminuye su utilidad. También funciona como sistema de armamento de naves espaciales (pero todas las tareas de ataque que lo utilizan se ven obstaculizadas).</p>",
+    "archived": false,
+    "basic": {
+      "level": 5,
+      "quantity": 1
+    }
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "cyphersystem",
+    "systemVersion": "2.6.2",
+    "coreVersion": "11.301",
+    "createdTime": 1676537497066,
+    "modifiedTime": 1686393655135,
+    "lastModifiedBy": "ZyqFG5NpQtVrpwj7"
+  },
+  "_id": "GoMgtgauSRSK84hS",
+  "folder": "40FMwVrL57gMPm5j",
+  "sort": 500000,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "_key": "!items!GoMgtgauSRSK84hS"
+}

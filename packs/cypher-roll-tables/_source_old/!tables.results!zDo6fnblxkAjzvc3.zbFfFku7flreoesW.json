@@ -1,0 +1,16 @@
+{
+  "img": "icons/svg/d20-black.svg",
+  "documentCollection": "",
+  "flags": {},
+  "weight": 1,
+  "range": [
+    9,
+    9
+  ],
+  "documentId": null,
+  "_id": "zbFfFku7flreoesW",
+  "text": "En el pasado serviste como enviado de una persona poderosa e influyente, y todavía te ve con buenos ojos.",
+  "type": 0,
+  "drawn": false,
+  "_key": "!tables.results!zDo6fnblxkAjzvc3.zbFfFku7flreoesW"
+}

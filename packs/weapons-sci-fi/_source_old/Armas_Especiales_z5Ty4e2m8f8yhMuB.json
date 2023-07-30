@@ -1,0 +1,19 @@
+{
+  "name": "Armas Especiales",
+  "sorting": "a",
+  "folder": "uIhwHA63CQ5aTTcw",
+  "type": "Item",
+  "_id": "z5Ty4e2m8f8yhMuB",
+  "sort": 0,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "systemId": null,
+    "systemVersion": null,
+    "coreVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!folders!z5Ty4e2m8f8yhMuB"
+}

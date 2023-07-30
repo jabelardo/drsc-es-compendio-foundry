@@ -1,0 +1,41 @@
+{
+  "img": "systems/cyphersystem/icons/items/cypher.svg",
+  "effects": [],
+  "system": {
+    "archived": false,
+    "settings": {
+      "general": {
+        "nameUnidentified": ""
+      }
+    },
+    "description": "<p><strong>Nivel:</strong> 1d6 + 2</p>\n<p><strong>Efecto: </strong>Potencia mágicamente un dispositivo que quepa en un área de corta distancia. El dispositivo está ahora completamente alimentado, cargado o repostado. Si se usa en un automóvil, por ejemplo, el depósito de gasolina está lleno. Si se utiliza en una linterna, la batería está completamente cargada.</p>\n<p>Debido a que la magia funciona a niveles intuitivos más que científicos, los magos pueden tener hechizos que alteren la tecnología, incluso si la tecnología implicada no tiene principios comunes.</p>",
+    "basic": {
+      "identified": true,
+      "level": "1d6+2"
+    },
+    "version": 2
+  },
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "_stats": {
+    "modifiedTime": 1676191168305,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "yThCrv1jSfPXOC2U",
+    "createdTime": 1676191132770,
+    "systemVersion": "2.3.0",
+    "coreVersion": "10.291"
+  },
+  "name": "Potenciar dispositivo",
+  "flags": {
+    "core": {
+      "sourceId": "Item.kxOyRUkAK9FmYJIV"
+    }
+  },
+  "sort": 0,
+  "_id": "iWX4I4S5Sf5ZCMak",
+  "type": "cypher",
+  "_key": "!items!iWX4I4S5Sf5ZCMak"
+}

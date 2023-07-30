@@ -1,0 +1,59 @@
+{
+  "img": "systems/cyphersystem/icons/items/ability.svg",
+  "effects": [],
+  "system": {
+    "archived": false,
+    "settings": {
+      "general": {
+        "spellTier": "low",
+        "sorting": "Ability",
+        "unmaskedForm": "Mask"
+      },
+      "linkedItems": {
+        "attack": "",
+        "skill": "",
+        "ability": ""
+      },
+      "rollButton": {
+        "stepModifier": "eased",
+        "damage": 0,
+        "damagePerLOE": 3,
+        "bonus": 0,
+        "pool": "Pool",
+        "teen": "",
+        "additionalSteps": 0,
+        "effort1": "0",
+        "effort3": "0",
+        "assets": "0",
+        "effort2": "0",
+        "skill": "Practiced",
+        "additionalCost": 0
+      }
+    },
+    "description": "<p>Te teletransportas instantáneamente a cualquier lugar situado a una distancia corta que puedas ver. Además de las opciones normales para usar Esfuerzo, puedes elegir usar Esfuerzo para aumentar tu alcance, teletransportarte a un lugar que no puedas ver o llevar a otras personas contigo. Cada distancia corta adicional cuesta un nivel de Esfuerzo. Teletransportarse a un destino que no puedes ver cuesta un nivel de Esfuerzo. Cada objetivo adicional que traigas contigo cuesta un nivel de Esfuerzo (debes tocar cualquier objetivo adicional). Estos niveles de Esfuerzo se cuentan por separado, por lo que teletransportarse una distancia corta adicional a un lugar que no puedes ver con un pasajero cuesta un total de tres niveles de Esfuerzo. Acción.<\/p><p>Si ya tienes Teletransporte corto cuando seleccionas Teletransporte medio o Teletransporte, puedes sustituir Teletransporte corto por otra capacidad de tipo de rango 4.<\/p>",
+    "basic": {
+      "cost": "4+",
+      "pool": "Intellect"
+    },
+    "version": 2
+  },
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "_stats": {
+    "modifiedTime": 1681933940739,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "yThCrv1jSfPXOC2U",
+    "createdTime": 1681932582673,
+    "systemVersion": "2.5.0",
+    "coreVersion": "10.291"
+  },
+  "name": "Teletransporte corto",
+  "flags": {"core": {"sourceId": "Item.raT7bc01y8oYMKqf"}},
+  "sort": 0,
+  "_id": "Ylv7iJNIhf2XGx4R",
+  "type": "ability",
+  "_key": "!items!Ylv7iJNIhf2XGx4R"
+}

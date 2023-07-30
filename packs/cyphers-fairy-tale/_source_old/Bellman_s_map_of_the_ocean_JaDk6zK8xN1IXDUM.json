@@ -1,0 +1,33 @@
+{
+  "img": "systems/cyphersystem/icons/items/cypher.svg",
+  "effects": [],
+  "system": {
+    "archived": false,
+    "settings": {"general": {"nameUnidentified": ""}},
+    "description": "<p><strong>Nivel:<\/strong> 1d6 + 2<\/p>\n<p><strong>Aspecto:<\/strong> Hoja de papel en blanco enrollada y atada con un lazo para el cabello<\/p>\n<p><strong>Efecto:<\/strong> Cuando se desenrolla, convence a todos los que se encuentran a corta distancia de que el personaje que sostiene el mapa sabe mucho más que ellos. Durante los siguientes diez minutos, los seres afectados ven al portador del mapa como su líder o guía, no le atacarán y, en general, harán lo que les pida (todas las interacciones sociales con los afectados se alivian dos grados).<\/p>",
+    "basic": {
+      "identified": true,
+      "level": "1d6+2"
+    },
+    "version": 2
+  },
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "_stats": {
+    "modifiedTime": 1685280982951,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "yThCrv1jSfPXOC2U",
+    "createdTime": 1685275944154,
+    "systemVersion": "2.6.0",
+    "coreVersion": "10.291"
+  },
+  "name": "Mapa oceánico de Bellman",
+  "flags": {},
+  "_id": "JaDk6zK8xN1IXDUM",
+  "sort": 0,
+  "type": "cypher",
+  "_key": "!items!JaDk6zK8xN1IXDUM"
+}

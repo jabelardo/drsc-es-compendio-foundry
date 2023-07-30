@@ -1,0 +1,128 @@
+{
+  "img": "modules/drsc-es-compendio-foundry/img/tokens/construct_magical.webp",
+  "_stats": {
+    "modifiedTime": 1676797809137,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "yThCrv1jSfPXOC2U",
+    "createdTime": 1676279784036,
+    "systemVersion": "2.3.0",
+    "coreVersion": "10.291"
+  },
+  "flags": {"core": {"sourceId": "Actor.C2gU0nPdsUUPfjkf"}},
+  "sort": 0,
+  "type": "npc",
+  "_key": "!actors!5mcFf43wou6sSsLx",
+  "prototypeToken": {
+    "displayBars": 40,
+    "displayName": 20,
+    "actorLink": false,
+    "texture": {
+      "scaleX": 1,
+      "offsetX": 0,
+      "scaleY": 1,
+      "offsetY": 0,
+      "src": "icons/svg/mystery-man.svg",
+      "rotation": 0,
+      "tint": null
+    },
+    "lockRotation": false,
+    "rotation": 0,
+    "detectionModes": [],
+    "flags": {},
+    "randomImg": false,
+    "bar1": {"attribute": "pools.health"},
+    "bar2": {"attribute": "basic.level"},
+    "disposition": 0,
+    "light": {
+      "attenuation": 0.5,
+      "color": null,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "animation": {
+        "intensity": 5,
+        "type": null,
+        "reverse": false,
+        "speed": 5
+      },
+      "saturation": 0,
+      "alpha": 0.5,
+      "contrast": 0,
+      "angle": 360,
+      "luminosity": 0.5,
+      "shadows": 0,
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "alpha": 1,
+    "name": "Caballero hueco",
+    "width": 1,
+    "sight": {
+      "saturation": 0,
+      "attenuation": 0.1,
+      "brightness": 0,
+      "color": null,
+      "visionMode": "basic",
+      "contrast": 0,
+      "range": null,
+      "angle": 360,
+      "enabled": false
+    },
+    "height": 1
+  },
+  "effects": [],
+  "system": {
+    "settings": {
+      "general": {
+        "initiativeBonus": 0,
+        "hideArchive": false
+      },
+      "equipment": {
+        "ammo": {"active": false},
+        "armor": {"active": false},
+        "attacks": {"active": false},
+        "materials": {
+          "active": false,
+          "label": ""
+        },
+        "cyphers": {
+          "active": false,
+          "label": ""
+        },
+        "oddities": {
+          "active": false,
+          "label": ""
+        },
+        "artifacts": {
+          "active": false,
+          "label": ""
+        }
+      }
+    },
+    "notes": "<p>En los castillos encantados y entre los ejércitos reunidos por quienes tienen poder sobre la vida y la muerte, a veces caminan caballeros huecos. Estos trajes de armadura animados se mueven como personas vivas, y muchos de los que se encuentran con estos temibles aparecidos los confunden con enemigos vivos sólo para darse cuenta horrorizados de que no hay nada en su interior, excepto el recuerdo del guerrero que una vez vistió el traje. Nacidos de la unión del espíritu de un guerrero muerto a su panoplia, los caballeros huecos se comportan de forma muy similar a como lo hicieron en vida: disciplinados, leales y preparados para la batalla. Vestidos de pies a cabeza con armadura de placas, con escudos abollados atados a sus brazos y espadas oxidadas sujetas a manoplas, los caballeros están listos para enfrentarse a cualquier enemigo, sin importarles el peligro, impulsados a servir al nigromante que los creó. Los caballeros huecos pueden cabalgar a lomos de corceles esqueléticos y blandir lanzas.<\/p>\n<p><strong>Motivación:<\/strong> Obediencia a su amo<\/p>\n<p><strong>Entorno:<\/strong> Cualquier lugar<\/p>\n<p><strong>Salud:<\/strong> 12<\/p>\n<p><strong>Daño que inflige:<\/strong> 5 puntos<\/p>\n<p><strong>Armadura:<\/strong> 3<\/p>\n<p><strong>Movimiento:<\/strong> Corto; largo montado en un corcel esquelético<\/p>\n<p><strong>Corcel esquelético:<\/strong> nivel 4<\/p>\n<p><strong>Ajustes: <\/strong>Nivel 10 para resistir miedo e intimidación<\/p>\n<p><strong>Combate:<\/strong> Un caballero hueco suele luchar con una espada o una maza.<\/p>\n<p>Cuando está montado en un corcel, un caballero hueco carga contra sus enemigos siempre que puede. Como acción, su corcel se mueve una corta distancia, y el caballero hueco puede realizar un único ataque en cualquier momento durante este movimiento. Al atacar de este modo, el caballero inflige 7 puntos de daño.<\/p>\n<p>Un caballero hueco no tiene miedo y lucha hasta que es destruido o se le ordena retirarse. La magia que anima su armadura tarda en desvanecerse, por lo que los componentes de la armadura pueden seguir moviéndose y sacudiéndose incluso después de que el caballero haya caído. Normalmente, cuando es derrotado, la armadura se deshace y de sus restos salen volutas de humo gris.<\/p>\n<p><strong>Interacción:<\/strong> Los caballeros huecos no pueden hablar. Obedecen las órdenes que les dan sus creadores.<\/p>\n<p><strong>Uso:<\/strong> El nigromante u otro mago que ata el espíritu a la armadura también imbuye a la armadura con órdenes específicas, tareas que el caballero debe llevar a cabo hasta que sea destruido. Algunos caballeros montan guardia en ciudadelas o mansiones, vigilando hasta que su armadura finalmente se deshace. Otros son más activos y pueden funcionar como el núcleo del ejército de un mago oscuro.<\/p>\n<p><strong>Intromisiones del DJ:<\/strong> Cuando un caballero hueco es destruido, una manopla vuela hacia arriba, agarra a un personaje y no lo suelta. Se requiere una tarea de Vigor de dificultad 7 para soltarlo.<\/p>",
+    "pools": {"health": {
+      "max": 12,
+      "value": 12
+    }},
+    "description": "",
+    "combat": {
+      "damage": 5,
+      "armor": 3
+    },
+    "basic": {
+      "level": 4,
+      "biography": "<p>En los castillos encantados y entre los ejércitos reunidos por quienes tienen poder sobre la vida y la muerte, a veces caminan caballeros huecos. Estos trajes de armadura animados se mueven como personas vivas, y muchos de los que se encuentran con estos temibles aparecidos los confunden con enemigos vivos sólo para darse cuenta horrorizados de que no hay nada en su interior, excepto el recuerdo del guerrero que una vez vistió el traje. Nacidos de la unión del espíritu de un guerrero muerto a su panoplia, los caballeros huecos se comportan de forma muy similar a como lo hicieron en vida: disciplinados, leales y preparados para la batalla. Vestidos de pies a cabeza con armadura de placas, con escudos abollados atados a sus brazos y espadas oxidadas sujetas a manoplas, los caballeros están listos para enfrentarse a cualquier enemigo, sin importarles el peligro, impulsados a servir al nigromante que los creó. Los caballeros huecos pueden cabalgar a lomos de corceles esqueléticos y blandir lanzas.<\/p>\n<p><strong>Motivación:<\/strong> Obediencia a su amo<\/p>\n<p><strong>Entorno:<\/strong> Cualquier lugar<\/p>\n<p><strong>Salud:<\/strong> 12<\/p>\n<p><strong>Daño que inflige:<\/strong> 5 puntos<\/p>\n<p><strong>Armadura:<\/strong> 3<\/p>\n<p><strong>Movimiento:<\/strong> Corto; largo montado en un corcel esquelético<\/p>\n<p><strong>Corcel esquelético:<\/strong> nivel 4<\/p>\n<p><strong>Ajustes: <\/strong>Nivel 10 para resistir miedo e intimidación<\/p>\n<p><strong>Combate:<\/strong> Un caballero hueco suele luchar con una espada o una maza.<\/p>\n<p>Cuando está montado en un corcel, un caballero hueco carga contra sus enemigos siempre que puede. Como acción, su corcel se mueve una corta distancia, y el caballero hueco puede realizar un único ataque en cualquier momento durante este movimiento. Al atacar de este modo, el caballero inflige 7 puntos de daño.<\/p>\n<p>Un caballero hueco no tiene miedo y lucha hasta que es destruido o se le ordena retirarse. La magia que anima su armadura tarda en desvanecerse, por lo que los componentes de la armadura pueden seguir moviéndose y sacudiéndose incluso después de que el caballero haya caído. Normalmente, cuando es derrotado, la armadura se deshace y de sus restos salen volutas de humo gris.<\/p>\n<p><strong>Interacción:<\/strong> Los caballeros huecos no pueden hablar. Obedecen las órdenes que les dan sus creadores.<\/p>\n<p><strong>Uso:<\/strong> El nigromante u otro mago que ata el espíritu a la armadura también imbuye a la armadura con órdenes específicas, tareas que el caballero debe llevar a cabo hasta que sea destruido. Algunos caballeros montan guardia en ciudadelas o mansiones, vigilando hasta que su armadura finalmente se deshace. Otros son más activos y pueden funcionar como el núcleo del ejército de un mago oscuro.<\/p>\n<p><strong>Intromisiones del DJ:<\/strong> Cuando un caballero hueco es destruido, una manopla vuela hacia arriba, agarra a un personaje y no lo suelta. Se requiere una tarea de Vigor de dificultad 7 para soltarlo.<\/p>"
+    },
+    "version": 2
+  },
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "name": "Caballero hueco",
+  "_id": "5mcFf43wou6sSsLx",
+  "items": []
+}

@@ -1,0 +1,41 @@
+{
+  "img": "systems/cyphersystem/icons/items/cypher.svg",
+  "effects": [],
+  "system": {
+    "archived": false,
+    "settings": {
+      "general": {
+        "nameUnidentified": ""
+      }
+    },
+    "description": "<p><strong>Nivel:</strong> 1d6 + 1</p>\n<p><strong>Efecto:</strong> Este Cypher potencia a una capacidad que requiere una tirada de habilidad. El uso de la capacidad se ve aliviado (aliviado en dos grados si el Cypher es de nivel 5 o superior).</p>",
+    "basic": {
+      "identified": true,
+      "level": "1d6+1"
+    },
+    "version": 2
+  },
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "_stats": {
+    "modifiedTime": 1682098367329,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "yThCrv1jSfPXOC2U",
+    "createdTime": 1682098090265,
+    "systemVersion": "2.5.0",
+    "coreVersion": "10.291"
+  },
+  "name": "Reforzador de eficacia",
+  "flags": {
+    "core": {
+      "sourceId": "Item.8gzZR252dtGa1kvA"
+    }
+  },
+  "sort": 0,
+  "_id": "N1VW1O6nXhmKZC8o",
+  "type": "cypher",
+  "_key": "!items!N1VW1O6nXhmKZC8o"
+}

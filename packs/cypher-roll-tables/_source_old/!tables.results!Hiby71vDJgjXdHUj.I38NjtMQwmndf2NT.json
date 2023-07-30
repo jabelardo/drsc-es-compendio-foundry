@@ -1,0 +1,16 @@
+{
+  "img": "systems/cyphersystem/icons/items/cypher.svg",
+  "documentCollection": "cyphersystem-compendium.cyphers-power-boost",
+  "flags": {},
+  "weight": 10,
+  "range": [
+    11,
+    20
+  ],
+  "documentId": "POLUtosUa7awAfW4",
+  "text": "11-20",
+  "_id": "I38NjtMQwmndf2NT",
+  "type": 2,
+  "drawn": false,
+  "_key": "!tables.results!Hiby71vDJgjXdHUj.I38NjtMQwmndf2NT"
+}

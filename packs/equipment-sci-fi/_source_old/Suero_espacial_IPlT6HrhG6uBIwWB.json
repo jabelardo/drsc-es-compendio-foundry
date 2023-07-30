@@ -1,0 +1,32 @@
+{
+  "name": "Suero espacial",
+  "type": "equipment",
+  "img": "systems/cyphersystem/icons/items/equipment.svg",
+  "system": {
+    "version": 2,
+    "description": "<p>Como el suero curativo, pero protege contra los dos peligros más comunes para la fisiología humana de los viajes prolongados al espacio y la exposición a largo plazo a gravedad cero y radiación, entre los que destacan la rotura del ADN por los rayos cósmicos y el deterioro óseo y muscular por la microgravedad. Una ampolla de suero espacial dura aproximadamente un mes.</p>",
+    "archived": false,
+    "basic": {
+      "level": 4,
+      "quantity": 1
+    }
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "cyphersystem",
+    "systemVersion": "2.6.2",
+    "coreVersion": "11.301",
+    "createdTime": 1676551721646,
+    "modifiedTime": 1686394020142,
+    "lastModifiedBy": "ZyqFG5NpQtVrpwj7"
+  },
+  "_id": "IPlT6HrhG6uBIwWB",
+  "folder": "40FMwVrL57gMPm5j",
+  "sort": 3900000,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "_key": "!items!IPlT6HrhG6uBIwWB"
+}

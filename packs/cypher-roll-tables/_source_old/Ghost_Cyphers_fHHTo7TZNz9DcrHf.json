@@ -1,0 +1,29 @@
+{
+  "name": "Cyphers de Fantasmas",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    "flsFeXNJgzHKXrWO",
+    "UfGNtBYa7W206kCJ"
+  ],
+  "formula": "1d20",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "systemId": "cyphersystem",
+    "systemVersion": "2.6.2",
+    "coreVersion": "11.299",
+    "createdTime": 1683656589208,
+    "modifiedTime": 1685560212459,
+    "lastModifiedBy": "7luxagQiisUFvSQn"
+  },
+  "_id": "fHHTo7TZNz9DcrHf",
+  "folder": "Y2TN81x3OW1ojdbn",
+  "sort": 106250,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "_key": "!tables!fHHTo7TZNz9DcrHf"
+}

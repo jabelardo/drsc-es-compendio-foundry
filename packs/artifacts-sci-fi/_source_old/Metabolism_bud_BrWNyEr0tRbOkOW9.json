@@ -1,0 +1,48 @@
+{
+  "img": "systems/cyphersystem/icons/items/artifact.svg",
+  "effects": [],
+  "folder": null,
+  "system": {
+    "archived": false,
+    "rollButton": {
+      "stepModifier": "eased",
+      "damage": 0,
+      "damagePerLOE": 3,
+      "bonus": 0,
+      "pool": "Pool",
+      "teen": "",
+      "additionalSteps": 0,
+      "effort1": 0,
+      "effort3": 0,
+      "assets": 0,
+      "effort2": 0,
+      "skill": "Practiced",
+      "additionalCost": 0
+    },
+    "description": "<p><strong>Nivel:<\/strong> 1d6<\/p>\n<p><strong>Aspecto:<\/strong> Vaina orgánica, casi como un pequeño trozo de cerebro semiesférico; una vez injertada en un huésped, la carne de éste crece sobre la vaina hasta que sólo es un bulto<\/p>\n<p><strong>Efecto:<\/strong> La vaina se injerta en cualquier huésped vivo (normalmente cerca del cerebro o la columna vertebral) y le inyecta sustancias químicas que aumentan el metabolismo de la criatura. Esto aumenta permanentemente la Reserva de Velocidad del huésped en 5 puntos.<\/p>\n<p><strong>Agotamiento:<\/strong> -<\/p>",
+    "basic": {
+      "depletion": "\u2014",
+      "identified": true,
+      "level": "1d6"
+    },
+    "version": 2
+  },
+  "ownership": {
+    "default": 0,
+    "k2TkElLx959B0lm5": 3
+  },
+  "_stats": {
+    "modifiedTime": 1664959727733,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "rLeavHPrdkq6xjNt",
+    "createdTime": null,
+    "systemVersion": "2.0.0-a1",
+    "coreVersion": "10.286"
+  },
+  "name": "Brote metabólico",
+  "flags": {},
+  "sort": 0,
+  "_id": "BrWNyEr0tRbOkOW9",
+  "type": "artifact",
+  "_key": "!items!BrWNyEr0tRbOkOW9"
+}

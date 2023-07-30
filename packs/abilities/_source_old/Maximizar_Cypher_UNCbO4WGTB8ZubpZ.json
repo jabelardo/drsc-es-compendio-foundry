@@ -1,0 +1,58 @@
+{
+  "img": "systems/cyphersystem/icons/items/ability.svg",
+  "effects": [],
+  "system": {
+    "archived": false,
+    "settings": {
+      "general": {
+        "spellTier": "low",
+        "sorting": "Ability",
+        "unmaskedForm": "Mask"
+      },
+      "rollButton": {
+        "stepModifier": "eased",
+        "damage": 0,
+        "damagePerLOE": 3,
+        "bonus": 0,
+        "pool": "Pool",
+        "teen": "",
+        "additionalSteps": 0,
+        "effort1": "0",
+        "effort3": "0",
+        "assets": "0",
+        "effort2": "0",
+        "skill": "Practiced",
+        "additionalCost": 0
+      }
+    },
+    "description": "<p>Elige un Cypher sutil que lleves. Su nivel se convierte en el nivel máximo posible para ese Cypher . Por ejemplo, una Ayuda a la meditación tiene un rango de nivel de 1d6 + 2, por lo que maximizar ese Cypher cambia su nivel a 8. Sólo puedes tener un Cypher sutil maximizado a la vez. No puedes volver a usar esta capacidad hasta que hayas realizado un acción de recuperación de 10 horas. Capacitador.</p>",
+    "basic": {
+      "cost": "0",
+      "pool": "Pool"
+    },
+    "version": 2
+  },
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "_stats": {
+    "modifiedTime": 1676106572708,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "yThCrv1jSfPXOC2U",
+    "createdTime": 1676106554988,
+    "systemVersion": "2.3.0",
+    "coreVersion": "10.291"
+  },
+  "name": "Maximizar Cypher",
+  "flags": {
+    "core": {
+      "sourceId": "Item.U0YxVnru5q4hzgmH"
+    }
+  },
+  "sort": 0,
+  "_id": "UNCbO4WGTB8ZubpZ",
+  "type": "ability",
+  "_key": "!items!UNCbO4WGTB8ZubpZ"
+}

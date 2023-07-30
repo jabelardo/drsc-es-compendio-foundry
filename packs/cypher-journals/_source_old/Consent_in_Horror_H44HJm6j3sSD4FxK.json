@@ -1,0 +1,27 @@
+{
+  "sort": 150000,
+  "name": "Consentimiento en Horror",
+  "type": "text",
+  "_id": "H44HJm6j3sSD4FxK",
+  "title": {
+    "show": true,
+    "level": 1
+  },
+  "image": {},
+  "text": {
+    "format": 1,
+    "content": "<p>Los juegos de horror nos permiten explorar algunos temas bastante oscuros desde la seguridad de nuestras propias mesas de juego. Pero antes de hacerlo, asegúrate de que todos los miembros de tu mesa están de acuerdo con ello. Averigua qué es lo que tus jugadores encontrarán \"incómodo bueno\", que es algo que nos hace retorcernos en nuestros asientos en una gran película de horror, y \"incómodo malo\", que es algo que realmente hace que un jugador sienta náuseas, inseguridad u ofensa. Estar asustado puede ser divertido, pero estar asqueado no lo es.</p><p>Ten en cuenta la edad y la madurez de todos los participantes de la partida, tal vez en función del sistema de clasificación de las películas. Diles a los jugadores cuál crees que sería la clasificación del juego que estás dirigiendo. Si todo el mundo está de acuerdo con una clasificación R, entonces está bien. Puedes tener un juego espeluznante que esté al nivel de una película infantil clasificada como G, es decir, más parecido a Scooby-Doo que a Saw. Una clasificación PG podría ser adecuada para un juego más espeluznante que terrorífico, con fantasmas y ruidos espeluznantes, pero no con maníacos armados con hachas.</p><p>Las diferentes clasificaciones sugieren diferentes tipos de contenido para su juego. Encontrar un cadáver es horrible, pero ver cómo decapitan a alguien es algo totalmente distinto. Que te persiga un alienígena que quiere comerte es una cosa, pero que se geste y salga de tus propios intestinos es otra. Hay que saber dónde está el límite para todos los que participan, y hay que saberlo desde el principio.</p><blockquote><p>Para más información sobre formas seguras de abordar el consentimiento en tu juego, lee el PDF gratuito <em>Consent in Gaming</em> en <a href=\"https://mymcg.info/consent\" title=\"https://myMCG.info/consent\">myMCG.info/consent</a></p></blockquote>",
+    "markdown": ""
+  },
+  "video": {
+    "controls": true,
+    "volume": 0.5
+  },
+  "src": null,
+  "system": {},
+  "ownership": {
+    "default": -1
+  },
+  "flags": {},
+  "_key": "!journal.pages!YIfUOiJoaCXqPhox.H44HJm6j3sSD4FxK"
+}

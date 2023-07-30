@@ -1,0 +1,32 @@
+{
+  "name": "Mega bar",
+  "type": "equipment",
+  "img": "systems/cyphersystem/icons/items/equipment.svg",
+  "system": {
+    "version": 2,
+    "description": "<p>Como las raciones de viaje, pero la barra proporciona suficiente nutrición para un día de comida o una tirada gratis de recuperación.</p>",
+    "archived": false,
+    "basic": {
+      "level": 3,
+      "quantity": 1
+    }
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "cyphersystem",
+    "systemVersion": "2.6.2",
+    "coreVersion": "11.301",
+    "createdTime": 1676540421816,
+    "modifiedTime": 1686393986579,
+    "lastModifiedBy": "ZyqFG5NpQtVrpwj7"
+  },
+  "_id": "C1ciooDHuh8t3Ax8",
+  "folder": "40FMwVrL57gMPm5j",
+  "sort": 3500000,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "_key": "!items!C1ciooDHuh8t3Ax8"
+}

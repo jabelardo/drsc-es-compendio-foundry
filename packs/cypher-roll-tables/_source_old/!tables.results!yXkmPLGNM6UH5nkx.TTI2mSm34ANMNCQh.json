@@ -1,0 +1,16 @@
+{
+  "img": "systems/cyphersystem/icons/items/cypher.svg",
+  "flags": {},
+  "documentCollection": "cyphersystem-compendium.cyphers",
+  "weight": 3,
+  "range": [
+    11,
+    13
+  ],
+  "documentId": "cjFun20hsxOrU4UF",
+  "_id": "TTI2mSm34ANMNCQh",
+  "text": "11-13",
+  "type": 2,
+  "drawn": false,
+  "_key": "!tables.results!yXkmPLGNM6UH5nkx.TTI2mSm34ANMNCQh"
+}

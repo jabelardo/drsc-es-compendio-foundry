@@ -1,0 +1,128 @@
+{
+  "img": "modules/drsc-es-compendio-foundry/img/tokens/aberration.webp",
+  "_stats": {
+    "modifiedTime": 1676797809294,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "yThCrv1jSfPXOC2U",
+    "createdTime": 1676288091344,
+    "systemVersion": "2.3.0",
+    "coreVersion": "10.291"
+  },
+  "flags": {"core": {"sourceId": "Actor.OamRRw1WHLe3od4N"}},
+  "sort": 0,
+  "type": "npc",
+  "_key": "!actors!8jekrDTBJXTNDcVe",
+  "prototypeToken": {
+    "displayBars": 40,
+    "displayName": 20,
+    "actorLink": false,
+    "texture": {
+      "scaleX": 1,
+      "offsetX": 0,
+      "scaleY": 1,
+      "offsetY": 0,
+      "src": "icons/svg/mystery-man.svg",
+      "rotation": 0,
+      "tint": null
+    },
+    "lockRotation": false,
+    "rotation": 0,
+    "detectionModes": [],
+    "flags": {},
+    "randomImg": false,
+    "bar1": {"attribute": "pools.health"},
+    "bar2": {"attribute": "basic.level"},
+    "disposition": 0,
+    "light": {
+      "attenuation": 0.5,
+      "color": null,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "animation": {
+        "intensity": 5,
+        "type": null,
+        "reverse": false,
+        "speed": 5
+      },
+      "saturation": 0,
+      "alpha": 0.5,
+      "contrast": 0,
+      "angle": 360,
+      "luminosity": 0.5,
+      "shadows": 0,
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "alpha": 1,
+    "name": "Devorador de almas",
+    "width": 1,
+    "sight": {
+      "saturation": 0,
+      "attenuation": 0.1,
+      "brightness": 0,
+      "color": null,
+      "visionMode": "basic",
+      "contrast": 0,
+      "range": null,
+      "angle": 360,
+      "enabled": false
+    },
+    "height": 1
+  },
+  "effects": [],
+  "system": {
+    "settings": {
+      "general": {
+        "initiativeBonus": 0,
+        "hideArchive": false
+      },
+      "equipment": {
+        "ammo": {"active": false},
+        "armor": {"active": false},
+        "attacks": {"active": false},
+        "materials": {
+          "active": false,
+          "label": ""
+        },
+        "cyphers": {
+          "active": false,
+          "label": ""
+        },
+        "oddities": {
+          "active": false,
+          "label": ""
+        },
+        "artifacts": {
+          "active": false,
+          "label": ""
+        }
+      }
+    },
+    "notes": "<p>Un devorador de almas es la cabeza animada de un poderoso mago que abandonó este mundo mortal para convertirse en una criatura no muerta sin ética, sentimientos ni sentido de la moralidad. Estas criaturas, también llamadas calaveras temibles, mantienen su existencia absorbiendo ocasionalmente el espíritu o la mente de víctimas vivas. El \"alma\" absorbida se quema, por lo que las calaveras temibles están envueltas en llamas; es el subproducto de la comida anterior de la criatura.<\/p>\n<p><strong>Motivación:<\/strong> Alimentación (almas)<\/p>\n<p><strong>Entorno:<\/strong> Normalmente en el centro de las tumbas<\/p>\n<p><strong>Salud:<\/strong> 15<\/p>\n<p><strong>Daño que inflige:<\/strong> 5 puntos<\/p>\n<p><strong>Armadura:<\/strong> 1<\/p>\n<p><strong>Movimiento:<\/strong> Largo al volar<\/p>\n<p><strong>Ajustes: <\/strong>Nivel 7 para resistir ataques mentales y engaños; nivel 7 para Defensa por Velocidad debido a su tamaño y rapidez; nivel 8 para conocimiento de metodologías y rituales arcanos<\/p>\n<p><strong>Combate:<\/strong> Un devorador de almas dispone de una biblioteca de capacidades mágicas a las que puede recurrir, entre las que se incluyen ataques de fuego o frío a larga distancia contra todos los objetivos que se encuentren a una distancia inmediata entre sí, la capacidad de leer la mente de una víctima a corta distancia con una tirada de defensa fallida de Intelecto y la capacidad de camuflarse en la ilusión de un humano normal durante un máximo de una hora cada vez.<\/p>\n<p>Además, una calavera temible puede extraer la consciencia de una víctima y absorberla en una llamarada de fuego sobrenatural. Para hacerlo, la criatura debe morder a un objetivo, lo que inflige 5 puntos de daño; el objetivo debe tener éxito en una tirada de Defensa por Intelecto o recibir 5 puntos adicionales de daño de Intelecto (ignora Armadura).<\/p>\n<p>Si una calavera temible drena la Reserva de Intelecto de un personaje hasta 0 mediante mordiscos repetidos, el alma del personaje es absorbida por la calavera y el cuerpo queda inerte. Una vez absorbida por la calavera, la esencia de la víctima queda atrapada y se consume lentamente durante las siguientes veinticuatro horas. Durante este periodo, la calavera regenera 1 punto de vida por ronda.<\/p>\n<p>Si no se destruye la calavera temible en las veinticuatro horas siguientes a la ingestión de un alma, la esencia de la víctima se consume por completo. Si el devorador de almas es derrotado y su cráneo se destroza antes de ese plazo, todas las almas no consumidas vuelven a sus cuerpos.<\/p>\n<p><strong>Interacción:<\/strong> Las calaveras terribles están ligeramente locas pero son infernalmente inteligentes, lo que significa que a veces negociarán para conseguir lo que quieren.<\/p>\n<p><strong>Uso:<\/strong> Los devoradores de almas recuerdan un poco del conocimiento de la esencia de cada criatura que consumen. Los PJs necesitan aprender la palabra de mando de un artefacto que han encontrado, pero el único que la sabía fue consumido por una calavera terrible.<\/p>\n<p><strong>Botín:<\/strong> A veces las calaveras terribles guardan tesoros como trofeos de victorias pasadas, consistentes en 1d6 Cyphers y quizás un artefacto.<\/p>\n<p><strong>Intromisiones del DJ:<\/strong> El personaje que usa un Cypher contra la calavera debe hacer una tirada de Defensa por Intelecto. En una tirada fallida, el Cypher comienza a arder en llamas, causando al personaje 5 puntos de daño y destruyendo el Cypher en el proceso.<\/p>",
+    "pools": {"health": {
+      "max": 15,
+      "value": 15
+    }},
+    "description": "",
+    "combat": {
+      "damage": 5,
+      "armor": 1
+    },
+    "basic": {
+      "level": 5,
+      "biography": "<p>Un devorador de almas es la cabeza animada de un poderoso mago que abandonó este mundo mortal para convertirse en una criatura no muerta sin ética, sentimientos ni sentido de la moralidad. Estas criaturas, también llamadas calaveras temibles, mantienen su existencia absorbiendo ocasionalmente el espíritu o la mente de víctimas vivas. El \"alma\" absorbida se quema, por lo que las calaveras temibles están envueltas en llamas; es el subproducto de la comida anterior de la criatura.<\/p>\n<p><strong>Motivación:<\/strong> Alimentación (almas)<\/p>\n<p><strong>Entorno:<\/strong> Normalmente en el centro de las tumbas<\/p>\n<p><strong>Salud:<\/strong> 15<\/p>\n<p><strong>Daño que inflige:<\/strong> 5 puntos<\/p>\n<p><strong>Armadura:<\/strong> 1<\/p>\n<p><strong>Movimiento:<\/strong> Largo al volar<\/p>\n<p><strong>Ajustes: <\/strong>Nivel 7 para resistir ataques mentales y engaños; nivel 7 para Defensa por Velocidad debido a su tamaño y rapidez; nivel 8 para conocimiento de metodologías y rituales arcanos<\/p>\n<p><strong>Combate:<\/strong> Un devorador de almas dispone de una biblioteca de capacidades mágicas a las que puede recurrir, entre las que se incluyen ataques de fuego o frío a larga distancia contra todos los objetivos que se encuentren a una distancia inmediata entre sí, la capacidad de leer la mente de una víctima a corta distancia con una tirada de defensa fallida de Intelecto y la capacidad de camuflarse en la ilusión de un humano normal durante un máximo de una hora cada vez.<\/p>\n<p>Además, una calavera temible puede extraer la consciencia de una víctima y absorberla en una llamarada de fuego sobrenatural. Para hacerlo, la criatura debe morder a un objetivo, lo que inflige 5 puntos de daño; el objetivo debe tener éxito en una tirada de Defensa por Intelecto o recibir 5 puntos adicionales de daño de Intelecto (ignora Armadura).<\/p>\n<p>Si una calavera temible drena la Reserva de Intelecto de un personaje hasta 0 mediante mordiscos repetidos, el alma del personaje es absorbida por la calavera y el cuerpo queda inerte. Una vez absorbida por la calavera, la esencia de la víctima queda atrapada y se consume lentamente durante las siguientes veinticuatro horas. Durante este periodo, la calavera regenera 1 punto de vida por ronda.<\/p>\n<p>Si no se destruye la calavera temible en las veinticuatro horas siguientes a la ingestión de un alma, la esencia de la víctima se consume por completo. Si el devorador de almas es derrotado y su cráneo se destroza antes de ese plazo, todas las almas no consumidas vuelven a sus cuerpos.<\/p>\n<p><strong>Interacción:<\/strong> Las calaveras terribles están ligeramente locas pero son infernalmente inteligentes, lo que significa que a veces negociarán para conseguir lo que quieren.<\/p>\n<p><strong>Uso:<\/strong> Los devoradores de almas recuerdan un poco del conocimiento de la esencia de cada criatura que consumen. Los PJs necesitan aprender la palabra de mando de un artefacto que han encontrado, pero el único que la sabía fue consumido por una calavera terrible.<\/p>\n<p><strong>Botín:<\/strong> A veces las calaveras terribles guardan tesoros como trofeos de victorias pasadas, consistentes en 1d6 Cyphers y quizás un artefacto.<\/p>\n<p><strong>Intromisiones del DJ:<\/strong> El personaje que usa un Cypher contra la calavera debe hacer una tirada de Defensa por Intelecto. En una tirada fallida, el Cypher comienza a arder en llamas, causando al personaje 5 puntos de daño y destruyendo el Cypher en el proceso.<\/p>"
+    },
+    "version": 2
+  },
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "name": "Devorador de almas",
+  "_id": "8jekrDTBJXTNDcVe",
+  "items": []
+}

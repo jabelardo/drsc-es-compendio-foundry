@@ -1,0 +1,32 @@
+{
+  "name": "Mensajero",
+  "type": "equipment",
+  "img": "systems/cyphersystem/icons/items/equipment.svg",
+  "system": {
+    "version": 2,
+    "description": "<p>Esencialmente, un cohete diminuto que puede superar los Gs nominales humanos para entregar &ldquo;rápidamente&rdquo; mensajes a través de distancias planetarias si la comunicación por radio (a través de la red DSM), láser o incluso graser se considera demasiado susceptible de ser interceptada por terceros. El mensajero debe lanzarse en un entorno de microgravedad.</p>",
+    "archived": false,
+    "basic": {
+      "level": 5,
+      "quantity": 1
+    }
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "cyphersystem",
+    "systemVersion": "2.6.2",
+    "coreVersion": "11.301",
+    "createdTime": 1676537476031,
+    "modifiedTime": 1686393640481,
+    "lastModifiedBy": "ZyqFG5NpQtVrpwj7"
+  },
+  "_id": "ZS9Ilih3tSeokBEe",
+  "folder": "40FMwVrL57gMPm5j",
+  "sort": 400000,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "_key": "!items!ZS9Ilih3tSeokBEe"
+}

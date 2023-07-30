@@ -1,0 +1,54 @@
+{
+  "img": "systems/cyphersystem/icons/items/ability.svg",
+  "effects": [],
+  "folder": null,
+  "system": {
+    "archived": false,
+    "settings": {
+      "general": {
+        "spellTier": "low",
+        "sorting": "Ability",
+        "unmaskedForm": "Mask"
+      },
+      "rollButton": {
+        "stepModifier": "eased",
+        "damage": 0,
+        "damagePerLOE": 3,
+        "bonus": 0,
+        "pool": "Pool",
+        "teen": "",
+        "additionalSteps": 0,
+        "effort1": 0,
+        "effort3": 0,
+        "assets": 0,
+        "effort2": 0,
+        "skill": "Practiced",
+        "additionalCost": 0
+      }
+    },
+    "description": "<p>Te llamas a ti mismo desde unos instantes en el futuro para que te ayude en el presente. En la ronda en la que usas esta capacidad, tu yo del futuro aparece en cualquier lugar que elijas en un alcance inmediato y realiza una acción. En la segunda ronda, tú y tu yo del futuro realizan acciones, y la acción de tu yo del futuro se alivia. En la tercera ronda, tú y tu yo del futuro desaparecen. En la cuarta ronda, alcanzas a tu yo del futuro, vuelves a aparecer en el lugar donde tu yo del futuro apareció inicialmente en la primera ronda, y puedes realizar tus acciones normalmente.<\/p><p>Tu yo del futuro comparte tus atributos, por lo que cualquier daño que cualquiera de los dos reciba se aplica a las mismas Reservas de atributo. Si tu yo del futuro es asesinado, tú y tu yo del futuro desaparecen en la tercera ronda (como es normal) y reaparecen, muertos, en la cuarta ronda. Ni tú ni tu yo del futuro pueden volver a usar Bucle temporal hasta que tu reaparezcas como tu yo del futuro en la cuarta ronda. Acción.<\/p><p>(En efecto, Bucle temporal te permite a \"ti\" realizar una acción en la ronda que lo usas, dos acciones en la segunda ronda y cero acciones en la tercera ronda, y después vuelves a la normalidad).<\/p>",
+    "basic": {
+      "cost": "4",
+      "pool": "Intellect"
+    },
+    "version": 2
+  },
+  "ownership": {
+    "default": 0,
+    "k2TkElLx959B0lm5": 3
+  },
+  "_stats": {
+    "modifiedTime": 1664959725424,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "rLeavHPrdkq6xjNt",
+    "createdTime": null,
+    "systemVersion": "2.0.0-a1",
+    "coreVersion": "10.286"
+  },
+  "name": "Bucle temporal",
+  "flags": {"core": {"sourceId": "Compendium.cyphersystem-compendium.abilities.l5vgtPP0LcsqGrzn"}},
+  "_id": "l5vgtPP0LcsqGrzn",
+  "sort": 0,
+  "type": "ability",
+  "_key": "!items!l5vgtPP0LcsqGrzn"
+}

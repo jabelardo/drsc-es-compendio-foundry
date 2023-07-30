@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 2,
+  "range": [
+    9,
+    10
+  ],
+  "drawn": false,
+  "text": "Arma integrada horrible",
+  "img": "systems/cyphersystem/icons/items/cypher.svg",
+  "documentCollection": "cyphersystem-compendium.cyphers-horror",
+  "documentId": "uKEOYKOxp5stDhm5",
+  "_id": "SArdYg3ctRlZQ55z",
+  "flags": {},
+  "_key": "!tables.results!rL3KHz6F7aOs31tx.SArdYg3ctRlZQ55z"
+}

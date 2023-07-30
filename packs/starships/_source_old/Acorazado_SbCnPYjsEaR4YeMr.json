@@ -1,0 +1,123 @@
+{
+  "img": "modules/drsc-es-compendio-foundry/img/tokens/spacecraft_spacecraft.webp",
+  "_stats": {
+    "modifiedTime": 1686393351444,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "ZyqFG5NpQtVrpwj7",
+    "createdTime": 1666974759055,
+    "systemVersion": "2.6.2",
+    "coreVersion": "11.301"
+  },
+  "flags": {"core": {"sourceId": "Actor.nfzJeWxvM3u80gDv"}},
+  "sort": 100000,
+  "type": "vehicle",
+  "_key": "!actors!SbCnPYjsEaR4YeMr",
+  "prototypeToken": {
+    "displayBars": 0,
+    "displayName": 30,
+    "actorLink": true,
+    "texture": {
+      "scaleX": 1,
+      "offsetX": 0,
+      "scaleY": 1,
+      "offsetY": 0,
+      "src": "icons/svg/mystery-man.svg",
+      "rotation": 0,
+      "tint": null
+    },
+    "lockRotation": false,
+    "rotation": 0,
+    "detectionModes": [],
+    "flags": {},
+    "prependAdjective": false,
+    "randomImg": false,
+    "appendNumber": false,
+    "bar1": {"attribute": null},
+    "bar2": {"attribute": null},
+    "disposition": 0,
+    "light": {
+      "attenuation": 0.5,
+      "color": null,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "animation": {
+        "intensity": 5,
+        "type": null,
+        "reverse": false,
+        "speed": 5
+      },
+      "saturation": 0,
+      "alpha": 0.5,
+      "contrast": 0,
+      "angle": 360,
+      "luminosity": 0.5,
+      "shadows": 0,
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "alpha": 1,
+    "name": "Acorazado",
+    "width": 1,
+    "sight": {
+      "saturation": 0,
+      "attenuation": 0.1,
+      "brightness": 0,
+      "color": null,
+      "visionMode": "basic",
+      "contrast": 0,
+      "range": 0,
+      "angle": 360,
+      "enabled": false
+    },
+    "height": 1
+  },
+  "effects": [],
+  "system": {
+    "settings": {
+      "general": {
+        "initiativeBonus": "",
+        "hideArchive": false
+      },
+      "equipment": {
+        "ammo": {"active": false},
+        "armor": {"active": false},
+        "attacks": {"active": false},
+        "materials": {
+          "active": false,
+          "label": ""
+        },
+        "cyphers": {
+          "active": false,
+          "label": ""
+        },
+        "oddities": {
+          "active": false,
+          "label": ""
+        },
+        "artifacts": {
+          "active": false,
+          "label": ""
+        }
+      }
+    },
+    "notes": "",
+    "description": "",
+    "basic": {
+      "level": 10,
+      "weaponSystems": 36,
+      "crew": 1000
+    },
+    "version": 2
+  },
+  "folder": "yPaiVYkv8CLgd86q",
+  "ownership": {
+    "default": 0,
+    "rLeavHPrdkq6xjNt": 3
+  },
+  "name": "Acorazado",
+  "_id": "SbCnPYjsEaR4YeMr",
+  "items": []
+}

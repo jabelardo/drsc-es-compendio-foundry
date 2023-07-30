@@ -1,0 +1,37 @@
+{
+  "img": "systems/cyphersystem/icons/items/cypher.svg",
+  "effects": [],
+  "system": {
+    "archived": false,
+    "settings": {
+      "general": {
+        "nameUnidentified": ""
+      }
+    },
+    "description": "<p><strong>Nivel:</strong> 1d6</p>\n<p><strong>Aspecto:</strong> Araña diminuta dentro de un tarro, caja o dedal.</p>\n<p><strong>Efecto:</strong> Cuando se libera, la araña crea una telaraña en un rincón cercano. Durante los siguientes diez minutos, la telaraña recoge pensamientos, secretos e información sobre el área en general (hasta una milla cuadrada), incluyendo cualquier criatura, gente, clima o sucesos. Al final de ese tiempo, el usuario puede leer la red y obtener respuestas a un número de preguntas igual al nivel del Cypher. Las preguntas deben estar relacionadas con la zona y deben ser lo suficientemente sencillas como para que la araña pueda responderlas en tres palabras o menos.</p>",
+    "basic": {
+      "identified": true,
+      "level": "1d6"
+    },
+    "version": 2
+  },
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "_stats": {
+    "modifiedTime": 1685280982966,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "yThCrv1jSfPXOC2U",
+    "createdTime": 1685278154393,
+    "systemVersion": "2.6.0",
+    "coreVersion": "10.291"
+  },
+  "name": "Itsy Bitsy Araña",
+  "flags": {},
+  "_id": "pISB3d7eMl7Xmlwq",
+  "sort": 0,
+  "type": "cypher",
+  "_key": "!items!pISB3d7eMl7Xmlwq"
+}

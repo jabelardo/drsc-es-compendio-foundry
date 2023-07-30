@@ -1,0 +1,47 @@
+{
+  "img": "systems/cyphersystem/icons/items/cypher.svg",
+  "effects": [],
+  "folder": null,
+  "system": {
+    "archived": false,
+    "rollButton": {
+      "stepModifier": "eased",
+      "damage": 0,
+      "damagePerLOE": 3,
+      "bonus": 0,
+      "pool": "Pool",
+      "teen": "",
+      "additionalSteps": 0,
+      "effort1": 0,
+      "effort3": 0,
+      "assets": 0,
+      "effort2": 0,
+      "skill": "Practiced",
+      "additionalCost": 0
+    },
+    "description": "<p><strong>Nivel:<\/strong> 1d6 + 2<\/p>\n<p><strong>Efecto:<\/strong> La víctima siente una emoción específica durante una hora. Tira un d100 para determinar la emoción. (La mayoría de los venenos no se consideran Cyphers, salvo algunos que son únicos).<\/p>\n<table class=\"table table-dark table-striped table-sm\">\n <thead>\n <\/thead>\n <tbody>\n  <tr>\n   <td>01-20<\/td>\n   <td>Ira. Es probable que ataque a cualquiera que esté en desacuerdo con él. Es muy difícil interactuar con él; todas las acciones de este tipo se ven obstaculizadas por dos grados.<\/td>\n  <\/tr>\n  <tr>\n   <td>21-40<\/td>\n   <td>Miedo. Huye aterrorizado durante un minuto cuando se ve amenazado.<\/td>\n  <\/tr>\n  <tr>\n   <td>41-60<\/td>\n   <td>Lujuria. No puede concentrarse en ninguna actividad no sexual.<\/td>\n  <\/tr>\n  <tr>\n   <td>61-75<\/td>\n   <td>Tristeza. Todas las tareas se ven obstaculizadas.<\/td>\n  <\/tr>\n  <tr>\n   <td>76-85<\/td>\n   <td>Complacencia. No tiene motivación. Todas las tareas se ven obstaculizadas por dos grados.<\/td>\n  <\/tr>\n  <tr>\n   <td>86-95<\/td>\n   <td>Alegría. Es fácil interactuar de forma agradable; todas las tareas de interacción agradables se ven aliviadas.<\/td>\n  <\/tr>\n  <tr>\n   <td>96-00<\/td>\n   <td>Amor. Mucho más fácil de interactuar; todas las tareas de interacción se alivian en dos grados, pero es probable que haya un apego temporal.<\/td>\n  <\/tr>\n <\/tbody>\n<\/table>",
+    "basic": {
+      "identified": true,
+      "level": "1d6 + 2"
+    },
+    "version": 2
+  },
+  "ownership": {
+    "default": 0,
+    "k2TkElLx959B0lm5": 3
+  },
+  "_stats": {
+    "modifiedTime": 1664959728906,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "rLeavHPrdkq6xjNt",
+    "createdTime": null,
+    "systemVersion": "2.0.0-a1",
+    "coreVersion": "10.286"
+  },
+  "name": "Veneno (emoción)",
+  "flags": {},
+  "sort": 0,
+  "_id": "I1UIJPrkDAtfdvkn",
+  "type": "cypher",
+  "_key": "!items!I1UIJPrkDAtfdvkn"
+}

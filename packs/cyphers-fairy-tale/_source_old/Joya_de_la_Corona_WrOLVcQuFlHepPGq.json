@@ -1,0 +1,37 @@
+{
+  "img": "systems/cyphersystem/icons/items/cypher.svg",
+  "effects": [],
+  "system": {
+    "archived": false,
+    "settings": {
+      "general": {
+        "nameUnidentified": ""
+      }
+    },
+    "description": "<p><strong>Nivel:</strong> 1d6 + 2</p>\n<p><strong>Aspecto:</strong> Joya brillante de una corona real</p>\n<p><strong>Efecto:</strong> Cuando se une a un objeto como un arma, escudo, armadura, Cypher o artefacto, crea un duplicado exacto del objeto. El duplicado funciona igual que el original y dura diez minutos o hasta que se agota de forma natural (lo que ocurra primero).</p>",
+    "basic": {
+      "identified": true,
+      "level": "1d6+2"
+    },
+    "version": 2
+  },
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "_stats": {
+    "modifiedTime": 1685280982953,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "yThCrv1jSfPXOC2U",
+    "createdTime": 1685276573077,
+    "systemVersion": "2.6.0",
+    "coreVersion": "10.291"
+  },
+  "name": "Joya de la Corona",
+  "flags": {},
+  "_id": "WrOLVcQuFlHepPGq",
+  "sort": 0,
+  "type": "cypher",
+  "_key": "!items!WrOLVcQuFlHepPGq"
+}

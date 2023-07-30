@@ -1,0 +1,32 @@
+{
+  "name": "Reglamento de Superhéroes",
+  "pages": [
+    "QC9umFKhsYySZfgo",
+    "WXbYRpZcKvIVjoSd",
+    "0EIjkLiEFdOzeG4m",
+    "lqvlSsnCWmF9nCvR",
+    "C1mbmpr3HkDzKeYo",
+    "9ES9hsdeWAxuorY3"
+  ],
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "JournalEntry.7xCwyZhYKeWHBQdi"
+    }
+  },
+  "_stats": {
+    "systemId": "cyphersystem",
+    "systemVersion": "2.8.2",
+    "coreVersion": "11.305",
+    "createdTime": 1681935246408,
+    "modifiedTime": 1689697291519,
+    "lastModifiedBy": "EcFzQPPYnESXtTnB"
+  },
+  "folder": "PVDUdSijk7bQINpP",
+  "sort": 112500,
+  "_id": "UVX4FGBiWaJBLn5v",
+  "_key": "!journal!UVX4FGBiWaJBLn5v"
+}

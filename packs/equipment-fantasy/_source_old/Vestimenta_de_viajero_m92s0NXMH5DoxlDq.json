@@ -1,0 +1,36 @@
+{
+  "name": "Vestimenta de viajero",
+  "type": "equipment",
+  "img": "systems/cyphersystem/icons/items/equipment.svg",
+  "system": {
+    "version": 2,
+    "description": "<p>Conjunto de ropa cómoda que incluye guantes, un sombrero protector, una chaqueta y una capa con capucha.</p>",
+    "archived": false,
+    "basic": {
+      "level": null,
+      "quantity": 1
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Item.nEFkLG71GWb10eLR"
+    }
+  },
+  "_stats": {
+    "systemId": "cyphersystem",
+    "systemVersion": "2.3.0",
+    "coreVersion": "10.291",
+    "createdTime": 1676110843160,
+    "modifiedTime": 1676111404108,
+    "lastModifiedBy": "yThCrv1jSfPXOC2U"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "m92s0NXMH5DoxlDq",
+  "_key": "!items!m92s0NXMH5DoxlDq"
+}

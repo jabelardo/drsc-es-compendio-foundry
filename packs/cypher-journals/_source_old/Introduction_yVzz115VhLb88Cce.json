@@ -1,0 +1,27 @@
+{
+  "sort": 100000,
+  "name": "Introducción",
+  "type": "text",
+  "_id": "yVzz115VhLb88Cce",
+  "title": {
+    "show": true,
+    "level": 1
+  },
+  "image": {},
+  "text": {
+    "format": 1,
+    "content": "<img src=\"systems/cyphersystem/icons/journals/csrd-logo-color.webp\" style=\"border:none;margin:10px;float:right\" width=\"128\" /><p>La ciencia ficción es una categoría increíblemente amplia. Abarca los ovnis, la ópera espacial, las distopías de un futuro cercano, las epopeyas de otro mundo, la ciencia ficción dura y todo lo demás. Incluso cuando se compara con la fantasía, la ciencia ficción es tan amplia que casi no es un género único. A decir verdad, no hay mucho que vincule, por ejemplo, La máquina del tiempo de H. G. Wells con una historia ciberpunk oscura, excepto por la tecnología implicada, que está a un nivel superior al que poseemos o entendemos hoy en día. Pero incluso esa parte de la ciencia ficción es discutible. ¿Debe ser la ciencia puramente la que obedece a las leyes de la física tal y como las entendemos hoy en día (a menudo llamada ciencia ficción dura), o es más bien una propuesta de \"todo vale\"? ¿La ciencia que no podemos explicar es realmente mágica?</p><p>Para nuestros propósitos, trataremos la ciencia ficción fantástica por defecto: extraterrestres, naves espaciales que permiten viajar a otras estrellas, armas y escudos de energía, etc. Es un escenario familiar para casi todos los interesados en la ciencia ficción. Dicho esto, también tenemos algunas orientaciones adicionales para la ciencia ficción dura, en la que lo posible está más basado en lo que actualmente extrapolamos científicamente.</p><p>Tu escenario de ciencia ficción puede ser cualquier cosa que puedas imaginar.</p><h1>Usar el Reglamento de Ciencia Ficción</h1><p>El Reglamento de Ciencia Ficción es una expansión del @UUID[Compendium.drsc-es-compendio-foundry.cypher-journals.k9exUQdtIwtKwqCc.JournalEntryPage.VFJ6kCCgRGTzpWp0]{Capítulo del Género de Ciencia Ficción} en el @UUID[Compendium.drsc-es-compendio-foundry.cypher-journals.k9exUQdtIwtKwqCc]{Reglamento del Sistema Cypher}. Para facilitar la referencia, replica la información y las reglas relevantes del capítulo de género básico. Necesitas el Reglamento del Sistema Cypher para jugar, y se hacen muchas referencias al Reglamento del Sistema Cypher a lo largo del Reglamento de Ciencia Ficción.</p>",
+    "markdown": ""
+  },
+  "video": {
+    "controls": true,
+    "volume": 0.5
+  },
+  "src": null,
+  "system": {},
+  "ownership": {
+    "default": -1
+  },
+  "flags": {},
+  "_key": "!journal.pages!QhNXyjJC4BW5agrm.yVzz115VhLb88Cce"
+}

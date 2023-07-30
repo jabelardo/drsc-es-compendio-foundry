@@ -1,0 +1,128 @@
+{
+  "img": "modules/drsc-es-compendio-foundry/img/tokens/ooze.webp",
+  "_stats": {
+    "modifiedTime": 1676797809031,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "yThCrv1jSfPXOC2U",
+    "createdTime": 1676451107421,
+    "systemVersion": "2.3.0",
+    "coreVersion": "10.291"
+  },
+  "flags": {"core": {"sourceId": "Actor.tTEhnWmjFJIBtOW3"}},
+  "sort": 0,
+  "type": "npc",
+  "_key": "!actors!RUhxecjxbA7xL8hC",
+  "prototypeToken": {
+    "displayBars": 40,
+    "displayName": 20,
+    "actorLink": false,
+    "texture": {
+      "scaleX": 1,
+      "offsetX": 0,
+      "scaleY": 1,
+      "offsetY": 0,
+      "src": "icons/svg/mystery-man.svg",
+      "rotation": 0,
+      "tint": null
+    },
+    "lockRotation": false,
+    "rotation": 0,
+    "detectionModes": [],
+    "flags": {},
+    "randomImg": false,
+    "bar1": {"attribute": "pools.health"},
+    "bar2": {"attribute": "basic.level"},
+    "disposition": 0,
+    "light": {
+      "attenuation": 0.5,
+      "color": null,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "animation": {
+        "intensity": 5,
+        "type": null,
+        "reverse": false,
+        "speed": 5
+      },
+      "saturation": 0,
+      "alpha": 0.5,
+      "contrast": 0,
+      "angle": 360,
+      "luminosity": 0.5,
+      "shadows": 0,
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "alpha": 1,
+    "name": "Exolimo",
+    "width": 1,
+    "sight": {
+      "saturation": 0,
+      "attenuation": 0.1,
+      "brightness": 0,
+      "color": null,
+      "visionMode": "basic",
+      "contrast": 0,
+      "range": null,
+      "angle": 360,
+      "enabled": false
+    },
+    "height": 1
+  },
+  "effects": [],
+  "system": {
+    "settings": {
+      "general": {
+        "initiativeBonus": 0,
+        "hideArchive": false
+      },
+      "equipment": {
+        "ammo": {"active": false},
+        "armor": {"active": false},
+        "attacks": {"active": false},
+        "materials": {
+          "active": false,
+          "label": ""
+        },
+        "cyphers": {
+          "active": false,
+          "label": ""
+        },
+        "oddities": {
+          "active": false,
+          "label": ""
+        },
+        "artifacts": {
+          "active": false,
+          "label": ""
+        }
+      }
+    },
+    "notes": "<p>La vida ameboide predomina en algunos entornos. A veces, se encuentra en las grietas de los asteroides o en las naves espaciales abandonadas. En algunos casos, grandes extensiones de mundos enteros están cubiertas de mares vivientes de protoplasma translúcido. Los volúmenes individuales de exolimos son manchas en forma de moho de 5 m [15 pies] de diámetro. Los exolimos poseen mentes independientes, pero en algunos entornos pueden ser entidades manufacturadas diseñadas para explorar nuevos lugares, interactuar con alienígenas o subyugarlos. Los exolimos pueden aprender a respetar la autonomía de otras criaturas, aunque su instinto natural es absorber los objetos y criaturas nuevos que descubren para aprender sobre ellos. Los exolimos también pueden replicar cualquier cosa que absorban, incluso un ser inteligente vivo previamente devorado.<\/p>\n<p><strong>Motivación:<\/strong> Alimentación (información)<\/p>\n<p><strong>Entorno:<\/strong> Zonas húmedas y cálidas<\/p>\n<p><strong>Salud:<\/strong> 33<\/p>\n<p><strong>Daño que inflige:<\/strong> 6 puntos<\/p>\n<p><strong>Movimiento:<\/strong> Inmediato; inmediato al trepar o excavar<\/p>\n<p><strong>Ajustes<\/strong>: Nivel 5 para Defensa por Velocidad debido al tamaño<\/p>\n<p><strong>Combate:<\/strong> Aunque lento, un exolimo es peligroso. Cuando se despierta, todos los personajes dentro del alcance inmediato de un exolimo deben tener éxito en una tirada de Defensa por Vigor cada ronda o ser tocados por la masa agitada. Una víctima se adhiere a la superficie del limo y recibe 6 puntos de daño por ácido cada ronda. La víctima debe tener éxito en una tirada de Defensa por Vigor para liberarse. Una víctima que muere por este daño es consumida por el exolimo. Posteriormente, el exolimo puede crear un duplicado de cualquier criatura de carne devorada previamente, un proceso que requiere unas tres rondas para completarse. Los duplicados tienen plena autonomía y pueden comunicarse con el exolimo.<\/p>\n<p><strong>Interacción:<\/strong> Un exolimo prefiere comerse a una criatura recién encontrada y luego crear un duplicado de ella para que actúe como traductor. Por supuesto, un extraño podría no entender por qué el exolimo intenta comérselo.<\/p>\n<p><strong>Uso:<\/strong> La muestra traída del exterior tiene un extraño crecimiento mucoso que parece capaz de comerse lentamente la mayoría de los materiales.<\/p>\n<p><strong>Intromisiones del DJ:<\/strong> El personaje escapa a un ataque del exolimo, pero un trozo de protoplasma tembloroso permanece pegado a su carne, carcomiéndola con 1 punto de daño de Velocidad (ignora Armadura) cada ronda hasta que el personaje tenga éxito en una tirada de Vigor como acción.<\/p>",
+    "pools": {"health": {
+      "max": 33,
+      "value": 33
+    }},
+    "description": "",
+    "combat": {
+      "damage": 6,
+      "armor": 0
+    },
+    "basic": {
+      "level": 6,
+      "biography": "<p>La vida ameboide predomina en algunos entornos. A veces, se encuentra en las grietas de los asteroides o en las naves espaciales abandonadas. En algunos casos, grandes extensiones de mundos enteros están cubiertas de mares vivientes de protoplasma translúcido. Los volúmenes individuales de exolimos son manchas en forma de moho de 5 m [15 pies] de diámetro. Los exolimos poseen mentes independientes, pero en algunos entornos pueden ser entidades manufacturadas diseñadas para explorar nuevos lugares, interactuar con alienígenas o subyugarlos. Los exolimos pueden aprender a respetar la autonomía de otras criaturas, aunque su instinto natural es absorber los objetos y criaturas nuevos que descubren para aprender sobre ellos. Los exolimos también pueden replicar cualquier cosa que absorban, incluso un ser inteligente vivo previamente devorado.<\/p>\n<p><strong>Motivación:<\/strong> Alimentación (información)<\/p>\n<p><strong>Entorno:<\/strong> Zonas húmedas y cálidas<\/p>\n<p><strong>Salud:<\/strong> 33<\/p>\n<p><strong>Daño que inflige:<\/strong> 6 puntos<\/p>\n<p><strong>Movimiento:<\/strong> Inmediato; inmediato al trepar o excavar<\/p>\n<p><strong>Ajustes<\/strong>: Nivel 5 para Defensa por Velocidad debido al tamaño<\/p>\n<p><strong>Combate:<\/strong> Aunque lento, un exolimo es peligroso. Cuando se despierta, todos los personajes dentro del alcance inmediato de un exolimo deben tener éxito en una tirada de Defensa por Vigor cada ronda o ser tocados por la masa agitada. Una víctima se adhiere a la superficie del limo y recibe 6 puntos de daño por ácido cada ronda. La víctima debe tener éxito en una tirada de Defensa por Vigor para liberarse. Una víctima que muere por este daño es consumida por el exolimo. Posteriormente, el exolimo puede crear un duplicado de cualquier criatura de carne devorada previamente, un proceso que requiere unas tres rondas para completarse. Los duplicados tienen plena autonomía y pueden comunicarse con el exolimo.<\/p>\n<p><strong>Interacción:<\/strong> Un exolimo prefiere comerse a una criatura recién encontrada y luego crear un duplicado de ella para que actúe como traductor. Por supuesto, un extraño podría no entender por qué el exolimo intenta comérselo.<\/p>\n<p><strong>Uso:<\/strong> La muestra traída del exterior tiene un extraño crecimiento mucoso que parece capaz de comerse lentamente la mayoría de los materiales.<\/p>\n<p><strong>Intromisiones del DJ:<\/strong> El personaje escapa a un ataque del exolimo, pero un trozo de protoplasma tembloroso permanece pegado a su carne, carcomiéndola con 1 punto de daño de Velocidad (ignora Armadura) cada ronda hasta que el personaje tenga éxito en una tirada de Vigor como acción.<\/p>"
+    },
+    "version": 2
+  },
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "name": "Exolimo",
+  "_id": "RUhxecjxbA7xL8hC",
+  "items": []
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Armadura armada",
+  "type": "armor",
+  "img": "systems/cyphersystem/icons/items/armor.svg",
+  "system": {
+    "version": 2,
+    "description": "<p>Como la armadura de batalla, pero la armadura incluye un arma de plasma de largo alcance integrada desplegable que inflige 6 puntos de daño. Es capaz de disparar de forma autónoma, permitiendo al portador realizar alguna otra acción (aunque si se configura para hacerlo, se producen intromisiones automáticas del DJ con 1-3 en un d20, y si ocurren, resultan en fuego sobre amigos). Nivel 6.</p>",
+    "archived": false,
+    "basic": {
+      "type": "heavy armor",
+      "rating": 6,
+      "cost": 1,
+      "notes": "encumbers as light Armor"
+    },
+    "settings": {
+      "general": {
+        "unmaskedForm": "Mask"
+      }
+    },
+    "active": true
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Item.vsi0wXtuvKrUz26b"
+    }
+  },
+  "_stats": {
+    "systemId": "cyphersystem",
+    "systemVersion": "2.6.2",
+    "coreVersion": "11.299",
+    "createdTime": 1676628962737,
+    "modifiedTime": 1685560974208,
+    "lastModifiedBy": "7luxagQiisUFvSQn"
+  },
+  "folder": "EY56XoIdAFu930Uv",
+  "sort": 300000,
+  "_id": "SZzV0pkoDcOFcELL",
+  "_key": "!items!SZzV0pkoDcOFcELL"
+}

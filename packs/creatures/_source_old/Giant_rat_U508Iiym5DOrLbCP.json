@@ -1,0 +1,135 @@
+{
+  "img": "modules/drsc-es-compendio-foundry/img/tokens/animal_mundane.webp",
+  "_stats": {
+    "modifiedTime": 1676797809087,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "yThCrv1jSfPXOC2U",
+    "createdTime": null,
+    "systemVersion": "2.3.0",
+    "coreVersion": "10.291"
+  },
+  "flags": {},
+  "sort": 0,
+  "type": "npc",
+  "_key": "!actors!U508Iiym5DOrLbCP",
+  "prototypeToken": {
+    "displayBars": 40,
+    "displayName": 20,
+    "actorLink": false,
+    "lockRotation": false,
+    "texture": {
+      "scaleX": 1,
+      "offsetX": 0,
+      "scaleY": 1,
+      "offsetY": 0,
+      "src": "icons/svg/mystery-man.svg",
+      "rotation": 0,
+      "tint": null
+    },
+    "rotation": 0,
+    "detectionModes": [],
+    "flags": {},
+    "randomImg": false,
+    "bar1": {"attribute": "pools.health"},
+    "bar2": {"attribute": "basic.level"},
+    "disposition": 0,
+    "light": {
+      "attenuation": 0.5,
+      "color": null,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "animation": {
+        "intensity": 5,
+        "reverse": false,
+        "type": null,
+        "speed": 5
+      },
+      "saturation": 0,
+      "alpha": 0.5,
+      "contrast": 0,
+      "angle": 360,
+      "luminosity": 0.5,
+      "shadows": 0,
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "alpha": 1,
+    "name": "Rata gigante",
+    "width": 1,
+    "sight": {
+      "saturation": 0,
+      "brightness": 1,
+      "attenuation": 0.1,
+      "color": null,
+      "visionMode": "basic",
+      "contrast": 0,
+      "angle": 360,
+      "range": 0,
+      "enabled": false
+    },
+    "height": 1
+  },
+  "effects": [],
+  "folder": null,
+  "system": {
+    "settings": {
+      "skills": {},
+      "abilities": {},
+      "general": {
+        "initiativeBonus": 0,
+        "hideArchive": false
+      },
+      "equipment": {
+        "ammo": {"active": false},
+        "armor": {"active": false},
+        "attacks": {"active": false},
+        "materials": {
+          "active": false,
+          "label": ""
+        },
+        "cyphers": {
+          "active": false,
+          "label": ""
+        },
+        "oddities": {
+          "active": false,
+          "label": ""
+        },
+        "artifacts": {
+          "active": false,
+          "label": ""
+        }
+      }
+    },
+    "notes": "<p>Las ratas gigantes son tan grandes como los grandes perros de ataque, igual de feroces y más astutas. Algunas ratas gigantes son las matriarcas solitarias de una manada de ratas normales de nivel 1, y otras son sólo una de las varias que componen una colonia de roedores de gran tamaño. Al igual que sus primos más pequeños, las ratas gigantes son conocidas por albergar virulentas enfermedades.<\/p>\n<p><strong>Motivación:<\/strong> Defensa, reproducción<\/p>\n<p><strong>Entorno:<\/strong> En cualquier lugar de las ruinas o alcantarillas, en grupos de uno a siete<\/p>\n<p><strong>Salud:<\/strong> 18<\/p>\n<p><strong>Daño que inflige:<\/strong> 4 puntos<\/p>\n<p><strong>Movimiento:<\/strong> Corto; largo al saltar<\/p>\n<p><strong>Ajustes: <\/strong>Nivel 4 para percepción; nivel 5 para tareas relacionadas con la superación de obstáculos y rompecabezas<\/p>\n<p><strong>Combate:<\/strong> Las víctimas dañadas por los dientes y garras enfermas de una rata gigante reciben 4 puntos de daño y, al fallar la tirada de Defensa por Vigor, se infectan con una enfermedad de nivel 5. En un plazo de doce horas, las glándulas linfáticas de la víctima se hinchan, creando burbujas visibles. Cada doce horas a partir de entonces, la víctima debe tener éxito en una tirada de Defensa por Vigor o recibir 5 puntos de daño ambiental.<\/p>\n<p><strong>Interacción:<\/strong> Las ratas gigantes persiguen obstinadamente a sus presas, pero huyen si éstas resultan ser demasiado fuertes.<\/p>\n<p><strong>Uso:<\/strong> Un contacto de los PJs muere de peste antes de poder entregar un mensaje importante. Los PJs tendrán que retroceder en los movimientos del contacto para descubrir lo que quería decir, lo que les lleva a una colonia de ratas gigantes.<\/p>\n<p><strong>Intromisiones del DJ:<\/strong> Un enjambre de doce ratas ordinarias -cada una de nivel 1, pero que actúa como un enjambre de nivel 3- es convocado por el agudo chillido de una rata gigante.<\/p>",
+    "pools": {"health": {
+      "max": 18,
+      "value": 18
+    }},
+    "description": "",
+    "combat": {
+      "damage": 4,
+      "armor": 0
+    },
+    "basic": {
+      "level": 3,
+      "biography": "<p>Las ratas gigantes son tan grandes como los grandes perros de ataque, igual de feroces y más astutas. Algunas ratas gigantes son las matriarcas solitarias de una manada de ratas normales de nivel 1, y otras son sólo una de las varias que componen una colonia de roedores de gran tamaño. Al igual que sus primos más pequeños, las ratas gigantes son conocidas por albergar virulentas enfermedades.<\/p>\n<p><strong>Motivación:<\/strong> Defensa, reproducción<\/p>\n<p><strong>Entorno:<\/strong> En cualquier lugar de las ruinas o alcantarillas, en grupos de uno a siete<\/p>\n<p><strong>Salud:<\/strong> 18<\/p>\n<p><strong>Daño que inflige:<\/strong> 4 puntos<\/p>\n<p><strong>Movimiento:<\/strong> Corto; largo al saltar<\/p>\n<p><strong>Ajustes: <\/strong>Nivel 4 para percepción; nivel 5 para tareas relacionadas con la superación de obstáculos y rompecabezas<\/p>\n<p><strong>Combate:<\/strong> Las víctimas dañadas por los dientes y garras enfermas de una rata gigante reciben 4 puntos de daño y, al fallar la tirada de Defensa por Vigor, se infectan con una enfermedad de nivel 5. En un plazo de doce horas, las glándulas linfáticas de la víctima se hinchan, creando burbujas visibles. Cada doce horas a partir de entonces, la víctima debe tener éxito en una tirada de Defensa por Vigor o recibir 5 puntos de daño ambiental.<\/p>\n<p><strong>Interacción:<\/strong> Las ratas gigantes persiguen obstinadamente a sus presas, pero huyen si éstas resultan ser demasiado fuertes.<\/p>\n<p><strong>Uso:<\/strong> Un contacto de los PJs muere de peste antes de poder entregar un mensaje importante. Los PJs tendrán que retroceder en los movimientos del contacto para descubrir lo que quería decir, lo que les lleva a una colonia de ratas gigantes.<\/p>\n<p><strong>Intromisiones del DJ:<\/strong> Un enjambre de doce ratas ordinarias -cada una de nivel 1, pero que actúa como un enjambre de nivel 3- es convocado por el agudo chillido de una rata gigante.<\/p>"
+    },
+    "teen": {
+      "settings": {},
+      "pools": {},
+      "basic": {}
+    },
+    "version": 2
+  },
+  "ownership": {
+    "N1n5f3sdQOJFmoJe": 3,
+    "default": 0
+  },
+  "name": "Rata gigante",
+  "_id": "U508Iiym5DOrLbCP",
+  "items": []
+}

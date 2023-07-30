@@ -1,0 +1,16 @@
+{
+  "img": "icons/svg/d20-black.svg",
+  "documentCollection": "",
+  "flags": {},
+  "weight": 1,
+  "range": [
+    4,
+    4
+  ],
+  "documentId": null,
+  "_id": "SGUgAj2sajH7mxgx",
+  "text": "Mientras viajabas solo, salvaste la vida de una persona poderosa. Está en deuda contigo.",
+  "type": 0,
+  "drawn": false,
+  "_key": "!tables.results!ldbXbEteJgHbIdZe.SGUgAj2sajH7mxgx"
+}

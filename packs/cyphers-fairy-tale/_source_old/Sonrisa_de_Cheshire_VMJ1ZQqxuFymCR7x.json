@@ -1,0 +1,37 @@
+{
+  "img": "systems/cyphersystem/icons/items/cypher.svg",
+  "effects": [],
+  "system": {
+    "archived": false,
+    "settings": {
+      "general": {
+        "nameUnidentified": ""
+      }
+    },
+    "description": "<p><strong>Nivel:</strong> 1d6</p>\n<p><strong>Aspecto:</strong> Sonrisa traviesa</p>\n<p><strong>Efecto:</strong> Cuando se cuelga en el aire, la sonrisa se transforma lentamente en un Gato de Cheshire gris que parece estar hecho principalmente de humo y sombra. Tiene unos enormes ojos azules y una enorme sonrisa. El gato actúa como una criatura (nivel igual al nivel del Cypher) con mente propia, aunque probablemente ayude a la persona que activó el Cypher. Permanece durante diez minutos y luego se desvanece lentamente, hasta que incluso la sonrisa original ha desaparecido.</p>",
+    "basic": {
+      "identified": true,
+      "level": "1d6"
+    },
+    "version": 2
+  },
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "_stats": {
+    "modifiedTime": 1685280982952,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "yThCrv1jSfPXOC2U",
+    "createdTime": 1685276449921,
+    "systemVersion": "2.6.0",
+    "coreVersion": "10.291"
+  },
+  "name": "Sonrisa de Cheshire",
+  "flags": {},
+  "_id": "VMJ1ZQqxuFymCR7x",
+  "sort": 0,
+  "type": "cypher",
+  "_key": "!items!VMJ1ZQqxuFymCR7x"
+}

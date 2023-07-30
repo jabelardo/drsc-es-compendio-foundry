@@ -1,0 +1,47 @@
+{
+  "img": "systems/cyphersystem/icons/items/cypher.svg",
+  "effects": [],
+  "folder": null,
+  "system": {
+    "archived": false,
+    "rollButton": {
+      "stepModifier": "eased",
+      "damage": 0,
+      "damagePerLOE": 3,
+      "bonus": 0,
+      "pool": "Pool",
+      "teen": "",
+      "additionalSteps": 0,
+      "effort1": 0,
+      "effort3": 0,
+      "assets": 0,
+      "effort2": 0,
+      "skill": "Practiced",
+      "additionalCost": 0
+    },
+    "description": "<p><strong>Nivel:<\/strong> 1d6 + 2<\/p>\n<p><strong>Efecto:<\/strong> Modifica el ataque de un arma de una manera particular durante diez minutos por nivel del Cypher. Tira un d100 para la modificación.<\/p>\n<table class=\"table table-dark table-striped table-sm\">\n <thead>\n <\/thead>\n <tbody>\n  <tr>\n   <td>01-10<\/td>\n   <td>Alivia el ataque en un grado<\/td>\n  <\/tr>\n  <tr>\n   <td>11-20<\/td>\n   <td>Inflige una bonificación de daño eléctrico igual al nivel del Cypher<\/td>\n  <\/tr>\n  <tr>\n   <td>21-30<\/td>\n   <td>Inflige una bonificación de daño por frío igual al nivel del Cypher<\/td>\n  <\/tr>\n  <tr>\n   <td>31-40<\/td>\n   <td>Inflige una bonificación de daño por veneno igual al nivel del Cypher<\/td>\n  <\/tr>\n  <tr>\n   <td>41-50<\/td>\n   <td>Inflige una bonificación de daño por ácido igual al nivel del Cypher<\/td>\n  <\/tr>\n  <tr>\n   <td><p>51-60<\/p><\/td>\n   <td><p>Inflige una bonificación de daño por fuego igual al nivel del Cypher<\/p><\/td>\n  <\/tr>\n  <tr>\n   <td>61-70<\/td>\n   <td>Inflige una bonificación de daño sónico igual al nivel del Cypher<\/td>\n  <\/tr>\n  <tr>\n   <td>71-80<\/td>\n   <td>Inflige un daño psíquico adicional igual al nivel del Cypher<\/td>\n  <\/tr>\n  <tr>\n   <td>81-90<\/td>\n   <td>Repeler (con 18-20 en la tirada de ataque exitosa, el objetivo retrocede 9 m [30 pies])<\/td>\n  <\/tr>\n  <tr>\n   <td>91-95<\/td>\n   <td>Sujeción (con 18-20 en la tirada de ataque exitosa, el objetivo no puede actuar en su siguiente turno)<\/td>\n  <\/tr>\n  <tr>\n   <td>96-97<\/td>\n   <td>Alivia el ataque en dos grados<\/td>\n  <\/tr>\n  <tr>\n   <td>98<\/td>\n   <td>Destierro (con 18-20 en la tirada de ataque exitosa, el objetivo es enviado a una ubicación aleatoria a un mínimo de 160 km [100 millas] de distancia)<\/td>\n  <\/tr>\n  <tr>\n   <td>99<\/td>\n   <td>Explota, infligiendo un daño igual al nivel del Cypher a todos los que se encuentren dentro del alcance inmediato<\/td>\n  <\/tr>\n  <tr>\n   <td>00<\/td>\n   <td>Buscacorazón (con 18-20 en la tirada de ataque exitosa, el objetivo muere)<\/td>\n  <\/tr>\n <\/tbody>\n<\/table>",
+    "basic": {
+      "identified": true,
+      "level": "1d6 + 2"
+    },
+    "version": 2
+  },
+  "ownership": {
+    "default": 0,
+    "k2TkElLx959B0lm5": 3
+  },
+  "_stats": {
+    "modifiedTime": 1664959729722,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "rLeavHPrdkq6xjNt",
+    "createdTime": null,
+    "systemVersion": "2.0.0-a1",
+    "coreVersion": "10.286"
+  },
+  "name": "Mejora de arma",
+  "flags": {},
+  "sort": 0,
+  "_id": "vLodMbLfeliPpaol",
+  "type": "cypher",
+  "_key": "!items!vLodMbLfeliPpaol"
+}

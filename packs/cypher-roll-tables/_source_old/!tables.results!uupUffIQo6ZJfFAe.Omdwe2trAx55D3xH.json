@@ -1,0 +1,16 @@
+{
+  "img": "systems/cyphersystem/icons/items/artifact.svg",
+  "documentCollection": "cyphersystem-compendium.artifacts-fantasy",
+  "flags": {},
+  "weight": 6,
+  "range": [
+    80,
+    85
+  ],
+  "documentId": "zPXmgd2Y9C29OOYE",
+  "text": "80-85",
+  "_id": "Omdwe2trAx55D3xH",
+  "type": 2,
+  "drawn": false,
+  "_key": "!tables.results!uupUffIQo6ZJfFAe.Omdwe2trAx55D3xH"
+}

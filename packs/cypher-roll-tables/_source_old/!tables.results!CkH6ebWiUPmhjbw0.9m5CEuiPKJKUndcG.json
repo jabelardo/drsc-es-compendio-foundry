@@ -1,0 +1,16 @@
+{
+  "img": "systems/cyphersystem/icons/items/cypher.svg",
+  "documentCollection": "cyphersystem-compendium.cyphers-fairy-tale",
+  "flags": {},
+  "weight": 1,
+  "range": [
+    18,
+    18
+  ],
+  "documentId": "PQ8f8vFGbOWdF1DR",
+  "text": "Bálsamo de barba de Coalheart",
+  "_id": "9m5CEuiPKJKUndcG",
+  "type": 2,
+  "drawn": false,
+  "_key": "!tables.results!CkH6ebWiUPmhjbw0.9m5CEuiPKJKUndcG"
+}

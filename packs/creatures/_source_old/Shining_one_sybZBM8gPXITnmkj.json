@@ -1,0 +1,128 @@
+{
+  "img": "modules/drsc-es-compendio-foundry/img/tokens/elemental_energy.webp",
+  "_stats": {
+    "modifiedTime": 1676797809280,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "yThCrv1jSfPXOC2U",
+    "createdTime": 1676460433729,
+    "systemVersion": "2.3.0",
+    "coreVersion": "10.291"
+  },
+  "flags": {"core": {"sourceId": "Actor.uz3beKQnk59rgrq4"}},
+  "sort": 0,
+  "type": "npc",
+  "_key": "!actors!sybZBM8gPXITnmkj",
+  "prototypeToken": {
+    "displayBars": 40,
+    "displayName": 20,
+    "actorLink": false,
+    "texture": {
+      "scaleX": 1,
+      "offsetX": 0,
+      "scaleY": 1,
+      "offsetY": 0,
+      "src": "icons/svg/mystery-man.svg",
+      "rotation": 0,
+      "tint": null
+    },
+    "lockRotation": false,
+    "rotation": 0,
+    "detectionModes": [],
+    "flags": {},
+    "randomImg": false,
+    "bar1": {"attribute": "pools.health"},
+    "bar2": {"attribute": "basic.level"},
+    "disposition": 0,
+    "light": {
+      "attenuation": 0.5,
+      "color": null,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "animation": {
+        "intensity": 5,
+        "type": null,
+        "reverse": false,
+        "speed": 5
+      },
+      "saturation": 0,
+      "alpha": 0.5,
+      "contrast": 0,
+      "angle": 360,
+      "luminosity": 0.5,
+      "shadows": 0,
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "alpha": 1,
+    "name": "Resplandeciente",
+    "width": 1,
+    "sight": {
+      "saturation": 0,
+      "attenuation": 0.1,
+      "brightness": 0,
+      "color": null,
+      "visionMode": "basic",
+      "contrast": 0,
+      "range": null,
+      "angle": 360,
+      "enabled": false
+    },
+    "height": 1
+  },
+  "effects": [],
+  "system": {
+    "settings": {
+      "general": {
+        "initiativeBonus": 0,
+        "hideArchive": false
+      },
+      "equipment": {
+        "ammo": {"active": false},
+        "armor": {"active": false},
+        "attacks": {"active": false},
+        "materials": {
+          "active": false,
+          "label": ""
+        },
+        "cyphers": {
+          "active": false,
+          "label": ""
+        },
+        "oddities": {
+          "active": false,
+          "label": ""
+        },
+        "artifacts": {
+          "active": false,
+          "label": ""
+        }
+      }
+    },
+    "notes": "<p>Algunos seres alienígenas abandonaron sus formas físicas hace milenios, convirtiéndose en entidades de energía flotante y conciencia pura. Viajan por las galaxias, explorando las infinitas permutaciones de la materia, el espacio-tiempo, los fenómenos cósmicos, la energía oscura y la vida. Se fascinan sin cesar con las permutaciones que descubren. A veces aparecen como una silueta de luz suavemente resplandeciente, con una forma parecida a la de la especie alienígena que desean observar. En circunstancias en las que un resplandeciente se siente movido a interactuar más directamente, puede convertirse en materia una vez más, adoptando de nuevo la biología y la forma de la especie con la que desea interactuar. Pero, por lo general, los resplandecientes observan y aprenden; intentan no interferir ni interactuar. Cada varios miles de años, los resplandecientes se reúnen en un lugar predeterminado en el borde de una galaxia conveniente y comparten los fragmentos más interesantes y bellos de imágenes, música, poesía y sabiduría que han recogido.<\/p>\n<p><strong>Motivación: <\/strong>Conocimiento<\/p>\n<p><strong>Entorno:<\/strong> Cualquier lugar, normalmente solo<\/p>\n<p><strong>Salud:<\/strong> 15<\/p>\n<p><strong>Daño que inflige: <\/strong>6 puntos<\/p>\n<p><strong>Movimiento:<\/strong> Se desplaza instantáneamente a cualquier lugar que pueda ver a la velocidad de la luz como parte de su acción una vez por ronda<\/p>\n<p><strong>Ajustes<\/strong>: Nivel 8 para todas las tareas relacionadas con el conocimiento<\/p>\n<p><strong>Combate: <\/strong>Como seres inmateriales de energía, los resplandecientes sólo reciben daño de los ataques de energía. E incluso entonces, existe la posibilidad de que la energía cure a un resplandeciente dañado en lugar de dañarlo si la tirada de ataque fue un número impar. Normalmente, un resplandeciente no se defiende si es atacado, sino que se marcha. Si de algún modo se le impide marcharse, un resplandeciente lucha por su existencia con ráfagas de energía que infligen 6 puntos de daño a un máximo de dos objetivos diferentes a muy larga distancia (o al mismo objetivo dos veces).<\/p>\n<p>Alternativamente, un resplandeciente puede intentar desincorporar a un objetivo, convirtiéndolo en un ser parecido a sí mismo. En este caso, cada vez que un objetivo es alcanzado por una explosión de energía, también debe tener éxito en una tirada de Defensa por Intelecto. Si falla, pierde 6 puntos de daño de Intelecto (ignora Armadura). Si la Reserva de Intelecto del objetivo se vacía, se convierte en una bola de energía flotante incapaz de realizar otra acción que no sea observar durante unos minutos antes de volver a su forma original con un estallido explosivo.<\/p>\n<p><strong>Interacción:<\/strong> Los resplandecientes pueden manipular su entorno para comunicarse con otras especies, utilizando el sonido, la luz, bocanadas de complejos químicos odoríferos en lugar de palabras, etcétera. Si se les trata con respeto, intercambian información libremente con los demás, tratando de ampliar sus conocimientos y los de aquellos con los que se encuentran.<\/p>\n<p><strong>Uso:<\/strong> Un resplandeciente está compartiendo conocimientos a una especie xenófoba belicosa que podría permitirles avanzar rápidamente en su capacidad de consolidar el poder. Hay que hacer algo antes de que sea demasiado tarde.<\/p>\n<p><strong>Intromisiones del DJ:<\/strong> Un personaje alcanzado por la ráfaga de energía del resplandeciente se incendia. Recibe 3 puntos de daño cada ronda hasta que gaste una acción palmeando, rodando o sofocando las llamas.<\/p>",
+    "pools": {"health": {
+      "max": 15,
+      "value": 15
+    }},
+    "description": "",
+    "combat": {
+      "damage": 6,
+      "armor": 0
+    },
+    "basic": {
+      "level": 5,
+      "biography": "<p>Algunos seres alienígenas abandonaron sus formas físicas hace milenios, convirtiéndose en entidades de energía flotante y conciencia pura. Viajan por las galaxias, explorando las infinitas permutaciones de la materia, el espacio-tiempo, los fenómenos cósmicos, la energía oscura y la vida. Se fascinan sin cesar con las permutaciones que descubren. A veces aparecen como una silueta de luz suavemente resplandeciente, con una forma parecida a la de la especie alienígena que desean observar. En circunstancias en las que un resplandeciente se siente movido a interactuar más directamente, puede convertirse en materia una vez más, adoptando de nuevo la biología y la forma de la especie con la que desea interactuar. Pero, por lo general, los resplandecientes observan y aprenden; intentan no interferir ni interactuar. Cada varios miles de años, los resplandecientes se reúnen en un lugar predeterminado en el borde de una galaxia conveniente y comparten los fragmentos más interesantes y bellos de imágenes, música, poesía y sabiduría que han recogido.<\/p>\n<p><strong>Motivación: <\/strong>Conocimiento<\/p>\n<p><strong>Entorno:<\/strong> Cualquier lugar, normalmente solo<\/p>\n<p><strong>Salud:<\/strong> 15<\/p>\n<p><strong>Daño que inflige: <\/strong>6 puntos<\/p>\n<p><strong>Movimiento:<\/strong> Se desplaza instantáneamente a cualquier lugar que pueda ver a la velocidad de la luz como parte de su acción una vez por ronda<\/p>\n<p><strong>Ajustes<\/strong>: Nivel 8 para todas las tareas relacionadas con el conocimiento<\/p>\n<p><strong>Combate: <\/strong>Como seres inmateriales de energía, los resplandecientes sólo reciben daño de los ataques de energía. E incluso entonces, existe la posibilidad de que la energía cure a un resplandeciente dañado en lugar de dañarlo si la tirada de ataque fue un número impar. Normalmente, un resplandeciente no se defiende si es atacado, sino que se marcha. Si de algún modo se le impide marcharse, un resplandeciente lucha por su existencia con ráfagas de energía que infligen 6 puntos de daño a un máximo de dos objetivos diferentes a muy larga distancia (o al mismo objetivo dos veces).<\/p>\n<p>Alternativamente, un resplandeciente puede intentar desincorporar a un objetivo, convirtiéndolo en un ser parecido a sí mismo. En este caso, cada vez que un objetivo es alcanzado por una explosión de energía, también debe tener éxito en una tirada de Defensa por Intelecto. Si falla, pierde 6 puntos de daño de Intelecto (ignora Armadura). Si la Reserva de Intelecto del objetivo se vacía, se convierte en una bola de energía flotante incapaz de realizar otra acción que no sea observar durante unos minutos antes de volver a su forma original con un estallido explosivo.<\/p>\n<p><strong>Interacción:<\/strong> Los resplandecientes pueden manipular su entorno para comunicarse con otras especies, utilizando el sonido, la luz, bocanadas de complejos químicos odoríferos en lugar de palabras, etcétera. Si se les trata con respeto, intercambian información libremente con los demás, tratando de ampliar sus conocimientos y los de aquellos con los que se encuentran.<\/p>\n<p><strong>Uso:<\/strong> Un resplandeciente está compartiendo conocimientos a una especie xenófoba belicosa que podría permitirles avanzar rápidamente en su capacidad de consolidar el poder. Hay que hacer algo antes de que sea demasiado tarde.<\/p>\n<p><strong>Intromisiones del DJ:<\/strong> Un personaje alcanzado por la ráfaga de energía del resplandeciente se incendia. Recibe 3 puntos de daño cada ronda hasta que gaste una acción palmeando, rodando o sofocando las llamas.<\/p>"
+    },
+    "version": 2
+  },
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "name": "Resplandeciente",
+  "_id": "sybZBM8gPXITnmkj",
+  "items": []
+}

@@ -1,0 +1,54 @@
+{
+  "img": "systems/cyphersystem/icons/items/ability.svg",
+  "effects": [],
+  "folder": null,
+  "system": {
+    "archived": false,
+    "settings": {
+      "general": {
+        "spellTier": "low",
+        "sorting": "Ability",
+        "unmaskedForm": "Mask"
+      },
+      "rollButton": {
+        "stepModifier": "eased",
+        "damage": 0,
+        "damagePerLOE": 3,
+        "bonus": 0,
+        "pool": "Pool",
+        "teen": "",
+        "additionalSteps": 0,
+        "effort1": 0,
+        "effort3": 0,
+        "assets": 0,
+        "effort2": 0,
+        "skill": "Practiced",
+        "additionalCost": 0
+      }
+    },
+    "description": "<p>Modificas la forma en que una criatura dispuesta a corto alcance refleja la luz durante un minuto. El objetivo cambia rápidamente entre su apariencia normal y una mancha de oscuridad. El objetivo tiene un recurso en las tiradas de Defensa por Velocidad hasta que el efecto desaparezca. Acción para iniciar.<\/p>",
+    "basic": {
+      "cost": "2",
+      "pool": "Intellect"
+    },
+    "version": 2
+  },
+  "ownership": {
+    "default": 0,
+    "k2TkElLx959B0lm5": 3
+  },
+  "_stats": {
+    "modifiedTime": 1664959716472,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "rLeavHPrdkq6xjNt",
+    "createdTime": null,
+    "systemVersion": "2.0.0-a1",
+    "coreVersion": "10.286"
+  },
+  "name": "Distorsión",
+  "flags": {"core": {"sourceId": "Compendium.cyphersystem-compendium.abilities.6qCR3kBqCVYDlEOl"}},
+  "_id": "6qCR3kBqCVYDlEOl",
+  "sort": 0,
+  "type": "ability",
+  "_key": "!items!6qCR3kBqCVYDlEOl"
+}

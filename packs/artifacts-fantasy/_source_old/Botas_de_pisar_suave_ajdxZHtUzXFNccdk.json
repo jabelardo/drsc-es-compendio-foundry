@@ -1,0 +1,57 @@
+{
+  "img": "systems/cyphersystem/icons/items/artifact.svg",
+  "effects": [],
+  "system": {
+    "archived": false,
+    "settings": {
+      "general": {
+        "nameUnidentified": ""
+      }
+    },
+    "rollButton": {
+      "stepModifier": "eased",
+      "damage": 0,
+      "damagePerLOE": 3,
+      "bonus": 0,
+      "pool": "Pool",
+      "teen": "",
+      "additionalSteps": 0,
+      "effort1": 0,
+      "effort3": 0,
+      "assets": 0,
+      "effort2": 0,
+      "skill": "Practiced",
+      "additionalCost": 0
+    },
+    "description": "<p><strong>Nivel:</strong> 1d6 + 1</p>\n<p><strong>Aspecto:</strong> Par de botas</p>\n<p><strong>Efecto:</strong> Cuando se activan las botas, durante la siguiente hora el portador puede moverse por terrenos abruptos o difíciles a velocidad normal, subir paredes e incluso caminar sobre líquidos. En zonas de gravedad baja o nula, el portador puede caminar por superficies duras (incluso en vertical o boca abajo) como si estuviera bajo gravedad normal.</p>\n<p><strong>Agotamiento:</strong> 1 en 1d100</p>",
+    "basic": {
+      "depletion": "1 in [[/r 1d100 # Depletion roll]]",
+      "identified": true,
+      "level": "1d6+1"
+    },
+    "version": 2
+  },
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "_stats": {
+    "modifiedTime": 1676451419084,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "yThCrv1jSfPXOC2U",
+    "createdTime": 1676367597898,
+    "systemVersion": "2.3.0",
+    "coreVersion": "10.291"
+  },
+  "name": "Botas de pisar suave",
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.cyphersystem-compendium.artifacts-fantasy.nDBMT1Rz85YasDHH"
+    }
+  },
+  "sort": 0,
+  "_id": "ajdxZHtUzXFNccdk",
+  "type": "artifact",
+  "_key": "!items!ajdxZHtUzXFNccdk"
+}

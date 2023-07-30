@@ -1,0 +1,54 @@
+{
+  "img": "systems/cyphersystem/icons/items/ability.svg",
+  "effects": [],
+  "folder": null,
+  "system": {
+    "archived": false,
+    "settings": {
+      "general": {
+        "spellTier": "low",
+        "sorting": "Ability",
+        "unmaskedForm": "Mask"
+      },
+      "rollButton": {
+        "stepModifier": "eased",
+        "damage": 0,
+        "damagePerLOE": 3,
+        "bonus": 0,
+        "pool": "Pool",
+        "teen": "",
+        "additionalSteps": 0,
+        "effort1": 0,
+        "effort3": 0,
+        "assets": 0,
+        "effort2": 0,
+        "skill": "Practiced",
+        "additionalCost": 0
+      }
+    },
+    "description": "<p>Con tu ataque, añades movimientos elegantes, bromas divertidas o algo que entretenga o impresione a los demás. Una criatura que elijas dentro de un alcance corto que pueda verte gana un recurso para su próxima tarea si se toma dentro de una o dos rondas. Capacitador.<\/p>",
+    "basic": {
+      "cost": "0",
+      "pool": "Pool"
+    },
+    "version": 2
+  },
+  "ownership": {
+    "default": 0,
+    "k2TkElLx959B0lm5": 3
+  },
+  "_stats": {
+    "modifiedTime": 1664959713643,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "rLeavHPrdkq6xjNt",
+    "createdTime": null,
+    "systemVersion": "2.0.0-a1",
+    "coreVersion": "10.286"
+  },
+  "name": "Floritura en ataque",
+  "flags": {"core": {"sourceId": "Compendium.cyphersystem-compendium.abilities.b8rtgyatE8o9FaRS"}},
+  "_id": "b8rtgyatE8o9FaRS",
+  "sort": 0,
+  "type": "ability",
+  "_key": "!items!b8rtgyatE8o9FaRS"
+}

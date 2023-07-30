@@ -1,0 +1,51 @@
+{
+  "name": "Vínculos de Trasfondo del Adepto",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    "ExLNUjcO4kwJ14Tr",
+    "3EWcdzJ7qwPqpt88",
+    "3BABX4UEnfTmhURl",
+    "SGUgAj2sajH7mxgx",
+    "0cTnoNoGpA6IoqE3",
+    "KeX9WlbIgk3C1iZy",
+    "Q3Um71QQeNihXBLF",
+    "IMr0SQtEgL38jLdI",
+    "mZ77YqmfkifZLDHU",
+    "ofeEgmxSsAPa1oo5",
+    "iU7801uvIFKrwIHc",
+    "MF13qUuZqZiW2F0k",
+    "06T5rYZ8HhxRulpz",
+    "OCR3O1lw7p0fPcas",
+    "O3UFPqjlb5JA6RYu",
+    "qbquMte0D71FqtsL",
+    "PIPDLy6XrTeDQEYP",
+    "D4Xf6SL3gWGReL7x",
+    "dLZOyd0VlztRRcwP",
+    "n3c24ZqQ1Gx0nhMa"
+  ],
+  "formula": "1d20",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "rLeavHPrdkq6xjNt": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.ELYCsym529FWArbK"
+    }
+  },
+  "_stats": {
+    "systemId": "cyphersystem",
+    "systemVersion": "2.6.2",
+    "coreVersion": "11.299",
+    "createdTime": 1666782544194,
+    "modifiedTime": 1685560143912,
+    "lastModifiedBy": "7luxagQiisUFvSQn"
+  },
+  "folder": "msIaT39hNVlursoR",
+  "sort": 100000,
+  "_id": "ldbXbEteJgHbIdZe",
+  "_key": "!tables!ldbXbEteJgHbIdZe"
+}

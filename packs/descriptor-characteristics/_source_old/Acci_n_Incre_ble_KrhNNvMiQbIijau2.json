@@ -1,0 +1,63 @@
+{
+  "name": "Acción Increíble",
+  "type": "ability",
+  "img": "systems/cyphersystem/icons/items/ability.svg",
+  "system": {
+    "version": 2,
+    "description": "<p>Puedes elegir tener éxito automáticamente en una tarea sin tirar el dado, siempre que la dificultad de la tarea no sea superior a 6. Sin embargo, cuando lo hagas, también desencadenas una intromisión del DJ como si hubieras sacado un 1. La intromisión no invalida el éxito, pero probablemente lo califica de alguna manera. Puedes hacer esto una vez, aunque la habilidad se renueva cada vez que hagas una tirada de recuperación de diez horas.</p>",
+    "archived": false,
+    "settings": {
+      "rollButton": {
+        "pool": "Pool",
+        "skill": "Practiced",
+        "assets": "0",
+        "effort1": "0",
+        "effort2": "0",
+        "effort3": "0",
+        "stepModifier": "eased",
+        "additionalSteps": 0,
+        "additionalCost": 0,
+        "damage": 0,
+        "damagePerLOE": 3,
+        "teen": "",
+        "bonus": 0
+      },
+      "linkedItems": {
+        "ability": "",
+        "attack": "",
+        "skill": ""
+      },
+      "general": {
+        "sorting": "Ability",
+        "spellTier": "low",
+        "unmaskedForm": "Mask"
+      }
+    },
+    "basic": {
+      "cost": "0",
+      "pool": "Pool"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Item.w1qsTa9qK2iTL4Sv"
+    }
+  },
+  "_stats": {
+    "systemId": "cyphersystem",
+    "systemVersion": "2.6.0",
+    "coreVersion": "10.291",
+    "createdTime": 1684528324005,
+    "modifiedTime": 1684528345952,
+    "lastModifiedBy": "yThCrv1jSfPXOC2U"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "KrhNNvMiQbIijau2",
+  "_key": "!items!KrhNNvMiQbIijau2"
+}

@@ -1,0 +1,58 @@
+{
+  "img": "systems/cyphersystem/icons/items/ability.svg",
+  "effects": [],
+  "folder": null,
+  "system": {
+    "archived": false,
+    "settings": {
+      "general": {
+        "spellTier": "low",
+        "sorting": "Ability",
+        "unmaskedForm": "Mask"
+      },
+      "rollButton": {
+        "stepModifier": "eased",
+        "damage": 0,
+        "damagePerLOE": 3,
+        "bonus": 0,
+        "pool": "Pool",
+        "teen": "",
+        "additionalSteps": 0,
+        "effort1": 0,
+        "effort3": 0,
+        "assets": 0,
+        "effort2": 0,
+        "skill": "Practiced",
+        "additionalCost": 0
+      }
+    },
+    "description": "<p>Cuando lo desees, puedes contactar con hasta diez criaturas conocidas por ti, sin importar dónde estén. Todos los objetivos deben estar dispuestos y ser capaces de comunicarse. Tienes éxito automáticamente al establecer una red telepática; no se requiere ninguna tirada. Todas las criaturas de la red están vinculadas y pueden comunicarse telepáticamente entre sí. También pueden \"escuchar\" cualquier cosa que se diga en la red, si lo desean. Activar esta capacidad no requiere ninguna acción y no cuesta puntos de Intelecto; para ti es tan fácil como hablar en voz alta. La red dura hasta que decidas terminarla. Si gastas 5 puntos de Intelecto, puedes contactar con veinte criaturas a la vez, y por cada 1 punto de Intelecto que gastes por encima de eso, puedes añadir diez criaturas más a la red. Estas redes más grandes duran diez minutos. Crear una red de veinte o más criaturas requiere una acción para establecer el contacto. Capacitador.</p>",
+    "basic": {
+      "cost": "0+",
+      "pool": "Intellect"
+    },
+    "version": 2
+  },
+  "ownership": {
+    "default": 0,
+    "k2TkElLx959B0lm5": 3
+  },
+  "_stats": {
+    "modifiedTime": 1664959725220,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "rLeavHPrdkq6xjNt",
+    "createdTime": null,
+    "systemVersion": "2.0.0-a1",
+    "coreVersion": "10.286"
+  },
+  "name": "Red telepática",
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.cyphersystem-compendium.abilities.K0C60k7wHBSpMQX4"
+    }
+  },
+  "_id": "K0C60k7wHBSpMQX4",
+  "sort": 0,
+  "type": "ability",
+  "_key": "!items!K0C60k7wHBSpMQX4"
+}

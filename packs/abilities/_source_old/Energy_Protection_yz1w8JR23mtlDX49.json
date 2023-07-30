@@ -1,0 +1,54 @@
+{
+  "img": "systems/cyphersystem/icons/items/ability.svg",
+  "effects": [],
+  "folder": null,
+  "system": {
+    "archived": false,
+    "settings": {
+      "general": {
+        "spellTier": "low",
+        "sorting": "Ability",
+        "unmaskedForm": "Mask"
+      },
+      "rollButton": {
+        "stepModifier": "eased",
+        "damage": 0,
+        "damagePerLOE": 3,
+        "bonus": 0,
+        "pool": "Pool",
+        "teen": "",
+        "additionalSteps": 0,
+        "effort1": 0,
+        "effort3": 0,
+        "assets": 0,
+        "effort2": 0,
+        "skill": "Practiced",
+        "additionalCost": 0
+      }
+    },
+    "description": "<p>Elige un tipo discreto de energía con el que tengas experiencia (como calor, sonido, electricidad, etc.). Obtienes +10 a la Armadura contra el daño de ese tipo de energía durante diez minutos. Alternativamente, obtienes +1 a la Armadura contra el daño de esa energía durante 24 horas. Debes estar familiarizado con el tipo de energía; por ejemplo, si no tienes experiencia con cierto tipo de energía extradimensional, no puedes protegerte contra ella. Además de las opciones normales para usar Esfuerzo, puedes elegir usar Esfuerzo para proteger a más objetivos; cada nivel de Esfuerzo usado de esta manera afecta hasta a dos objetivos adicionales. Debes tocar los objetivos adicionales para protegerlos. Acción para iniciar.<\/p>",
+    "basic": {
+      "cost": "3+",
+      "pool": "Intellect"
+    },
+    "version": 2
+  },
+  "ownership": {
+    "default": 0,
+    "k2TkElLx959B0lm5": 3
+  },
+  "_stats": {
+    "modifiedTime": 1664959717150,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "rLeavHPrdkq6xjNt",
+    "createdTime": null,
+    "systemVersion": "2.0.0-a1",
+    "coreVersion": "10.286"
+  },
+  "name": "Protección contra energía",
+  "flags": {"core": {"sourceId": "Compendium.cyphersystem-compendium.abilities.yz1w8JR23mtlDX49"}},
+  "_id": "yz1w8JR23mtlDX49",
+  "sort": 0,
+  "type": "ability",
+  "_key": "!items!yz1w8JR23mtlDX49"
+}

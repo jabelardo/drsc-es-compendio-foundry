@@ -1,0 +1,16 @@
+{
+  "img": "icons/svg/d20-black.svg",
+  "documentCollection": "",
+  "flags": {},
+  "weight": 1,
+  "range": [
+    1,
+    1
+  ],
+  "documentId": null,
+  "_id": "QuWEuA6YoSUxXpwH",
+  "text": "Estuviste en el ejército y aún tienes amigos allí. Tu antiguo comandante te recuerda bien.",
+  "type": 0,
+  "drawn": false,
+  "_key": "!tables.results!sEDd1gQiT9UHF023.QuWEuA6YoSUxXpwH"
+}

@@ -1,0 +1,135 @@
+{
+  "img": "modules/drsc-es-compendio-foundry/img/tokens/animal_mundane.webp",
+  "_stats": {
+    "modifiedTime": 1676797809090,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "yThCrv1jSfPXOC2U",
+    "createdTime": null,
+    "systemVersion": "2.3.0",
+    "coreVersion": "10.291"
+  },
+  "flags": {},
+  "sort": 0,
+  "type": "npc",
+  "_key": "!actors!G1R1ESjuGxTJ7VwN",
+  "prototypeToken": {
+    "displayBars": 40,
+    "displayName": 20,
+    "actorLink": false,
+    "lockRotation": false,
+    "texture": {
+      "scaleX": 1,
+      "offsetX": 0,
+      "scaleY": 1,
+      "offsetY": 0,
+      "src": "icons/svg/mystery-man.svg",
+      "rotation": 0,
+      "tint": null
+    },
+    "rotation": 0,
+    "detectionModes": [],
+    "flags": {},
+    "randomImg": false,
+    "bar1": {"attribute": "pools.health"},
+    "bar2": {"attribute": "basic.level"},
+    "disposition": 0,
+    "light": {
+      "attenuation": 0.5,
+      "color": null,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "animation": {
+        "intensity": 5,
+        "reverse": false,
+        "type": null,
+        "speed": 5
+      },
+      "saturation": 0,
+      "alpha": 0.5,
+      "contrast": 0,
+      "angle": 360,
+      "luminosity": 0.5,
+      "shadows": 0,
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "alpha": 1,
+    "name": "Serpiente gigante",
+    "width": 1,
+    "sight": {
+      "saturation": 0,
+      "brightness": 1,
+      "attenuation": 0.1,
+      "color": null,
+      "visionMode": "basic",
+      "contrast": 0,
+      "angle": 360,
+      "range": 0,
+      "enabled": false
+    },
+    "height": 1
+  },
+  "effects": [],
+  "folder": null,
+  "system": {
+    "settings": {
+      "skills": {},
+      "abilities": {},
+      "general": {
+        "initiativeBonus": 0,
+        "hideArchive": false
+      },
+      "equipment": {
+        "ammo": {"active": false},
+        "armor": {"active": false},
+        "attacks": {"active": false},
+        "materials": {
+          "active": false,
+          "label": ""
+        },
+        "cyphers": {
+          "active": false,
+          "label": ""
+        },
+        "oddities": {
+          "active": false,
+          "label": ""
+        },
+        "artifacts": {
+          "active": false,
+          "label": ""
+        }
+      }
+    },
+    "notes": "<p>Los que están a punto de tropezar con la presencia de una serpiente gigante de al menos 15 m [50 pies] de largo son advertidos por la piel que desprende y por los huesos agrietados y resbaladizos de las víctimas digeridas.<\/p>\n<p><strong>Motivación:<\/strong> Alimentación (carne)<\/p>\n<p><strong>Entorno:<\/strong> Cualquier lugar donde pueda acechar una serpiente gigante, incluyendo selvas, alcantarillas, cuevas y tubos de acceso a naves espaciales.<\/p>\n<p><strong>Salud:<\/strong> 18<\/p>\n<p><strong>Daño que inflige:<\/strong> 5 puntos o más; ver Combate<\/p>\n<p><strong>Armadura:<\/strong> 2<\/p>\n<p><strong>Movimiento:<\/strong> Corto<\/p>\n<p><strong>Ajustes: <\/strong>Nivel 6 para percepción y sigilo; nivel 3 para Defensa por Velocidad debido al tamaño<\/p>\n<p><strong>Combate:<\/strong> Una serpiente gigante muerde a los enemigos, preferiblemente desde una emboscada, obstaculizando la Defensa por Velocidad del objetivo en dos grados. Si tiene éxito, el mordisco de la serpiente inflige 8 puntos de daño por ese ataque. Si se falla la tirada de Defensa por Vigor, el mordisco también inflige 3 puntos de daño de Velocidad (ignora la Armadura). Una serpiente gigante puede enroscarse alrededor de una víctima dormida, aturdida o incapacitada. Las víctimas atrapadas reciben automáticamente 5 puntos de daño por aplastamiento cada ronda hasta que se liberan.<\/p>\n<p>Las serpientes gigantes pierden sus ajustes de percepción y sigilo en climas fríos y cuando son atacadas con habilidades que reducen la temperatura. Así, las criaturas se retiran del frío.<\/p>\n<p><strong>Interacción:<\/strong> Una serpiente gigante es un depredador que considera a otras criaturas como alimento, aunque las ignora cuando está ocupada digiriendo una comida.<\/p>\n<p><strong>Uso:<\/strong> Los personajes notan algo raro cuando ven ojos centelleantes que se asoman desde la oscuridad, mirando como si quisieran inmovilizar a las víctimas con frío terror.<\/p>\n<p><strong>Botín:<\/strong> Los excrementos o el gaznate de una serpiente gigante pueden contener algunos Cyphers y posiblemente un artefacto que la criatura no pudo digerir.<\/p>\n<p><strong>Intromisiones del DJ:<\/strong> El veneno de la serpiente afecta al personaje con más fuerza. En lugar de limitarse a infligir daño de Velocidad, también paraliza al personaje durante un minuto, aunque después de un par de rondas, la víctima puede hacer otra tirada de Defensa por Vigor para deshacerse de los efectos del veneno antes de tiempo.<\/p>",
+    "pools": {"health": {
+      "max": 18,
+      "value": 18
+    }},
+    "description": "",
+    "combat": {
+      "damage": 5,
+      "armor": 2
+    },
+    "basic": {
+      "level": 4,
+      "biography": "<p>Los que están a punto de tropezar con la presencia de una serpiente gigante de al menos 15 m [50 pies] de largo son advertidos por la piel que desprende y por los huesos agrietados y resbaladizos de las víctimas digeridas.<\/p>\n<p><strong>Motivación:<\/strong> Alimentación (carne)<\/p>\n<p><strong>Entorno:<\/strong> Cualquier lugar donde pueda acechar una serpiente gigante, incluyendo selvas, alcantarillas, cuevas y tubos de acceso a naves espaciales.<\/p>\n<p><strong>Salud:<\/strong> 18<\/p>\n<p><strong>Daño que inflige:<\/strong> 5 puntos o más; ver Combate<\/p>\n<p><strong>Armadura:<\/strong> 2<\/p>\n<p><strong>Movimiento:<\/strong> Corto<\/p>\n<p><strong>Ajustes: <\/strong>Nivel 6 para percepción y sigilo; nivel 3 para Defensa por Velocidad debido al tamaño<\/p>\n<p><strong>Combate:<\/strong> Una serpiente gigante muerde a los enemigos, preferiblemente desde una emboscada, obstaculizando la Defensa por Velocidad del objetivo en dos grados. Si tiene éxito, el mordisco de la serpiente inflige 8 puntos de daño por ese ataque. Si se falla la tirada de Defensa por Vigor, el mordisco también inflige 3 puntos de daño de Velocidad (ignora la Armadura). Una serpiente gigante puede enroscarse alrededor de una víctima dormida, aturdida o incapacitada. Las víctimas atrapadas reciben automáticamente 5 puntos de daño por aplastamiento cada ronda hasta que se liberan.<\/p>\n<p>Las serpientes gigantes pierden sus ajustes de percepción y sigilo en climas fríos y cuando son atacadas con habilidades que reducen la temperatura. Así, las criaturas se retiran del frío.<\/p>\n<p><strong>Interacción:<\/strong> Una serpiente gigante es un depredador que considera a otras criaturas como alimento, aunque las ignora cuando está ocupada digiriendo una comida.<\/p>\n<p><strong>Uso:<\/strong> Los personajes notan algo raro cuando ven ojos centelleantes que se asoman desde la oscuridad, mirando como si quisieran inmovilizar a las víctimas con frío terror.<\/p>\n<p><strong>Botín:<\/strong> Los excrementos o el gaznate de una serpiente gigante pueden contener algunos Cyphers y posiblemente un artefacto que la criatura no pudo digerir.<\/p>\n<p><strong>Intromisiones del DJ:<\/strong> El veneno de la serpiente afecta al personaje con más fuerza. En lugar de limitarse a infligir daño de Velocidad, también paraliza al personaje durante un minuto, aunque después de un par de rondas, la víctima puede hacer otra tirada de Defensa por Vigor para deshacerse de los efectos del veneno antes de tiempo.<\/p>"
+    },
+    "teen": {
+      "settings": {},
+      "pools": {},
+      "basic": {}
+    },
+    "version": 2
+  },
+  "ownership": {
+    "N1n5f3sdQOJFmoJe": 3,
+    "default": 0
+  },
+  "name": "Serpiente gigante",
+  "_id": "G1R1ESjuGxTJ7VwN",
+  "items": []
+}

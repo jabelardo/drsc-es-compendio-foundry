@@ -1,0 +1,16 @@
+{
+  "img": "systems/cyphersystem/icons/items/artifact.svg",
+  "documentCollection": "cyphersystem-compendium.artifacts-fairy-tale",
+  "flags": {},
+  "weight": 3,
+  "range": [
+    75,
+    77
+  ],
+  "documentId": "TqILfxafMtfb8jho",
+  "text": "Camisa de ortigas",
+  "_id": "KBB3DUeXZpDO7skh",
+  "type": 2,
+  "drawn": false,
+  "_key": "!tables.results!rE7quqfGeVxHOAma.KBB3DUeXZpDO7skh"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Avanzada",
+  "sorting": "m",
+  "folder": null,
+  "type": "Item",
+  "_id": "od0jeOhznWFwhfgI",
+  "sort": 0,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "systemId": "cyphersystem",
+    "systemVersion": "2.6.2",
+    "coreVersion": "11.299",
+    "createdTime": null,
+    "modifiedTime": 1685560907456,
+    "lastModifiedBy": "7luxagQiisUFvSQn"
+  },
+  "_key": "!folders!od0jeOhznWFwhfgI"
+}

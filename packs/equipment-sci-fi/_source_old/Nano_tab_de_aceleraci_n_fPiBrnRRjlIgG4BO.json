@@ -1,0 +1,32 @@
+{
+  "name": "Nano tab de aceleración",
+  "type": "equipment",
+  "img": "systems/cyphersystem/icons/items/equipment.svg",
+  "system": {
+    "version": 2,
+    "description": "<p>Como la nano tab general, pero otorga permanentemente los beneficios de una ampolla de suero de aceleración.</p>",
+    "archived": false,
+    "basic": {
+      "level": 6,
+      "quantity": 1
+    }
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "cyphersystem",
+    "systemVersion": "2.6.2",
+    "coreVersion": "11.301",
+    "createdTime": 1676552147700,
+    "modifiedTime": 1686394202925,
+    "lastModifiedBy": "ZyqFG5NpQtVrpwj7"
+  },
+  "_id": "fPiBrnRRjlIgG4BO",
+  "folder": "7rmYjOb7uxsMhqw2",
+  "sort": 1300000,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "_key": "!items!fPiBrnRRjlIgG4BO"
+}

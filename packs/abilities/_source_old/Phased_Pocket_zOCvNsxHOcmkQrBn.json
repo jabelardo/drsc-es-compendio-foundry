@@ -1,0 +1,54 @@
+{
+  "img": "systems/cyphersystem/icons/items/ability.svg",
+  "effects": [],
+  "folder": null,
+  "system": {
+    "archived": false,
+    "settings": {
+      "general": {
+        "spellTier": "low",
+        "sorting": "Ability",
+        "unmaskedForm": "Mask"
+      },
+      "rollButton": {
+        "stepModifier": "eased",
+        "damage": 0,
+        "damagePerLOE": 3,
+        "bonus": 0,
+        "pool": "Pool",
+        "teen": "",
+        "additionalSteps": 0,
+        "effort1": 0,
+        "effort3": 0,
+        "assets": 0,
+        "effort2": 0,
+        "skill": "Practiced",
+        "additionalCost": 0
+      }
+    },
+    "description": "<p>Te conectas durante una hora a un pequeño espacio que está fuera de fase y se mueve contigo. Puedes acceder a este espacio como si fuera un cómodo bolsillo o bolsa, pero nadie más puede percibir o acceder al espacio a menos que tenga la capacidad de interactuar con áreas transdimensionales. El espacio puede contener hasta 1 pie cúbico. El espacio es una parte de ti, por lo que no puedes usarlo para llevar más Cyphers que tu límite, un Cypher detonado activado dentro del espacio te perjudica, etc. Cuando la conexión termina, todo lo que hay en el espacio cae. Por cada 2 puntos de Intelecto adicionales que gastes, la bolsa dura una hora más. Capacitador.<\/p>",
+    "basic": {
+      "cost": "2+",
+      "pool": "Intellect"
+    },
+    "version": 2
+  },
+  "ownership": {
+    "default": 0,
+    "k2TkElLx959B0lm5": 3
+  },
+  "_stats": {
+    "modifiedTime": 1664959722406,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "rLeavHPrdkq6xjNt",
+    "createdTime": null,
+    "systemVersion": "2.0.0-a1",
+    "coreVersion": "10.286"
+  },
+  "name": "Bolsillo en fase",
+  "flags": {"core": {"sourceId": "Compendium.cyphersystem-compendium.abilities.zOCvNsxHOcmkQrBn"}},
+  "_id": "zOCvNsxHOcmkQrBn",
+  "sort": 0,
+  "type": "ability",
+  "_key": "!items!zOCvNsxHOcmkQrBn"
+}

@@ -1,0 +1,32 @@
+{
+  "name": "Suero curativo",
+  "type": "equipment",
+  "img": "systems/cyphersystem/icons/items/equipment.svg",
+  "system": {
+    "version": 2,
+    "description": "<p>&ldquo;Suero&rdquo; es un término utilizado a menudo para referirse a una ampolla de sangre y plasma artificial que provee algún tipo de beneficio. Los sueros de todo tipo suelen dispensarse desde un autodoc, pero también pueden obtenerse como unidades individuales o en paquetes o cajas. Una ampolla de suero curativo otorga al usuario 3 puntos que puede añadir a cualquier Reserva. También tiene la ventaja de aliviar los síntomas de la resaca.</p>",
+    "archived": false,
+    "basic": {
+      "level": 3,
+      "quantity": 1
+    }
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "cyphersystem",
+    "systemVersion": "2.6.2",
+    "coreVersion": "11.301",
+    "createdTime": 1676540450187,
+    "modifiedTime": 1686393995739,
+    "lastModifiedBy": "ZyqFG5NpQtVrpwj7"
+  },
+  "_id": "UKCYgXD5jZbYcJ6g",
+  "folder": "40FMwVrL57gMPm5j",
+  "sort": 3600000,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "_key": "!items!UKCYgXD5jZbYcJ6g"
+}

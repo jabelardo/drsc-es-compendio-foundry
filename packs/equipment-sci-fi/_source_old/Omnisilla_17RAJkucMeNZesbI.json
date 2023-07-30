@@ -1,0 +1,32 @@
+{
+  "name": "Omnisilla",
+  "type": "equipment",
+  "img": "systems/cyphersystem/icons/items/equipment.svg",
+  "system": {
+    "version": 2,
+    "description": "<p>Proporciona al usuario movilidad total mediante una combinación de micropropulsores, ruedas retráctiles y levitación magnética en todos los entornos (desde la microgravedad hasta la gravedad total), a menudo contiene una variedad de herramientas y mejoras que otorgan al usuario recursos para tareas comunes (posiblemente incluyendo un sistema de armas incorporado). Si se personaliza para ello por un coste adicional muy elevado, puede desplegar un revestimiento, que le permite a la omnisilla actuar como una especie de traje espacial/nave espacial en miniatura en caso necesario.</p>",
+    "archived": false,
+    "basic": {
+      "level": 4,
+      "quantity": 1
+    }
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "cyphersystem",
+    "systemVersion": "2.6.2",
+    "coreVersion": "11.301",
+    "createdTime": 1676551971519,
+    "modifiedTime": 1686394063925,
+    "lastModifiedBy": "ZyqFG5NpQtVrpwj7"
+  },
+  "_id": "17RAJkucMeNZesbI",
+  "folder": "40FMwVrL57gMPm5j",
+  "sort": 4400000,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "_key": "!items!17RAJkucMeNZesbI"
+}

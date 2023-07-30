@@ -1,0 +1,37 @@
+{
+  "name": "Cyphers Alienígenas",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    "TxVCeoPLzQIV8WRE",
+    "XVHfWn1UaAoH8vgf",
+    "XMJTpgEniD9WaRfE",
+    "z1YBeIPdIrkyE3uc",
+    "SArdYg3ctRlZQ55z",
+    "gIsb1JojeIqq9aIZ",
+    "QmeoC13Ut2pAvLgU",
+    "M9ruU1bvPYQCexkJ",
+    "ZDsBbaOkTdutyv11",
+    "jSSSYfsWAf2tNJYM"
+  ],
+  "formula": "1d20",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "systemId": "cyphersystem",
+    "systemVersion": "2.6.2",
+    "coreVersion": "11.299",
+    "createdTime": 1683655329098,
+    "modifiedTime": 1685560199060,
+    "lastModifiedBy": "7luxagQiisUFvSQn"
+  },
+  "_id": "rL3KHz6F7aOs31tx",
+  "folder": "Y2TN81x3OW1ojdbn",
+  "sort": 100000,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "_key": "!tables!rL3KHz6F7aOs31tx"
+}

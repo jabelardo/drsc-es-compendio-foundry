@@ -1,0 +1,54 @@
+{
+  "img": "systems/cyphersystem/icons/items/ability.svg",
+  "effects": [],
+  "folder": null,
+  "system": {
+    "archived": false,
+    "settings": {
+      "general": {
+        "spellTier": "low",
+        "sorting": "Ability",
+        "unmaskedForm": "Mask"
+      },
+      "rollButton": {
+        "stepModifier": "eased",
+        "damage": 0,
+        "damagePerLOE": 3,
+        "bonus": 0,
+        "pool": "Pool",
+        "teen": "",
+        "additionalSteps": 0,
+        "effort1": "0",
+        "effort3": "0",
+        "assets": "0",
+        "effort2": "0",
+        "skill": "Practiced",
+        "additionalCost": 0
+      }
+    },
+    "description": "<p>Elige un tipo de ataque en el que no seas ya competente: contundente ligero, cortante ligero, a distancia ligero, contundente medio, cortante medio, a distancia medio, contundente pesado, cortante pesado o a distancia pesado. Eres competente en ataques con ese tipo de arma. Puedes seleccionar esta capacidad varias veces. Cada vez que la seleccionas, debes elegir un tipo de ataque diferente. Capacitador.<\/p>",
+    "basic": {
+      "cost": "0",
+      "pool": "Pool"
+    },
+    "version": 2
+  },
+  "ownership": {
+    "default": 0,
+    "k2TkElLx959B0lm5": 3
+  },
+  "_stats": {
+    "modifiedTime": 1670323272415,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "yThCrv1jSfPXOC2U",
+    "createdTime": null,
+    "systemVersion": "2.1.0",
+    "coreVersion": "10.291"
+  },
+  "name": "Habilidad ofensiva",
+  "flags": {"core": {"sourceId": "Compendium.cyphersystem-compendium.abilities.HHQzosgWahaIYPwk"}},
+  "_id": "HHQzosgWahaIYPwk",
+  "sort": 0,
+  "type": "ability",
+  "_key": "!items!HHQzosgWahaIYPwk"
+}

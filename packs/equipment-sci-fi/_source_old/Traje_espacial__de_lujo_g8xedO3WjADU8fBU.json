@@ -1,0 +1,32 @@
+{
+  "name": "Traje espacial, de lujo",
+  "type": "equipment",
+  "img": "systems/cyphersystem/icons/items/equipment.svg",
+  "system": {
+    "version": 2,
+    "description": "<p>Como el traje espacial, pero de lujo y duradero. El traje de lujo incorpora recicladores que proporcionan aire, agua y nutrientes para una semana de uso continuo. Los micropropulsores permiten maniobrar sin gravedad durante diez minutos, o incluso más si se agotan las reservas de aire. Si el traje se rompe debido a un daño externo, la tecnología de autosellado limita las repercusiones descritas en Sufrir daños en un traje espacial a sólo uno o dos rondas, suponiendo que la rotura no sea catastróficamente grande.</p>",
+    "archived": false,
+    "basic": {
+      "level": null,
+      "quantity": 1
+    }
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "cyphersystem",
+    "systemVersion": "2.6.2",
+    "coreVersion": "11.301",
+    "createdTime": 1676539197306,
+    "modifiedTime": 1686393864081,
+    "lastModifiedBy": "ZyqFG5NpQtVrpwj7"
+  },
+  "_id": "g8xedO3WjADU8fBU",
+  "folder": "40FMwVrL57gMPm5j",
+  "sort": 2200000,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "_key": "!items!g8xedO3WjADU8fBU"
+}

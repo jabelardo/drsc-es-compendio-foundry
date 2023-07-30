@@ -1,0 +1,54 @@
+{
+  "img": "systems/cyphersystem/icons/items/ability.svg",
+  "effects": [],
+  "folder": null,
+  "system": {
+    "archived": false,
+    "settings": {
+      "general": {
+        "spellTier": "low",
+        "sorting": "Ability",
+        "unmaskedForm": "Mask"
+      },
+      "rollButton": {
+        "stepModifier": "eased",
+        "damage": 0,
+        "damagePerLOE": 3,
+        "bonus": 0,
+        "pool": "Pool",
+        "teen": "",
+        "additionalSteps": 0,
+        "effort1": 0,
+        "effort3": 0,
+        "assets": 0,
+        "effort2": 0,
+        "skill": "Practiced",
+        "additionalCost": 0
+      }
+    },
+    "description": "<p>Estás familiarizado con el espacio abierto. Si dedicas una hora a utilizar los sensores de tu nave espacial y haces una tirada de Intelecto de dificultad 3, puedes encontrar salvamento en forma de naves espaciales abandonadas, motas de materia a la deriva que alguna vez estuvieron habitadas, o un lugar para esconderse de la persecución en lo que la mayoría de la gente asumiría como espacio vacío (como en una nebulosa, un campo de asteroides o la sombra de una luna). El salvamento que se encuentra incluye suficiente comida y agua para ti y para varias personas, así como la posibilidad de que haya armas, ropa, artefactos tecnológicos, supervivientes u otros objetos utilizables. En otros contextos, esta capacidad cuenta como competencia en tareas relacionadas con la percepción. Acción para iniciar, una hora para completar.<\/p>",
+    "basic": {
+      "cost": "2",
+      "pool": "Intellect"
+    },
+    "version": 2
+  },
+  "ownership": {
+    "default": 0,
+    "k2TkElLx959B0lm5": 3
+  },
+  "_stats": {
+    "modifiedTime": 1664959723715,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "rLeavHPrdkq6xjNt",
+    "createdTime": null,
+    "systemVersion": "2.0.0-a1",
+    "coreVersion": "10.286"
+  },
+  "name": "Salvamento y confort",
+  "flags": {"core": {"sourceId": "Compendium.cyphersystem-compendium.abilities.h3G0Ven2SoaPCbk4"}},
+  "_id": "h3G0Ven2SoaPCbk4",
+  "sort": 0,
+  "type": "ability",
+  "_key": "!items!h3G0Ven2SoaPCbk4"
+}

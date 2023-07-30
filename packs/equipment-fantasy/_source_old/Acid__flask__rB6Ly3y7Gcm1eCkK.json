@@ -1,0 +1,36 @@
+{
+  "name": "Ácido (frasco)",
+  "type": "equipment",
+  "img": "systems/cyphersystem/icons/items/equipment.svg",
+  "system": {
+    "version": 2,
+    "description": "<p>Un frasco de ácido fuerte. Puede lanzarse a corta distancia, infligiendo daño de ácido como arma ligera (ignora Armadura). Si se vierte con cuidado, puede dañar o destruir un objeto pequeño o zonas hechas de piedra o metal.</p>",
+    "archived": false,
+    "basic": {
+      "level": null,
+      "quantity": 1
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Item.xX8uHuJqFVqtdG0A"
+    }
+  },
+  "_stats": {
+    "systemId": "cyphersystem",
+    "systemVersion": "2.3.0",
+    "coreVersion": "10.291",
+    "createdTime": 1676109689591,
+    "modifiedTime": 1676109707153,
+    "lastModifiedBy": "yThCrv1jSfPXOC2U"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "rB6Ly3y7Gcm1eCkK",
+  "_key": "!items!rB6Ly3y7Gcm1eCkK"
+}

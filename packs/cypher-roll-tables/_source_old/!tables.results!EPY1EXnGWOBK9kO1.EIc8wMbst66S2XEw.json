@@ -1,0 +1,16 @@
+{
+  "img": "icons/svg/d20-black.svg",
+  "documentCollection": "",
+  "flags": {},
+  "weight": 1,
+  "range": [
+    13,
+    13
+  ],
+  "documentId": null,
+  "_id": "EIc8wMbst66S2XEw",
+  "text": "Perteneces a una organización exclusiva de Exploradores cuya existencia no es ampliamente conocida.",
+  "type": 0,
+  "drawn": false,
+  "_key": "!tables.results!EPY1EXnGWOBK9kO1.EIc8wMbst66S2XEw"
+}

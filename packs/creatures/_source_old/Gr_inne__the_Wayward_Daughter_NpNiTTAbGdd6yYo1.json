@@ -1,0 +1,128 @@
+{
+  "img": "modules/drsc-es-compendio-foundry/img/tokens/fey_humanoid.webp",
+  "_stats": {
+    "modifiedTime": 1685371824657,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "yThCrv1jSfPXOC2U",
+    "createdTime": 1685371540266,
+    "systemVersion": "2.6.0",
+    "coreVersion": "10.291"
+  },
+  "flags": {"core": {"sourceId": "Actor.Kh3j8NVvbK7Sn9NP"}},
+  "sort": 0,
+  "type": "npc",
+  "_key": "!actors!NpNiTTAbGdd6yYo1",
+  "prototypeToken": {
+    "displayBars": 40,
+    "displayName": 20,
+    "actorLink": false,
+    "texture": {
+      "scaleX": 1,
+      "offsetX": 0,
+      "scaleY": 1,
+      "offsetY": 0,
+      "src": "icons/svg/mystery-man.svg",
+      "rotation": 0,
+      "tint": null
+    },
+    "lockRotation": true,
+    "rotation": 0,
+    "detectionModes": [],
+    "flags": {"barbrawl": {"resourceBars": {}}},
+    "randomImg": false,
+    "bar1": {"attribute": "pools.health"},
+    "bar2": {"attribute": "basic.level"},
+    "disposition": 0,
+    "light": {
+      "attenuation": 0.5,
+      "color": null,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "animation": {
+        "intensity": 5,
+        "type": null,
+        "reverse": false,
+        "speed": 5
+      },
+      "saturation": 0,
+      "alpha": 0.5,
+      "contrast": 0,
+      "angle": 360,
+      "luminosity": 0.5,
+      "shadows": 0,
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "alpha": 1,
+    "name": "Gráinne, la Hija Descarriada",
+    "width": 1,
+    "sight": {
+      "saturation": 0,
+      "attenuation": 0.1,
+      "brightness": 0,
+      "color": null,
+      "visionMode": "basic",
+      "contrast": 0,
+      "range": null,
+      "angle": 360,
+      "enabled": false
+    },
+    "height": 1
+  },
+  "effects": [],
+  "system": {
+    "settings": {
+      "general": {
+        "initiativeBonus": 0,
+        "hideArchive": false
+      },
+      "equipment": {
+        "ammo": {"active": false},
+        "armor": {"active": false},
+        "attacks": {"active": false},
+        "materials": {
+          "active": false,
+          "label": ""
+        },
+        "cyphers": {
+          "active": false,
+          "label": ""
+        },
+        "oddities": {
+          "active": false,
+          "label": ""
+        },
+        "artifacts": {
+          "active": false,
+          "label": ""
+        }
+      }
+    },
+    "notes": "<p>Gráinne es el Hada Reina de la Esperanza y la Desesperación, a veces también llamada la Hija Descarriada, la Reina del Invierno y la Oscura. Gráinne es para la oscuridad lo que áine es para la luz. Esto no significa que Gráinne sea malvada, sólo que representa lo que hay de bueno y de malo en el mundo que se oculta en las sombras, se entierra bajo la tierra y se revela por la noche. Ella tiene su propio código moral, uno que puede trabajar a favor de aquellos que son astutos y están dispuestos a mirar la oscuridad de sus propios corazones.<\/p>\n<p><strong>Motivación:<\/strong> Honrar a la oscuridad, proteger su reino.<\/p>\n<p><strong>Entorno:<\/strong> Comparte un reino de hadas con su hermana, donde gobierna en invierno. En verano, duerme en los Pesares, un reino subterráneo fuera del tiempo y del espacio.<\/p>\n<p><strong>Salud:<\/strong> 99<\/p>\n<p><strong>Daño que inflige:<\/strong> 12 puntos<\/p>\n<p><strong>Armadura:<\/strong> 5<\/p>\n<p><strong>Movimiento:<\/strong> Corto; largo al volar<\/p>\n<p><strong>Combate:<\/strong> Gráinne es una combatiente con talento, y parece deleitarse con un enemigo que sea un un desafío para ella. Lleva un bastón de cristal verde oscuro que emite una oscura espiral de energía rojiza que inflige 12 puntos de daño. También puede lanzar una nube de humo negro que inflige 9 puntos de daño a todas las criaturas en un área corta. También lleva la Tiara de Pailis, una tiara con forma de grifo que le permite volar. Gráinne dispone de diversas capacidades mágicas, entre las que se incluyen las siguientes:<\/p>\n<p><strong>Comunicación con los animales:<\/strong> Gráinne tiene una afinidad especial con los tejones y puede pedirles ayuda. Cuando los llama (como acción), aparece un grupo de ocho grandes tejones. Actúan como dos criaturas de nivel 4; los seres atacados también deben tener éxito en una tirada de Defensa por Intelecto o ser transformados en tejón durante una ronda.<\/p>\n<p><strong>Oneiroquinesis:<\/strong> Gráinne puede infiltrarse en los sueños de la gente para conversar con ellos. Como tal, puede implantar una idea en sus cabezas (como \"Voy a morir esta noche\" o \"Debería volver a casa\"). Cuando el personaje despierta, debe tener éxito en una tirada de Defensa por Intelecto de nivel 6 para deshacerse de la idea. De lo contrario, siente una fuerte necesidad de actuar en consecuencia, y se ve obstaculizado en cualquier tarea que vaya en contra de la idea (esto dura hasta que haga su próxima tirada de recuperación).<\/p>\n<p><strong>Fusión de sombras:<\/strong> Gráinne se funde con las sombras, haciéndose casi intangible. En esta forma, no puede ser herida por ataques físicos, y sus ataques infligen 8 puntos de daño de Intelecto a cualquiera cuyo cuerpo esté oscurecido por su sombra.<\/p>\n<p><strong>Interacción:<\/strong> Para aquellos a los que no les importe un poco de oscuridad y ambigüedad moral, Gráinne es una poderosa aliada.<\/p>\n<p><strong>Uso:<\/strong> Los personajes tropiezan con un reino de hadas, sólo para encontrarse con su guardián recién despertado. Los personajes afligidos pueden encontrar las soluciones y el consuelo que buscan en la magia y el poder de Gráinne.<\/p>\n<p><strong>Botín:<\/strong> Tiara de Pailis<\/p>\n<div class=\"drsc-es-sidebar bg-dark pt-3 pb-1 ps-3 pe-3 mt-3 mb-3\">\n <p><strong>Tiara de Pailis (artefacto) [Tiara of Pailis]:<\/strong> nivel 7; permite al portador volar una larga distancia cada ronda (como acción). El portador puede controlar su velocidad, dirección y altura.<\/p>\n <p><strong>Agotamiento: <\/strong>1 en 1d20<\/p>\n<\/div>\n<p><strong>Intromisiones del DJ: <\/strong>El animal de compañía o montura de un personaje se ve afectado por la afinidad animal de Gráinne y cae bajo su poder.<\/p>",
+    "pools": {"health": {
+      "max": 3,
+      "value": 3
+    }},
+    "description": "",
+    "combat": {
+      "damage": 1,
+      "armor": 0
+    },
+    "basic": {
+      "level": 9,
+      "biography": "<p>Gráinne es el Hada Reina de la Esperanza y la Desesperación, a veces también llamada la Hija Descarriada, la Reina del Invierno y la Oscura. Gráinne es para la oscuridad lo que áine es para la luz. Esto no significa que Gráinne sea malvada, sólo que representa lo que hay de bueno y de malo en el mundo que se oculta en las sombras, se entierra bajo la tierra y se revela por la noche. Ella tiene su propio código moral, uno que puede trabajar a favor de aquellos que son astutos y están dispuestos a mirar la oscuridad de sus propios corazones.<\/p>\n<p><strong>Motivación:<\/strong> Honrar a la oscuridad, proteger su reino.<\/p>\n<p><strong>Entorno:<\/strong> Comparte un reino de hadas con su hermana, donde gobierna en invierno. En verano, duerme en los Pesares, un reino subterráneo fuera del tiempo y del espacio.<\/p>\n<p><strong>Salud:<\/strong> 99<\/p>\n<p><strong>Daño que inflige:<\/strong> 12 puntos<\/p>\n<p><strong>Armadura:<\/strong> 5<\/p>\n<p><strong>Movimiento:<\/strong> Corto; largo al volar<\/p>\n<p><strong>Combate:<\/strong> Gráinne es una combatiente con talento, y parece deleitarse con un enemigo que sea un un desafío para ella. Lleva un bastón de cristal verde oscuro que emite una oscura espiral de energía rojiza que inflige 12 puntos de daño. También puede lanzar una nube de humo negro que inflige 9 puntos de daño a todas las criaturas en un área corta. También lleva la Tiara de Pailis, una tiara con forma de grifo que le permite volar. Gráinne dispone de diversas capacidades mágicas, entre las que se incluyen las siguientes:<\/p>\n<p><strong>Comunicación con los animales:<\/strong> Gráinne tiene una afinidad especial con los tejones y puede pedirles ayuda. Cuando los llama (como acción), aparece un grupo de ocho grandes tejones. Actúan como dos criaturas de nivel 4; los seres atacados también deben tener éxito en una tirada de Defensa por Intelecto o ser transformados en tejón durante una ronda.<\/p>\n<p><strong>Oneiroquinesis:<\/strong> Gráinne puede infiltrarse en los sueños de la gente para conversar con ellos. Como tal, puede implantar una idea en sus cabezas (como \"Voy a morir esta noche\" o \"Debería volver a casa\"). Cuando el personaje despierta, debe tener éxito en una tirada de Defensa por Intelecto de nivel 6 para deshacerse de la idea. De lo contrario, siente una fuerte necesidad de actuar en consecuencia, y se ve obstaculizado en cualquier tarea que vaya en contra de la idea (esto dura hasta que haga su próxima tirada de recuperación).<\/p>\n<p><strong>Fusión de sombras:<\/strong> Gráinne se funde con las sombras, haciéndose casi intangible. En esta forma, no puede ser herida por ataques físicos, y sus ataques infligen 8 puntos de daño de Intelecto a cualquiera cuyo cuerpo esté oscurecido por su sombra.<\/p>\n<p><strong>Interacción:<\/strong> Para aquellos a los que no les importe un poco de oscuridad y ambigüedad moral, Gráinne es una poderosa aliada.<\/p>\n<p><strong>Uso:<\/strong> Los personajes tropiezan con un reino de hadas, sólo para encontrarse con su guardián recién despertado. Los personajes afligidos pueden encontrar las soluciones y el consuelo que buscan en la magia y el poder de Gráinne.<\/p>\n<p><strong>Botín:<\/strong> Tiara de Pailis<\/p>\n<div class=\"drsc-es-sidebar bg-dark pt-3 pb-1 ps-3 pe-3 mt-3 mb-3\">\n <p><strong>Tiara de Pailis (artefacto) [Tiara of Pailis]:<\/strong> nivel 7; permite al portador volar una larga distancia cada ronda (como acción). El portador puede controlar su velocidad, dirección y altura.<\/p>\n <p><strong>Agotamiento: <\/strong>1 en 1d20<\/p>\n<\/div>\n<p><strong>Intromisiones del DJ: <\/strong>El animal de compañía o montura de un personaje se ve afectado por la afinidad animal de Gráinne y cae bajo su poder.<\/p>"
+    },
+    "version": 3
+  },
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "name": "Gráinne, la Hija Descarriada",
+  "_id": "NpNiTTAbGdd6yYo1",
+  "items": []
+}

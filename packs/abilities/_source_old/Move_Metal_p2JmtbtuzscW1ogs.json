@@ -1,0 +1,54 @@
+{
+  "img": "systems/cyphersystem/icons/items/ability.svg",
+  "effects": [],
+  "folder": null,
+  "system": {
+    "archived": false,
+    "settings": {
+      "general": {
+        "spellTier": "low",
+        "sorting": "Ability",
+        "unmaskedForm": "Mask"
+      },
+      "rollButton": {
+        "stepModifier": "eased",
+        "damage": 0,
+        "damagePerLOE": 3,
+        "bonus": 0,
+        "pool": "Pool",
+        "teen": "",
+        "additionalSteps": 0,
+        "effort1": 0,
+        "effort3": 0,
+        "assets": 0,
+        "effort2": 0,
+        "skill": "Practiced",
+        "additionalCost": 0
+      }
+    },
+    "description": "<p>Puedes ejercer fuerza sobre objetos metálicos a corta distancia durante una ronda. Una vez activado, tu poder tiene una Reserva de Vigor efectiva de 10, un Ventaja de Vigor de 1 y un Esfuerzo de 2 (aproximadamente igual a la fuerza de un humano adulto en forma), y puedes utilizarlo para mover objetos metálicos, empujar contra objetos metálicos, etc. Por ejemplo, en tu ronda, podrías levantar y tirar de un objeto metálico ligero en cualquier lugar dentro de tu alcance o mover un objeto pesado (como un mueble) unos 3 metros. Este poder carece del control fino para empuñar un arma o mover objetos con mucha velocidad, por lo que en la mayoría de las situaciones no es un medio de ataque. No puedes utilizar esta capacidad en tu propio cuerpo. El poder dura una hora o hasta que se agote su Reserva de Vigor, lo que ocurra primero. Acción.<\/p>",
+    "basic": {
+      "cost": "1",
+      "pool": "Intellect"
+    },
+    "version": 2
+  },
+  "ownership": {
+    "default": 0,
+    "k2TkElLx959B0lm5": 3
+  },
+  "_stats": {
+    "modifiedTime": 1664959721722,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "rLeavHPrdkq6xjNt",
+    "createdTime": null,
+    "systemVersion": "2.0.0-a1",
+    "coreVersion": "10.286"
+  },
+  "name": "Mover metal",
+  "flags": {"core": {"sourceId": "Compendium.cyphersystem-compendium.abilities.p2JmtbtuzscW1ogs"}},
+  "_id": "p2JmtbtuzscW1ogs",
+  "sort": 0,
+  "type": "ability",
+  "_key": "!items!p2JmtbtuzscW1ogs"
+}

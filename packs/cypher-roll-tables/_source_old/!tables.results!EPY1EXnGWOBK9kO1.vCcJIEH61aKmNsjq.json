@@ -1,0 +1,16 @@
+{
+  "img": "icons/svg/d20-black.svg",
+  "documentCollection": "",
+  "flags": {},
+  "weight": 1,
+  "range": [
+    20,
+    20
+  ],
+  "documentId": null,
+  "_id": "vCcJIEH61aKmNsjq",
+  "text": "Tu padre es un oficial de alto rango en el ejército con muchas conexiones.",
+  "type": 0,
+  "drawn": false,
+  "_key": "!tables.results!EPY1EXnGWOBK9kO1.vCcJIEH61aKmNsjq"
+}

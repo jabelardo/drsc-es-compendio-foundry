@@ -1,0 +1,58 @@
+{
+  "name": "Acertijos",
+  "type": "skill",
+  "img": "systems/cyphersystem/icons/items/skill.svg",
+  "system": {
+    "version": 2,
+    "description": "",
+    "archived": false,
+    "settings": {
+      "rollButton": {
+        "pool": "Intellect",
+        "skill": "Practiced",
+        "assets": "0",
+        "effort1": "0",
+        "effort2": "0",
+        "effort3": "0",
+        "stepModifier": "eased",
+        "additionalSteps": 0,
+        "additionalCost": 0,
+        "damage": 0,
+        "damagePerLOE": 3,
+        "teen": "",
+        "bonus": 0
+      },
+      "linkedItems": {
+        "ability": "",
+        "attack": "",
+        "skill": ""
+      },
+      "general": {
+        "sorting": "Skill",
+        "initiative": false,
+        "unmaskedForm": "Mask"
+      }
+    },
+    "basic": {
+      "rating": "Trained"
+    }
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "cyphersystem",
+    "systemVersion": "2.5.0",
+    "coreVersion": "10.291",
+    "createdTime": 1683745283433,
+    "modifiedTime": 1683745426634,
+    "lastModifiedBy": "yThCrv1jSfPXOC2U"
+  },
+  "_id": "6BdnPcHI18TnzKL2",
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "_key": "!items!6BdnPcHI18TnzKL2"
+}

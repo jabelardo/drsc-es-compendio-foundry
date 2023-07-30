@@ -1,0 +1,128 @@
+{
+  "img": "modules/drsc-es-compendio-foundry/img/tokens/undead_ghost.webp",
+  "_stats": {
+    "modifiedTime": 1676797809361,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "yThCrv1jSfPXOC2U",
+    "createdTime": 1676288745521,
+    "systemVersion": "2.3.0",
+    "coreVersion": "10.291"
+  },
+  "flags": {"core": {"sourceId": "Actor.fvEVfX386Iyoc5y9"}},
+  "sort": 0,
+  "type": "npc",
+  "_key": "!actors!OGMt7t7Xoz2uk7iY",
+  "prototypeToken": {
+    "displayBars": 40,
+    "displayName": 20,
+    "actorLink": false,
+    "texture": {
+      "scaleX": 1,
+      "offsetX": 0,
+      "scaleY": 1,
+      "offsetY": 0,
+      "src": "icons/svg/mystery-man.svg",
+      "rotation": 0,
+      "tint": null
+    },
+    "lockRotation": false,
+    "rotation": 0,
+    "detectionModes": [],
+    "flags": {},
+    "randomImg": false,
+    "bar1": {"attribute": "pools.health"},
+    "bar2": {"attribute": "basic.level"},
+    "disposition": 0,
+    "light": {
+      "attenuation": 0.5,
+      "color": null,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "animation": {
+        "intensity": 5,
+        "type": null,
+        "reverse": false,
+        "speed": 5
+      },
+      "saturation": 0,
+      "alpha": 0.5,
+      "contrast": 0,
+      "angle": 360,
+      "luminosity": 0.5,
+      "shadows": 0,
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "alpha": 1,
+    "name": "Espectro",
+    "width": 1,
+    "sight": {
+      "saturation": 0,
+      "attenuation": 0.1,
+      "brightness": 0,
+      "color": null,
+      "visionMode": "basic",
+      "contrast": 0,
+      "range": null,
+      "angle": 360,
+      "enabled": false
+    },
+    "height": 1
+  },
+  "effects": [],
+  "system": {
+    "settings": {
+      "general": {
+        "initiativeBonus": 0,
+        "hideArchive": false
+      },
+      "equipment": {
+        "ammo": {"active": false},
+        "armor": {"active": false},
+        "attacks": {"active": false},
+        "materials": {
+          "active": false,
+          "label": ""
+        },
+        "cyphers": {
+          "active": false,
+          "label": ""
+        },
+        "oddities": {
+          "active": false,
+          "label": ""
+        },
+        "artifacts": {
+          "active": false,
+          "label": ""
+        }
+      }
+    },
+    "notes": "<p>Cuando el espíritu de una criatura muerta no encuentra el camino al más allá, escapa del mismo o es invocado por un nigromante, puede convertirse en un espectro: un espíritu sin cuerpo de rabia y pérdida. Un espectro aparece como una figura sombría o brumosa que puede parecerse a la figura humanoide que una vez fue, aunque los espectros tienden a agruparse, lo que dificulta distinguirlos unos de otros. Los espectros suelen carecer de mente, consumidos por su condición. Sin embargo, en ocasiones, un espectro no muy avanzado aún recuerda su vida y puede responder a preguntas o tratar de localizar a sus seres queridos o enemigos. Un espectro puede incluso intentar terminar una tarea que empezó en vida. Pero con el tiempo, incluso la mente del espíritu más fuerte se erosiona sin sustancia física que la renueve, y se convierte en un monstruo de destrucción casi sin mente.<\/p>\n<p><strong>Motivación:<\/strong> Destrucción<\/p>\n<p><strong>Entorno:<\/strong> Casi en cualquier lugar, individualmente o en grupos de seis a diez<\/p>\n<p><strong>Salud:<\/strong> 6<\/p>\n<p><strong>Daño que inflige:<\/strong> 3 puntos<\/p>\n<p><strong>Armadura:<\/strong> 1<\/p>\n<p><strong>Movimiento:<\/strong> Corto en vuelo<\/p>\n<p><strong>Ajustes: <\/strong>Nivel 5 para sigilo<\/p>\n<p><strong>Combate:<\/strong> Un espectro ataca con su toque, que pudre la carne y drena la vida.<\/p>\n<p>Un espectro puede volverse completamente insustancial. Después de hacerlo, la criatura no puede volver a cambiar de estado hasta su siguiente turno. Mientras es insustancial, no puede afectar ni ser afectado por nada (excepto por armas y ataques que afecten específicamente a criaturas no muertas o en fase), y puede atravesar materia sólida sin impedimentos, pero incluso simples barreras mágicas pueden mantenerlo a raya. Mientras sea parcialmente insustancial (su estado normal), un espectro puede afectar a otros y ser afectado por ellos con normalidad.<\/p>\n<p>Un grupo de cinco espectros puede actuar como un enjambre, concentrándose en un objetivo para realizar una tirada de ataque como una única criatura de nivel 4 que inflige 5 puntos de daño.<\/p>\n<p><strong>Interacción:<\/strong> La mayoría de los espectros gimen y chillan de rabia. Los pocos que conservan la razón pueden hablar con voz sepulcral e incluso negociar. Cualquier alianza con un espectro suele durar poco, ya que la criatura acaba olvidándose de sí misma y desciende de lleno a la rabia y al deseo de sembrar la destrucción.<\/p>\n<p><strong>Uso:<\/strong> Los PJs son atacados mientras asisten a un entierro, o pasan cerca o acampan cerca de un cementerio. Otro enjambre de espectros aparece en un lugar donde un grupo anterior fue destruido (indicando que un nigromante los está invocando).<\/p>\n<p><strong>Intromisiones del DJ:<\/strong> El espectro grita, invocando 1d6 espectros más del más allá.<\/p>",
+    "pools": {"health": {
+      "max": 6,
+      "value": 6
+    }},
+    "description": "",
+    "combat": {
+      "damage": 3,
+      "armor": 1
+    },
+    "basic": {
+      "level": 2,
+      "biography": "<p>Cuando el espíritu de una criatura muerta no encuentra el camino al más allá, escapa del mismo o es invocado por un nigromante, puede convertirse en un espectro: un espíritu sin cuerpo de rabia y pérdida. Un espectro aparece como una figura sombría o brumosa que puede parecerse a la figura humanoide que una vez fue, aunque los espectros tienden a agruparse, lo que dificulta distinguirlos unos de otros. Los espectros suelen carecer de mente, consumidos por su condición. Sin embargo, en ocasiones, un espectro no muy avanzado aún recuerda su vida y puede responder a preguntas o tratar de localizar a sus seres queridos o enemigos. Un espectro puede incluso intentar terminar una tarea que empezó en vida. Pero con el tiempo, incluso la mente del espíritu más fuerte se erosiona sin sustancia física que la renueve, y se convierte en un monstruo de destrucción casi sin mente.<\/p>\n<p><strong>Motivación:<\/strong> Destrucción<\/p>\n<p><strong>Entorno:<\/strong> Casi en cualquier lugar, individualmente o en grupos de seis a diez<\/p>\n<p><strong>Salud:<\/strong> 6<\/p>\n<p><strong>Daño que inflige:<\/strong> 3 puntos<\/p>\n<p><strong>Armadura:<\/strong> 1<\/p>\n<p><strong>Movimiento:<\/strong> Corto en vuelo<\/p>\n<p><strong>Ajustes: <\/strong>Nivel 5 para sigilo<\/p>\n<p><strong>Combate:<\/strong> Un espectro ataca con su toque, que pudre la carne y drena la vida.<\/p>\n<p>Un espectro puede volverse completamente insustancial. Después de hacerlo, la criatura no puede volver a cambiar de estado hasta su siguiente turno. Mientras es insustancial, no puede afectar ni ser afectado por nada (excepto por armas y ataques que afecten específicamente a criaturas no muertas o en fase), y puede atravesar materia sólida sin impedimentos, pero incluso simples barreras mágicas pueden mantenerlo a raya. Mientras sea parcialmente insustancial (su estado normal), un espectro puede afectar a otros y ser afectado por ellos con normalidad.<\/p>\n<p>Un grupo de cinco espectros puede actuar como un enjambre, concentrándose en un objetivo para realizar una tirada de ataque como una única criatura de nivel 4 que inflige 5 puntos de daño.<\/p>\n<p><strong>Interacción:<\/strong> La mayoría de los espectros gimen y chillan de rabia. Los pocos que conservan la razón pueden hablar con voz sepulcral e incluso negociar. Cualquier alianza con un espectro suele durar poco, ya que la criatura acaba olvidándose de sí misma y desciende de lleno a la rabia y al deseo de sembrar la destrucción.<\/p>\n<p><strong>Uso:<\/strong> Los PJs son atacados mientras asisten a un entierro, o pasan cerca o acampan cerca de un cementerio. Otro enjambre de espectros aparece en un lugar donde un grupo anterior fue destruido (indicando que un nigromante los está invocando).<\/p>\n<p><strong>Intromisiones del DJ:<\/strong> El espectro grita, invocando 1d6 espectros más del más allá.<\/p>"
+    },
+    "version": 2
+  },
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "name": "Espectro",
+  "_id": "OGMt7t7Xoz2uk7iY",
+  "items": []
+}

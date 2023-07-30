@@ -1,0 +1,128 @@
+{
+  "img": "modules/drsc-es-compendio-foundry/img/tokens/humanoid_magical.webp",
+  "_stats": {
+    "modifiedTime": 1685375735305,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "yThCrv1jSfPXOC2U",
+    "createdTime": 1685374592134,
+    "systemVersion": "2.6.0",
+    "coreVersion": "10.291"
+  },
+  "flags": {"core": {"sourceId": "Actor.aIbdEPAwEOyAywuC"}},
+  "sort": 0,
+  "type": "npc",
+  "_key": "!actors!95q9jd0FsNJiP2ky",
+  "prototypeToken": {
+    "displayBars": 40,
+    "displayName": 20,
+    "actorLink": false,
+    "texture": {
+      "scaleX": 1,
+      "offsetX": 0,
+      "scaleY": 1,
+      "offsetY": 0,
+      "src": "icons/svg/mystery-man.svg",
+      "rotation": 0,
+      "tint": null
+    },
+    "lockRotation": true,
+    "rotation": 0,
+    "detectionModes": [],
+    "flags": {"barbrawl": {"resourceBars": {}}},
+    "randomImg": false,
+    "bar1": {"attribute": "pools.health"},
+    "bar2": {"attribute": "basic.level"},
+    "disposition": 0,
+    "light": {
+      "attenuation": 0.5,
+      "color": null,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "animation": {
+        "intensity": 5,
+        "type": null,
+        "reverse": false,
+        "speed": 5
+      },
+      "saturation": 0,
+      "alpha": 0.5,
+      "contrast": 0,
+      "angle": 360,
+      "luminosity": 0.5,
+      "shadows": 0,
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "alpha": 1,
+    "name": "Dame Gothel",
+    "width": 1,
+    "sight": {
+      "saturation": 0,
+      "attenuation": 0.1,
+      "brightness": 0,
+      "color": null,
+      "visionMode": "basic",
+      "contrast": 0,
+      "range": null,
+      "angle": 360,
+      "enabled": false
+    },
+    "height": 1
+  },
+  "effects": [],
+  "system": {
+    "settings": {
+      "general": {
+        "initiativeBonus": 0,
+        "hideArchive": false
+      },
+      "equipment": {
+        "ammo": {"active": false},
+        "armor": {"active": false},
+        "attacks": {"active": false},
+        "materials": {
+          "active": false,
+          "label": ""
+        },
+        "cyphers": {
+          "active": false,
+          "label": ""
+        },
+        "oddities": {
+          "active": false,
+          "label": ""
+        },
+        "artifacts": {
+          "active": false,
+          "label": ""
+        }
+      }
+    },
+    "notes": "<p>A veces tomando la forma de una mujer joven y a veces de una anciana, Dame Gothel se preocupa por una cosa por encima de todo: su hermoso jardín amurallado, las flores y verduras que crecen en su interior son la envidia de todos los demás. A diferencia de muchas otras brujas, no hace daño a los niños y, de hecho, se sabe que los protege, al menos mientras sean inocentes de todo mal.<\/p>\n<p><strong>Ajustes:<\/strong> Nivel 6 para jardinería y pociones<\/p>\n<p><strong>Combate:<\/strong> Puede usar las siguientes habilidades: curar, aprisionar, proteger y marchitar.<\/p>\n<p><strong>Interacción:<\/strong> Dame Gothel es una persona introvertida que desea que la dejen en paz, y pobre de aquellos que invadan su espacio de alguna manera, ya que tiene un profundo sentido del bien y del mal y una inclinación por la venganza contra aquellos que se cruzan en su camino. Sin embargo, es conocida por ayudar a los que lo necesitan, y es particularmente hábil en el uso de lo que cultiva en su jardín para ayudar a su magia.<\/p>\n<p><strong>Uso:<\/strong> Los personajes necesitan un brebaje para curar a alguien, eliminar una maldición o ayudarles a quedarse embarazados. Los personajes invaden accidentalmente el espacio de Dame Gothel.<\/p>\n<p><strong>Botín:<\/strong> Varias plantas, pociones y Cyphers.<\/p>",
+    "pools": {"health": {
+      "max": 15,
+      "value": 15
+    }},
+    "description": "",
+    "combat": {
+      "damage": 5,
+      "armor": 0
+    },
+    "basic": {
+      "level": 5,
+      "biography": "<p>A veces tomando la forma de una mujer joven y a veces de una anciana, Dame Gothel se preocupa por una cosa por encima de todo: su hermoso jardín amurallado, las flores y verduras que crecen en su interior son la envidia de todos los demás. A diferencia de muchas otras brujas, no hace daño a los niños y, de hecho, se sabe que los protege, al menos mientras sean inocentes de todo mal.<\/p>\n<p><strong>Ajustes:<\/strong> Nivel 6 para jardinería y pociones<\/p>\n<p><strong>Combate:<\/strong> Puede usar las siguientes habilidades: curar, aprisionar, proteger y marchitar.<\/p>\n<p><strong>Interacción:<\/strong> Dame Gothel es una persona introvertida que desea que la dejen en paz, y pobre de aquellos que invadan su espacio de alguna manera, ya que tiene un profundo sentido del bien y del mal y una inclinación por la venganza contra aquellos que se cruzan en su camino. Sin embargo, es conocida por ayudar a los que lo necesitan, y es particularmente hábil en el uso de lo que cultiva en su jardín para ayudar a su magia.<\/p>\n<p><strong>Uso:<\/strong> Los personajes necesitan un brebaje para curar a alguien, eliminar una maldición o ayudarles a quedarse embarazados. Los personajes invaden accidentalmente el espacio de Dame Gothel.<\/p>\n<p><strong>Botín:<\/strong> Varias plantas, pociones y Cyphers.<\/p>"
+    },
+    "version": 3
+  },
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "name": "Dame Gothel",
+  "_id": "95q9jd0FsNJiP2ky",
+  "items": []
+}

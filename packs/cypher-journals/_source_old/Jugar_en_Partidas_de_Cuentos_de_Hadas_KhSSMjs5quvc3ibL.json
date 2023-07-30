@@ -1,0 +1,27 @@
+{
+  "sort": 300000,
+  "name": "Jugar en Partidas de Cuentos de Hadas",
+  "type": "text",
+  "_id": "KhSSMjs5quvc3ibL",
+  "title": {
+    "show": true,
+    "level": 1
+  },
+  "image": {},
+  "text": {
+    "format": 1,
+    "content": "<h1>Intromisiones de Jugador</h1><p>Una intromisi&oacute;n de jugador ocurre cuando un jugador decide alterar algo en la historia, haciendo las cosas m&aacute;s f&aacute;ciles para un personaje jugador. Es una especie de intromisi&oacute;n inversa del DJ: en lugar de que el DJ d&eacute; PX al jugador e introduzca una complicaci&oacute;n inesperada para un personaje, el jugador gasta 1 PX y presenta una soluci&oacute;n a un problema o complicaci&oacute;n.</p> <p><strong>&Eacute;rase una vez:</strong> Alguien con quien jugaste de ni&ntilde;o reaparece y te ayuda en lo que sea que est&eacute;s haciendo. Pueden estar vivos o muertos, pero tu coraz&oacute;n se emociona al verlo, pues ha pasado mucho tiempo.</p> <p><strong>Como desees:</strong> Haces algo que le hace recordar a otra persona o criatura de la zona a alguien a quien una vez quiso profundamente. Est&aacute; deseoso de ayudarte en lo que sea que est&eacute;s haciendo, al menos durante unos minutos.</p> <p><strong>&Eacute;rase una vez en un sue&ntilde;o:</strong> No hace mucho, so&ntilde;aste con un escenario similar al que te encuentras ahora. No puedes recordar todos los detalles, pero recuerdas lo suficiente para saber algo de lo que est&aacute; a punto de ocurrir, y te da una acci&oacute;n adicional para preparar algo &uacute;til.</p> <p><strong>Bibbidi-bobbidi-boo:</strong> Una pizca de magia de tu hada madrina es todo lo que necesitas para lograr un objetivo, reintentar una tarea o ser mejor en algo que intentas hacer.</p> <p><strong>Pedir un deseo a una estrella:</strong> Hace mucho tiempo, ayudaste a una estrella moribunda a volver al lugar que le correspond&iacute;a en el cielo. Ella te cuida y, en un momento en que parece que se ha perdido toda esperanza, te env&iacute;a un poco de magia o de luz para ayudarte.</p> <p><strong>Los sue&ntilde;os se hacen realidad:</strong> algo que deseaste hace tiempo se hace realidad justo en este momento. Puede ser que se arregle un arma da&ntilde;ada, que aparezca un aliado o que llegue a tu mente algo de conocimiento o comprensi&oacute;n.</p> <p><strong>Lo que se hace realidad:</strong> No hace mucho, alguien te advirti&oacute; del escenario exacto en el que te encuentras ahora. Sabes qu&eacute; hacer para tener ventaja en la situaci&oacute;n.</p> <p><strong>Piensa en cosas buenas:</strong> Piensas en algo o en alguien que te produce una gran alegr&iacute;a, y eso impregna de magia tus siguientes acciones, permiti&eacute;ndote volar o hacer alguna otra cosa que normalmente no eres capaz de hacer.</p> <p><strong>Puedo mostrarte el mundo:</strong> Algo o alguien de la zona se muestra ante ti, mostr&aacute;ndote una ruta que estabas buscando, un objeto que hab&iacute;as perdido o la respuesta a un problema.</p> <p><strong>Felices para siempre:</strong> Gracias al poder de tu amor por otra persona, utilizas la magia para proteger a alguien que te importa. Esta persona es capaz de esquivar un ataque que normalmente le causar&iacute;a graves da&ntilde;os.</p> <p>Si un jugador no tiene PX para gastar, no puede usar una intromisi&oacute;n de jugador.</p>",
+    "markdown": ""
+  },
+  "video": {
+    "controls": true,
+    "volume": 0.5
+  },
+  "src": null,
+  "system": {},
+  "ownership": {
+    "default": -1
+  },
+  "flags": {},
+  "_key": "!journal.pages!n1Ve9K17Pxjvc1yk.KhSSMjs5quvc3ibL"
+}

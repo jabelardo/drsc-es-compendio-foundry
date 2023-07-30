@@ -1,0 +1,54 @@
+{
+  "img": "systems/cyphersystem/icons/items/ability.svg",
+  "effects": [],
+  "folder": null,
+  "system": {
+    "archived": false,
+    "settings": {
+      "general": {
+        "spellTier": "low",
+        "sorting": "Ability",
+        "unmaskedForm": "Mask"
+      },
+      "rollButton": {
+        "stepModifier": "eased",
+        "damage": 0,
+        "damagePerLOE": 3,
+        "bonus": 0,
+        "pool": "Pool",
+        "teen": "",
+        "additionalSteps": 0,
+        "effort1": 0,
+        "effort3": 0,
+        "assets": 0,
+        "effort2": 0,
+        "skill": "Practiced",
+        "additionalCost": 0
+      }
+    },
+    "description": "<p>Una criatura de nivel 1 te acompaña y sigue tus instrucciones. Esta criatura no es más grande que un gato grande (unos 9 kg [20 libras]) y normalmente es alguna especie domestica. Tú y el DJ deben concretar los detalles de tu criatura, y probablemente harás tiradas por ella en combate o cuando ella realice acciones. La criatura acompañante actúa en tu turno. Como criatura de nivel 1, tiene un número objetivo de 3 y 3 de salud, e inflige 1 punto de daño. Su movimiento se basa en su tipo de criatura (aviar, nadador, etc.). Si tu compañero criatura muere, puedes buscar en un entorno urbano o salvaje durante 1d6 días para encontrar uno nuevo. Capacitador.<\/p>",
+    "basic": {
+      "cost": "0",
+      "pool": "Pool"
+    },
+    "version": 2
+  },
+  "ownership": {
+    "default": 0,
+    "k2TkElLx959B0lm5": 3
+  },
+  "_stats": {
+    "modifiedTime": 1664959715623,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "rLeavHPrdkq6xjNt",
+    "createdTime": null,
+    "systemVersion": "2.0.0-a1",
+    "coreVersion": "10.286"
+  },
+  "name": "Compañero bicho",
+  "flags": {"core": {"sourceId": "Compendium.cyphersystem-compendium.abilities.tgS72E10jiPF3Dm3"}},
+  "_id": "tgS72E10jiPF3Dm3",
+  "sort": 0,
+  "type": "ability",
+  "_key": "!items!tgS72E10jiPF3Dm3"
+}

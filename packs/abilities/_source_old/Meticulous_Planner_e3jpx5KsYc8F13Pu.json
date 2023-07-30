@@ -1,0 +1,54 @@
+{
+  "img": "systems/cyphersystem/icons/items/ability.svg",
+  "effects": [],
+  "folder": null,
+  "system": {
+    "archived": false,
+    "settings": {
+      "general": {
+        "spellTier": "low",
+        "sorting": "Ability",
+        "unmaskedForm": "Mask"
+      },
+      "rollButton": {
+        "stepModifier": "eased",
+        "damage": 0,
+        "damagePerLOE": 3,
+        "bonus": 0,
+        "pool": "Pool",
+        "teen": "",
+        "additionalSteps": 0,
+        "effort1": 0,
+        "effort3": 0,
+        "assets": 0,
+        "effort2": 0,
+        "skill": "Practiced",
+        "additionalCost": 0
+      }
+    },
+    "description": "<p>Si dedicas buen tiempo a planificar una acción, ganas un recurso al realizarla. El tiempo de estudio y planificación de la acción es diez veces mayor que el que se necesita para realizarla. Por ejemplo, si quieres saltar sobre un agujero en el suelo (una acción), puedes estudiar la zona durante diez rondas (aproximadamente un minuto), y cuando intentes saltar sobre el agujero, tendrás un recurso en el salto. Este beneficio sólo se aplica a una tirada; si quieres volver a realizar la tarea con el beneficio de un recurso, tienes que estudiar y planificar de nuevo. Capacitador.<\/p>",
+    "basic": {
+      "cost": "0",
+      "pool": "Pool"
+    },
+    "version": 2
+  },
+  "ownership": {
+    "default": 0,
+    "k2TkElLx959B0lm5": 3
+  },
+  "_stats": {
+    "modifiedTime": 1664959721347,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "rLeavHPrdkq6xjNt",
+    "createdTime": null,
+    "systemVersion": "2.0.0-a1",
+    "coreVersion": "10.286"
+  },
+  "name": "Planificador meticuloso",
+  "flags": {"core": {"sourceId": "Compendium.cyphersystem-compendium.abilities.e3jpx5KsYc8F13Pu"}},
+  "_id": "e3jpx5KsYc8F13Pu",
+  "sort": 0,
+  "type": "ability",
+  "_key": "!items!e3jpx5KsYc8F13Pu"
+}

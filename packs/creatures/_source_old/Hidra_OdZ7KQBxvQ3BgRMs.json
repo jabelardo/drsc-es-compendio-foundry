@@ -1,0 +1,128 @@
+{
+  "img": "modules/drsc-es-compendio-foundry/img/tokens/magical-beast.webp",
+  "_stats": {
+    "modifiedTime": 1676797809148,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "yThCrv1jSfPXOC2U",
+    "createdTime": 1676280483445,
+    "systemVersion": "2.3.0",
+    "coreVersion": "10.291"
+  },
+  "flags": {"core": {"sourceId": "Actor.GVqBAzjoMJXSAUov"}},
+  "sort": 0,
+  "type": "npc",
+  "_key": "!actors!OdZ7KQBxvQ3BgRMs",
+  "prototypeToken": {
+    "displayBars": 40,
+    "displayName": 20,
+    "actorLink": false,
+    "texture": {
+      "scaleX": 1,
+      "offsetX": 0,
+      "scaleY": 1,
+      "offsetY": 0,
+      "src": "icons/svg/mystery-man.svg",
+      "rotation": 0,
+      "tint": null
+    },
+    "lockRotation": false,
+    "rotation": 0,
+    "detectionModes": [],
+    "flags": {},
+    "randomImg": false,
+    "bar1": {"attribute": "pools.health"},
+    "bar2": {"attribute": "basic.level"},
+    "disposition": 0,
+    "light": {
+      "attenuation": 0.5,
+      "color": null,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "animation": {
+        "intensity": 5,
+        "type": null,
+        "reverse": false,
+        "speed": 5
+      },
+      "saturation": 0,
+      "alpha": 0.5,
+      "contrast": 0,
+      "angle": 360,
+      "luminosity": 0.5,
+      "shadows": 0,
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "alpha": 1,
+    "name": "Hidra",
+    "width": 1,
+    "sight": {
+      "saturation": 0,
+      "attenuation": 0.1,
+      "brightness": 0,
+      "color": null,
+      "visionMode": "basic",
+      "contrast": 0,
+      "range": null,
+      "angle": 360,
+      "enabled": false
+    },
+    "height": 1
+  },
+  "effects": [],
+  "system": {
+    "settings": {
+      "general": {
+        "initiativeBonus": 0,
+        "hideArchive": false
+      },
+      "equipment": {
+        "ammo": {"active": false},
+        "armor": {"active": false},
+        "attacks": {"active": false},
+        "materials": {
+          "active": false,
+          "label": ""
+        },
+        "cyphers": {
+          "active": false,
+          "label": ""
+        },
+        "oddities": {
+          "active": false,
+          "label": ""
+        },
+        "artifacts": {
+          "active": false,
+          "label": ""
+        }
+      }
+    },
+    "notes": "<p>Este reptil mitológico tiene cinco cabezas de serpiente retorcidas, cada una de las cuales exhala constantemente un penacho venenoso. Con más de 6 m [20 pies] de largo desde la punta de su cabeza más larga hasta su cola, la característica más desconcertante de esta bestia tóxica es su capacidad mágica para hacer brotar nuevas cabezas cuando es herida. Algunas hidras viven en tierra, otras en el agua. La mayoría parecen haber sido establecidas como guardianes de lugares importantes por poderes superiores, que es probablemente la razón por la que son tan difíciles de matar.<\/p>\n<p><strong>Motivación:<\/strong> Alimentación (carne), defender un lugar<\/p>\n<p><strong>Entorno:<\/strong> Pantanos, costas y bosques<\/p>\n<p><strong>Salud:<\/strong> 24<\/p>\n<p><strong>Daño que inflige:<\/strong> 7 puntos<\/p>\n<p><strong>Armadura:<\/strong> 1<\/p>\n<p><strong>Movimiento:<\/strong> Corto al caminar o nadar<\/p>\n<p><strong>Ajustes: <\/strong>Nivel 8 para percepción debido a sus numerosas cabezas; nivel 5 para Defensa por Velocidad debido a su tamaño.<\/p>\n<p><strong>Combate:<\/strong> Incluso acercarse a una hidra es peligroso; el aire que la rodea está envenenado por su aliento venenoso. Cada ronda que una criatura se encuentre dentro del alcance inmediato de una hidra, debe tener éxito en una tarea de Defensa por Vigor o recibir 1 punto de daño de Velocidad (ignora Armadura).<\/p>\n<p>Las cinco cabezas de una hidra pueden morder simultáneamente a los enemigos que se encuentren a su alcance inmediato. Si tres o más cabezas coordinan su ataque, las cabezas realizan un ataque como una única criatura de nivel 9 que inflige 9 puntos de daño. Un objetivo mordido por la hidra venenosa también debe tener éxito en una tarea de Defensa por Vigor o recibir 2 puntos adicionales de daño de Velocidad (ignora Armadura).<\/p>\n<p>Cada vez que la hidra recibe 4 o más puntos de daño de un único ataque, un pulso curativo recorre a la criatura una ronda después. El pulso devuelve la salud que se acaba de restar debido al ataque y desencadena el crecimiento inmediato de dos cabezas adicionales que brotan de la criatura. (Lo mismo ocurre si una de las cabezas serpenteantes de la criatura es decapitada). Las nuevas cabezas son tan eficaces como las originales en un combate. El fuego, la electricidad y otros ataques de energía extrema no activan el pulso curativo ni la génesis de cabezas.<\/p>\n<p><strong>Interacción:<\/strong> Una hidra es un depredador astuto, pero no inteligente. No puede regatear ni negociar.<\/p>\n<p><strong>Uso:<\/strong> Los PJs investigan una antigua ruina con la esperanza de encontrar artefactos de los dioses. Una hidra los ve entrar y los sigue a través de la estructura en ruinas a una distancia considerable, esperando a que descansen o se distraigan de otro modo antes de atacar.<\/p>\n<p><strong>Botín:<\/strong> Las hidras a veces recogen Cyphers y artefactos en su guarida, o en su defecto, custodian algo de valor.<\/p>\n<p><strong>Intromisiones del DJ:<\/strong> El personaje reacciona mal al veneno del aire o a un mordisco y sufre convulsiones irresistibles durante una ronda si falla una tarea de defensa con Vigor.<\/p>",
+    "pools": {"health": {
+      "max": 24,
+      "value": 24
+    }},
+    "description": "",
+    "combat": {
+      "damage": 7,
+      "armor": 1
+    },
+    "basic": {
+      "level": 7,
+      "biography": "<p>Este reptil mitológico tiene cinco cabezas de serpiente retorcidas, cada una de las cuales exhala constantemente un penacho venenoso. Con más de 6 m [20 pies] de largo desde la punta de su cabeza más larga hasta su cola, la característica más desconcertante de esta bestia tóxica es su capacidad mágica para hacer brotar nuevas cabezas cuando es herida. Algunas hidras viven en tierra, otras en el agua. La mayoría parecen haber sido establecidas como guardianes de lugares importantes por poderes superiores, que es probablemente la razón por la que son tan difíciles de matar.<\/p>\n<p><strong>Motivación:<\/strong> Alimentación (carne), defender un lugar<\/p>\n<p><strong>Entorno:<\/strong> Pantanos, costas y bosques<\/p>\n<p><strong>Salud:<\/strong> 24<\/p>\n<p><strong>Daño que inflige:<\/strong> 7 puntos<\/p>\n<p><strong>Armadura:<\/strong> 1<\/p>\n<p><strong>Movimiento:<\/strong> Corto al caminar o nadar<\/p>\n<p><strong>Ajustes: <\/strong>Nivel 8 para percepción debido a sus numerosas cabezas; nivel 5 para Defensa por Velocidad debido a su tamaño.<\/p>\n<p><strong>Combate:<\/strong> Incluso acercarse a una hidra es peligroso; el aire que la rodea está envenenado por su aliento venenoso. Cada ronda que una criatura se encuentre dentro del alcance inmediato de una hidra, debe tener éxito en una tarea de Defensa por Vigor o recibir 1 punto de daño de Velocidad (ignora Armadura).<\/p>\n<p>Las cinco cabezas de una hidra pueden morder simultáneamente a los enemigos que se encuentren a su alcance inmediato. Si tres o más cabezas coordinan su ataque, las cabezas realizan un ataque como una única criatura de nivel 9 que inflige 9 puntos de daño. Un objetivo mordido por la hidra venenosa también debe tener éxito en una tarea de Defensa por Vigor o recibir 2 puntos adicionales de daño de Velocidad (ignora Armadura).<\/p>\n<p>Cada vez que la hidra recibe 4 o más puntos de daño de un único ataque, un pulso curativo recorre a la criatura una ronda después. El pulso devuelve la salud que se acaba de restar debido al ataque y desencadena el crecimiento inmediato de dos cabezas adicionales que brotan de la criatura. (Lo mismo ocurre si una de las cabezas serpenteantes de la criatura es decapitada). Las nuevas cabezas son tan eficaces como las originales en un combate. El fuego, la electricidad y otros ataques de energía extrema no activan el pulso curativo ni la génesis de cabezas.<\/p>\n<p><strong>Interacción:<\/strong> Una hidra es un depredador astuto, pero no inteligente. No puede regatear ni negociar.<\/p>\n<p><strong>Uso:<\/strong> Los PJs investigan una antigua ruina con la esperanza de encontrar artefactos de los dioses. Una hidra los ve entrar y los sigue a través de la estructura en ruinas a una distancia considerable, esperando a que descansen o se distraigan de otro modo antes de atacar.<\/p>\n<p><strong>Botín:<\/strong> Las hidras a veces recogen Cyphers y artefactos en su guarida, o en su defecto, custodian algo de valor.<\/p>\n<p><strong>Intromisiones del DJ:<\/strong> El personaje reacciona mal al veneno del aire o a un mordisco y sufre convulsiones irresistibles durante una ronda si falla una tarea de defensa con Vigor.<\/p>"
+    },
+    "version": 2
+  },
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "name": "Hidra",
+  "_id": "OdZ7KQBxvQ3BgRMs",
+  "items": []
+}

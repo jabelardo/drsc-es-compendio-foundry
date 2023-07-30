@@ -1,0 +1,48 @@
+{
+  "img": "systems/cyphersystem/icons/items/cypher.svg",
+  "effects": [],
+  "folder": null,
+  "system": {
+    "archived": false,
+    "settings": {"general": {"nameUnidentified": ""}},
+    "rollButton": {
+      "stepModifier": "eased",
+      "damage": 0,
+      "damagePerLOE": 3,
+      "bonus": 0,
+      "pool": "Pool",
+      "teen": "",
+      "additionalSteps": 0,
+      "effort1": 0,
+      "effort3": 0,
+      "assets": 0,
+      "effort2": 0,
+      "skill": "Practiced",
+      "additionalCost": 0
+    },
+    "description": "<p><strong>Nivel:<\/strong> 1d6 + 2<\/p>\n<p><strong>Efecto:<\/strong> Proyecta un pequeño explosivo físico hasta una larga distancia que explota en un radio inmediato, infligiendo un daño igual al nivel del Cypher. Tira un d100 para determinar el tipo de daño.<\/p>\n<p>(Todas las detonaciones dañinas infligen un mínimo de 2 puntos de daño a los que están en el radio, independientemente de las tiradas de ataque o defensa).<\/p>\n<table class=\"table table-dark table-striped table-sm\">\n <thead>\n <\/thead>\n <tbody>\n  <tr>\n   <td>01-10<\/td>\n   <td>Disrupción celular (sólo daña la carne)<\/td>\n  <\/tr>\n  <tr>\n   <td>11-30<\/td>\n   <td>Corrosivo<\/td>\n  <\/tr>\n  <tr>\n   <td>31-40<\/td>\n   <td>Descarga eléctrica<\/td>\n  <\/tr>\n  <tr>\n   <td>41-50<\/td>\n   <td>Drenaje de calor (frío)<\/td>\n  <\/tr>\n  <tr>\n   <td>51-75<\/td>\n   <td>Fuego<\/td>\n  <\/tr>\n  <tr>\n   <td>76-00<\/td>\n   <td>Metralla<\/td>\n  <\/tr>\n <\/tbody>\n<\/table>",
+    "basic": {
+      "identified": true,
+      "level": "1d6 + 2"
+    },
+    "version": 2
+  },
+  "ownership": {
+    "default": 0,
+    "k2TkElLx959B0lm5": 3
+  },
+  "_stats": {
+    "modifiedTime": 1683653971279,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "yThCrv1jSfPXOC2U",
+    "createdTime": null,
+    "systemVersion": "2.5.0",
+    "coreVersion": "10.291"
+  },
+  "name": "Detonación",
+  "flags": {},
+  "sort": 0,
+  "_id": "GxcYZVXI0R3cMeMp",
+  "type": "cypher",
+  "_key": "!items!GxcYZVXI0R3cMeMp"
+}

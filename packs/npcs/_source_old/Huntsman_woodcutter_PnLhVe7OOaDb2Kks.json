@@ -1,0 +1,128 @@
+{
+  "img": "modules/drsc-es-compendio-foundry/img/tokens/humanoid_mundane.webp",
+  "_stats": {
+    "modifiedTime": 1685376396196,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "yThCrv1jSfPXOC2U",
+    "createdTime": 1685376294896,
+    "systemVersion": "2.6.0",
+    "coreVersion": "10.291"
+  },
+  "flags": {"core": {"sourceId": "Actor.fbSRynrfOk7wZkG3"}},
+  "sort": 0,
+  "type": "npc",
+  "_key": "!actors!PnLhVe7OOaDb2Kks",
+  "prototypeToken": {
+    "displayBars": 40,
+    "displayName": 20,
+    "actorLink": false,
+    "texture": {
+      "scaleX": 1,
+      "offsetX": 0,
+      "scaleY": 1,
+      "offsetY": 0,
+      "src": "icons/svg/mystery-man.svg",
+      "rotation": 0,
+      "tint": null
+    },
+    "lockRotation": true,
+    "rotation": 0,
+    "detectionModes": [],
+    "flags": {"barbrawl": {"resourceBars": {}}},
+    "randomImg": false,
+    "bar1": {"attribute": "pools.health"},
+    "bar2": {"attribute": "basic.level"},
+    "disposition": 0,
+    "light": {
+      "attenuation": 0.5,
+      "color": null,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "animation": {
+        "intensity": 5,
+        "type": null,
+        "reverse": false,
+        "speed": 5
+      },
+      "saturation": 0,
+      "alpha": 0.5,
+      "contrast": 0,
+      "angle": 360,
+      "luminosity": 0.5,
+      "shadows": 0,
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "alpha": 1,
+    "name": "Cazador/Leñador",
+    "width": 1,
+    "sight": {
+      "saturation": 0,
+      "attenuation": 0.1,
+      "brightness": 0,
+      "color": null,
+      "visionMode": "basic",
+      "contrast": 0,
+      "range": null,
+      "angle": 360,
+      "enabled": false
+    },
+    "height": 1
+  },
+  "effects": [],
+  "system": {
+    "settings": {
+      "general": {
+        "initiativeBonus": 0,
+        "hideArchive": false
+      },
+      "equipment": {
+        "ammo": {"active": false},
+        "armor": {"active": false},
+        "attacks": {"active": false},
+        "materials": {
+          "active": false,
+          "label": ""
+        },
+        "cyphers": {
+          "active": false,
+          "label": ""
+        },
+        "oddities": {
+          "active": false,
+          "label": ""
+        },
+        "artifacts": {
+          "active": false,
+          "label": ""
+        }
+      }
+    },
+    "notes": "<p>Un cazador puede estar al servicio de un poderoso usuario de magia, protegiendo una sección de los bosques que considera suya, o simplemente intentando mantener a su familia cortando leña y cazando animales.<\/p>\n<p><strong>Motivación:<\/strong> Seguir órdenes, apoyar a sus seres queridos, proteger a los inocentes<\/p>\n<p><strong>Entorno:<\/strong> Bosques y otras tierras silvestres<\/p>\n<p><strong>Salud:<\/strong> 8<\/p>\n<p><strong>Daño que inflige:<\/strong> 2 puntos<\/p>\n<p><strong>Armadura:<\/strong> 1<\/p>\n<p><strong>Movimiento:<\/strong> Corto<\/p>\n<p><strong>Ajustes:<\/strong> Nivel 4 para rastrear y encontrar caminos<\/p>\n<p><strong>Combate:<\/strong> Tanto los cazadores como los leñadores conocen el poder del disparo o el golpe perfectamente dirigido. Se toman su tiempo, estabilizan la mano y la respiración, y golpean con precisión y fuerza.<\/p>\n<p>Cuando no realizan ninguna acción en un turno, su siguiente ataque inflige el doble del daño normal.<\/p>\n<p><strong>Interacción:<\/strong> Muchos cazadores y leñadores están motivados por una profunda necesidad de ser leales, pero también son blandos de corazón y tienen un fuerte centro moral. Si se les encarga algo que consideran inaceptable, pueden renunciar a sus promesas y rebelarse.<\/p>\n<p><strong>Uso:<\/strong> Dan caza a los personajes por orden de una autoridad superior. Salvan a los PJs Ser amigo de un artesano a menudo tiene beneficios obvios a largo plazo, mientras que robarles tiene ventajas a corto plazo (y posibles desventajas a largo plazo).<\/p>\n<p><strong>Botín:<\/strong> Además de su ropa y arma mundana, es probable que tengan un objeto costoso como muestra de la promesa o el afecto a alguien a quien han ayudado o a quien deben lealtad.<\/p>\n<p><strong>Intromisiones del DJ:<\/strong> Un corte perfectamente sincronizado hace caer un árbol en dirección al personaje.<\/p>",
+    "pools": {"health": {
+      "max": 8,
+      "value": 8
+    }},
+    "description": "",
+    "combat": {
+      "damage": 2,
+      "armor": 1
+    },
+    "basic": {
+      "level": 2,
+      "biography": "<p>Un cazador puede estar al servicio de un poderoso usuario de magia, protegiendo una sección de los bosques que considera suya, o simplemente intentando mantener a su familia cortando leña y cazando animales.<\/p>\n<p><strong>Motivación:<\/strong> Seguir órdenes, apoyar a sus seres queridos, proteger a los inocentes<\/p>\n<p><strong>Entorno:<\/strong> Bosques y otras tierras silvestres<\/p>\n<p><strong>Salud:<\/strong> 8<\/p>\n<p><strong>Daño que inflige:<\/strong> 2 puntos<\/p>\n<p><strong>Armadura:<\/strong> 1<\/p>\n<p><strong>Movimiento:<\/strong> Corto<\/p>\n<p><strong>Ajustes:<\/strong> Nivel 4 para rastrear y encontrar caminos<\/p>\n<p><strong>Combate:<\/strong> Tanto los cazadores como los leñadores conocen el poder del disparo o el golpe perfectamente dirigido. Se toman su tiempo, estabilizan la mano y la respiración, y golpean con precisión y fuerza.<\/p>\n<p>Cuando no realizan ninguna acción en un turno, su siguiente ataque inflige el doble del daño normal.<\/p>\n<p><strong>Interacción:<\/strong> Muchos cazadores y leñadores están motivados por una profunda necesidad de ser leales, pero también son blandos de corazón y tienen un fuerte centro moral. Si se les encarga algo que consideran inaceptable, pueden renunciar a sus promesas y rebelarse.<\/p>\n<p><strong>Uso:<\/strong> Dan caza a los personajes por orden de una autoridad superior. Salvan a los PJs Ser amigo de un artesano a menudo tiene beneficios obvios a largo plazo, mientras que robarles tiene ventajas a corto plazo (y posibles desventajas a largo plazo).<\/p>\n<p><strong>Botín:<\/strong> Además de su ropa y arma mundana, es probable que tengan un objeto costoso como muestra de la promesa o el afecto a alguien a quien han ayudado o a quien deben lealtad.<\/p>\n<p><strong>Intromisiones del DJ:<\/strong> Un corte perfectamente sincronizado hace caer un árbol en dirección al personaje.<\/p>"
+    },
+    "version": 3
+  },
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "name": "Cazador/Leñador",
+  "_id": "PnLhVe7OOaDb2Kks",
+  "items": []
+}

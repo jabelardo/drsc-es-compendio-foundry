@@ -1,0 +1,16 @@
+{
+  "img": "systems/cyphersystem/icons/items/cypher.svg",
+  "documentCollection": "cyphersystem-compendium.cyphers-horror",
+  "flags": {},
+  "weight": 2,
+  "range": [
+    12,
+    13
+  ],
+  "documentId": "M5p7QBbratU7IGtU",
+  "text": "Rostro horrible",
+  "_id": "dF3BEZuwkuEj1r7Y",
+  "type": 2,
+  "drawn": false,
+  "_key": "!tables.results!6NQpj1dyaDYM6w6P.dF3BEZuwkuEj1r7Y"
+}

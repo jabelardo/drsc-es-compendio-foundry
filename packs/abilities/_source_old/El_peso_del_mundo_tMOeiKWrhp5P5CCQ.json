@@ -1,0 +1,58 @@
+{
+  "img": "systems/cyphersystem/icons/items/ability.svg",
+  "effects": [],
+  "folder": null,
+  "system": {
+    "archived": false,
+    "settings": {
+      "general": {
+        "spellTier": "low",
+        "sorting": "Ability",
+        "unmaskedForm": "Mask"
+      },
+      "rollButton": {
+        "stepModifier": "eased",
+        "damage": 0,
+        "damagePerLOE": 3,
+        "bonus": 0,
+        "pool": "Pool",
+        "teen": "",
+        "additionalSteps": 0,
+        "effort1": 0,
+        "effort3": 0,
+        "assets": 0,
+        "effort2": 0,
+        "skill": "Practiced",
+        "additionalCost": 0
+      }
+    },
+    "description": "<p>Puedes aumentar el peso de un objetivo de forma drástica. El objetivo es arrastrado al suelo y no puede moverse físicamente por su propia fuerza durante un minuto. El objetivo debe estar a corta distancia. Además de las opciones normales para usar Esfuerzo, puedes elegir usar Esfuerzo para afectar a criaturas adicionales (una por nivel de Esfuerzo). Acción.</p>",
+    "basic": {
+      "cost": "6+",
+      "pool": "Intellect"
+    },
+    "version": 2
+  },
+  "ownership": {
+    "default": 0,
+    "k2TkElLx959B0lm5": 3
+  },
+  "_stats": {
+    "modifiedTime": 1664959726356,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "rLeavHPrdkq6xjNt",
+    "createdTime": null,
+    "systemVersion": "2.0.0-a1",
+    "coreVersion": "10.286"
+  },
+  "name": "El peso del mundo",
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.cyphersystem-compendium.abilities.tMOeiKWrhp5P5CCQ"
+    }
+  },
+  "_id": "tMOeiKWrhp5P5CCQ",
+  "sort": 0,
+  "type": "ability",
+  "_key": "!items!tMOeiKWrhp5P5CCQ"
+}

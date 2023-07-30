@@ -1,0 +1,128 @@
+{
+  "img": "modules/drsc-es-compendio-foundry/img/tokens/humanoid_magical.webp",
+  "_stats": {
+    "modifiedTime": 1683061648728,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "yThCrv1jSfPXOC2U",
+    "createdTime": 1683061515565,
+    "systemVersion": "2.5.0",
+    "coreVersion": "10.291"
+  },
+  "flags": {"core": {"sourceId": "Actor.rTal6f9gViyphCuh"}},
+  "sort": 0,
+  "type": "npc",
+  "_key": "!actors!LcxX3niP2skHyTUs",
+  "prototypeToken": {
+    "displayBars": 40,
+    "displayName": 20,
+    "actorLink": false,
+    "texture": {
+      "scaleX": 1,
+      "offsetX": 0,
+      "scaleY": 1,
+      "offsetY": 0,
+      "src": "icons/svg/mystery-man.svg",
+      "rotation": 0,
+      "tint": null
+    },
+    "lockRotation": false,
+    "rotation": 0,
+    "detectionModes": [],
+    "flags": {},
+    "randomImg": false,
+    "bar1": {"attribute": "pools.health"},
+    "bar2": {"attribute": "basic.level"},
+    "disposition": 0,
+    "light": {
+      "attenuation": 0.5,
+      "color": null,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "animation": {
+        "intensity": 5,
+        "type": null,
+        "reverse": false,
+        "speed": 5
+      },
+      "saturation": 0,
+      "alpha": 0.5,
+      "contrast": 0,
+      "angle": 360,
+      "luminosity": 0.5,
+      "shadows": 0,
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "alpha": 1,
+    "name": "Científico loco",
+    "width": 1,
+    "sight": {
+      "saturation": 0,
+      "attenuation": 0.1,
+      "brightness": 0,
+      "color": null,
+      "visionMode": "basic",
+      "contrast": 0,
+      "range": null,
+      "angle": 360,
+      "enabled": false
+    },
+    "height": 1
+  },
+  "effects": [],
+  "system": {
+    "settings": {
+      "general": {
+        "initiativeBonus": 0,
+        "hideArchive": false
+      },
+      "equipment": {
+        "ammo": {"active": false},
+        "armor": {"active": false},
+        "attacks": {"active": false},
+        "materials": {
+          "active": false,
+          "label": ""
+        },
+        "cyphers": {
+          "active": false,
+          "label": ""
+        },
+        "oddities": {
+          "active": false,
+          "label": ""
+        },
+        "artifacts": {
+          "active": false,
+          "label": ""
+        }
+      }
+    },
+    "notes": "<p>Un científico loco es alguien que se adentra en áreas de la ciencia que es mejor dejar inexploradas, abandonando la ética y buscando lo que puede ser creado sin preguntarse si debería serlo.<\/p>\n<p><strong>Motivación:<\/strong> Comprender y explotar la realidad<\/p>\n<p><strong>Entorno:<\/strong> Normalmente en un laboratorio<\/p>\n<p><strong>Salud:<\/strong> 15<\/p>\n<p><strong>Daño que inflige:<\/strong> 7 puntos<\/p>\n<p><strong>Movimiento:<\/strong> Corto<\/p>\n<p><strong>Ajustes:<\/strong> Nivel 6 para Defenza gracias a un artilugio (o Cypher); nivel 7 para conocimiento de ciencia avanzada<\/p>\n<p><strong>Combate:<\/strong> Los científicos locos suelen ir acompañados de guardias de seguridad, robots, zombis o alguna otra criatura apropiada. Un científico loco puede intentar tomar el control de un dispositivo tecnológico enemigo (una armadura, un arma, un Cypher, un robot, etc.) a corta distancia durante un máximo de un minuto utilizando un dispositivo portátil.<\/p>\n<p>Los científicos locos suelen tener acceso a un arma de energía de largo alcance o de alta velocidad que inflige 7 puntos de daño. Suelen llevar Cyphers manifiestos que aumentan la Armadura, confunden los sentidos de los oponentes o se transforman en una forma que alivia todas sus acciones en dos grados.<\/p>\n<p><strong>Interacción:<\/strong> Los científicos locos son narcisistas y les encanta hacer monólogos sobre su trabajo. Negocian, pero suelen ser sociópatas y no se preocupan por los demás. Algunos están llenos de odio hacia sí mismos, pero demasiado trastornados para sentir que pueden cambiar.<\/p>\n<p><strong>Uso:<\/strong> Apagones y ruidos extraños han sido rastreados a un lugar donde se ha encontrado un laboratorio secreto en el que un científico está creando algo asombroso y monstruoso.<\/p>\n<p><strong>Botín:<\/strong> Los científicos locos tienen unos cuantos Cyphers manifiestos y posiblemente un artefacto.<\/p>\n<p><strong>Intromisiones del DJ:<\/strong> El científico loco produce un artefacto o Cypher que resulta ser la respuesta perfecta a un dilema que se le presenta.<\/p>",
+    "pools": {"health": {
+      "max": 15,
+      "value": 15
+    }},
+    "description": "",
+    "combat": {
+      "damage": 7,
+      "armor": 0
+    },
+    "basic": {
+      "level": 4,
+      "biography": "<p>Un científico loco es alguien que se adentra en áreas de la ciencia que es mejor dejar inexploradas, abandonando la ética y buscando lo que puede ser creado sin preguntarse si debería serlo.<\/p>\n<p><strong>Motivación:<\/strong> Comprender y explotar la realidad<\/p>\n<p><strong>Entorno:<\/strong> Normalmente en un laboratorio<\/p>\n<p><strong>Salud:<\/strong> 15<\/p>\n<p><strong>Daño que inflige:<\/strong> 7 puntos<\/p>\n<p><strong>Movimiento:<\/strong> Corto<\/p>\n<p><strong>Ajustes:<\/strong> Nivel 6 para Defenza gracias a un artilugio (o Cypher); nivel 7 para conocimiento de ciencia avanzada<\/p>\n<p><strong>Combate:<\/strong> Los científicos locos suelen ir acompañados de guardias de seguridad, robots, zombis o alguna otra criatura apropiada. Un científico loco puede intentar tomar el control de un dispositivo tecnológico enemigo (una armadura, un arma, un Cypher, un robot, etc.) a corta distancia durante un máximo de un minuto utilizando un dispositivo portátil.<\/p>\n<p>Los científicos locos suelen tener acceso a un arma de energía de largo alcance o de alta velocidad que inflige 7 puntos de daño. Suelen llevar Cyphers manifiestos que aumentan la Armadura, confunden los sentidos de los oponentes o se transforman en una forma que alivia todas sus acciones en dos grados.<\/p>\n<p><strong>Interacción:<\/strong> Los científicos locos son narcisistas y les encanta hacer monólogos sobre su trabajo. Negocian, pero suelen ser sociópatas y no se preocupan por los demás. Algunos están llenos de odio hacia sí mismos, pero demasiado trastornados para sentir que pueden cambiar.<\/p>\n<p><strong>Uso:<\/strong> Apagones y ruidos extraños han sido rastreados a un lugar donde se ha encontrado un laboratorio secreto en el que un científico está creando algo asombroso y monstruoso.<\/p>\n<p><strong>Botín:<\/strong> Los científicos locos tienen unos cuantos Cyphers manifiestos y posiblemente un artefacto.<\/p>\n<p><strong>Intromisiones del DJ:<\/strong> El científico loco produce un artefacto o Cypher que resulta ser la respuesta perfecta a un dilema que se le presenta.<\/p>"
+    },
+    "version": 3
+  },
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "name": "Científico loco",
+  "_id": "LcxX3niP2skHyTUs",
+  "items": []
+}

@@ -1,0 +1,36 @@
+{
+  "name": "Óbolo de Caronte",
+  "type": "equipment",
+  "img": "systems/cyphersystem/icons/items/equipment.svg",
+  "system": {
+    "version": 2,
+    "description": "<p>Moneda imbuida. Se coloca en la boca de un muerto antes de enterrarlo como pago a Caronte, el barquero, por transportar el alma a su lugar de descanso.</p>",
+    "archived": false,
+    "basic": {
+      "level": null,
+      "quantity": 1
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Item.uaRVF1hNbnv5nrjm"
+    }
+  },
+  "_stats": {
+    "systemId": "cyphersystem",
+    "systemVersion": "2.6.0",
+    "coreVersion": "10.291",
+    "createdTime": 1685269942947,
+    "modifiedTime": 1685269956067,
+    "lastModifiedBy": "yThCrv1jSfPXOC2U"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "sh86TLOhJTps2h4A",
+  "_key": "!items!sh86TLOhJTps2h4A"
+}

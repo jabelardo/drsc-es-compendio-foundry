@@ -1,0 +1,16 @@
+{
+  "img": "systems/cyphersystem/icons/items/cypher.svg",
+  "documentCollection": "cyphersystem-compendium.cyphers-fairy-tale",
+  "flags": {},
+  "weight": 1,
+  "range": [
+    7,
+    7
+  ],
+  "documentId": "X3qlewfv9dNRD6hJ",
+  "text": "Galleta con especias de Baba Yaga",
+  "_id": "JC8fOtkUKuTPpYhW",
+  "type": 2,
+  "drawn": false,
+  "_key": "!tables.results!CkH6ebWiUPmhjbw0.JC8fOtkUKuTPpYhW"
+}

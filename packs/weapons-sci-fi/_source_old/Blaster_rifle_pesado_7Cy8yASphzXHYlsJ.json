@@ -1,0 +1,62 @@
+{
+  "name": "Blaster rifle pesado",
+  "type": "attack",
+  "img": "systems/cyphersystem/icons/items/attack.svg",
+  "effects": [],
+  "folder": "1mfD4NcUBNotKurs",
+  "sort": 100000,
+  "flags": {},
+  "_id": "7Cy8yASphzXHYlsJ",
+  "system": {
+    "version": 2,
+    "description": "<p>Rifle que proyecta un haz energético de plasma-partículas; arma pesada (6 de daño, ambas manos), muy largo alcance. Ignora 1 punto de valor de Armadura (excepto de campos de fuerza). Nivel 5.</p>",
+    "archived": false,
+    "settings": {
+      "rollButton": {
+        "pool": "Pool",
+        "skill": "Practiced",
+        "assets": "0",
+        "effort1": "0",
+        "effort2": "0",
+        "effort3": "0",
+        "stepModifier": "eased",
+        "additionalSteps": 0,
+        "additionalCost": 0,
+        "damage": 0,
+        "damagePerLOE": 3,
+        "teen": "",
+        "bonus": 0
+      },
+      "linkedItems": {
+        "ability": "",
+        "attack": "",
+        "skill": ""
+      },
+      "general": {
+        "unmaskedForm": "Mask"
+      }
+    },
+    "basic": {
+      "type": "heavy weapon",
+      "damage": 6,
+      "modifier": "eased",
+      "steps": 0,
+      "range": "very long range",
+      "notes": "requires both hands, ignores 1 point of Armor",
+      "skillRating": "Practiced"
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "k2TkElLx959B0lm5": 3
+  },
+  "_stats": {
+    "systemId": "cyphersystem",
+    "systemVersion": "2.6.2",
+    "coreVersion": "11.299",
+    "createdTime": null,
+    "modifiedTime": 1685561672974,
+    "lastModifiedBy": "7luxagQiisUFvSQn"
+  },
+  "_key": "!items!7Cy8yASphzXHYlsJ"
+}

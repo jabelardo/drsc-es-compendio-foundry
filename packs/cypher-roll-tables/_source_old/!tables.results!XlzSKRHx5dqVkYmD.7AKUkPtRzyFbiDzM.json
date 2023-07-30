@@ -1,0 +1,16 @@
+{
+  "img": "systems/cyphersystem/icons/items/cypher.svg",
+  "documentCollection": "cyphersystem-compendium.cyphers-horror",
+  "flags": {},
+  "weight": 1,
+  "range": [
+    9,
+    9
+  ],
+  "documentId": "EuX5466nLH7L4gmw",
+  "text": "Vivisector cerebral ascendente",
+  "_id": "7AKUkPtRzyFbiDzM",
+  "type": 2,
+  "drawn": false,
+  "_key": "!tables.results!XlzSKRHx5dqVkYmD.7AKUkPtRzyFbiDzM"
+}

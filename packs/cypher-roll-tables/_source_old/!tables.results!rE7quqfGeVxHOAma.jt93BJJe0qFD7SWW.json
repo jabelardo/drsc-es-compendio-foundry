@@ -1,0 +1,16 @@
+{
+  "img": "systems/cyphersystem/icons/items/artifact.svg",
+  "documentCollection": "cyphersystem-compendium.artifacts-fairy-tale",
+  "flags": {},
+  "weight": 3,
+  "range": [
+    57,
+    59
+  ],
+  "documentId": "BgJ0bSaH7lAYyHlI",
+  "text": "Gorro rojo",
+  "_id": "jt93BJJe0qFD7SWW",
+  "type": 2,
+  "drawn": false,
+  "_key": "!tables.results!rE7quqfGeVxHOAma.jt93BJJe0qFD7SWW"
+}

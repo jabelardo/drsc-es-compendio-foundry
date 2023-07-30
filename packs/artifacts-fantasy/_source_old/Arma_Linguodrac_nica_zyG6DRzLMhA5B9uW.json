@@ -1,0 +1,57 @@
+{
+  "img": "systems/cyphersystem/icons/items/artifact.svg",
+  "effects": [],
+  "system": {
+    "archived": false,
+    "settings": {
+      "general": {
+        "nameUnidentified": ""
+      }
+    },
+    "rollButton": {
+      "stepModifier": "eased",
+      "damage": 0,
+      "damagePerLOE": 3,
+      "bonus": 0,
+      "pool": "Pool",
+      "teen": "",
+      "additionalSteps": 0,
+      "effort1": 0,
+      "effort3": 0,
+      "assets": 0,
+      "effort2": 0,
+      "skill": "Practiced",
+      "additionalCost": 0
+    },
+    "description": "<p><strong>Nivel:</strong> 1d6 + 2</p>\n<p><strong>Aspecto:</strong> Arma que ruge con una llama roja cuando se activa, dejando un rastro de humo negro</p>\n<p><strong>Efecto:</strong> Esta arma funciona como un arma normal de su tipo. Si el portador la utiliza para atacar a un enemigo, al impactar con éxito, el portador decide si activa la llama. Al activarse, el arma azota al objetivo con fuego, infligiendo puntos de daño adicionales iguales al nivel del artefacto. El efecto dura un minuto tras cada activación.</p>\n<p><strong>Agotamiento:</strong> 1 en 1d100</p>\n<p>Para determinar al azar el tipo de arma Linguodracónica, consulta Descripciones de armas de fantasía.</p>",
+    "basic": {
+      "depletion": "1 in [[/r 1d100 # Depletion roll]]",
+      "identified": true,
+      "level": "1d6+2"
+    },
+    "version": 2
+  },
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "_stats": {
+    "modifiedTime": 1676451418908,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "yThCrv1jSfPXOC2U",
+    "createdTime": 1676367597896,
+    "systemVersion": "2.3.0",
+    "coreVersion": "10.291"
+  },
+  "name": "Arma Linguodracónica",
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.cyphersystem-compendium.artifacts-fantasy.eAt8g4xpXR69XOPT"
+    }
+  },
+  "sort": 0,
+  "_id": "zyG6DRzLMhA5B9uW",
+  "type": "artifact",
+  "_key": "!items!zyG6DRzLMhA5B9uW"
+}

@@ -1,0 +1,128 @@
+{
+  "img": "modules/drsc-es-compendio-foundry/img/tokens/construct_magical.webp",
+  "_stats": {
+    "modifiedTime": 1685359151069,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "yThCrv1jSfPXOC2U",
+    "createdTime": 1685354078810,
+    "systemVersion": "2.6.0",
+    "coreVersion": "10.291"
+  },
+  "flags": {},
+  "sort": 0,
+  "type": "npc",
+  "_key": "!actors!6DnonbMCOTNc52T9",
+  "prototypeToken": {
+    "displayBars": 40,
+    "displayName": 20,
+    "actorLink": false,
+    "texture": {
+      "scaleX": 1,
+      "offsetX": 0,
+      "scaleY": 1,
+      "offsetY": 0,
+      "src": "icons/svg/mystery-man.svg",
+      "rotation": 0,
+      "tint": null
+    },
+    "lockRotation": true,
+    "rotation": 0,
+    "detectionModes": [],
+    "flags": {"barbrawl": {"resourceBars": {}}},
+    "randomImg": false,
+    "bar1": {"attribute": "pools.health"},
+    "bar2": {"attribute": "basic.level"},
+    "disposition": 0,
+    "light": {
+      "attenuation": 0.5,
+      "color": null,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "animation": {
+        "intensity": 5,
+        "type": null,
+        "reverse": false,
+        "speed": 5
+      },
+      "saturation": 0,
+      "alpha": 0.5,
+      "contrast": 0,
+      "angle": 360,
+      "luminosity": 0.5,
+      "shadows": 0,
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "alpha": 1,
+    "name": "Leñador Hojalata",
+    "width": 1,
+    "sight": {
+      "saturation": 0,
+      "attenuation": 0.1,
+      "brightness": 0,
+      "color": null,
+      "visionMode": "basic",
+      "contrast": 0,
+      "range": null,
+      "angle": 360,
+      "enabled": false
+    },
+    "height": 1
+  },
+  "effects": [],
+  "system": {
+    "settings": {
+      "general": {
+        "initiativeBonus": 0,
+        "hideArchive": false
+      },
+      "equipment": {
+        "ammo": {"active": false},
+        "armor": {"active": false},
+        "attacks": {"active": false},
+        "materials": {
+          "active": false,
+          "label": ""
+        },
+        "cyphers": {
+          "active": false,
+          "label": ""
+        },
+        "oddities": {
+          "active": false,
+          "label": ""
+        },
+        "artifacts": {
+          "active": false,
+          "label": ""
+        }
+      }
+    },
+    "notes": "<p>Antaño un leñador de carne y hueso llamado Nick Chopper, la historia del Leñador Hojalata es triste. Su amada hacha fue encantada por una bruja malvada para alejarle de su otro amor verdadero (es una larga historia, pero baste decir que las brujas malvadas hacen cosas malvadas). Su querida hacha se volvió contra Nick Chopper, arrancándole un miembro tras otro. Un hojalatero tuvo la amabilidad de sustituir las partes del cuerpo que le faltaban a Nick (excepto el corazón) por prótesis de hojalata, pero al final no quedó nada del humano original y se convirtió en el Leñador de Hojalata.<\/p>\n<p>Ten en cuenta que el hombre de hojalata nunca te contará esta historia, porque no tiene corazón y sólo busca venganza: venganza contra la bruja que lo maldijo, contra el hojalatero que no le reemplazó el corazón, contra la lluvia que lo oxida. Algún día, encontrará todas las partes originales de sí mismo, sin importar a quién pertenezcan actualmente, para poder volver a su forma original.<\/p>\n<p><strong>Motivación:<\/strong> Venganza, encontrar las partes originales de su cuerpo<\/p>\n<p><strong>Entorno:<\/strong> Cualquier lugar<\/p>\n<p><strong>Salud:<\/strong> 21<\/p>\n<p><strong>Daño que inflige:<\/strong> 4 puntos<\/p>\n<p><strong>Armadura:<\/strong> 4<\/p>\n<p><strong>Movimiento:<\/strong> Corto; inmediato si está oxidado<\/p>\n<p><strong>Ajustes:<\/strong> Nivel 5 para Defensa por Velocidad debido al óxido<\/p>\n<p><strong>Combate:<\/strong> Inflige 7 puntos de daño con su hacha encantada.<\/p>\n<p><strong>Interacción:<\/strong> El Leñador Hojalata tiene una concentración singular, y sólo le importan las pistas que conducen a la venganza o a las partes originales de su cuerpo. No come, bebe ni duerme, y a menudo parece frenético.<\/p>\n<p><strong>Uso:<\/strong> Los PJs están cazando al mismo enemigo que el Leñador Hojalata, y o bien se unen, o el Leñador Hojalata intenta evitar que alcancen al enemigo antes que él.<\/p>\n<p><strong>Botín:<\/strong> Hacha encantada<\/p>\n<div class=\"drsc-es-sidebar bg-dark pt-3 pb-1 ps-3 pe-3 mt-3 mb-3\">\n <p><strong>Hacha encantada (artefacto):<\/strong> nivel 7; inflige 7 puntos de daño; puede activarse para moverse una larga distancia del que la empuña y atacar a un enemigo como acción.<\/p>\n <p><strong>Agotamiento:<\/strong> 1 en 1d20 (comprobar cada activación)<\/p>\n<\/div>\n<p><strong>Intromisiones del DJ:<\/strong> El arma de un personaje queda atrapada en el cuerpo metálico del Leñador Hojalata, arrancándole el arma de las manos.<\/p>",
+    "pools": {"health": {
+      "max": 21,
+      "value": 21
+    }},
+    "description": "",
+    "combat": {
+      "damage": 7,
+      "armor": 4
+    },
+    "basic": {
+      "level": 7,
+      "biography": "<p>Antaño un leñador de carne y hueso llamado Nick Chopper, la historia del Leñador Hojalata es triste. Su amada hacha fue encantada por una bruja malvada para alejarle de su otro amor verdadero (es una larga historia, pero baste decir que las brujas malvadas hacen cosas malvadas). Su querida hacha se volvió contra Nick Chopper, arrancándole un miembro tras otro. Un hojalatero tuvo la amabilidad de sustituir las partes del cuerpo que le faltaban a Nick (excepto el corazón) por prótesis de hojalata, pero al final no quedó nada del humano original y se convirtió en el Leñador de Hojalata.<\/p>\n<p>Ten en cuenta que el hombre de hojalata nunca te contará esta historia, porque no tiene corazón y sólo busca venganza: venganza contra la bruja que lo maldijo, contra el hojalatero que no le reemplazó el corazón, contra la lluvia que lo oxida. Algún día, encontrará todas las partes originales de sí mismo, sin importar a quién pertenezcan actualmente, para poder volver a su forma original.<\/p>\n<p><strong>Motivación:<\/strong> Venganza, encontrar las partes originales de su cuerpo<\/p>\n<p><strong>Entorno:<\/strong> Cualquier lugar<\/p>\n<p><strong>Salud:<\/strong> 21<\/p>\n<p><strong>Daño que inflige:<\/strong> 4 puntos<\/p>\n<p><strong>Armadura:<\/strong> 4<\/p>\n<p><strong>Movimiento:<\/strong> Corto; inmediato si está oxidado<\/p>\n<p><strong>Ajustes:<\/strong> Nivel 5 para Defensa por Velocidad debido al óxido<\/p>\n<p><strong>Combate:<\/strong> Inflige 7 puntos de daño con su hacha encantada.<\/p>\n<p><strong>Interacción:<\/strong> El Leñador Hojalata tiene una concentración singular, y sólo le importan las pistas que conducen a la venganza o a las partes originales de su cuerpo. No come, bebe ni duerme, y a menudo parece frenético.<\/p>\n<p><strong>Uso:<\/strong> Los PJs están cazando al mismo enemigo que el Leñador Hojalata, y o bien se unen, o el Leñador Hojalata intenta evitar que alcancen al enemigo antes que él.<\/p>\n<p><strong>Botín:<\/strong> Hacha encantada<\/p>\n<div class=\"drsc-es-sidebar bg-dark pt-3 pb-1 ps-3 pe-3 mt-3 mb-3\">\n <p><strong>Hacha encantada (artefacto):<\/strong> nivel 7; inflige 7 puntos de daño; puede activarse para moverse una larga distancia del que la empuña y atacar a un enemigo como acción.<\/p>\n <p><strong>Agotamiento:<\/strong> 1 en 1d20 (comprobar cada activación)<\/p>\n<\/div>\n<p><strong>Intromisiones del DJ:<\/strong> El arma de un personaje queda atrapada en el cuerpo metálico del Leñador Hojalata, arrancándole el arma de las manos.<\/p>"
+    },
+    "version": 3
+  },
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "name": "Leñador Hojalata",
+  "_id": "6DnonbMCOTNc52T9",
+  "items": []
+}

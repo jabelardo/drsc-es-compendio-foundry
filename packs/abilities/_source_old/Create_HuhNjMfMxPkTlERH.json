@@ -1,0 +1,54 @@
+{
+  "img": "systems/cyphersystem/icons/items/ability.svg",
+  "effects": [],
+  "folder": null,
+  "system": {
+    "archived": false,
+    "settings": {
+      "general": {
+        "spellTier": "low",
+        "sorting": "Ability",
+        "unmaskedForm": "Mask"
+      },
+      "rollButton": {
+        "stepModifier": "eased",
+        "damage": 0,
+        "damagePerLOE": 3,
+        "bonus": 0,
+        "pool": "Pool",
+        "teen": "",
+        "additionalSteps": 0,
+        "effort1": 0,
+        "effort3": 0,
+        "assets": 0,
+        "effort2": 0,
+        "skill": "Practiced",
+        "additionalCost": 0
+      }
+    },
+    "description": "<p>Creas algo de la nada. Puedes crear cualquier objeto que elijas y que normalmente tendría una dificultad de 5 o inferior (usando las reglas de fabricación). Una vez creado, el objeto dura un número de horas igual a 6 menos la dificultad para crearlo. Por lo que si creas unos grilletes resistentes (dificultad 5), durará una hora. Acción.<\/p>",
+    "basic": {
+      "cost": "7",
+      "pool": "Intellect"
+    },
+    "version": 2
+  },
+  "ownership": {
+    "default": 0,
+    "k2TkElLx959B0lm5": 3
+  },
+  "_stats": {
+    "modifiedTime": 1664959715568,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "rLeavHPrdkq6xjNt",
+    "createdTime": null,
+    "systemVersion": "2.0.0-a1",
+    "coreVersion": "10.286"
+  },
+  "name": "Crear",
+  "flags": {"core": {"sourceId": "Compendium.cyphersystem-compendium.abilities.HuhNjMfMxPkTlERH"}},
+  "_id": "HuhNjMfMxPkTlERH",
+  "sort": 0,
+  "type": "ability",
+  "_key": "!items!HuhNjMfMxPkTlERH"
+}

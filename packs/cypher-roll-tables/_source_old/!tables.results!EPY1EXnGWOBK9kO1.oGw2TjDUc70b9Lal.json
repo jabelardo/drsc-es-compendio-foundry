@@ -1,0 +1,16 @@
+{
+  "img": "icons/svg/d20-black.svg",
+  "documentCollection": "",
+  "flags": {},
+  "weight": 1,
+  "range": [
+    8,
+    8
+  ],
+  "documentId": null,
+  "_id": "oGw2TjDUc70b9Lal",
+  "text": "Fuiste a una prestigiosa universidad con una beca deportiva, pero destacabas tanto en clase como en el campo.",
+  "type": 0,
+  "drawn": false,
+  "_key": "!tables.results!EPY1EXnGWOBK9kO1.oGw2TjDUc70b9Lal"
+}

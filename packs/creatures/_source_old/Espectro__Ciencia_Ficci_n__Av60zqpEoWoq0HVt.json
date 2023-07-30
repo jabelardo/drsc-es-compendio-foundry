@@ -1,0 +1,128 @@
+{
+  "img": "modules/drsc-es-compendio-foundry/img/tokens/humanoid_alien.webp",
+  "_stats": {
+    "modifiedTime": 1676797809364,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "yThCrv1jSfPXOC2U",
+    "createdTime": 1676462490442,
+    "systemVersion": "2.3.0",
+    "coreVersion": "10.291"
+  },
+  "flags": {"core": {"sourceId": "Actor.IbXzuv5DF8KR4rkr"}},
+  "sort": 0,
+  "type": "npc",
+  "_key": "!actors!Av60zqpEoWoq0HVt",
+  "prototypeToken": {
+    "displayBars": 40,
+    "displayName": 20,
+    "actorLink": false,
+    "texture": {
+      "scaleX": 1,
+      "offsetX": 0,
+      "scaleY": 1,
+      "offsetY": 0,
+      "src": "icons/svg/mystery-man.svg",
+      "rotation": 0,
+      "tint": null
+    },
+    "lockRotation": false,
+    "rotation": 0,
+    "detectionModes": [],
+    "flags": {},
+    "randomImg": false,
+    "bar1": {"attribute": "pools.health"},
+    "bar2": {"attribute": "basic.level"},
+    "disposition": 0,
+    "light": {
+      "attenuation": 0.5,
+      "color": null,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "animation": {
+        "intensity": 5,
+        "type": null,
+        "reverse": false,
+        "speed": 5
+      },
+      "saturation": 0,
+      "alpha": 0.5,
+      "contrast": 0,
+      "angle": 360,
+      "luminosity": 0.5,
+      "shadows": 0,
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "alpha": 1,
+    "name": "Espectro (Ciencia Ficción)",
+    "width": 1,
+    "sight": {
+      "saturation": 0,
+      "attenuation": 0.1,
+      "brightness": 0,
+      "color": null,
+      "visionMode": "basic",
+      "contrast": 0,
+      "range": null,
+      "angle": 360,
+      "enabled": false
+    },
+    "height": 1
+  },
+  "effects": [],
+  "system": {
+    "settings": {
+      "general": {
+        "initiativeBonus": 0,
+        "hideArchive": false
+      },
+      "equipment": {
+        "ammo": {"active": false},
+        "armor": {"active": false},
+        "attacks": {"active": false},
+        "materials": {
+          "active": false,
+          "label": ""
+        },
+        "cyphers": {
+          "active": false,
+          "label": ""
+        },
+        "oddities": {
+          "active": false,
+          "label": ""
+        },
+        "artifacts": {
+          "active": false,
+          "label": ""
+        }
+      }
+    },
+    "notes": "<p>Los espectros (Homo vacuus) están diseñados genéticamente para vivir en el vacío del espacio metabolizando directamente las partículas cargadas de alta energía que abundan en el vacío. Aunque provienen de la estirpe humana, los espectros tienen un cuerpo alienígena, a veces ocultándose en capas de tejido similar a un sudario, otras veces revelándose como entes tenues y alargados de plasma rojo brillante. En algunos entornos, los espectros son socios de los humanos, trabajando en lugares donde a los humanos les resultaría difícil. En otros escenarios, los espectros siguieron su propio camino generaciones atrás, y redescubrirlos sería un escenario de primer contacto. Alternativamente, los espectros podrían ser una amenaza para los humanos, odiándolos por haber creado una especie forzada a pasar su existencia en el oscuro vacío del espacio.<\/p>\n<p><strong>Motivación:<\/strong> Varía con el individuo o el escenario<\/p>\n<p><strong>Entorno:<\/strong> Cualquier lugar en el vacío, aunque normalmente con acceso a algún tipo de fuente de radiación enriquecida. Entornos con 1 G o superior acaban matando a los espectros.<\/p>\n<p><strong>Salud:<\/strong> 15<\/p>\n<p><strong>Daño que inflige:<\/strong> 6 puntos<\/p>\n<p><strong>Armadura:<\/strong> 15<\/p>\n<p><strong>Movimiento:<\/strong> Corto al volar en G cero y baja<\/p>\n<p><strong>Ajustes<\/strong>: Nivel 7 para tareas de percepción y sigilo<\/p>\n<p><strong>Combate:<\/strong> Los espectros pueden desplegarse de sus mortajas de ocultación y atacar con extremidades radiactivas para causar 6 puntos de daño de Velocidad por radiación ionizante (ignora la mayoría de Armaduras), o si están disponibles, armas tecnológicas. Algunos pueden dirigir la radiación ionizante como ataques a distancia, aunque hacerlo le cuesta al espectro 1 punto de Salud. Los espectros son inmunes a la radiación, y los ataques que usan radiación curan la salud perdida de un espectro por la cantidad de daño que el ataque habría causado de otro modo. La gravedad de 1 G o superior obstaculiza todas las acciones de los espectros.<\/p>\n<p><strong>Interacción:<\/strong> Los espectros se comunican por radio. Reaccionan ante los extraños según sea su rol en el escenario.<\/p>\n<p><strong>Uso:<\/strong> Una estación espacial lejana interrumpe toda comunicación. Se envían investigadores para averiguar qué ha ocurrido. Una vez a bordo, desentrañan pistas que sugieren que los espectros pueden haber sido los responsables.<\/p>\n<p><strong>Botín:<\/strong> Algunos espectros llevan objetos y equipo valiosos.<\/p>\n<p><strong>Intromisiones del DJ:<\/strong> El personaje atacado también debe tener éxito en una Defensa por Vigor, o recibe 3 puntos adicionales de daño ambiental y contrae la enfermedad por radiación.<\/p>",
+    "pools": {"health": {
+      "max": 15,
+      "value": 15
+    }},
+    "description": "",
+    "combat": {
+      "damage": 6,
+      "armor": 0
+    },
+    "basic": {
+      "level": 4,
+      "biography": "<p>Los espectros (Homo vacuus) están diseñados genéticamente para vivir en el vacío del espacio metabolizando directamente las partículas cargadas de alta energía que abundan en el vacío. Aunque provienen de la estirpe humana, los espectros tienen un cuerpo alienígena, a veces ocultándose en capas de tejido similar a un sudario, otras veces revelándose como entes tenues y alargados de plasma rojo brillante. En algunos entornos, los espectros son socios de los humanos, trabajando en lugares donde a los humanos les resultaría difícil. En otros escenarios, los espectros siguieron su propio camino generaciones atrás, y redescubrirlos sería un escenario de primer contacto. Alternativamente, los espectros podrían ser una amenaza para los humanos, odiándolos por haber creado una especie forzada a pasar su existencia en el oscuro vacío del espacio.<\/p>\n<p><strong>Motivación:<\/strong> Varía con el individuo o el escenario<\/p>\n<p><strong>Entorno:<\/strong> Cualquier lugar en el vacío, aunque normalmente con acceso a algún tipo de fuente de radiación enriquecida. Entornos con 1 G o superior acaban matando a los espectros.<\/p>\n<p><strong>Salud:<\/strong> 15<\/p>\n<p><strong>Daño que inflige:<\/strong> 6 puntos<\/p>\n<p><strong>Armadura:<\/strong> 15<\/p>\n<p><strong>Movimiento:<\/strong> Corto al volar en G cero y baja<\/p>\n<p><strong>Ajustes<\/strong>: Nivel 7 para tareas de percepción y sigilo<\/p>\n<p><strong>Combate:<\/strong> Los espectros pueden desplegarse de sus mortajas de ocultación y atacar con extremidades radiactivas para causar 6 puntos de daño de Velocidad por radiación ionizante (ignora la mayoría de Armaduras), o si están disponibles, armas tecnológicas. Algunos pueden dirigir la radiación ionizante como ataques a distancia, aunque hacerlo le cuesta al espectro 1 punto de Salud. Los espectros son inmunes a la radiación, y los ataques que usan radiación curan la salud perdida de un espectro por la cantidad de daño que el ataque habría causado de otro modo. La gravedad de 1 G o superior obstaculiza todas las acciones de los espectros.<\/p>\n<p><strong>Interacción:<\/strong> Los espectros se comunican por radio. Reaccionan ante los extraños según sea su rol en el escenario.<\/p>\n<p><strong>Uso:<\/strong> Una estación espacial lejana interrumpe toda comunicación. Se envían investigadores para averiguar qué ha ocurrido. Una vez a bordo, desentrañan pistas que sugieren que los espectros pueden haber sido los responsables.<\/p>\n<p><strong>Botín:<\/strong> Algunos espectros llevan objetos y equipo valiosos.<\/p>\n<p><strong>Intromisiones del DJ:<\/strong> El personaje atacado también debe tener éxito en una Defensa por Vigor, o recibe 3 puntos adicionales de daño ambiental y contrae la enfermedad por radiación.<\/p>"
+    },
+    "version": 2
+  },
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "name": "Espectro (Ciencia Ficción)",
+  "_id": "Av60zqpEoWoq0HVt",
+  "items": []
+}

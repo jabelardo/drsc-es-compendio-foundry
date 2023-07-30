@@ -1,0 +1,16 @@
+{
+  "type": 2,
+  "weight": 1,
+  "range": [
+    95,
+    95
+  ],
+  "drawn": false,
+  "text": "Perla de los deseos",
+  "img": "systems/cyphersystem/icons/items/cypher.svg",
+  "documentCollection": "cyphersystem-compendium.cyphers-fairy-tale",
+  "documentId": "1MGS1bQnWlYyZ8Db",
+  "_id": "rC0r7r9HPtAqtR94",
+  "flags": {},
+  "_key": "!tables.results!CkH6ebWiUPmhjbw0.rC0r7r9HPtAqtR94"
+}

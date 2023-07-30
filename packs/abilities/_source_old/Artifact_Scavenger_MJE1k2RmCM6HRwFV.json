@@ -1,0 +1,54 @@
+{
+  "img": "systems/cyphersystem/icons/items/ability.svg",
+  "effects": [],
+  "folder": null,
+  "system": {
+    "archived": false,
+    "settings": {
+      "general": {
+        "spellTier": "low",
+        "sorting": "Ability",
+        "unmaskedForm": "Mask"
+      },
+      "rollButton": {
+        "stepModifier": "eased",
+        "damage": 0,
+        "damagePerLOE": 3,
+        "bonus": 0,
+        "pool": "Pool",
+        "teen": "",
+        "additionalSteps": 0,
+        "effort1": "0",
+        "effort3": "0",
+        "assets": "0",
+        "effort2": "0",
+        "skill": "Practiced",
+        "additionalCost": 0
+      }
+    },
+    "description": "<p>Has desarrollado un sexto sentido para buscar los objetos más valiosos en los yermos. Si inviertes el tiempo necesario para tener éxito en dos tareas de búsqueda de objetos, puedes intercambiar todos los resultados que obtendrías de otro modo por la posibilidad de obtener un artefacto a elección del DJ si tienes éxito en una tarea de Intelecto de dificultad 6. Puedes usar esta capacidad como máximo una vez al día, y nunca dentro de la misma zona general. Acción para iniciar, varias horas para completar.<\/p>",
+    "basic": {
+      "cost": "6*",
+      "pool": "Intellect"
+    },
+    "version": 2
+  },
+  "ownership": {
+    "default": 0,
+    "k2TkElLx959B0lm5": 3
+  },
+  "_stats": {
+    "modifiedTime": 1667121775360,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "rLeavHPrdkq6xjNt",
+    "createdTime": null,
+    "systemVersion": "2.0.0-b3",
+    "coreVersion": "10.288"
+  },
+  "name": "Carroñero de artefactos",
+  "flags": {"core": {"sourceId": "Compendium.cyphersystem-compendium.abilities.MJE1k2RmCM6HRwFV"}},
+  "_id": "MJE1k2RmCM6HRwFV",
+  "sort": 0,
+  "type": "ability",
+  "_key": "!items!MJE1k2RmCM6HRwFV"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Vuelo",
+  "type": "power-shift",
+  "img": "systems/cyphersystem/icons/items/power-shift.svg",
+  "system": {
+    "version": 2,
+    "description": "<p>El personaje puede volar una distancia corta cada ronda; cada mejora adicional aumenta esta velocidad (tanto si el vuelo proviene de una mejora de poder como de una capacidad del personaje) en una categoría de alcance (largo para dos mejoras, muy largo para tres mejoras).</p>",
+    "archived": false,
+    "basic": {
+      "shifts": 1
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Item.Ytw34Z2hhoQwyp1U"
+    }
+  },
+  "_stats": {
+    "systemId": "cyphersystem",
+    "systemVersion": "2.5.0",
+    "coreVersion": "10.291",
+    "createdTime": 1682092566691,
+    "modifiedTime": 1682092620719,
+    "lastModifiedBy": "yThCrv1jSfPXOC2U"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "UTgTBC8U61lfRyJL",
+  "_key": "!items!UTgTBC8U61lfRyJL"
+}

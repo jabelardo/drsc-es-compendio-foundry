@@ -1,0 +1,16 @@
+{
+  "img": "systems/cyphersystem/icons/items/cypher.svg",
+  "documentCollection": "cyphersystem-compendium.cyphers-fantasy",
+  "flags": {},
+  "weight": 3,
+  "range": [
+    66,
+    68
+  ],
+  "documentId": "ZTfOrxw8ft7SDoIO",
+  "text": "Torre instantánea",
+  "_id": "KApHoWMkRCvwwT1T",
+  "type": 2,
+  "drawn": false,
+  "_key": "!tables.results!a3RrTgxzpJRhBZgA.KApHoWMkRCvwwT1T"
+}

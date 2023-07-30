@@ -1,0 +1,37 @@
+{
+  "img": "systems/cyphersystem/icons/items/cypher.svg",
+  "effects": [],
+  "system": {
+    "archived": false,
+    "settings": {
+      "general": {
+        "nameUnidentified": ""
+      }
+    },
+    "description": "<p><strong>Nivel:</strong> 1d6 + 2</p>\n<p><strong>Aspecto:</strong> Cristal o dispositivo</p>\n<p><strong>Efecto:</strong> Puede lanzarse hasta una distancia corta, donde libera una ráfaga de energía transdimensional en un área inmediata que absorbe fantasmas (incluyendo espíritus, seres en fase y criaturas similares) pero no afecta a entidades corpóreas. Los PJs que cumplan estos criterios deben usar una acción basada en Intelecto (dificultad igual al nivel de Cypher) para evitar ser atrapados. Los PNJs fantasmas no se ven afectados si su nivel es superior al nivel del Cypher. La trampa retiene a los fantasmas hasta una hora por nivel de Cypher, tras lo cual se liberan automáticamente (y probablemente estén muy enfadados).</p>\n<p>Los fantasmas en una trampa pueden almacenarse permanentemente en una bóveda de fantasmas.</p>",
+    "basic": {
+      "identified": true,
+      "level": "1d6+2"
+    },
+    "version": 2
+  },
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "_stats": {
+    "modifiedTime": 1683655050997,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "yThCrv1jSfPXOC2U",
+    "createdTime": 1683651384150,
+    "systemVersion": "2.5.0",
+    "coreVersion": "10.291"
+  },
+  "name": "Trampa de fantasmas",
+  "flags": {},
+  "_id": "28ZTtZWI3TexCvnj",
+  "sort": 0,
+  "type": "cypher",
+  "_key": "!items!28ZTtZWI3TexCvnj"
+}

@@ -1,0 +1,54 @@
+{
+  "img": "systems/cyphersystem/icons/items/ability.svg",
+  "effects": [],
+  "folder": null,
+  "system": {
+    "archived": false,
+    "settings": {
+      "general": {
+        "spellTier": "low",
+        "sorting": "Ability",
+        "unmaskedForm": "Mask"
+      },
+      "rollButton": {
+        "stepModifier": "eased",
+        "damage": 0,
+        "damagePerLOE": 3,
+        "bonus": 0,
+        "pool": "Pool",
+        "teen": "",
+        "additionalSteps": 0,
+        "effort1": 0,
+        "effort3": 0,
+        "assets": 0,
+        "effort2": 0,
+        "skill": "Practiced",
+        "additionalCost": 0
+      }
+    },
+    "description": "<p>Mientras sustentes esta capacidad mediante una oratoria inspiradora continua, tus aliados a corto alcance alivian uno de los siguientes tipos de tareas (a tu elección): tareas de defensa, tareas de ataque o tareas relacionadas con cualquier habilidad en la que seas competente o especialista. Acción.<\/p>",
+    "basic": {
+      "cost": "1",
+      "pool": "Intellect"
+    },
+    "version": 2
+  },
+  "ownership": {
+    "default": 0,
+    "k2TkElLx959B0lm5": 3
+  },
+  "_stats": {
+    "modifiedTime": 1664959717086,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "rLeavHPrdkq6xjNt",
+    "createdTime": null,
+    "systemVersion": "2.0.0-a1",
+    "coreVersion": "10.286"
+  },
+  "name": "Ánimo",
+  "flags": {"core": {"sourceId": "Compendium.cyphersystem-compendium.abilities.hYa7I52x2iwffh8C"}},
+  "_id": "hYa7I52x2iwffh8C",
+  "sort": 0,
+  "type": "ability",
+  "_key": "!items!hYa7I52x2iwffh8C"
+}

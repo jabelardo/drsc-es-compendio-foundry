@@ -1,0 +1,57 @@
+{
+  "img": "systems/cyphersystem/icons/items/artifact.svg",
+  "effects": [],
+  "system": {
+    "archived": false,
+    "settings": {
+      "general": {
+        "nameUnidentified": ""
+      }
+    },
+    "rollButton": {
+      "stepModifier": "eased",
+      "damage": 0,
+      "damagePerLOE": 3,
+      "bonus": 0,
+      "pool": "Pool",
+      "teen": "",
+      "additionalSteps": 0,
+      "effort1": 0,
+      "effort3": 0,
+      "assets": 0,
+      "effort2": 0,
+      "skill": "Practiced",
+      "additionalCost": 0
+    },
+    "description": "<p><strong>Nivel:</strong> 1d6 + 2</p>\n<p><strong>Aspecto:</strong> Gran martillo plateado que crepita con electricidad.</p>\n<p><strong>Efecto:</strong> Este martillo funciona como un arma pesada normal. Sin embargo, si el portador utiliza una acción para activarla, el arma irradia electricidad durante una ronda. Si se utiliza para atacar en la siguiente ronda, el martillo inflige 10 puntos adicionales de daño por electricidad. El usuario puede elegir golpear el suelo en su lugar, enviando ondas de choque eléctrico hacia fuera que infligen 5 puntos de daño a todo aquel que se encuentre a corta distancia.</p>\n<p><strong>Agotamiento:</strong> 1 en 1d6 (aún utilizable como arma pesada normal tras agotarse).</p>",
+    "basic": {
+      "depletion": "1 in [[/r 1d6 # Depletion roll]]",
+      "identified": true,
+      "level": "1d6+2"
+    },
+    "version": 2
+  },
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "_stats": {
+    "modifiedTime": 1676451419002,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "yThCrv1jSfPXOC2U",
+    "createdTime": 1676367597895,
+    "systemVersion": "2.3.0",
+    "coreVersion": "10.291"
+  },
+  "name": "Martillo de relámpagos",
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.cyphersystem-compendium.artifacts-fantasy.Wt0nBpirmyhD7GTz"
+    }
+  },
+  "sort": 0,
+  "_id": "RvY8TRb1xZjy2qPo",
+  "type": "artifact",
+  "_key": "!items!RvY8TRb1xZjy2qPo"
+}

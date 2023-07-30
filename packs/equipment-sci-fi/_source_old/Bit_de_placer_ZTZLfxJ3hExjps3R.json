@@ -1,0 +1,36 @@
+{
+  "name": "Bit de placer",
+  "type": "equipment",
+  "img": "systems/cyphersystem/icons/items/equipment.svg",
+  "system": {
+    "version": 2,
+    "description": "<p>Dispositivo portátil que emite un campo de inducción magnética que activa el circuito de recompensa en el cerebro del usuario, creando un éxtasis y una alegría repentinos durante un periodo de tiempo preestablecido. Puede provocar adicción, aunque los mejores modelos disponen de un modo de disminución gradual que ayuda al usuario a recuperar la lucidez mental.</p>",
+    "archived": false,
+    "basic": {
+      "level": 4,
+      "quantity": 1
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Item.11lMwfEkZPgKUFh3"
+    }
+  },
+  "_stats": {
+    "systemId": "cyphersystem",
+    "systemVersion": "2.6.2",
+    "coreVersion": "11.301",
+    "createdTime": 1676621027492,
+    "modifiedTime": 1686394253101,
+    "lastModifiedBy": "ZyqFG5NpQtVrpwj7"
+  },
+  "folder": "7rmYjOb7uxsMhqw2",
+  "sort": 2000000,
+  "_id": "ZTZLfxJ3hExjps3R",
+  "_key": "!items!ZTZLfxJ3hExjps3R"
+}

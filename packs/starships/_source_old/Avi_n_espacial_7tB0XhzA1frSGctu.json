@@ -1,0 +1,123 @@
+{
+  "img": "modules/drsc-es-compendio-foundry/img/tokens/spacecraft_spacecraft.webp",
+  "_stats": {
+    "modifiedTime": 1686393042187,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "ZyqFG5NpQtVrpwj7",
+    "createdTime": 1676989536614,
+    "systemVersion": "2.6.2",
+    "coreVersion": "11.301"
+  },
+  "flags": {"core": {"sourceId": "Actor.uc6ZH9Pv3ctod18m"}},
+  "sort": 106250,
+  "type": "vehicle",
+  "_key": "!actors!7tB0XhzA1frSGctu",
+  "prototypeToken": {
+    "displayBars": 0,
+    "displayName": 30,
+    "actorLink": true,
+    "texture": {
+      "scaleX": 1,
+      "offsetX": 0,
+      "scaleY": 1,
+      "offsetY": 0,
+      "src": "icons/svg/mystery-man.svg",
+      "rotation": 0,
+      "tint": null
+    },
+    "lockRotation": false,
+    "rotation": 0,
+    "detectionModes": [],
+    "flags": {},
+    "prependAdjective": false,
+    "randomImg": false,
+    "appendNumber": false,
+    "bar1": {"attribute": null},
+    "bar2": {"attribute": null},
+    "disposition": 0,
+    "light": {
+      "attenuation": 0.5,
+      "color": null,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "animation": {
+        "intensity": 5,
+        "type": null,
+        "reverse": false,
+        "speed": 5
+      },
+      "saturation": 0,
+      "alpha": 0.5,
+      "contrast": 0,
+      "angle": 360,
+      "luminosity": 0.5,
+      "shadows": 0,
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "alpha": 1,
+    "name": "Avión espacial",
+    "width": 1,
+    "sight": {
+      "saturation": 0,
+      "attenuation": 0.1,
+      "brightness": 0,
+      "color": null,
+      "visionMode": "basic",
+      "contrast": 0,
+      "range": 0,
+      "angle": 360,
+      "enabled": false
+    },
+    "height": 1
+  },
+  "effects": [],
+  "system": {
+    "settings": {
+      "general": {
+        "initiativeBonus": "",
+        "hideArchive": false
+      },
+      "equipment": {
+        "ammo": {"active": false},
+        "armor": {"active": false},
+        "attacks": {"active": false},
+        "materials": {
+          "active": false,
+          "label": ""
+        },
+        "cyphers": {
+          "active": false,
+          "label": ""
+        },
+        "oddities": {
+          "active": false,
+          "label": ""
+        },
+        "artifacts": {
+          "active": false,
+          "label": ""
+        }
+      }
+    },
+    "notes": "<p>Como el transbordador de lanzamiento (contemporáneo), pero cumple la promesa de lanzamiento (sin propulsores), operaciones y maniobrabilidad en órbita, y reentrada y aterrizaje en una superficie planetaria, todo ello sin necesidad de reacondicionamiento masivo ni de una colosal red externa de controladores.<\/p>",
+    "description": "",
+    "basic": {
+      "level": 2,
+      "weaponSystems": 0,
+      "crew": 1
+    },
+    "version": 2
+  },
+  "folder": "GzhhsPIwI4lGCjgj",
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "name": "Avión espacial",
+  "_id": "7tB0XhzA1frSGctu",
+  "items": []
+}

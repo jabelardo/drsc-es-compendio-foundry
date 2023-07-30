@@ -1,0 +1,57 @@
+{
+  "img": "systems/cyphersystem/icons/items/artifact.svg",
+  "effects": [],
+  "system": {
+    "archived": false,
+    "settings": {
+      "general": {
+        "nameUnidentified": ""
+      }
+    },
+    "rollButton": {
+      "stepModifier": "eased",
+      "damage": 0,
+      "damagePerLOE": 3,
+      "bonus": 0,
+      "pool": "Pool",
+      "teen": "",
+      "additionalSteps": 0,
+      "effort1": 0,
+      "effort3": 0,
+      "assets": 0,
+      "effort2": 0,
+      "skill": "Practiced",
+      "additionalCost": 0
+    },
+    "description": "<p><strong>Nivel:</strong> 1d6 + 4</p>\n<p><strong>Aspecto:</strong> Báculo de madera rematado en un icono dorado</p>\n<p><strong>Efecto:</strong> El báculo emite un rayo de luz plateada de corto alcance que sólo afecta a criaturas vivas. Una criatura viva alcanzada por el rayo asciende un grado en el registro de daño. Un objetivo que no esté abajo en el registro de daño puede realizar inmediatamente una tirada de recuperación gratuita (o, en el caso de los PNJ, recuperar un número de puntos de vida igual a tres veces su nivel).</p>\n<p><strong>Agotamiento:</strong> 1 en 1d10</p>",
+    "basic": {
+      "depletion": "1 in [[/r 1d10 # Depletion roll]]",
+      "identified": true,
+      "level": "1d6+2"
+    },
+    "version": 2
+  },
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "_stats": {
+    "modifiedTime": 1676451419120,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "yThCrv1jSfPXOC2U",
+    "createdTime": 1676367597888,
+    "systemVersion": "2.3.0",
+    "coreVersion": "10.291"
+  },
+  "name": "Báculo de curación",
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.cyphersystem-compendium.artifacts-fantasy.Cmkxwwj5XdHCZOxt"
+    }
+  },
+  "sort": 0,
+  "_id": "89vnETxuz3iftrTg",
+  "type": "artifact",
+  "_key": "!items!89vnETxuz3iftrTg"
+}

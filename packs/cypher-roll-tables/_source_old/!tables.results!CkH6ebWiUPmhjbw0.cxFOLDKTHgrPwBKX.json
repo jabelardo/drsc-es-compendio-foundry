@@ -1,0 +1,16 @@
+{
+  "img": "systems/cyphersystem/icons/items/cypher.svg",
+  "documentCollection": "cyphersystem-compendium.cyphers-fairy-tale",
+  "flags": {},
+  "weight": 1,
+  "range": [
+    5,
+    5
+  ],
+  "documentId": "KX68iXodcJuqbyRr",
+  "text": "Manzana de la discordia",
+  "_id": "cxFOLDKTHgrPwBKX",
+  "type": 2,
+  "drawn": false,
+  "_key": "!tables.results!CkH6ebWiUPmhjbw0.cxFOLDKTHgrPwBKX"
+}

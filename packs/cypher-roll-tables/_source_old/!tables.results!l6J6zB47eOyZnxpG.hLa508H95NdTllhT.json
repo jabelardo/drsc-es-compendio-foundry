@@ -1,0 +1,16 @@
+{
+  "img": "systems/cyphersystem/icons/items/cypher.svg",
+  "documentCollection": "cyphersystem-compendium.cyphers-horror",
+  "flags": {},
+  "weight": 6,
+  "range": [
+    7,
+    12
+  ],
+  "documentId": "NlGBaIHC801ukhfN",
+  "text": "Tester de humanidad",
+  "_id": "hLa508H95NdTllhT",
+  "type": 2,
+  "drawn": false,
+  "_key": "!tables.results!l6J6zB47eOyZnxpG.hLa508H95NdTllhT"
+}

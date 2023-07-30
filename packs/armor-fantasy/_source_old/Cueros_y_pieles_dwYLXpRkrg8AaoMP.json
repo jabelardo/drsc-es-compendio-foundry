@@ -1,0 +1,56 @@
+{
+  "name": "Cueros y pieles",
+  "type": "armor",
+  "img": "systems/cyphersystem/icons/items/armor.svg",
+  "effects": [],
+  "folder": "Zx9EypX8GgWA9kFN",
+  "sort": 200000,
+  "flags": {},
+  "_id": "dwYLXpRkrg8AaoMP",
+  "system": {
+    "version": 2,
+    "description": "<p>Hechas de pieles de animales gruesas o mal curadas. Es más pesada y voluminosa que otros tipos de armadura de cuero, pero más fácil de fabricar, especialmente por artesanos con pocos recursos.</p>",
+    "archived": false,
+    "basic": {
+      "type": "light armor",
+      "rating": 1,
+      "cost": 1,
+      "notes": ""
+    },
+    "settings": {
+      "general": {
+        "unmaskedForm": "Mask"
+      }
+    },
+    "active": true,
+    "price": "",
+    "rollButton": {
+      "pool": "Pool",
+      "skill": "Practiced",
+      "assets": 0,
+      "effort1": 0,
+      "effort2": 0,
+      "effort3": 0,
+      "stepModifier": "eased",
+      "additionalSteps": 0,
+      "additionalCost": 0,
+      "damage": 0,
+      "damagePerLOE": 3,
+      "teen": "",
+      "bonus": 0
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "k2TkElLx959B0lm5": 3
+  },
+  "_stats": {
+    "systemId": "cyphersystem",
+    "systemVersion": "2.6.2",
+    "coreVersion": "11.299",
+    "createdTime": null,
+    "modifiedTime": 1685559798320,
+    "lastModifiedBy": "7luxagQiisUFvSQn"
+  },
+  "_key": "!items!dwYLXpRkrg8AaoMP"
+}

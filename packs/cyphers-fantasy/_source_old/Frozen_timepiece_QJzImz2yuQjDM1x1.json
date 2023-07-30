@@ -1,0 +1,33 @@
+{
+  "img": "systems/cyphersystem/icons/items/cypher.svg",
+  "effects": [],
+  "system": {
+    "archived": false,
+    "settings": {"general": {"nameUnidentified": ""}},
+    "description": "<p><strong>Nivel: <\/strong>1d6 + 2<\/p>\n<p><strong>Efecto:<\/strong> Crea o se transforma en un reloj de bolsillo que parece estar hecho de hielo. Al activarlo, el usuario puede realizar acciones normales, pero todo y todos a su alrededor están congelados en el tiempo. El usuario no puede afectar a nada más, pero puede moverse por el mundo y realizar acciones que le afecten a él mismo o a sus pertenencias (vendar una herida, reparar un objeto roto, etc.). El efecto dura una ronda por nivel de Cypher.<\/p>",
+    "basic": {
+      "identified": true,
+      "level": "1d6+2"
+    },
+    "version": 2
+  },
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "_stats": {
+    "modifiedTime": 1676187754333,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "yThCrv1jSfPXOC2U",
+    "createdTime": 1676187048953,
+    "systemVersion": "2.3.0",
+    "coreVersion": "10.291"
+  },
+  "name": "Reloj congelado",
+  "flags": {"core": {"sourceId": "Item.Y5RkoHQRq3DbdR8T"}},
+  "sort": 0,
+  "_id": "QJzImz2yuQjDM1x1",
+  "type": "cypher",
+  "_key": "!items!QJzImz2yuQjDM1x1"
+}

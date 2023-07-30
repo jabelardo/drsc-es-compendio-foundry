@@ -1,0 +1,32 @@
+{
+  "name": "Autodoc",
+  "type": "equipment",
+  "img": "systems/cyphersystem/icons/items/equipment.svg",
+  "system": {
+    "version": 2,
+    "description": "<p>Como el autodoc móvil, pero fijo en su sitio (adecuado para una nave estelar o la enfermería de una estación), y concede tiradas de recuperación o inyecciones de suero esencialmente ilimitadas a cualquiera que pase al menos una hora inmovilizado en la mesa médica del autodoc, incluso para los tratamientos más leves.</p>",
+    "archived": false,
+    "basic": {
+      "level": 5,
+      "quantity": 1
+    }
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "cyphersystem",
+    "systemVersion": "2.6.2",
+    "coreVersion": "11.301",
+    "createdTime": 1676551990866,
+    "modifiedTime": 1686394068388,
+    "lastModifiedBy": "ZyqFG5NpQtVrpwj7"
+  },
+  "_id": "rOsbgfwH9oLxHeyI",
+  "folder": "40FMwVrL57gMPm5j",
+  "sort": 4500000,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "_key": "!items!rOsbgfwH9oLxHeyI"
+}

@@ -1,0 +1,16 @@
+{
+  "img": "icons/svg/d20-black.svg",
+  "documentCollection": "",
+  "flags": {},
+  "weight": 1,
+  "range": [
+    16,
+    16
+  ],
+  "documentId": null,
+  "_id": "Km10nlab142YA33v",
+  "text": "Eres copropietario de un bar local, en el que eres una especie de genio en la creación de cócteles especiales.",
+  "type": 0,
+  "drawn": false,
+  "_key": "!tables.results!zDo6fnblxkAjzvc3.Km10nlab142YA33v"
+}

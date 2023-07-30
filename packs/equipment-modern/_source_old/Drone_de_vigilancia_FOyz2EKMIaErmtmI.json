@@ -1,0 +1,32 @@
+{
+  "name": "Drone de vigilancia",
+  "type": "equipment",
+  "img": "systems/cyphersystem/icons/items/equipment.svg",
+  "system": {
+    "version": 2,
+    "description": "<p>Robot volador autónomo que también puede controlarse a distancia. Puede grabar o transmitir su entorno a controladores remotos. Una mejora de categoría de precio invaluable le permite llevar dos o más misiles autoguiados que infligen 12 puntos de daño y hacen descender a objetivos desprotegidos dos grados en el registro de daño.</p>",
+    "archived": false,
+    "basic": {
+      "level": 3,
+      "quantity": 1
+    }
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "cyphersystem",
+    "systemVersion": "2.3.0",
+    "coreVersion": "10.291",
+    "createdTime": 1676535517214,
+    "modifiedTime": 1676535628914,
+    "lastModifiedBy": "yThCrv1jSfPXOC2U"
+  },
+  "_id": "FOyz2EKMIaErmtmI",
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "_key": "!items!FOyz2EKMIaErmtmI"
+}

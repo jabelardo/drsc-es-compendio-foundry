@@ -1,0 +1,54 @@
+{
+  "img": "systems/cyphersystem/icons/items/ability.svg",
+  "effects": [],
+  "folder": null,
+  "system": {
+    "archived": false,
+    "settings": {
+      "general": {
+        "spellTier": "low",
+        "sorting": "Ability",
+        "unmaskedForm": "Mask"
+      },
+      "rollButton": {
+        "stepModifier": "eased",
+        "damage": 0,
+        "damagePerLOE": 3,
+        "bonus": 0,
+        "pool": "Pool",
+        "teen": "",
+        "additionalSteps": 0,
+        "effort1": 0,
+        "effort3": 0,
+        "assets": 0,
+        "effort2": 0,
+        "skill": "Practiced",
+        "additionalCost": 0
+      }
+    },
+    "description": "<p>Con base en todas las variables que percibes, puedes predecir los próximos minutos. Esto tiene los siguientes efectos:<\/p><ul> <li><p>Durante los próximos diez minutos, tus tiradas de defensa ganan un recurso.<\/p><\/li> <li><p>Tienes una especie de sentido del peligro. Durante los siguientes diez minutos, tienes un recurso para ver engaños e intentos de traición, así como para evitar trampas y emboscadas.<\/p><\/li> <li><p>Sabes lo que la gente probablemente está pensando y lo que dirá antes de que lo diga. En los próximos diez minutos, ganas un recurso para tareas que impliquen interacción y engaño.<\/p><\/li><\/ul><p>Capacitador.<\/p>",
+    "basic": {
+      "cost": "6",
+      "pool": "Intellect"
+    },
+    "version": 2
+  },
+  "ownership": {
+    "default": 0,
+    "k2TkElLx959B0lm5": 3
+  },
+  "_stats": {
+    "modifiedTime": 1664959723835,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "rLeavHPrdkq6xjNt",
+    "createdTime": null,
+    "systemVersion": "2.0.0-a1",
+    "coreVersion": "10.286"
+  },
+  "name": "Ver el futuro",
+  "flags": {"core": {"sourceId": "Compendium.cyphersystem-compendium.abilities.MA2Pwhbpbq2SSIQy"}},
+  "_id": "MA2Pwhbpbq2SSIQy",
+  "sort": 0,
+  "type": "ability",
+  "_key": "!items!MA2Pwhbpbq2SSIQy"
+}

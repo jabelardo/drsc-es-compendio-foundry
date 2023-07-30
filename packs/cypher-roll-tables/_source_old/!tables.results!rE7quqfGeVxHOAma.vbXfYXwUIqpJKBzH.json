@@ -1,0 +1,16 @@
+{
+  "img": "systems/cyphersystem/icons/items/artifact.svg",
+  "documentCollection": "cyphersystem-compendium.artifacts-fairy-tale",
+  "flags": {},
+  "weight": 3,
+  "range": [
+    80,
+    82
+  ],
+  "documentId": "UZA1PRnDRodhvzLV",
+  "text": "Violín conmovedor",
+  "_id": "vbXfYXwUIqpJKBzH",
+  "type": 2,
+  "drawn": false,
+  "_key": "!tables.results!rE7quqfGeVxHOAma.vbXfYXwUIqpJKBzH"
+}

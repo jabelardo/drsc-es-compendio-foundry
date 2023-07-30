@@ -1,0 +1,51 @@
+{
+  "name": "Mochila",
+  "type": "equipment",
+  "img": "systems/cyphersystem/icons/items/equipment.svg",
+  "effects": [],
+  "folder": "9DJH3FNH007eXPB5",
+  "sort": 100000,
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.cyphersystem-compendium.equipment-modern.mbTBZG8Z968IxHq2"
+    }
+  },
+  "_id": "FALc1UkW90o9M0rr",
+  "system": {
+    "version": 2,
+    "description": "<p>Una mochila de calidad y bien cargada puede transportar una cantidad sorprendente de equipo, incluido un saco de dormir.</p>",
+    "archived": false,
+    "basic": {
+      "level": 2,
+      "quantity": 1
+    },
+    "rollButton": {
+      "pool": "Pool",
+      "skill": "Practiced",
+      "assets": 0,
+      "effort1": 0,
+      "effort2": 0,
+      "effort3": 0,
+      "stepModifier": "eased",
+      "additionalSteps": 0,
+      "additionalCost": 0,
+      "damage": 0,
+      "damagePerLOE": 3,
+      "teen": "",
+      "bonus": 0
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "k2TkElLx959B0lm5": 3
+  },
+  "_stats": {
+    "systemId": "cyphersystem",
+    "systemVersion": "2.6.2",
+    "coreVersion": "11.301",
+    "createdTime": 1676536718427,
+    "modifiedTime": 1686394260951,
+    "lastModifiedBy": "ZyqFG5NpQtVrpwj7"
+  },
+  "_key": "!items!FALc1UkW90o9M0rr"
+}

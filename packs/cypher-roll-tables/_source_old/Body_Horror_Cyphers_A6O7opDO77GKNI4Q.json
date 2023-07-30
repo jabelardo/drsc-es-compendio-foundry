@@ -1,0 +1,37 @@
+{
+  "name": "Cyphers de Horror Corporal",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    "zQABqeffc5g0h04y",
+    "1GS22OJ50EvINnj6",
+    "mZi3ImR05c402Xzh",
+    "1OBTqgCT01MhaSur",
+    "pnIoPDgUMLPn1OHo",
+    "04YQ4hdjY3R6sgTy",
+    "nb67Vtl2ILAsTK4G",
+    "kiDU7E1WclsG1wrY",
+    "ECP3LPLJ2cxAm7r9",
+    "tmASifupeWeknJTg"
+  ],
+  "formula": "1d20",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "systemId": "cyphersystem",
+    "systemVersion": "2.6.2",
+    "coreVersion": "11.299",
+    "createdTime": 1683655528824,
+    "modifiedTime": 1685560201074,
+    "lastModifiedBy": "7luxagQiisUFvSQn"
+  },
+  "_id": "A6O7opDO77GKNI4Q",
+  "folder": "Y2TN81x3OW1ojdbn",
+  "sort": 200000,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "_key": "!tables!A6O7opDO77GKNI4Q"
+}

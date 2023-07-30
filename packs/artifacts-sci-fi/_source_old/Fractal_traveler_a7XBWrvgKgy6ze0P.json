@@ -1,0 +1,34 @@
+{
+  "img": "systems/cyphersystem/icons/items/artifact.svg",
+  "effects": [],
+  "system": {
+    "archived": false,
+    "settings": {"general": {"nameUnidentified": ""}},
+    "description": "<p><strong>Nivel: <\/strong>1d6 + 4<\/p>\n<p><strong>Aspecto: <\/strong>Dispositivo en forma de gafas de material desconocido<\/p>\n<p><strong>Efecto: <\/strong>Cuando es puesto, induce un potente estado alucinógeno en el portador. Las alucinaciones duran 4 horas, durante las cuales el portador parece desaparecer de la existencia. Desde la perspectiva del portador, está cayendo por un reino fractal de imágenes alucinantes, posiblemente una versión del hiperespacio o una red de energía oscura. Al final de ese periodo, vuelve a la existencia, ya sea en el mismo lugar en el que se fue o en algún lugar que haya visitado previamente. Las imágenes dejan al espectador conmocionado, pero durante varias horas todas las tareas basadas en el Intelecto se alivian.<\/p>\n<p><strong>Agotamiento:<\/strong> 1 en 1d6<\/p>",
+    "basic": {
+      "depletion": "1 in [[/r d6]]",
+      "identified": true,
+      "level": "1d6+4"
+    },
+    "version": 2
+  },
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "_stats": {
+    "modifiedTime": 1676998343936,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "yThCrv1jSfPXOC2U",
+    "createdTime": 1676998308245,
+    "systemVersion": "2.3.0",
+    "coreVersion": "10.291"
+  },
+  "name": "Viajero fractal",
+  "flags": {"core": {"sourceId": "Item.V4wE9q5eXh3VBO6v"}},
+  "sort": 0,
+  "_id": "a7XBWrvgKgy6ze0P",
+  "type": "artifact",
+  "_key": "!items!a7XBWrvgKgy6ze0P"
+}

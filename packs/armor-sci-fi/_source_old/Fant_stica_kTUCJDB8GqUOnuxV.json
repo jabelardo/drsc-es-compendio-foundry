@@ -1,0 +1,19 @@
+{
+  "name": "Fantástica",
+  "sorting": "m",
+  "folder": null,
+  "type": "Item",
+  "_id": "kTUCJDB8GqUOnuxV",
+  "sort": 0,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "systemId": "cyphersystem",
+    "systemVersion": "2.7.0",
+    "coreVersion": "11.301",
+    "createdTime": null,
+    "modifiedTime": 1686404159207,
+    "lastModifiedBy": "il7WtynJ67yGfX5L"
+  },
+  "_key": "!folders!kTUCJDB8GqUOnuxV"
+}

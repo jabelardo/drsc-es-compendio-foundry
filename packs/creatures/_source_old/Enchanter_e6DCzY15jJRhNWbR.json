@@ -1,0 +1,128 @@
+{
+  "img": "modules/drsc-es-compendio-foundry/img/tokens/humanoid_magical.webp",
+  "_stats": {
+    "modifiedTime": 1685376810560,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "yThCrv1jSfPXOC2U",
+    "createdTime": 1685355867062,
+    "systemVersion": "2.6.0",
+    "coreVersion": "10.291"
+  },
+  "flags": {},
+  "sort": 0,
+  "type": "npc",
+  "_key": "!actors!e6DCzY15jJRhNWbR",
+  "prototypeToken": {
+    "displayBars": 40,
+    "displayName": 20,
+    "actorLink": false,
+    "texture": {
+      "scaleX": 1,
+      "offsetX": 0,
+      "scaleY": 1,
+      "offsetY": 0,
+      "src": "icons/svg/mystery-man.svg",
+      "rotation": 0,
+      "tint": null
+    },
+    "lockRotation": true,
+    "rotation": 0,
+    "detectionModes": [],
+    "flags": {"barbrawl": {"resourceBars": {}}},
+    "randomImg": false,
+    "bar1": {"attribute": "pools.health"},
+    "bar2": {"attribute": "basic.level"},
+    "disposition": 0,
+    "light": {
+      "attenuation": 0.5,
+      "color": null,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "animation": {
+        "intensity": 5,
+        "type": null,
+        "reverse": false,
+        "speed": 5
+      },
+      "saturation": 0,
+      "alpha": 0.5,
+      "contrast": 0,
+      "angle": 360,
+      "luminosity": 0.5,
+      "shadows": 0,
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "alpha": 1,
+    "name": "Encantador",
+    "width": 1,
+    "sight": {
+      "saturation": 0,
+      "attenuation": 0.1,
+      "brightness": 0,
+      "color": null,
+      "visionMode": "basic",
+      "contrast": 0,
+      "range": null,
+      "angle": 360,
+      "enabled": false
+    },
+    "height": 1
+  },
+  "effects": [],
+  "system": {
+    "settings": {
+      "general": {
+        "initiativeBonus": 0,
+        "hideArchive": false
+      },
+      "equipment": {
+        "ammo": {"active": false},
+        "armor": {"active": false},
+        "attacks": {"active": false},
+        "materials": {
+          "active": false,
+          "label": ""
+        },
+        "cyphers": {
+          "active": false,
+          "label": ""
+        },
+        "oddities": {
+          "active": false,
+          "label": ""
+        },
+        "artifacts": {
+          "active": false,
+          "label": ""
+        }
+      }
+    },
+    "notes": "<p>Los Encantadores incluyen usuarios de magia de todos los géneros. Pueden elegir llamarse a sí mismos hechiceros, brujos, magos o adivinos, dependiendo de sus puntos fuertes, habilidades y reputación deseada.<\/p>\n<p>Los encantadores suelen enorgullecerse de su aspecto, incluidos sus atuendos, accesorios y equipo. Suelen incorporar elementos vivos o muertos de criaturas peligrosas, como arañas, serpientes, cocodrilos y dragones, en los objetos que les interesan. Además, pueden imbuir objetos con magia poderosa.<\/p>\n<p>Los encantadores pueden utilizar versiones duraderas o incluso permanentes de sus capacidades mágicas, pero hacerlo suele requerir minutos u horas de tiempo.<\/p>\n<p>La mayoría de los encantadores tienen uno o más aprendices o ayudantes, normalmente animales que han sido convertidos en humanos temporalmente o humanos que están al servicio del encantador hasta que alguna deuda suya o de su familia ha sido pagada.<\/p>\n<p><strong>Aprendiz de Hechicero: <\/strong>nivel 3<\/p>\n<p><strong>Motivación:<\/strong> Controlar la magia, poder<\/p>\n<p><strong>Entorno:<\/strong> En todas partes, especialmente en lugares donde la magia está presente y es poderosa<\/p>\n<p><strong>Salud:<\/strong> 20<\/p>\n<p><strong>Daño que inflige:<\/strong> 5 puntos<\/p>\n<p><strong>Armadura:<\/strong> 2<\/p>\n<p><strong>Movimiento:<\/strong> Corto<\/p>\n<p><strong>Ajustes:<\/strong> Nivel 7 para uso y control de la magia<\/p>\n<p><strong>Combate:<\/strong> Las armas y artefactos mágicos (como un látigo hecho de serpientes vivas, un bastón con una cabeza de lobo mordedora en lo alto o una espada que actúa por sí misma) infligen 5 puntos de daño. . Además, un encantador puede emplear una serie de capacidades mágicas, entre las que se incluyen las siguientes:<\/p>\n<p><strong>Animar:<\/strong> Toma cualquier material (como madera o piedra) y lo convierte en una criatura animada de nivel 4 animado. La criatura tiene mente y voluntad propias, y actúa como lo haría ese tipo de criatura si hubiera nacido. en lugar de haber sido creada.<\/p>\n<p><strong>Sangre en piedra:<\/strong> Convierte a las criaturas vivas en piedra, o las inmoviliza en su forma actual. Liberarse es una tarea de Vigor de nivel 6.<\/p>\n<p><strong>Encantar:<\/strong> Imbuye un objeto normal con un poder mágico. El objeto funciona bajo las órdenes del encantador y hace lo que éste le pide. Por ejemplo, un encantador puede imbuir el arma de un enemigo y forzarla a atacarle, o puede imbuir una puerta y hacer que se cierre firmemente contra peligros entrantes.<\/p>\n<p><strong>Paso interminable:<\/strong> Crea una serie interminable de gruesas telarañas, barreras invisibles, anillos de llamas u otros obstáculos a lo largo de una entrada, salida, túnel o pasaje. Cada vez que se rompe un obstáculo, se forma otro. El movimiento de los personajes se reduce a la mitad mientras atraviesan el pasaje interminable, y reciben 2 puntos de daño de Intelecto cada ronda.<\/p>\n<p><strong>Invisible:<\/strong> Convierte cualquier cosa (incluidos ellos mismos, otros y áreas enteras de hasta 9 m por 9 m [30 pies por 30 pies]) en invisible durante diez minutos. Es una tarea de Intelecto de nivel 6 poder ver algo que se ha hecho invisible.<\/p>\n<p><strong>Persuasión:<\/strong> Convence a todas las víctimas a larga distancia de que lo que creen no es real o de que lo que es falso es real. A veces, esta capacidad sólo afecta a la mente de los demás, creando una disonancia mental. Otras veces, el encantador crea una ilusión u otro elemento visible, auditivo y táctil que persuade a un personaje para que crea todo lo que está experimentando. El efecto dura diez minutos.<\/p>\n<p>Además, un encantador puede tener una o más de las mismas habilidades que una bruja o un hada.<\/p>\n<p><strong>Interacción:<\/strong> Para los personajes, un encantador puede ser un enemigo aterrador o un poderoso aliado. Los encantadores son volubles, quizás debido a su estrecha relación con la magia, y pueden cambiar sus lealtades por un capricho o un desaire imaginario.<\/p>\n<p><strong>Uso:<\/strong> Los personajes necesitan imbuir un objeto, devolver la vida a una persona o deshacer una maldición, y acuden al encantador en busca de ayuda. Los personajes insultaron accidentalmente al encantador de alguna manera, y ahora el encantador los persigue para vengarse.<\/p>\n<p><strong>Botín:<\/strong> Los encantadores suelen proteger sus preciados objetos con hechizos y cerraduras mágicas (nivel 8). Detrás de esos cerrojos hay 1d6 Cyphers, un artefacto y un atuendo elegante o interesante.<\/p>",
+    "pools": {"health": {
+      "max": 20,
+      "value": 20
+    }},
+    "description": "",
+    "combat": {
+      "damage": 5,
+      "armor": 2
+    },
+    "basic": {
+      "level": 5,
+      "biography": "<p>Los Encantadores incluyen usuarios de magia de todos los géneros. Pueden elegir llamarse a sí mismos hechiceros, brujos, magos o adivinos, dependiendo de sus puntos fuertes, habilidades y reputación deseada.<\/p>\n<p>Los encantadores suelen enorgullecerse de su aspecto, incluidos sus atuendos, accesorios y equipo. Suelen incorporar elementos vivos o muertos de criaturas peligrosas, como arañas, serpientes, cocodrilos y dragones, en los objetos que les interesan. Además, pueden imbuir objetos con magia poderosa.<\/p>\n<p>Los encantadores pueden utilizar versiones duraderas o incluso permanentes de sus capacidades mágicas, pero hacerlo suele requerir minutos u horas de tiempo.<\/p>\n<p>La mayoría de los encantadores tienen uno o más aprendices o ayudantes, normalmente animales que han sido convertidos en humanos temporalmente o humanos que están al servicio del encantador hasta que alguna deuda suya o de su familia ha sido pagada.<\/p>\n<p><strong>Aprendiz de Hechicero: <\/strong>nivel 3<\/p>\n<p><strong>Motivación:<\/strong> Controlar la magia, poder<\/p>\n<p><strong>Entorno:<\/strong> En todas partes, especialmente en lugares donde la magia está presente y es poderosa<\/p>\n<p><strong>Salud:<\/strong> 20<\/p>\n<p><strong>Daño que inflige:<\/strong> 5 puntos<\/p>\n<p><strong>Armadura:<\/strong> 2<\/p>\n<p><strong>Movimiento:<\/strong> Corto<\/p>\n<p><strong>Ajustes:<\/strong> Nivel 7 para uso y control de la magia<\/p>\n<p><strong>Combate:<\/strong> Las armas y artefactos mágicos (como un látigo hecho de serpientes vivas, un bastón con una cabeza de lobo mordedora en lo alto o una espada que actúa por sí misma) infligen 5 puntos de daño. . Además, un encantador puede emplear una serie de capacidades mágicas, entre las que se incluyen las siguientes:<\/p>\n<p><strong>Animar:<\/strong> Toma cualquier material (como madera o piedra) y lo convierte en una criatura animada de nivel 4 animado. La criatura tiene mente y voluntad propias, y actúa como lo haría ese tipo de criatura si hubiera nacido. en lugar de haber sido creada.<\/p>\n<p><strong>Sangre en piedra:<\/strong> Convierte a las criaturas vivas en piedra, o las inmoviliza en su forma actual. Liberarse es una tarea de Vigor de nivel 6.<\/p>\n<p><strong>Encantar:<\/strong> Imbuye un objeto normal con un poder mágico. El objeto funciona bajo las órdenes del encantador y hace lo que éste le pide. Por ejemplo, un encantador puede imbuir el arma de un enemigo y forzarla a atacarle, o puede imbuir una puerta y hacer que se cierre firmemente contra peligros entrantes.<\/p>\n<p><strong>Paso interminable:<\/strong> Crea una serie interminable de gruesas telarañas, barreras invisibles, anillos de llamas u otros obstáculos a lo largo de una entrada, salida, túnel o pasaje. Cada vez que se rompe un obstáculo, se forma otro. El movimiento de los personajes se reduce a la mitad mientras atraviesan el pasaje interminable, y reciben 2 puntos de daño de Intelecto cada ronda.<\/p>\n<p><strong>Invisible:<\/strong> Convierte cualquier cosa (incluidos ellos mismos, otros y áreas enteras de hasta 9 m por 9 m [30 pies por 30 pies]) en invisible durante diez minutos. Es una tarea de Intelecto de nivel 6 poder ver algo que se ha hecho invisible.<\/p>\n<p><strong>Persuasión:<\/strong> Convence a todas las víctimas a larga distancia de que lo que creen no es real o de que lo que es falso es real. A veces, esta capacidad sólo afecta a la mente de los demás, creando una disonancia mental. Otras veces, el encantador crea una ilusión u otro elemento visible, auditivo y táctil que persuade a un personaje para que crea todo lo que está experimentando. El efecto dura diez minutos.<\/p>\n<p>Además, un encantador puede tener una o más de las mismas habilidades que una bruja o un hada.<\/p>\n<p><strong>Interacción:<\/strong> Para los personajes, un encantador puede ser un enemigo aterrador o un poderoso aliado. Los encantadores son volubles, quizás debido a su estrecha relación con la magia, y pueden cambiar sus lealtades por un capricho o un desaire imaginario.<\/p>\n<p><strong>Uso:<\/strong> Los personajes necesitan imbuir un objeto, devolver la vida a una persona o deshacer una maldición, y acuden al encantador en busca de ayuda. Los personajes insultaron accidentalmente al encantador de alguna manera, y ahora el encantador los persigue para vengarse.<\/p>\n<p><strong>Botín:<\/strong> Los encantadores suelen proteger sus preciados objetos con hechizos y cerraduras mágicas (nivel 8). Detrás de esos cerrojos hay 1d6 Cyphers, un artefacto y un atuendo elegante o interesante.<\/p>"
+    },
+    "version": 3
+  },
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "name": "Encantador",
+  "_id": "e6DCzY15jJRhNWbR",
+  "items": []
+}

@@ -1,0 +1,59 @@
+{
+  "img": "systems/cyphersystem/icons/items/ability.svg",
+  "effects": [],
+  "system": {
+    "archived": false,
+    "settings": {
+      "general": {
+        "spellTier": "low",
+        "sorting": "Ability",
+        "unmaskedForm": "Mask"
+      },
+      "linkedItems": {
+        "attack": "",
+        "skill": "",
+        "ability": ""
+      },
+      "rollButton": {
+        "stepModifier": "eased",
+        "damage": 0,
+        "damagePerLOE": 3,
+        "bonus": 0,
+        "pool": "Pool",
+        "teen": "",
+        "additionalSteps": 0,
+        "effort1": "0",
+        "effort3": "0",
+        "assets": "0",
+        "effort2": "0",
+        "skill": "Practiced",
+        "additionalCost": 0
+      }
+    },
+    "description": "<p>Te comprimes en una dimensión transitoria, lo que te permite aparecer instantáneamente en cualquier lugar que elijas dentro de un radio de acción corto si tienes un camino despejado y sin obstáculos hasta ese lugar. Puedes atravesar una barrera intermedia si tiene un espacio abierto por el que puedas meter fácilmente la cabeza, aproximadamente 30 cm por 30 cm cuadrados [1 pie cuadrado]. Además de las opciones normales para utilizar el Esfuerzo, puedes elegir utilizar el Esfuerzo para pasar a través de una abertura más pequeña en una barrera; cada nivel de Esfuerzo utilizado de esta manera reduce el tamaño mínimo de la abertura en una cuarta parte. Aterrizas con seguridad cuando utilizas esta capacidad. Acción.<\/p><p>Dimensión transitoria: Una dimensión en la que las distancias son más cortas en comparación con las de otras dimensiones, por lo que viajar a través de ella es más rápido que el movimiento normal.<\/p>",
+    "basic": {
+      "cost": "2+",
+      "pool": "Intellect"
+    },
+    "version": 2
+  },
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "_stats": {
+    "modifiedTime": 1681933857810,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "yThCrv1jSfPXOC2U",
+    "createdTime": 1681931747859,
+    "systemVersion": "2.5.0",
+    "coreVersion": "10.291"
+  },
+  "name": "Contracción dimensional",
+  "flags": {"core": {"sourceId": "Item.wkWt2Xpe5TS4LcSC"}},
+  "sort": 0,
+  "_id": "Kbi3UI73mRTlGiQm",
+  "type": "ability",
+  "_key": "!items!Kbi3UI73mRTlGiQm"
+}

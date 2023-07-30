@@ -1,0 +1,54 @@
+{
+  "img": "systems/cyphersystem/icons/items/ability.svg",
+  "effects": [],
+  "folder": null,
+  "system": {
+    "archived": false,
+    "settings": {
+      "general": {
+        "spellTier": "low",
+        "sorting": "Ability",
+        "unmaskedForm": "Mask"
+      },
+      "rollButton": {
+        "stepModifier": "eased",
+        "damage": 0,
+        "damagePerLOE": 3,
+        "bonus": 0,
+        "pool": "Pool",
+        "teen": "",
+        "additionalSteps": 0,
+        "effort1": 0,
+        "effort3": 0,
+        "assets": 0,
+        "effort2": 0,
+        "skill": "Practiced",
+        "additionalCost": 0
+      }
+    },
+    "description": "<p>Transformas tu cuerpo para convertirte en otra persona. Puedes cambiar cualquier característica física que desees, incluyendo la coloración, la altura, el peso, el sexo y las marcas distintivas. También puedes cambiar la apariencia de cualquier cosa que lleves puesta o que sea de tu propiedad. Tus atributos, así como las de tus objetos, no cambian. Permanecerás en esta forma hasta un día o hasta que utilices una acción para retomar tu apariencia normal. Acción para iniciar.<\/p>",
+    "basic": {
+      "cost": "5",
+      "pool": "Intellect"
+    },
+    "version": 2
+  },
+  "ownership": {
+    "default": 0,
+    "k2TkElLx959B0lm5": 3
+  },
+  "_stats": {
+    "modifiedTime": 1664959721131,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "rLeavHPrdkq6xjNt",
+    "createdTime": null,
+    "systemVersion": "2.0.0-a1",
+    "coreVersion": "10.286"
+  },
+  "name": "Máscara",
+  "flags": {"core": {"sourceId": "Compendium.cyphersystem-compendium.abilities.S5JTyQCNcgrXgNqf"}},
+  "_id": "S5JTyQCNcgrXgNqf",
+  "sort": 0,
+  "type": "ability",
+  "_key": "!items!S5JTyQCNcgrXgNqf"
+}

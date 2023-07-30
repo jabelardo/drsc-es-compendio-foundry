@@ -1,0 +1,49 @@
+{
+  "img": "systems/cyphersystem/icons/items/artifact.svg",
+  "effects": [],
+  "system": {
+    "archived": false,
+    "settings": {"general": {"nameUnidentified": ""}},
+    "rollButton": {
+      "stepModifier": "eased",
+      "damage": 0,
+      "damagePerLOE": 3,
+      "bonus": 0,
+      "pool": "Pool",
+      "teen": "",
+      "additionalSteps": 0,
+      "effort1": 0,
+      "effort3": 0,
+      "assets": 0,
+      "effort2": 0,
+      "skill": "Practiced",
+      "additionalCost": 0
+    },
+    "description": "<p><strong>Nivel:<\/strong> 1d6 + 1<\/p>\n<p><strong>Aspecto:<\/strong> Bolsa de arpillera que contiene un puñado de grandes dientes de reptil<\/p>\n<p><strong>Efecto:<\/strong> Si se saca un diente de la bolsa y se arroja sobre la tierra, aparece un guerrero dentodracónico, dispuesto a luchar por el usuario durante un máximo de diez minutos antes de seguir su propio camino. El usuario puede extraer varios dientes a la vez de la bolsa, pero cada uno requiere una tirada de agotamiento distinta.<\/p>\n<p><strong>Agotamiento:<\/strong> 1 en 1d10<\/p>\n<p><strong>(Guerrero dentodracónico:<\/strong> nivel igual del artefacto, Defensa por Velocidad como el nivel del artefacto + 1 debido al escudo; Armadura 1; el ataque con lanza (melé o a corta distancia) inflige daño e impide el movimiento de la víctima a distancia inmediata durante una ronda)<\/p>",
+    "basic": {
+      "depletion": "1 in [[/r 1d10 # Depletion roll]]",
+      "identified": true,
+      "level": "1d6+1"
+    },
+    "version": 2
+  },
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "_stats": {
+    "modifiedTime": 1676451418922,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "yThCrv1jSfPXOC2U",
+    "createdTime": 1676367597898,
+    "systemVersion": "2.3.0",
+    "coreVersion": "10.291"
+  },
+  "name": "Soldados Dentodracónicos",
+  "flags": {"core": {"sourceId": "Compendium.cyphersystem-compendium.artifacts-fantasy.tf7mXN2sfQ5lFNev"}},
+  "sort": 0,
+  "_id": "bEtpuJqeoUEAslSS",
+  "type": "artifact",
+  "_key": "!items!bEtpuJqeoUEAslSS"
+}

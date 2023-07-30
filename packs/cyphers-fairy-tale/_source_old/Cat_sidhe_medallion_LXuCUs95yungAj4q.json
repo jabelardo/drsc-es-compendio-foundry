@@ -1,0 +1,33 @@
+{
+  "img": "systems/cyphersystem/icons/items/cypher.svg",
+  "effects": [],
+  "system": {
+    "archived": false,
+    "settings": {"general": {"nameUnidentified": ""}},
+    "description": "<p><strong>Nivel:<\/strong> 1d6 + 2<\/p>\n<p><strong>Aspecto:<\/strong> Medallón con la forma del símbolo blanco del pecho de un Gato Sidhe.<\/p>\n<p><strong>Efecto:<\/strong> Cuando se activa, el medallón protege al portador de la siguiente maldición (del nivel Cypher o inferior) que se lance sobre él. La maldición entra en el medallón, que se rompe en miles de pedacitos.<\/p>",
+    "basic": {
+      "identified": true,
+      "level": "1d6+2"
+    },
+    "version": 2
+  },
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "_stats": {
+    "modifiedTime": 1685280982952,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "yThCrv1jSfPXOC2U",
+    "createdTime": 1685276415119,
+    "systemVersion": "2.6.0",
+    "coreVersion": "10.291"
+  },
+  "name": "Medallón de Gato Sidhe",
+  "flags": {},
+  "_id": "LXuCUs95yungAj4q",
+  "sort": 0,
+  "type": "cypher",
+  "_key": "!items!LXuCUs95yungAj4q"
+}

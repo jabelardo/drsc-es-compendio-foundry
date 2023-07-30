@@ -1,0 +1,32 @@
+{
+  "name": "Drone táctil",
+  "type": "equipment",
+  "img": "systems/cyphersystem/icons/items/equipment.svg",
+  "system": {
+    "version": 2,
+    "description": "<p>Como un dron de investigación, pero sin el conjunto de herramientas de análisis y proporcionando únicamente información sonora y visual al controlador (si lo hay), pero con opciones físicas; los drones táctiles pueden realizar tareas rutinarias e intentar las de nivel 4 o inferior, o permitir a un operador remoto intentar tareas más difíciles a distancia.</p>",
+    "archived": false,
+    "basic": {
+      "level": 4,
+      "quantity": 1
+    }
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "cyphersystem",
+    "systemVersion": "2.6.2",
+    "coreVersion": "11.301",
+    "createdTime": 1676537700092,
+    "modifiedTime": 1686393736372,
+    "lastModifiedBy": "ZyqFG5NpQtVrpwj7"
+  },
+  "_id": "I2ZUYJDWO6AoBwfB",
+  "folder": "40FMwVrL57gMPm5j",
+  "sort": 1100000,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "_key": "!items!I2ZUYJDWO6AoBwfB"
+}

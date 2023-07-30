@@ -1,0 +1,135 @@
+{
+  "img": "modules/drsc-es-compendio-foundry/img/tokens/humanoid_magical.webp",
+  "_stats": {
+    "modifiedTime": 1676797809451,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "yThCrv1jSfPXOC2U",
+    "createdTime": null,
+    "systemVersion": "2.3.0",
+    "coreVersion": "10.291"
+  },
+  "flags": {},
+  "sort": 0,
+  "type": "npc",
+  "_key": "!actors!mIkMohVYFvaiNwZB",
+  "prototypeToken": {
+    "displayBars": 40,
+    "displayName": 20,
+    "actorLink": false,
+    "lockRotation": false,
+    "texture": {
+      "scaleX": 1,
+      "offsetX": 0,
+      "scaleY": 1,
+      "offsetY": 0,
+      "src": "icons/svg/mystery-man.svg",
+      "rotation": 0,
+      "tint": null
+    },
+    "rotation": 0,
+    "detectionModes": [],
+    "flags": {},
+    "randomImg": false,
+    "bar1": {"attribute": "pools.health"},
+    "bar2": {"attribute": "basic.level"},
+    "disposition": 0,
+    "light": {
+      "attenuation": 0.5,
+      "color": null,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "animation": {
+        "intensity": 5,
+        "reverse": false,
+        "type": null,
+        "speed": 5
+      },
+      "saturation": 0,
+      "alpha": 0.5,
+      "contrast": 0,
+      "angle": 360,
+      "luminosity": 0.5,
+      "shadows": 0,
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "alpha": 1,
+    "name": "Ocultista",
+    "width": 1,
+    "sight": {
+      "saturation": 0,
+      "brightness": 1,
+      "attenuation": 0.1,
+      "color": null,
+      "visionMode": "basic",
+      "contrast": 0,
+      "angle": 360,
+      "range": 0,
+      "enabled": false
+    },
+    "height": 1
+  },
+  "effects": [],
+  "folder": null,
+  "system": {
+    "settings": {
+      "skills": {},
+      "abilities": {},
+      "general": {
+        "initiativeBonus": 0,
+        "hideArchive": false
+      },
+      "equipment": {
+        "ammo": {"active": false},
+        "armor": {"active": false},
+        "attacks": {"active": false},
+        "materials": {
+          "active": false,
+          "label": ""
+        },
+        "cyphers": {
+          "active": false,
+          "label": ""
+        },
+        "oddities": {
+          "active": false,
+          "label": ""
+        },
+        "artifacts": {
+          "active": false,
+          "label": ""
+        }
+      }
+    },
+    "notes": "<p>Los investigadores de lo paranormal, los cultistas, los practicantes secretos de magia blanca y los miembros de aquelarres pueden ser ocultistas. Gracias a su estudio de la metafísica, los ocultistas aprenden varios trucos mágicos, incluida la capacidad de invocar o desterrar a los muertos.<\/p>\n<p><strong>Salud:<\/strong> 15<\/p>\n<p><strong>Daño que inflige:<\/strong> 5 puntos<\/p>\n<p><strong>Movimiento:<\/strong> Corto<\/p>\n<p><strong>Ajustes: <\/strong>Nivel 8 para Conocimiento de temas y rituales ocultos; nivel 2 para capacidad de detectar mentiras y trucos<\/p>\n<p><strong>Combate:<\/strong> Un ocultista tiene un amuleto o dispositivo para invocar un espíritu o demonio de nivel 5 que cumplirá sus órdenes durante diez minutos. Algunos también tienen (o en su lugar tienen) un hechizo, objeto o dispositivo que inflige 5 puntos de daño a las criaturas normales a largo alcance, y 10 puntos de daño a un demonio o espíritu (o, en lugar de infligir daño extra, el efecto confina al demonio o espíritu de alguna manera).<\/p>\n<p><strong>Interacción:<\/strong> Los ocultistas están profundamente preocupados por los asuntos espirituales o demoníacos y ven esas influencias en todas las cosas, existan o no esas influencias. Esto los hace susceptibles de ser persuadidos y engañados, si se les hace pasar por el lenguaje de la influencia espiritual.<\/p>\n<p><strong>Uso:<\/strong> Para encontrar una respuesta necesaria, hay que interrogar al espíritu de una persona muerta. O bien, hay que desterrar una presencia inquietante. En cualquier caso, la tarea requiere un ocultista.<\/p>\n<p><strong>Botín:<\/strong> Además de sus ropas y armas mundanas, los ocultistas tienen una moneda equivalente a un objeto barato, un Cypher y posiblemente un artefacto relacionado con su poder sobre los espíritus o demonios.<\/p>\n<p><strong>Intromisiones del DJ:<\/strong> Una mano huesuda surge del suelo a los pies del personaje. Si se falla la tirada de Defensa por Velocidad, el personaje queda retenido en su sitio hasta que tenga éxito en una tarea basada en el Vigor para escapar. Cada ronda en la que el personaje falle en su intento de escapar, la mano aprieta para causar 3 puntos de daño.<\/p>",
+    "pools": {"health": {
+      "max": 15,
+      "value": 15
+    }},
+    "description": "",
+    "combat": {
+      "damage": 5,
+      "armor": 0
+    },
+    "basic": {
+      "level": 5,
+      "biography": "<p>Los investigadores de lo paranormal, los cultistas, los practicantes secretos de magia blanca y los miembros de aquelarres pueden ser ocultistas. Gracias a su estudio de la metafísica, los ocultistas aprenden varios trucos mágicos, incluida la capacidad de invocar o desterrar a los muertos.<\/p>\n<p><strong>Salud:<\/strong> 15<\/p>\n<p><strong>Daño que inflige:<\/strong> 5 puntos<\/p>\n<p><strong>Movimiento:<\/strong> Corto<\/p>\n<p><strong>Ajustes: <\/strong>Nivel 8 para Conocimiento de temas y rituales ocultos; nivel 2 para capacidad de detectar mentiras y trucos<\/p>\n<p><strong>Combate:<\/strong> Un ocultista tiene un amuleto o dispositivo para invocar un espíritu o demonio de nivel 5 que cumplirá sus órdenes durante diez minutos. Algunos también tienen (o en su lugar tienen) un hechizo, objeto o dispositivo que inflige 5 puntos de daño a las criaturas normales a largo alcance, y 10 puntos de daño a un demonio o espíritu (o, en lugar de infligir daño extra, el efecto confina al demonio o espíritu de alguna manera).<\/p>\n<p><strong>Interacción:<\/strong> Los ocultistas están profundamente preocupados por los asuntos espirituales o demoníacos y ven esas influencias en todas las cosas, existan o no esas influencias. Esto los hace susceptibles de ser persuadidos y engañados, si se les hace pasar por el lenguaje de la influencia espiritual.<\/p>\n<p><strong>Uso:<\/strong> Para encontrar una respuesta necesaria, hay que interrogar al espíritu de una persona muerta. O bien, hay que desterrar una presencia inquietante. En cualquier caso, la tarea requiere un ocultista.<\/p>\n<p><strong>Botín:<\/strong> Además de sus ropas y armas mundanas, los ocultistas tienen una moneda equivalente a un objeto barato, un Cypher y posiblemente un artefacto relacionado con su poder sobre los espíritus o demonios.<\/p>\n<p><strong>Intromisiones del DJ:<\/strong> Una mano huesuda surge del suelo a los pies del personaje. Si se falla la tirada de Defensa por Velocidad, el personaje queda retenido en su sitio hasta que tenga éxito en una tarea basada en el Vigor para escapar. Cada ronda en la que el personaje falle en su intento de escapar, la mano aprieta para causar 3 puntos de daño.<\/p>"
+    },
+    "teen": {
+      "settings": {},
+      "pools": {},
+      "basic": {}
+    },
+    "version": 2
+  },
+  "ownership": {
+    "N1n5f3sdQOJFmoJe": 3,
+    "default": 0
+  },
+  "name": "Ocultista",
+  "_id": "mIkMohVYFvaiNwZB",
+  "items": []
+}

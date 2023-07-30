@@ -1,0 +1,33 @@
+{
+  "img": "systems/cyphersystem/icons/items/cypher.svg",
+  "effects": [],
+  "system": {
+    "archived": false,
+    "settings": {"general": {"nameUnidentified": ""}},
+    "description": "<p><strong>Nivel:<\/strong> 1d6 + 2<\/p>\n<p><strong>Aspecto:<\/strong> Gota de cristal de mar en forma de lágrima<\/p>\n<p><strong>Efecto:<\/strong> Cuando se traga, llena al usuario de una abrumadora sensación de tristeza. El usuario sufre 1 punto de daño de Intelecto, pero obtiene un recurso en cualquier tarea que implique agua durante los siguientes diez minutos. La tarea debe implicar agua de forma significativa (por ejemplo, blandir una espada mientras llueve probablemente no cuente, pero llorar como parte de un intento de persuadir a alguien, lanzar un hechizo mágico que implique agua o usar un estanque para escudriñar serían apropiados).<\/p>",
+    "basic": {
+      "identified": true,
+      "level": "1d6+2"
+    },
+    "version": 2
+  },
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "_stats": {
+    "modifiedTime": 1685280982967,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "yThCrv1jSfPXOC2U",
+    "createdTime": 1685278698814,
+    "systemVersion": "2.6.0",
+    "coreVersion": "10.291"
+  },
+  "name": "Lágrima de sirena",
+  "flags": {},
+  "_id": "hLTcIRqIkYaNnlvI",
+  "sort": 0,
+  "type": "cypher",
+  "_key": "!items!hLTcIRqIkYaNnlvI"
+}

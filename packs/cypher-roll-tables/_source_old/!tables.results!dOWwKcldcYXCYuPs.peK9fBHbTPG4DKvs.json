@@ -1,0 +1,16 @@
+{
+  "img": "icons/svg/d20-black.svg",
+  "documentCollection": "",
+  "flags": {},
+  "weight": 1,
+  "range": [
+    11,
+    11
+  ],
+  "documentId": null,
+  "_id": "peK9fBHbTPG4DKvs",
+  "text": "Habla constantemente de su antiguo dueño, al que ama u odia, según el día.",
+  "type": 0,
+  "drawn": false,
+  "_key": "!tables.results!dOWwKcldcYXCYuPs.peK9fBHbTPG4DKvs"
+}

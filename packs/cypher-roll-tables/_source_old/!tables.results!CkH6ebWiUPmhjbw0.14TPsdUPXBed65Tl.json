@@ -1,0 +1,16 @@
+{
+  "img": "systems/cyphersystem/icons/items/cypher.svg",
+  "documentCollection": "cyphersystem-compendium.cyphers-fairy-tale",
+  "flags": {},
+  "weight": 1,
+  "range": [
+    75,
+    75
+  ],
+  "documentId": "ZUjtw3rHUOXc1I7F",
+  "text": "Agujero de conejo",
+  "_id": "14TPsdUPXBed65Tl",
+  "type": 2,
+  "drawn": false,
+  "_key": "!tables.results!CkH6ebWiUPmhjbw0.14TPsdUPXBed65Tl"
+}

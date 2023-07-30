@@ -1,0 +1,16 @@
+{
+  "img": "systems/cyphersystem/icons/items/cypher.svg",
+  "documentCollection": "cyphersystem-compendium.cyphers-fantasy",
+  "flags": {},
+  "weight": 6,
+  "range": [
+    6,
+    11
+  ],
+  "documentId": "uaY6Kl7NZONYYxZD",
+  "text": "Controlar animal",
+  "_id": "r6dP9nQcJknhmDCn",
+  "type": 2,
+  "drawn": false,
+  "_key": "!tables.results!a3RrTgxzpJRhBZgA.r6dP9nQcJknhmDCn"
+}

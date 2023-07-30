@@ -1,0 +1,135 @@
+{
+  "img": "modules/drsc-es-compendio-foundry/img/tokens/aberration.webp",
+  "_stats": {
+    "modifiedTime": 1676797809026,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "yThCrv1jSfPXOC2U",
+    "createdTime": null,
+    "systemVersion": "2.3.0",
+    "coreVersion": "10.291"
+  },
+  "flags": {},
+  "sort": 0,
+  "type": "npc",
+  "_key": "!actors!WcxUomm2dqg2s2mU",
+  "prototypeToken": {
+    "displayBars": 40,
+    "displayName": 20,
+    "actorLink": false,
+    "lockRotation": false,
+    "texture": {
+      "scaleX": 1,
+      "offsetX": 0,
+      "scaleY": 1,
+      "offsetY": 0,
+      "src": "icons/svg/mystery-man.svg",
+      "rotation": 0,
+      "tint": null
+    },
+    "rotation": 0,
+    "detectionModes": [],
+    "flags": {},
+    "randomImg": false,
+    "bar1": {"attribute": "pools.health"},
+    "bar2": {"attribute": "basic.level"},
+    "disposition": 0,
+    "light": {
+      "attenuation": 0.5,
+      "color": null,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "animation": {
+        "intensity": 5,
+        "reverse": false,
+        "type": null,
+        "speed": 5
+      },
+      "saturation": 0,
+      "alpha": 0.5,
+      "contrast": 0,
+      "angle": 360,
+      "luminosity": 0.5,
+      "shadows": 0,
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "alpha": 1,
+    "name": "Cautivador",
+    "width": 1,
+    "sight": {
+      "saturation": 0,
+      "brightness": 1,
+      "attenuation": 0.1,
+      "color": null,
+      "visionMode": "basic",
+      "contrast": 0,
+      "angle": 360,
+      "range": 0,
+      "enabled": false
+    },
+    "height": 1
+  },
+  "effects": [],
+  "folder": null,
+  "system": {
+    "settings": {
+      "skills": {},
+      "abilities": {},
+      "general": {
+        "initiativeBonus": 0,
+        "hideArchive": false
+      },
+      "equipment": {
+        "ammo": {"active": false},
+        "armor": {"active": false},
+        "attacks": {"active": false},
+        "materials": {
+          "active": false,
+          "label": ""
+        },
+        "cyphers": {
+          "active": false,
+          "label": ""
+        },
+        "oddities": {
+          "active": false,
+          "label": ""
+        },
+        "artifacts": {
+          "active": false,
+          "label": ""
+        }
+      }
+    },
+    "notes": "<p>Hace cientos de miles de años, los ancestros de los cautivadores dominaron psíquicamente a un grupo de astronautas interestelares que tuvieron la mala suerte de aterrizar en el mundo natal de los cautivadores. Alcanzando un gran nivel tecnológico al apropiarse mentalmente de los conocimientos de cada nueva especie que encontrarban utilizando su nave espacial robada, los alienígenas crearon el Dominio Cautivador, que se extiende por vastas zonas del espacio, cimentado en el control psíquico.<\/p>\n<p>Los cautivadores individuales dan miedo, pero los señores cautivadores son aún más poderosos gracias a sus ayudas tecnológicas. Entre las que se encuentran los círculos craneales, que permiten a un solo gobernador cautivador dominar a una pequeña ciudad, a los anillos retransmisores del tamaño de un sistema solar, que potencian su control a través de distancias interestelares, y mucho más.<\/p>\n<p>Recientemente, una especie de alienígenas recién contactada ha desarrollado los medios tecnológicos para resistir la influencia mental de los cautivadores. Ahora la guerra burbujea a través del Dominio Cautivador. A veces los cautivadores individuales, despojados de sus mejoras tecnológicas como consecuencia de esta guerra, huyen al espacio virgen, buscando nuevos soldados a los que dominar.<\/p>\n<p><strong>Motivación:<\/strong> Dominación de otras criaturas<\/p>\n<p><strong>Entorno:<\/strong> Casi en cualquier lugar, solo o en grupos de tres<\/p>\n<p><strong>Salud:<\/strong> 18<\/p>\n<p><strong>Daño que inflige:<\/strong> 4 puntos; ver Combate<\/p>\n<p><strong>Armadura:<\/strong> 1<\/p>\n<p><strong>Movimiento:<\/strong> Corto<\/p>\n<p><strong>Ajustes:<\/strong> Nivel 4 para Defensa por Velocidad; nivel 8 para percepción y detectar falsedades<\/p>\n<p><strong>Combate:<\/strong> Un cautivador suele depender de los súbditos dominados para que realicen ataques físicos por él. Un cautivador puede hacer un ataque psíquico a una criatura dentro de un rango corto. En una tirada de Defensa por Intelecto fallida, el objetivo actúa como el cautivador le ordene mentalmente en su siguiente acción. Si el mismo objetivo se ve afectado por este ataque de dominación una segunda vez en el plazo de un minuto, el control mental del cautivador dura un minuto.<\/p>\n<p>Alternativamente, como acción, un cautivador puede emitir una ráfaga psíquica que puede tener como objetivo hasta tres criaturas a corto alcance. Con una tirada de Defensa por Intelecto fallida, la víctima sufre 4 puntos de daño de Intelecto (ignora la Armadura) y no puede realizar acciones en su siguiente turno. Si la víctima es atacada mientras está aturdida, sus tiradas de defensa se ven obstaculizadas en dos grados.<\/p>\n<p>El ataque del cautivador es una forma de alimentación mental. Cuando hace descender el Registro de Daño de un PJ, la criatura recupera 4 puntos de salud.<\/p>\n<p><strong>Interacción:<\/strong> Un cautivador puede comunicarse telepáticamente con los personajes que se encuentren a corta distancia. Intenta dominar mentalmente a cualquiera que se cruce con él y sólo negociará con personajes que sean lo suficientemente fuertes como para hacerle daño. Incluso si un cautivador hace un trato, acaba renunciando si percibe algún beneficio por hacerlo, ya que cree implícitamente que las otras criaturas son ganado.<\/p>\n<p><strong>Uso:<\/strong> Una nave espacial (o quizás una cápsula de escape) se estrella. En su interior, un cautivador herido yace en animación suspendida. Es poco probable que los investigadores se den cuenta de antemano de la naturaleza del cautivador, pero sí que se enteran si despiertan al alienígena.<\/p>\n<p><strong>Botín:<\/strong> Los cautivadores llevan una armadura ligera adaptada a sus formas. Pueden tener uno o dos Cyphers y, en raras ocasiones, un artefacto que potencia sus ya temibles capacidades mentales.<\/p>\n<p><strong>Intromisiones del DJ:<\/strong> La intromisión del cautivador en la mente del personaje despierta recuerdos olvidados. El personaje debe lidiar con el contenido de estos recuerdos y tal vez por qué fueron reprimidos.<\/p>",
+    "pools": {"health": {
+      "max": 18,
+      "value": 18
+    }},
+    "description": "",
+    "combat": {
+      "damage": 4,
+      "armor": 1
+    },
+    "basic": {
+      "level": 6,
+      "biography": "<p>Hace cientos de miles de años, los ancestros de los cautivadores dominaron psíquicamente a un grupo de astronautas interestelares que tuvieron la mala suerte de aterrizar en el mundo natal de los cautivadores. Alcanzando un gran nivel tecnológico al apropiarse mentalmente de los conocimientos de cada nueva especie que encontrarban utilizando su nave espacial robada, los alienígenas crearon el Dominio Cautivador, que se extiende por vastas zonas del espacio, cimentado en el control psíquico.<\/p>\n<p>Los cautivadores individuales dan miedo, pero los señores cautivadores son aún más poderosos gracias a sus ayudas tecnológicas. Entre las que se encuentran los círculos craneales, que permiten a un solo gobernador cautivador dominar a una pequeña ciudad, a los anillos retransmisores del tamaño de un sistema solar, que potencian su control a través de distancias interestelares, y mucho más.<\/p>\n<p>Recientemente, una especie de alienígenas recién contactada ha desarrollado los medios tecnológicos para resistir la influencia mental de los cautivadores. Ahora la guerra burbujea a través del Dominio Cautivador. A veces los cautivadores individuales, despojados de sus mejoras tecnológicas como consecuencia de esta guerra, huyen al espacio virgen, buscando nuevos soldados a los que dominar.<\/p>\n<p><strong>Motivación:<\/strong> Dominación de otras criaturas<\/p>\n<p><strong>Entorno:<\/strong> Casi en cualquier lugar, solo o en grupos de tres<\/p>\n<p><strong>Salud:<\/strong> 18<\/p>\n<p><strong>Daño que inflige:<\/strong> 4 puntos; ver Combate<\/p>\n<p><strong>Armadura:<\/strong> 1<\/p>\n<p><strong>Movimiento:<\/strong> Corto<\/p>\n<p><strong>Ajustes:<\/strong> Nivel 4 para Defensa por Velocidad; nivel 8 para percepción y detectar falsedades<\/p>\n<p><strong>Combate:<\/strong> Un cautivador suele depender de los súbditos dominados para que realicen ataques físicos por él. Un cautivador puede hacer un ataque psíquico a una criatura dentro de un rango corto. En una tirada de Defensa por Intelecto fallida, el objetivo actúa como el cautivador le ordene mentalmente en su siguiente acción. Si el mismo objetivo se ve afectado por este ataque de dominación una segunda vez en el plazo de un minuto, el control mental del cautivador dura un minuto.<\/p>\n<p>Alternativamente, como acción, un cautivador puede emitir una ráfaga psíquica que puede tener como objetivo hasta tres criaturas a corto alcance. Con una tirada de Defensa por Intelecto fallida, la víctima sufre 4 puntos de daño de Intelecto (ignora la Armadura) y no puede realizar acciones en su siguiente turno. Si la víctima es atacada mientras está aturdida, sus tiradas de defensa se ven obstaculizadas en dos grados.<\/p>\n<p>El ataque del cautivador es una forma de alimentación mental. Cuando hace descender el Registro de Daño de un PJ, la criatura recupera 4 puntos de salud.<\/p>\n<p><strong>Interacción:<\/strong> Un cautivador puede comunicarse telepáticamente con los personajes que se encuentren a corta distancia. Intenta dominar mentalmente a cualquiera que se cruce con él y sólo negociará con personajes que sean lo suficientemente fuertes como para hacerle daño. Incluso si un cautivador hace un trato, acaba renunciando si percibe algún beneficio por hacerlo, ya que cree implícitamente que las otras criaturas son ganado.<\/p>\n<p><strong>Uso:<\/strong> Una nave espacial (o quizás una cápsula de escape) se estrella. En su interior, un cautivador herido yace en animación suspendida. Es poco probable que los investigadores se den cuenta de antemano de la naturaleza del cautivador, pero sí que se enteran si despiertan al alienígena.<\/p>\n<p><strong>Botín:<\/strong> Los cautivadores llevan una armadura ligera adaptada a sus formas. Pueden tener uno o dos Cyphers y, en raras ocasiones, un artefacto que potencia sus ya temibles capacidades mentales.<\/p>\n<p><strong>Intromisiones del DJ:<\/strong> La intromisión del cautivador en la mente del personaje despierta recuerdos olvidados. El personaje debe lidiar con el contenido de estos recuerdos y tal vez por qué fueron reprimidos.<\/p>"
+    },
+    "teen": {
+      "settings": {},
+      "pools": {},
+      "basic": {}
+    },
+    "version": 2
+  },
+  "ownership": {
+    "N1n5f3sdQOJFmoJe": 3,
+    "default": 0
+  },
+  "name": "Cautivador",
+  "_id": "WcxUomm2dqg2s2mU",
+  "items": []
+}

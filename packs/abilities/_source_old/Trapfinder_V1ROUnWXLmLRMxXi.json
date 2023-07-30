@@ -1,0 +1,54 @@
+{
+  "img": "systems/cyphersystem/icons/items/ability.svg",
+  "effects": [],
+  "folder": null,
+  "system": {
+    "archived": false,
+    "settings": {
+      "general": {
+        "spellTier": "low",
+        "sorting": "Ability",
+        "unmaskedForm": "Mask"
+      },
+      "rollButton": {
+        "stepModifier": "eased",
+        "damage": 0,
+        "damagePerLOE": 3,
+        "bonus": 0,
+        "pool": "Pool",
+        "teen": "",
+        "additionalSteps": 0,
+        "effort1": 0,
+        "effort3": 0,
+        "assets": 0,
+        "effort2": 0,
+        "skill": "Practiced",
+        "additionalCost": 0
+      }
+    },
+    "description": "<p>Encuentras cualquier trampa (como un suelo que ceda debajo de ti) o activadores mecánicos de una trampa o sistema de defensa que puedan suponer una amenaza. Puedes hacer esto sin activarlos y en lugar de hacer una tirada para encontrarlos. Esta capacidad puede encontrar trampas de nivel 4 o inferior. Además de las opciones normales para usar Esfuerzo, puedes elegir usar Esfuerzo para aumentar el nivel de las trampas que se pueden encontrar en 2, por lo que usando dos niveles de Esfuerzo puedes encontrar todas las trampas de nivel 8 o inferior. Acción.<\/p>",
+    "basic": {
+      "cost": "3+",
+      "pool": "Intellect"
+    },
+    "version": 2
+  },
+  "ownership": {
+    "default": 0,
+    "k2TkElLx959B0lm5": 3
+  },
+  "_stats": {
+    "modifiedTime": 1664959725599,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "rLeavHPrdkq6xjNt",
+    "createdTime": null,
+    "systemVersion": "2.0.0-a1",
+    "coreVersion": "10.286"
+  },
+  "name": "Buscador de trampas",
+  "flags": {"core": {"sourceId": "Compendium.cyphersystem-compendium.abilities.V1ROUnWXLmLRMxXi"}},
+  "_id": "V1ROUnWXLmLRMxXi",
+  "sort": 0,
+  "type": "ability",
+  "_key": "!items!V1ROUnWXLmLRMxXi"
+}

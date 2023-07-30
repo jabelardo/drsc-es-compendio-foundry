@@ -1,0 +1,54 @@
+{
+  "img": "systems/cyphersystem/icons/items/ability.svg",
+  "effects": [],
+  "folder": null,
+  "system": {
+    "archived": false,
+    "settings": {
+      "general": {
+        "spellTier": "low",
+        "sorting": "Ability",
+        "unmaskedForm": "Mask"
+      },
+      "rollButton": {
+        "stepModifier": "eased",
+        "damage": 0,
+        "damagePerLOE": 3,
+        "bonus": 0,
+        "pool": "Pool",
+        "teen": "",
+        "additionalSteps": 0,
+        "effort1": 0,
+        "effort3": 0,
+        "assets": 0,
+        "effort2": 0,
+        "skill": "Practiced",
+        "additionalCost": 0
+      }
+    },
+    "description": "<p>Eres experto en obtener los beneficios que puede generar la fama. Cuando se te reconocen, puedes sentarte en cualquier restaurante, te dejan entrar en cualquier edificio gubernamental, te invitan a cualquier espectáculo o evento deportivo (aunque las entradas estén agotadas), consigues un asiento en una función privada de cualquier tipo o entras en cualquier club, por muy exclusivo que sea. Cuando tratas con alguien que no puede o no quiere ceder inmediatamente a tu deseo, ganas un recurso en todas las tareas relacionadas con la persuasión si esa persona te reconoce o está convencida de que eres una celebridad aunque no te reconozca. Capacitador.<\/p>",
+    "basic": {
+      "cost": "0",
+      "pool": "Pool"
+    },
+    "version": 2
+  },
+  "ownership": {
+    "default": 0,
+    "k2TkElLx959B0lm5": 3
+  },
+  "_stats": {
+    "modifiedTime": 1664959722324,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "rLeavHPrdkq6xjNt",
+    "createdTime": null,
+    "systemVersion": "2.0.0-a1",
+    "coreVersion": "10.286"
+  },
+  "name": "Ventajas del estrellato",
+  "flags": {"core": {"sourceId": "Compendium.cyphersystem-compendium.abilities.6QXGJBsJPDFgcdq5"}},
+  "_id": "6QXGJBsJPDFgcdq5",
+  "sort": 0,
+  "type": "ability",
+  "_key": "!items!6QXGJBsJPDFgcdq5"
+}

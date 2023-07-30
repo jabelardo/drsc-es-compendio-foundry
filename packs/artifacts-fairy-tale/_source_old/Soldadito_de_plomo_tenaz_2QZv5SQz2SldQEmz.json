@@ -1,0 +1,38 @@
+{
+  "img": "systems/cyphersystem/icons/items/artifact.svg",
+  "effects": [],
+  "system": {
+    "archived": false,
+    "settings": {
+      "general": {
+        "nameUnidentified": ""
+      }
+    },
+    "description": "<p><strong>Nivel:</strong> 1d6 + 2</p>\n<p><strong>Aspecto:</strong> Pequeño soldadito de plomo con una pierna</p>\n<p><strong>Efecto:</strong> Otorga al usuario que le falte una miembro, la capacidad de transformar el soldadito de plomo en una prótesis con la apariencia que elija. La extremidad aumenta de forma permanente la Reserva de Velocidad o la Reserva de Vigor máximas del usuario (a elección del usuario) en 5 puntos (o 7 puntos si el artefacto es de nivel 6 o superior).</p>\n<p><strong>Agotamiento:</strong> -</p>\n<p>Se rumorea que hay varios artefactos que crean partes del cuerpo protésicas o restauran miembros perdidos, como Bailarina de papel, Doncella sin manos y Serpiente de Bianca.</p>",
+    "basic": {
+      "depletion": "—",
+      "identified": true,
+      "level": "1d6+2"
+    },
+    "version": 2
+  },
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "_stats": {
+    "modifiedTime": 1685302332336,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "yThCrv1jSfPXOC2U",
+    "createdTime": 1685301453111,
+    "systemVersion": "2.6.0",
+    "coreVersion": "10.291"
+  },
+  "name": "Soldadito de plomo tenaz",
+  "flags": {},
+  "_id": "2QZv5SQz2SldQEmz",
+  "sort": 0,
+  "type": "artifact",
+  "_key": "!items!2QZv5SQz2SldQEmz"
+}

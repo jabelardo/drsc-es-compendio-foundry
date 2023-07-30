@@ -1,0 +1,16 @@
+{
+  "img": "icons/svg/d20-black.svg",
+  "documentCollection": "",
+  "flags": {},
+  "weight": 1,
+  "range": [
+    7,
+    7
+  ],
+  "documentId": null,
+  "_id": "Q3Um71QQeNihXBLF",
+  "text": "Fracasaste bochornosamente en tus estudios iniciales con un profesor. Ahora sigues por tu cuenta.",
+  "type": 0,
+  "drawn": false,
+  "_key": "!tables.results!ldbXbEteJgHbIdZe.Q3Um71QQeNihXBLF"
+}

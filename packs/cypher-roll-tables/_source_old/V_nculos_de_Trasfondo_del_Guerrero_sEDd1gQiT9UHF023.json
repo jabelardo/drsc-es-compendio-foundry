@@ -1,0 +1,51 @@
+{
+  "name": "Vínculos de Trasfondo del Guerrero",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    "QuWEuA6YoSUxXpwH",
+    "ut6O11aIukfgVPWQ",
+    "a8NlTuYowI6im6U4",
+    "6GocVbOZazFZZXz4",
+    "UfJINsvnV8hsjPtu",
+    "enP8efOjS6OremTv",
+    "NcjJ507RWSzsWze7",
+    "CAlQ9T57i2tLe70a",
+    "eKDQLEfaTbEdjppc",
+    "psMTvlHPRGPI32Vc",
+    "Zs4j8FXdtY1AH6bW",
+    "uNG1eKaOS2ppVt3g",
+    "w8DnjV09vZSDJGQ4",
+    "SP8KOPQ9Pon0RuQH",
+    "OToIoctRWGryWDY8",
+    "GxV8FZN32iAMpiO5",
+    "OCjnLtpUAUxHHHer",
+    "frAeZUYmF1KMNsFI",
+    "01sDs3H2dkxGFLSk",
+    "TNJQZzkZvPkAGLKV"
+  ],
+  "formula": "1d20",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "rLeavHPrdkq6xjNt": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.7sn2jGsWoUwevjwj"
+    }
+  },
+  "_stats": {
+    "systemId": "cyphersystem",
+    "systemVersion": "2.6.2",
+    "coreVersion": "11.299",
+    "createdTime": 1666770047616,
+    "modifiedTime": 1685560156930,
+    "lastModifiedBy": "7luxagQiisUFvSQn"
+  },
+  "folder": "msIaT39hNVlursoR",
+  "sort": 150000,
+  "_id": "sEDd1gQiT9UHF023",
+  "_key": "!tables!sEDd1gQiT9UHF023"
+}

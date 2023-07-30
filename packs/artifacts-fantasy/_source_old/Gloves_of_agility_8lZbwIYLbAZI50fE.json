@@ -1,0 +1,49 @@
+{
+  "img": "systems/cyphersystem/icons/items/artifact.svg",
+  "effects": [],
+  "system": {
+    "archived": false,
+    "settings": {"general": {"nameUnidentified": ""}},
+    "rollButton": {
+      "stepModifier": "eased",
+      "damage": 0,
+      "damagePerLOE": 3,
+      "bonus": 0,
+      "pool": "Pool",
+      "teen": "",
+      "additionalSteps": 0,
+      "effort1": 0,
+      "effort3": 0,
+      "assets": 0,
+      "effort2": 0,
+      "skill": "Practiced",
+      "additionalCost": 0
+    },
+    "description": "<p><strong>Nivel:<\/strong> 1d6<\/p>\n<p><strong>Aspecto:<\/strong> Guantes de cuero flexible o tela<\/p>\n<p><strong>Efecto:<\/strong> Los guantes aumentan la destreza y los reflejos del portador. Esto aumenta la Reserva de Velocidad máxima del usuario en 5 (o en 7 si el artefacto es de nivel 6 o superior). Si el portador se quita los guantes, los puntos de Velocidad sobrantes por encima de su Reserva de Velocidad máxima normal se pierden; si vuelve a ponerse los guantes, los puntos no vuelven automáticamente (deben restaurarse con tiradas de recuperación, magia curativa o efectos similares).<\/p>\n<p><strong>Agotamiento:<\/strong> -<\/p>",
+    "basic": {
+      "depletion": "\u2014",
+      "identified": true,
+      "level": "1d6"
+    },
+    "version": 2
+  },
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "_stats": {
+    "modifiedTime": 1676451418971,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "yThCrv1jSfPXOC2U",
+    "createdTime": 1676367597889,
+    "systemVersion": "2.3.0",
+    "coreVersion": "10.291"
+  },
+  "name": "Guantes de agilidad",
+  "flags": {"core": {"sourceId": "Compendium.cyphersystem-compendium.artifacts-fantasy.FZF5ttM0dhthLxpP"}},
+  "sort": 0,
+  "_id": "8lZbwIYLbAZI50fE",
+  "type": "artifact",
+  "_key": "!items!8lZbwIYLbAZI50fE"
+}

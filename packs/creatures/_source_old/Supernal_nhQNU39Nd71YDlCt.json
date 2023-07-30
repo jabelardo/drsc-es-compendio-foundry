@@ -1,0 +1,128 @@
+{
+  "img": "modules/drsc-es-compendio-foundry/img/tokens/monstrous-humanoid.webp",
+  "_stats": {
+    "modifiedTime": 1676797809305,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "yThCrv1jSfPXOC2U",
+    "createdTime": 1676461780853,
+    "systemVersion": "2.3.0",
+    "coreVersion": "10.291"
+  },
+  "flags": {"core": {"sourceId": "Actor.nsrc0NCtD7GirN2b"}},
+  "sort": 0,
+  "type": "npc",
+  "_key": "!actors!nhQNU39Nd71YDlCt",
+  "prototypeToken": {
+    "displayBars": 40,
+    "displayName": 20,
+    "actorLink": false,
+    "texture": {
+      "scaleX": 1,
+      "offsetX": 0,
+      "scaleY": 1,
+      "offsetY": 0,
+      "src": "icons/svg/mystery-man.svg",
+      "rotation": 0,
+      "tint": null
+    },
+    "lockRotation": false,
+    "rotation": 0,
+    "detectionModes": [],
+    "flags": {},
+    "randomImg": false,
+    "bar1": {"attribute": "pools.health"},
+    "bar2": {"attribute": "basic.level"},
+    "disposition": 0,
+    "light": {
+      "attenuation": 0.5,
+      "color": null,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "animation": {
+        "intensity": 5,
+        "type": null,
+        "reverse": false,
+        "speed": 5
+      },
+      "saturation": 0,
+      "alpha": 0.5,
+      "contrast": 0,
+      "angle": 360,
+      "luminosity": 0.5,
+      "shadows": 0,
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "alpha": 1,
+    "name": "Supernal",
+    "width": 1,
+    "sight": {
+      "saturation": 0,
+      "attenuation": 0.1,
+      "brightness": 0,
+      "color": null,
+      "visionMode": "basic",
+      "contrast": 0,
+      "range": null,
+      "angle": 360,
+      "enabled": false
+    },
+    "height": 1
+  },
+  "effects": [],
+  "system": {
+    "settings": {
+      "general": {
+        "initiativeBonus": 0,
+        "hideArchive": false
+      },
+      "equipment": {
+        "ammo": {"active": false},
+        "armor": {"active": false},
+        "attacks": {"active": false},
+        "materials": {
+          "active": false,
+          "label": ""
+        },
+        "cyphers": {
+          "active": false,
+          "label": ""
+        },
+        "oddities": {
+          "active": false,
+          "label": ""
+        },
+        "artifacts": {
+          "active": false,
+          "label": ""
+        }
+      }
+    },
+    "notes": "<p>Mitad humanoide y mitad libélula, los supernales son entidades hermosas, aunque ciertamente alienígenas. Cada supernal posee un patrón de alas y una coloración únicos y, hasta cierto punto, una forma corporal. Estos patrones y colores pueden significar en qué lugar de la jerarquía se sitúa un supernal concreto entre los de su especie, pero para aquellos que no hablan el lenguaje de los supernales (que es telepático), la complejidad de su estructura social es abrumadora. Tanto si son agentes de alguna civilización alienígena desconocida como si buscan sus propios objetivos, los supernales son misteriosos y crípticos. La mayoría teme el contacto con ellos, ya que tienen predilección por robar otras formas de vida, a las que rara vez vuelven a ver.<\/p>\n<p><strong>Motivación:<\/strong> Capturar humanos y formas de vida similares, y llevarlos a algún lugar desconocido.<\/p>\n<p><strong>Entorno:<\/strong> Casi cualquier lugar<\/p>\n<p><strong>Salud:<\/strong> 23<\/p>\n<p><strong>Daño que inflige:<\/strong> 6 puntos<\/p>\n<p><strong>Movimiento: <\/strong>Corto; vuela una larga distancia (incluso a través del vacío sin aire); puede teletransportarse a cualquier lugar conocido una vez cada diez horas como acción<\/p>\n<p><strong>Ajustes<\/strong>: Nivel 6 para todas las tareas de conocimiento; nivel 7 para tareas de sigilo mientras es invisible<\/p>\n<p><strong>Combate:<\/strong> Por lo general, los supernales sólo entran en combate cuando lo desean, ya que esperan su momento en un estado de fase invisible. Pero cuando uno ataca con el toque de su ala, extrae la fuerza vital directamente del objetivo, infligiendo 6 puntos de daño de Velocidad (ignora Armadura).<\/p>\n<p>Un supernal puede invocar un enjambre de pequeñas máquinas que parecen libélulas normales hechas de metal dorado. El enjambre sirve como accesorio de moda, al arrastrarse por el cuerpo del supernal, o como componentes de una obra de arte viva.<\/p>\n<p>Los supernales recuperan 1 punto de salud por ronda (incluso en el vacío sin aire, al que pueden sobrevivir sin problemas), a menos que hayan sido dañados con ataques psíquicos. Pueden teletransportarse a cualquier lugar que conozcan como acción una vez cada diez horas.<\/p>\n<p>Los Supernales suelen llevar Cyphers manifiestos útiles en combate, así como un artefacto.<\/p>\n<p><strong>Enjambre de libélulas: <\/strong>nivel 2; vuela una larga distancia cada ronda; alivia las tareas físicas, incluyendo ataques o defensa.<\/p>\n<p><strong>Interacción:<\/strong> Aunque los supernales sólo hablan telepáticamente, la interacción pacífica con estas criaturas no es imposible. Sólo es muy difícil, ya que ven a la mayoría de las demás criaturas como algo que hay que recoger y llevar a algún lugar no revelado, por razones desconocidas.<\/p>\n<p><strong>Uso:<\/strong> Un supernal sigue a un personaje con la intención de coleccionarlo.<\/p>\n<p><strong>Botín:<\/strong> Un supernal normalmente tiene unos cuantos Cyphers manifiestos, y posiblemente un artefacto.<\/p>\n<p><strong>Intromisiones del DJ:<\/strong> El supernal agarra al personaje y vuela hacia arriba y se aleja, a menos que y/o hasta que el personaje escape del agarre.<\/p>",
+    "pools": {"health": {
+      "max": 23,
+      "value": 23
+    }},
+    "description": "",
+    "combat": {
+      "damage": 6,
+      "armor": 0
+    },
+    "basic": {
+      "level": 5,
+      "biography": "<p>Mitad humanoide y mitad libélula, los supernales son entidades hermosas, aunque ciertamente alienígenas. Cada supernal posee un patrón de alas y una coloración únicos y, hasta cierto punto, una forma corporal. Estos patrones y colores pueden significar en qué lugar de la jerarquía se sitúa un supernal concreto entre los de su especie, pero para aquellos que no hablan el lenguaje de los supernales (que es telepático), la complejidad de su estructura social es abrumadora. Tanto si son agentes de alguna civilización alienígena desconocida como si buscan sus propios objetivos, los supernales son misteriosos y crípticos. La mayoría teme el contacto con ellos, ya que tienen predilección por robar otras formas de vida, a las que rara vez vuelven a ver.<\/p>\n<p><strong>Motivación:<\/strong> Capturar humanos y formas de vida similares, y llevarlos a algún lugar desconocido.<\/p>\n<p><strong>Entorno:<\/strong> Casi cualquier lugar<\/p>\n<p><strong>Salud:<\/strong> 23<\/p>\n<p><strong>Daño que inflige:<\/strong> 6 puntos<\/p>\n<p><strong>Movimiento: <\/strong>Corto; vuela una larga distancia (incluso a través del vacío sin aire); puede teletransportarse a cualquier lugar conocido una vez cada diez horas como acción<\/p>\n<p><strong>Ajustes<\/strong>: Nivel 6 para todas las tareas de conocimiento; nivel 7 para tareas de sigilo mientras es invisible<\/p>\n<p><strong>Combate:<\/strong> Por lo general, los supernales sólo entran en combate cuando lo desean, ya que esperan su momento en un estado de fase invisible. Pero cuando uno ataca con el toque de su ala, extrae la fuerza vital directamente del objetivo, infligiendo 6 puntos de daño de Velocidad (ignora Armadura).<\/p>\n<p>Un supernal puede invocar un enjambre de pequeñas máquinas que parecen libélulas normales hechas de metal dorado. El enjambre sirve como accesorio de moda, al arrastrarse por el cuerpo del supernal, o como componentes de una obra de arte viva.<\/p>\n<p>Los supernales recuperan 1 punto de salud por ronda (incluso en el vacío sin aire, al que pueden sobrevivir sin problemas), a menos que hayan sido dañados con ataques psíquicos. Pueden teletransportarse a cualquier lugar que conozcan como acción una vez cada diez horas.<\/p>\n<p>Los Supernales suelen llevar Cyphers manifiestos útiles en combate, así como un artefacto.<\/p>\n<p><strong>Enjambre de libélulas: <\/strong>nivel 2; vuela una larga distancia cada ronda; alivia las tareas físicas, incluyendo ataques o defensa.<\/p>\n<p><strong>Interacción:<\/strong> Aunque los supernales sólo hablan telepáticamente, la interacción pacífica con estas criaturas no es imposible. Sólo es muy difícil, ya que ven a la mayoría de las demás criaturas como algo que hay que recoger y llevar a algún lugar no revelado, por razones desconocidas.<\/p>\n<p><strong>Uso:<\/strong> Un supernal sigue a un personaje con la intención de coleccionarlo.<\/p>\n<p><strong>Botín:<\/strong> Un supernal normalmente tiene unos cuantos Cyphers manifiestos, y posiblemente un artefacto.<\/p>\n<p><strong>Intromisiones del DJ:<\/strong> El supernal agarra al personaje y vuela hacia arriba y se aleja, a menos que y/o hasta que el personaje escape del agarre.<\/p>"
+    },
+    "version": 2
+  },
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "name": "Supernal",
+  "_id": "nhQNU39Nd71YDlCt",
+  "items": []
+}

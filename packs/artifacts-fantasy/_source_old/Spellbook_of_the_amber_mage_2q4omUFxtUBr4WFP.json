@@ -1,0 +1,48 @@
+{
+  "img": "systems/cyphersystem/icons/items/artifact.svg",
+  "effects": [],
+  "folder": null,
+  "system": {
+    "archived": false,
+    "rollButton": {
+      "stepModifier": "eased",
+      "damage": 0,
+      "damagePerLOE": 3,
+      "bonus": 0,
+      "pool": "Pool",
+      "teen": "",
+      "additionalSteps": 0,
+      "effort1": 0,
+      "effort3": 0,
+      "assets": 0,
+      "effort2": 0,
+      "skill": "Practiced",
+      "additionalCost": 0
+    },
+    "description": "<p><strong>Nivel:<\/strong> 1d6<\/p>\n<p><strong>Aspecto:<\/strong> Un pesado tomo encuadernado en ámbar lleno de páginas de runas de hechizos<\/p>\n<p><strong>Efecto:<\/strong> Cuando el usuario conjura desde el libro de hechizos y tiene éxito en una tarea de nivel 3 basada en Intelecto, el usuario puede intentar atrapar a una criatura a largo alcance dentro de un bloque de ámbar. Sólo las criaturas cuyo nivel es igual o inferior al nivel del artefacto pueden ser el objetivo. Una criatura atrapada con éxito se conserva en perfecta estasis hasta que el ámbar que la envuelve se rompa (el ámbar tiene 10 puntos de salud por nivel del artefacto).<\/p>\n<p><strong>Agotamiento:<\/strong> 1 en 1d20<\/p>",
+    "basic": {
+      "depletion": "1 in [[/r 1d20]]",
+      "identified": true,
+      "level": "1d6"
+    },
+    "version": 2
+  },
+  "ownership": {
+    "default": 0,
+    "k2TkElLx959B0lm5": 3
+  },
+  "_stats": {
+    "modifiedTime": 1664959727530,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "rLeavHPrdkq6xjNt",
+    "createdTime": null,
+    "systemVersion": "2.0.0-a1",
+    "coreVersion": "10.286"
+  },
+  "name": "Libro de hechizos del mago del ámbar",
+  "flags": {},
+  "sort": 0,
+  "_id": "2q4omUFxtUBr4WFP",
+  "type": "artifact",
+  "_key": "!items!2q4omUFxtUBr4WFP"
+}

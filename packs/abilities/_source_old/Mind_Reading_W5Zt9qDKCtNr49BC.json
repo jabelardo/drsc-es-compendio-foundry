@@ -1,0 +1,54 @@
+{
+  "img": "systems/cyphersystem/icons/items/ability.svg",
+  "effects": [],
+  "folder": null,
+  "system": {
+    "archived": false,
+    "settings": {
+      "general": {
+        "spellTier": "low",
+        "sorting": "Ability",
+        "unmaskedForm": "Mask"
+      },
+      "rollButton": {
+        "stepModifier": "eased",
+        "damage": 0,
+        "damagePerLOE": 3,
+        "bonus": 0,
+        "pool": "Pool",
+        "teen": "",
+        "additionalSteps": 0,
+        "effort1": 0,
+        "effort3": 0,
+        "assets": 0,
+        "effort2": 0,
+        "skill": "Practiced",
+        "additionalCost": 0
+      }
+    },
+    "description": "<p>Puedes leer los pensamientos superficiales de una criatura a corto alcance, incluso si el objetivo no quiere que lo hagas. Debes poder ver a tu objetivo. Una vez establecido el contacto, puedes leer los pensamientos del objetivo durante un minuto. Si también tienes la capacidad <em>Leer la mente<\/em> de otra fuente, puedes usar esta capacidad a largo alcance, y no necesitas poder ver al objetivo (pero sí tienes que saber que el objetivo está dentro del alcance). Acción para iniciar.<\/p>",
+    "basic": {
+      "cost": "2",
+      "pool": "Intellect"
+    },
+    "version": 2
+  },
+  "ownership": {
+    "default": 0,
+    "k2TkElLx959B0lm5": 3
+  },
+  "_stats": {
+    "modifiedTime": 1664959721549,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "rLeavHPrdkq6xjNt",
+    "createdTime": null,
+    "systemVersion": "2.0.0-a1",
+    "coreVersion": "10.286"
+  },
+  "name": "Leer la mente",
+  "flags": {"core": {"sourceId": "Compendium.cyphersystem-compendium.abilities.W5Zt9qDKCtNr49BC"}},
+  "_id": "W5Zt9qDKCtNr49BC",
+  "sort": 0,
+  "type": "ability",
+  "_key": "!items!W5Zt9qDKCtNr49BC"
+}

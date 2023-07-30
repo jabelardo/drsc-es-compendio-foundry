@@ -1,0 +1,58 @@
+{
+  "img": "systems/cyphersystem/icons/items/ability.svg",
+  "effects": [],
+  "folder": null,
+  "system": {
+    "archived": false,
+    "settings": {
+      "general": {
+        "spellTier": "low",
+        "sorting": "Ability",
+        "unmaskedForm": "Mask"
+      },
+      "rollButton": {
+        "stepModifier": "eased",
+        "damage": 0,
+        "damagePerLOE": 3,
+        "bonus": 0,
+        "pool": "Pool",
+        "teen": "",
+        "additionalSteps": 0,
+        "effort1": 0,
+        "effort3": 0,
+        "assets": 0,
+        "effort2": 0,
+        "skill": "Practiced",
+        "additionalCost": 0
+      }
+    },
+    "description": "<p>Cuando usas Agrandar, puedes elegir crecer hasta una altura base de 18 m [60 pies]. Cuando lo haces, añades 5 puntos temporales más a tu Reserva de Vigor (más los de Gigantesco y Más grande), e infliges 2 puntos de daño adicional con ataques melé (más los de tu capacidad Enorme). Por cada nivel de Esfuerzo que apliques para aumentar más tu altura, tu altura total aumenta en 3 m [10 pies], y añades 1 punto más a tu Reserva de Vigor. Así, la primera vez que usas Agrandar después de una Tirada de Recuperación de diez horas, si aplicas dos niveles de Esfuerzo, tu altura base es de 24 m [80 pies], y añades un total de 17 puntos temporales a tu Reserva de Vigor. Capacitador.</p>",
+    "basic": {
+      "cost": "0",
+      "pool": "Pool"
+    },
+    "version": 2
+  },
+  "ownership": {
+    "default": 0,
+    "k2TkElLx959B0lm5": 3
+  },
+  "_stats": {
+    "modifiedTime": 1664959715151,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "rLeavHPrdkq6xjNt",
+    "createdTime": null,
+    "systemVersion": "2.0.0-a1",
+    "coreVersion": "10.286"
+  },
+  "name": "Colosal",
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.cyphersystem-compendium.abilities.hbbPZIjq81Qqdp6i"
+    }
+  },
+  "_id": "hbbPZIjq81Qqdp6i",
+  "sort": 0,
+  "type": "ability",
+  "_key": "!items!hbbPZIjq81Qqdp6i"
+}

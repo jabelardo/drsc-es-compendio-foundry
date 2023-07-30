@@ -1,0 +1,57 @@
+{
+  "img": "systems/cyphersystem/icons/items/artifact.svg",
+  "effects": [],
+  "system": {
+    "archived": false,
+    "settings": {
+      "general": {
+        "nameUnidentified": ""
+      }
+    },
+    "rollButton": {
+      "stepModifier": "eased",
+      "damage": 0,
+      "damagePerLOE": 3,
+      "bonus": 0,
+      "pool": "Pool",
+      "teen": "",
+      "additionalSteps": 0,
+      "effort1": 0,
+      "effort3": 0,
+      "assets": 0,
+      "effort2": 0,
+      "skill": "Practiced",
+      "additionalCost": 0
+    },
+    "description": "<p><strong>Nivel: </strong>1d6 + 4</p>\n<p><strong>Aspecto:</strong> Una cuerda negra de 15 m [50 pies] de longitud</p>\n<p><strong>Efecto:</strong> Esta cuerda tiene la flexibilidad de una cuerda normal pero una dureza superior a la del acero. Es impermeable al daño (incluidos los intentos de cortarla) de cualquier cosa inferior al nivel del artefacto.</p>\n<p><strong>Agotamiento:</strong> -</p>",
+    "basic": {
+      "depletion": "—",
+      "identified": true,
+      "level": "1d6+4"
+    },
+    "version": 2
+  },
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "_stats": {
+    "modifiedTime": 1676451418785,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "yThCrv1jSfPXOC2U",
+    "createdTime": 1676367597897,
+    "systemVersion": "2.3.0",
+    "coreVersion": "10.291"
+  },
+  "name": "Cuerda adamantina",
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.cyphersystem-compendium.artifacts-fantasy.gF1ngsklZouYsjnJ"
+    }
+  },
+  "sort": 0,
+  "_id": "irB5C5Ms3wvV59Uf",
+  "type": "artifact",
+  "_key": "!items!irB5C5Ms3wvV59Uf"
+}

@@ -1,0 +1,54 @@
+{
+  "img": "systems/cyphersystem/icons/items/ability.svg",
+  "effects": [],
+  "folder": null,
+  "system": {
+    "archived": false,
+    "settings": {
+      "general": {
+        "spellTier": "low",
+        "sorting": "Ability",
+        "unmaskedForm": "Mask"
+      },
+      "rollButton": {
+        "stepModifier": "eased",
+        "damage": 0,
+        "damagePerLOE": 3,
+        "bonus": 0,
+        "pool": "Pool",
+        "teen": "",
+        "additionalSteps": 0,
+        "effort1": 0,
+        "effort3": 0,
+        "assets": 0,
+        "effort2": 0,
+        "skill": "Practiced",
+        "additionalCost": 0
+      }
+    },
+    "description": "<p>Animas el cuerpo de una criatura muerta de aproximadamente tu tamaño o menor, creando una criatura de nivel 1. No tiene la inteligencia, ni los recuerdos, ni las capacidades especiales que tenía en vida. La criatura sigue tus órdenes verbales durante una hora, tras la cual se convierte en un cadáver inerte. A menos que la criatura muera por daño, puedes reanimarla de nuevo cuando su tiempo expire, pero cualquier daño que tuviera cuando se volvió inerte se aplica a su nuevo estado reanimado. Si tienes acceso a varios cuerpos, puedes crear una criatura no muerta adicional por cada punto de Intelecto adicional que gastes al activar la capacidad. Acción para animar.<\/p>",
+    "basic": {
+      "cost": "3+",
+      "pool": "Intellect"
+    },
+    "version": 2
+  },
+  "ownership": {
+    "default": 0,
+    "k2TkElLx959B0lm5": 3
+  },
+  "_stats": {
+    "modifiedTime": 1664959721835,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "rLeavHPrdkq6xjNt",
+    "createdTime": null,
+    "systemVersion": "2.0.0-a1",
+    "coreVersion": "10.286"
+  },
+  "name": "Nigromancia",
+  "flags": {"core": {"sourceId": "Compendium.cyphersystem-compendium.abilities.yaLHxRtVBhveqHJA"}},
+  "_id": "yaLHxRtVBhveqHJA",
+  "sort": 0,
+  "type": "ability",
+  "_key": "!items!yaLHxRtVBhveqHJA"
+}

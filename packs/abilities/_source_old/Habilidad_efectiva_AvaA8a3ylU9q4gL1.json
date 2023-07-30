@@ -1,0 +1,58 @@
+{
+  "img": "systems/cyphersystem/icons/items/ability.svg",
+  "effects": [],
+  "folder": null,
+  "system": {
+    "archived": false,
+    "settings": {
+      "general": {
+        "spellTier": "low",
+        "sorting": "Ability",
+        "unmaskedForm": "Mask"
+      },
+      "rollButton": {
+        "stepModifier": "eased",
+        "damage": 0,
+        "damagePerLOE": 3,
+        "bonus": 0,
+        "pool": "Pool",
+        "teen": "",
+        "additionalSteps": 0,
+        "effort1": 0,
+        "effort3": 0,
+        "assets": 0,
+        "effort2": 0,
+        "skill": "Practiced",
+        "additionalCost": 0
+      }
+    },
+    "description": "<p>Elige una habilidad que no sea de combate cuando ganes esta capacidad. Obtienes un efecto menor con esa habilidad cuando sacas un 14 natural o más (el d20 muestra \"14\" o más). Obtienes un efecto mayor con esa habilidad cuando sacas un 19 natural o más (el d20 muestra \"19\" o más). Puedes seleccionar esta capacidad más de una vez. Cada vez que la selecciones, deberás elegir una habilidad diferente que no sea de combate. Capacitador.</p>",
+    "basic": {
+      "cost": "0",
+      "pool": "Pool"
+    },
+    "version": 2
+  },
+  "ownership": {
+    "default": 0,
+    "k2TkElLx959B0lm5": 3
+  },
+  "_stats": {
+    "modifiedTime": 1664959716979,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "rLeavHPrdkq6xjNt",
+    "createdTime": null,
+    "systemVersion": "2.0.0-a1",
+    "coreVersion": "10.286"
+  },
+  "name": "Habilidad efectiva",
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.cyphersystem-compendium.abilities.AvaA8a3ylU9q4gL1"
+    }
+  },
+  "_id": "AvaA8a3ylU9q4gL1",
+  "sort": 0,
+  "type": "ability",
+  "_key": "!items!AvaA8a3ylU9q4gL1"
+}

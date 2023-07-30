@@ -1,0 +1,34 @@
+{
+  "img": "systems/cyphersystem/icons/items/artifact.svg",
+  "effects": [],
+  "system": {
+    "archived": false,
+    "settings": {"general": {"nameUnidentified": ""}},
+    "description": "<p><strong>Nivel:<\/strong> 1d6<\/p>\n<p><strong>Aspecto:<\/strong> Flecha con runas grabadas en el asta y la cabeza<\/p>\n<p><strong>Efecto:<\/strong> La flecha explota cuando golpea algo, infligiendo su nivel de daño a todos los que se encuentren dentro de su alcance inmediato. Tira d100 para determinar el tipo de daño<\/p>\n<table class=\"table table-dark table-striped table-sm\">\n <thead>\n <\/thead>\n <tbody>\n  <tr>\n   <td>01-20<\/td>\n   <td>ácido<\/td>\n  <\/tr>\n  <tr>\n   <td>21-40<\/td>\n   <td>Electricidad<\/td>\n  <\/tr>\n  <tr>\n   <td>41-60<\/td>\n   <td>Frío<\/td>\n  <\/tr>\n  <tr>\n   <td>61-90<\/td>\n   <td>Fuego<\/td>\n  <\/tr>\n  <tr>\n   <td>91-00<\/td>\n   <td>Nigromántico (sólo daña la carne)<\/td>\n  <\/tr>\n <\/tbody>\n<\/table>\n<p><strong>Agotamiento:<\/strong> Automático<\/p>\n<p>Una de las ventajas de una flecha explosiva frente a una Cypher de detonación es que la flecha no cuenta para tu límite de Cyphers.<\/p>\n<p>Una flecha explosiva puede ser una saeta de ballesta, una piedra de honda u otra arma arrojadiza o proyectil.<\/p>",
+    "basic": {
+      "depletion": "automatic",
+      "identified": true,
+      "level": "1d6"
+    },
+    "version": 2
+  },
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "_stats": {
+    "modifiedTime": 1676367626174,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "yThCrv1jSfPXOC2U",
+    "createdTime": 1676359032515,
+    "systemVersion": "2.3.0",
+    "coreVersion": "10.291"
+  },
+  "name": "Flecha explosiva",
+  "flags": {"core": {"sourceId": "Item.2wnU2UVvnGYHYwOO"}},
+  "sort": 0,
+  "_id": "aeN1onGpUxj0hSl4",
+  "type": "artifact",
+  "_key": "!items!aeN1onGpUxj0hSl4"
+}

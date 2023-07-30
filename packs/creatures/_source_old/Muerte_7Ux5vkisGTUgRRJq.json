@@ -1,0 +1,128 @@
+{
+  "img": "modules/drsc-es-compendio-foundry/img/tokens/aberration.webp",
+  "_stats": {
+    "modifiedTime": 1685359151070,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "yThCrv1jSfPXOC2U",
+    "createdTime": 1685354623018,
+    "systemVersion": "2.6.0",
+    "coreVersion": "10.291"
+  },
+  "flags": {},
+  "sort": 0,
+  "type": "npc",
+  "_key": "!actors!7Ux5vkisGTUgRRJq",
+  "prototypeToken": {
+    "displayBars": 40,
+    "displayName": 20,
+    "actorLink": false,
+    "texture": {
+      "scaleX": 1,
+      "offsetX": 0,
+      "scaleY": 1,
+      "offsetY": 0,
+      "src": "icons/svg/mystery-man.svg",
+      "rotation": 0,
+      "tint": null
+    },
+    "lockRotation": true,
+    "rotation": 0,
+    "detectionModes": [],
+    "flags": {"barbrawl": {"resourceBars": {}}},
+    "randomImg": false,
+    "bar1": {"attribute": "pools.health"},
+    "bar2": {"attribute": "basic.level"},
+    "disposition": 0,
+    "light": {
+      "attenuation": 0.5,
+      "color": null,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "animation": {
+        "intensity": 5,
+        "type": null,
+        "reverse": false,
+        "speed": 5
+      },
+      "saturation": 0,
+      "alpha": 0.5,
+      "contrast": 0,
+      "angle": 360,
+      "luminosity": 0.5,
+      "shadows": 0,
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "alpha": 1,
+    "name": "Muerte",
+    "width": 1,
+    "sight": {
+      "saturation": 0,
+      "attenuation": 0.1,
+      "brightness": 0,
+      "color": null,
+      "visionMode": "basic",
+      "contrast": 0,
+      "range": null,
+      "angle": 360,
+      "enabled": false
+    },
+    "height": 1
+  },
+  "effects": [],
+  "system": {
+    "settings": {
+      "general": {
+        "initiativeBonus": 0,
+        "hideArchive": false
+      },
+      "equipment": {
+        "ammo": {"active": false},
+        "armor": {"active": false},
+        "attacks": {"active": false},
+        "materials": {
+          "active": false,
+          "label": ""
+        },
+        "cyphers": {
+          "active": false,
+          "label": ""
+        },
+        "oddities": {
+          "active": false,
+          "label": ""
+        },
+        "artifacts": {
+          "active": false,
+          "label": ""
+        }
+      }
+    },
+    "notes": "<p>La Muerte tiene muchos nombres, adopta muchas formas y sólo tiene un propósito: hacer que todos seamos iguales al final. La Muerte es a menudo un visitante no deseado -que se lleva la vida de alguien que no está preparado para partir-, pero con la misma frecuencia viene a aquellos que están preparados. Para ellos, la Muerte es un huésped muy bienvenido, el más bienvenido de todos.<\/p>\n<p>Aunque algunos ven a la Muerte como el mal, no lo es intrínsecamente, no más que el puma que caza a la liebre para cenar. De hecho, es la gran igualadora, que eleva a los pobres a reyes y a los reyes a gente común.<\/p>\n<p>La Muerte es antigua, pero no vieja. Sabia, pero no omnisciente. Brillante, pero no perfecta. La Muerte también se encuentra, muy a menudo, aburrida. Lo ha visto todo, lo ha oído todo y ha hecho todo lo que un ser inmortal puede hacer, y algunos días está segura de que nunca volverá a experimentar nada nuevo o interesante. Pero aun así, lo intenta, adoptando nuevas apariencias, escondiéndose, incluso viajando a estrellas y lunas lejanas antes de que sus deberes y obligaciones les obliguen de nuevo a regresar.<\/p>\n<p>Si la Muerte aparece a los pies de la cama de una persona, ésta puede recuperarse si se toman los medidas adecuadas. Si la Muerte está en la cabecera de la cama, no se puede hacer casi nada para salvar a la víctima, más allá de una negociación imposible.<\/p>\n<p><strong>Motivación:<\/strong> Cumplir con su deber y hacer que todos sean iguales<\/p>\n<p><strong>Entorno:<\/strong> En todas partes y en cualquier lugar<\/p>\n<p><strong>Salud:<\/strong> ∞<\/p>\n<p><strong>Daño que inflige:<\/strong> Muerte<\/p>\n<p><strong>Armadura:<\/strong> Inmune a todo daño<\/p>\n<p><strong>Movimiento:<\/strong> Variable dependiendo de su forma, pero la Muerte puede moverse instantáneamente casi a cualquier lugar que desee<\/p>\n<p><strong>Ajustes:<\/strong> Nivel 8 para ver a través de artimañas, engañar o regatear<\/p>\n<p><strong>Combate:<\/strong> La Muerte mata. Mata de muchas maneras, dependiendo de su estado de ánimo, de lo que tenga a mano y de cómo crea que la persona debe dejar su vida. Por suerte, la Muerte sólo llega a alguien cuando a este se le ha acabado el tiempo.<\/p>\n<p>Aún así, no se considera prudente provocar o desafiar a la Muerte a un combate físico, ya que sólo hay un resultado: un único ataque de la Muerte mata a la víctima (excepto en el raro caso de que la víctima tenga protección contra la muerte, como con una de las velas de la Muerte).<\/p>\n<p><strong>Interacción:<\/strong> No se puede herir ni matar a la Muerte, pero se puede negociar con ella, apostar en su contra y, a veces, engañarla. En raras ocasiones, incluso se sabe que ha perdido un trato o ha sido capturada durante un breve periodo de tiempo.<\/p>\n<p><strong>Uso:<\/strong> Negociar con la Muerte es una forma potencial de lograr una tarea imposible o conseguir un objeto muy raro, pero por supuesto siempre tiene un precio (normalmente una muerte temprana para el negociador o para otra persona). La Muerte siempre está buscando algo interesante, y puede aparecer sólo para pasar un rato con los personajes si están realizando una actividad intrigante.<\/p>\n<p><strong>Intromisiones del DJ:<\/strong> La Muerte confunde a un personaje con otro.<\/p>",
+    "pools": {"health": {
+      "max": 0,
+      "value": 0
+    }},
+    "description": "",
+    "combat": {
+      "damage": 0,
+      "armor": 0
+    },
+    "basic": {
+      "level": 10,
+      "biography": "<p>La Muerte tiene muchos nombres, adopta muchas formas y sólo tiene un propósito: hacer que todos seamos iguales al final. La Muerte es a menudo un visitante no deseado -que se lleva la vida de alguien que no está preparado para partir-, pero con la misma frecuencia viene a aquellos que están preparados. Para ellos, la Muerte es un huésped muy bienvenido, el más bienvenido de todos.<\/p>\n<p>Aunque algunos ven a la Muerte como el mal, no lo es intrínsecamente, no más que el puma que caza a la liebre para cenar. De hecho, es la gran igualadora, que eleva a los pobres a reyes y a los reyes a gente común.<\/p>\n<p>La Muerte es antigua, pero no vieja. Sabia, pero no omnisciente. Brillante, pero no perfecta. La Muerte también se encuentra, muy a menudo, aburrida. Lo ha visto todo, lo ha oído todo y ha hecho todo lo que un ser inmortal puede hacer, y algunos días está segura de que nunca volverá a experimentar nada nuevo o interesante. Pero aun así, lo intenta, adoptando nuevas apariencias, escondiéndose, incluso viajando a estrellas y lunas lejanas antes de que sus deberes y obligaciones les obliguen de nuevo a regresar.<\/p>\n<p>Si la Muerte aparece a los pies de la cama de una persona, ésta puede recuperarse si se toman los medidas adecuadas. Si la Muerte está en la cabecera de la cama, no se puede hacer casi nada para salvar a la víctima, más allá de una negociación imposible.<\/p>\n<p><strong>Motivación:<\/strong> Cumplir con su deber y hacer que todos sean iguales<\/p>\n<p><strong>Entorno:<\/strong> En todas partes y en cualquier lugar<\/p>\n<p><strong>Salud:<\/strong> ∞<\/p>\n<p><strong>Daño que inflige:<\/strong> Muerte<\/p>\n<p><strong>Armadura:<\/strong> Inmune a todo daño<\/p>\n<p><strong>Movimiento:<\/strong> Variable dependiendo de su forma, pero la Muerte puede moverse instantáneamente casi a cualquier lugar que desee<\/p>\n<p><strong>Ajustes:<\/strong> Nivel 8 para ver a través de artimañas, engañar o regatear<\/p>\n<p><strong>Combate:<\/strong> La Muerte mata. Mata de muchas maneras, dependiendo de su estado de ánimo, de lo que tenga a mano y de cómo crea que la persona debe dejar su vida. Por suerte, la Muerte sólo llega a alguien cuando a este se le ha acabado el tiempo.<\/p>\n<p>Aún así, no se considera prudente provocar o desafiar a la Muerte a un combate físico, ya que sólo hay un resultado: un único ataque de la Muerte mata a la víctima (excepto en el raro caso de que la víctima tenga protección contra la muerte, como con una de las velas de la Muerte).<\/p>\n<p><strong>Interacción:<\/strong> No se puede herir ni matar a la Muerte, pero se puede negociar con ella, apostar en su contra y, a veces, engañarla. En raras ocasiones, incluso se sabe que ha perdido un trato o ha sido capturada durante un breve periodo de tiempo.<\/p>\n<p><strong>Uso:<\/strong> Negociar con la Muerte es una forma potencial de lograr una tarea imposible o conseguir un objeto muy raro, pero por supuesto siempre tiene un precio (normalmente una muerte temprana para el negociador o para otra persona). La Muerte siempre está buscando algo interesante, y puede aparecer sólo para pasar un rato con los personajes si están realizando una actividad intrigante.<\/p>\n<p><strong>Intromisiones del DJ:<\/strong> La Muerte confunde a un personaje con otro.<\/p>"
+    },
+    "version": 3
+  },
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "name": "Muerte",
+  "_id": "7Ux5vkisGTUgRRJq",
+  "items": []
+}

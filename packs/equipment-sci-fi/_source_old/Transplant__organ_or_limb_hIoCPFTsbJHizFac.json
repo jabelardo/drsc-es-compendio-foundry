@@ -1,0 +1,32 @@
+{
+  "name": "Trasplante, órgano o miembro",
+  "type": "equipment",
+  "img": "systems/cyphersystem/icons/items/equipment.svg",
+  "system": {
+    "version": 2,
+    "description": "<p>Si se dispone de un autodoc o de una instalación más avanzada, se puede sustituir un miembro u órgano perdido. Con la práctica, los miembros sustituidos acaban siendo igual de eficaces que los originales. Sin embargo, las prótesis mecánicas (o posiblemente cultivadas a la fuerza) dificultan inicialmente todas las tareas físicas que se intentan con ellas durante varias semanas.</p>",
+    "archived": false,
+    "basic": {
+      "level": 4,
+      "quantity": 1
+    }
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "cyphersystem",
+    "systemVersion": "2.6.2",
+    "coreVersion": "11.301",
+    "createdTime": 1676551879443,
+    "modifiedTime": 1686394041777,
+    "lastModifiedBy": "ZyqFG5NpQtVrpwj7"
+  },
+  "_id": "hIoCPFTsbJHizFac",
+  "folder": "40FMwVrL57gMPm5j",
+  "sort": 4100000,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "_key": "!items!hIoCPFTsbJHizFac"
+}

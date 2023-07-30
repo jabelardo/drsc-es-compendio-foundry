@@ -1,0 +1,36 @@
+{
+  "name": "Ariete",
+  "type": "equipment",
+  "img": "systems/cyphersystem/icons/items/equipment.svg",
+  "system": {
+    "version": 2,
+    "description": "<p>Este robusto tablón está rematado con metal duro. Proporciona un recurso para derribar puertas.</p>",
+    "archived": false,
+    "basic": {
+      "level": null,
+      "quantity": 1
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Item.uvx8yyZFLh2t9w9j"
+    }
+  },
+  "_stats": {
+    "systemId": "cyphersystem",
+    "systemVersion": "2.3.0",
+    "coreVersion": "10.291",
+    "createdTime": 1676109973601,
+    "modifiedTime": 1676109986519,
+    "lastModifiedBy": "yThCrv1jSfPXOC2U"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "YeJ9fP44lMEs25E1",
+  "_key": "!items!YeJ9fP44lMEs25E1"
+}

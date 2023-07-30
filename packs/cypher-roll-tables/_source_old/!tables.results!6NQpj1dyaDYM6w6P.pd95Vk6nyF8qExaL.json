@@ -1,0 +1,16 @@
+{
+  "img": "systems/cyphersystem/icons/items/cypher.svg",
+  "documentCollection": "cyphersystem-compendium.cyphers-horror",
+  "flags": {},
+  "weight": 1,
+  "range": [
+    20,
+    20
+  ],
+  "documentId": "ovaXKbgWjfNaP71X",
+  "text": "Intercambiador de mentes",
+  "_id": "pd95Vk6nyF8qExaL",
+  "type": 2,
+  "drawn": false,
+  "_key": "!tables.results!6NQpj1dyaDYM6w6P.pd95Vk6nyF8qExaL"
+}

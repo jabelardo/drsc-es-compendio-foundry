@@ -1,0 +1,32 @@
+{
+  "name": "Traje de mago o encantador",
+  "type": "equipment",
+  "img": "systems/cyphersystem/icons/items/equipment.svg",
+  "system": {
+    "version": 2,
+    "description": "",
+    "archived": false,
+    "basic": {
+      "level": null,
+      "quantity": 1
+    }
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "cyphersystem",
+    "systemVersion": "2.6.0",
+    "coreVersion": "10.291",
+    "createdTime": 1685344188808,
+    "modifiedTime": 1685344262927,
+    "lastModifiedBy": "yThCrv1jSfPXOC2U"
+  },
+  "_id": "UutCll7zwDTciZfl",
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "_key": "!items!UutCll7zwDTciZfl"
+}

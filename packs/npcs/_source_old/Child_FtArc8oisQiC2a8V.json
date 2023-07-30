@@ -1,0 +1,128 @@
+{
+  "img": "modules/drsc-es-compendio-foundry/img/tokens/humanoid_mundane.webp",
+  "_stats": {
+    "modifiedTime": 1685376187557,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "yThCrv1jSfPXOC2U",
+    "createdTime": 1685376032095,
+    "systemVersion": "2.6.0",
+    "coreVersion": "10.291"
+  },
+  "flags": {"core": {"sourceId": "Actor.p4suoExgiLPf1Dl6"}},
+  "sort": 0,
+  "type": "npc",
+  "_key": "!actors!FtArc8oisQiC2a8V",
+  "prototypeToken": {
+    "displayBars": 40,
+    "displayName": 20,
+    "actorLink": false,
+    "texture": {
+      "scaleX": 1,
+      "offsetX": 0,
+      "scaleY": 1,
+      "offsetY": 0,
+      "src": "icons/svg/mystery-man.svg",
+      "rotation": 0,
+      "tint": null
+    },
+    "lockRotation": true,
+    "rotation": 0,
+    "detectionModes": [],
+    "flags": {"barbrawl": {"resourceBars": {}}},
+    "randomImg": false,
+    "bar1": {"attribute": "pools.health"},
+    "bar2": {"attribute": "basic.level"},
+    "disposition": 0,
+    "light": {
+      "attenuation": 0.5,
+      "color": null,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "animation": {
+        "intensity": 5,
+        "type": null,
+        "reverse": false,
+        "speed": 5
+      },
+      "saturation": 0,
+      "alpha": 0.5,
+      "contrast": 0,
+      "angle": 360,
+      "luminosity": 0.5,
+      "shadows": 0,
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "alpha": 1,
+    "name": "Niño",
+    "width": 1,
+    "sight": {
+      "saturation": 0,
+      "attenuation": 0.1,
+      "brightness": 0,
+      "color": null,
+      "visionMode": "basic",
+      "contrast": 0,
+      "range": null,
+      "angle": 360,
+      "enabled": false
+    },
+    "height": 1
+  },
+  "effects": [],
+  "system": {
+    "settings": {
+      "general": {
+        "initiativeBonus": 0,
+        "hideArchive": false
+      },
+      "equipment": {
+        "ammo": {"active": false},
+        "armor": {"active": false},
+        "attacks": {"active": false},
+        "materials": {
+          "active": false,
+          "label": ""
+        },
+        "cyphers": {
+          "active": false,
+          "label": ""
+        },
+        "oddities": {
+          "active": false,
+          "label": ""
+        },
+        "artifacts": {
+          "active": false,
+          "label": ""
+        }
+      }
+    },
+    "notes": "<p>Los niños juegan el papel de golfillos, hermanos, hijas, hijos, vagabundos, sirvientes, miembros de la familia real, novias infantiles y más.<\/p>\n<p><strong>Motivación:<\/strong> Buscar seguridad, comodidad, dinero o comida; jugar; llevar alegría.<\/p>\n<p><strong>Entorno:<\/strong> Con sus familias o perdidos en el mundo tratando de encontrar su camino. A veces a veces al servicio o al cuidado de alguien que los ha encontrado, robado o de alguna manera se ha vuelto su guardián, cuidador o tutor.<\/p>\n<p><strong>Salud:<\/strong> 3<\/p>\n<p><strong>Daño que inflige:<\/strong> 1 punto<\/p>\n<p><strong>Movimiento:<\/strong> Corto<\/p>\n<p><strong>Ajustes:<\/strong> Nivel 2 para correr, esconderse, escabullirse y escapar; nivel 3 para conocimiento de la zona, la gente y las actividades cercanas<\/p>\n<p><strong>Combate:<\/strong> La mayoría de los niños luchan sólo en respuesta a una provocación, amenaza o ataque. Suelen utilizar armas improvisadas, como los puños, un palo o un juguete.<\/p>\n<p><strong>Interacción:<\/strong> Los niños suelen ser más listos, creativos y astutos de lo que se cree. Pueden tener muchos conocimientos sobre gente, lugares y actividades cercanas que pueden ayudar a los PJs, especialmente si hay un intercambio de comida, dinero u otras cosas de por medio.<\/p>\n<p><strong>Uso:<\/strong> Alguien o algo está robando niños del pueblo, y el alcalde ofrece pagar una gran suma a cualquiera que localice a la criatura y rescate a los niños. Uno de los PJs atrapa a un niño robando de su mochila por la noche; el niño dice que ha estado perdido en el bosque durante días.<\/p>\n<p><strong>Botín:<\/strong> Los niños suelen llevar muy poco encima, aunque pueden tener un recuerdo especial de su familia o de un amigo cercano.<\/p>\n<p><strong>Intromisiones del DJ:<\/strong> El niño grita, ríe o habla demasiado alto, llamando accidentalmente la atención de un guardia cercano hacia un personaje. Alguien piensa erróneamente que un personaje ha robado al niño, y le ataca.<\/p>",
+    "pools": {"health": {
+      "max": 3,
+      "value": 3
+    }},
+    "description": "",
+    "combat": {
+      "damage": 1,
+      "armor": 0
+    },
+    "basic": {
+      "level": 1,
+      "biography": "<p>Los niños juegan el papel de golfillos, hermanos, hijas, hijos, vagabundos, sirvientes, miembros de la familia real, novias infantiles y más.<\/p>\n<p><strong>Motivación:<\/strong> Buscar seguridad, comodidad, dinero o comida; jugar; llevar alegría.<\/p>\n<p><strong>Entorno:<\/strong> Con sus familias o perdidos en el mundo tratando de encontrar su camino. A veces a veces al servicio o al cuidado de alguien que los ha encontrado, robado o de alguna manera se ha vuelto su guardián, cuidador o tutor.<\/p>\n<p><strong>Salud:<\/strong> 3<\/p>\n<p><strong>Daño que inflige:<\/strong> 1 punto<\/p>\n<p><strong>Movimiento:<\/strong> Corto<\/p>\n<p><strong>Ajustes:<\/strong> Nivel 2 para correr, esconderse, escabullirse y escapar; nivel 3 para conocimiento de la zona, la gente y las actividades cercanas<\/p>\n<p><strong>Combate:<\/strong> La mayoría de los niños luchan sólo en respuesta a una provocación, amenaza o ataque. Suelen utilizar armas improvisadas, como los puños, un palo o un juguete.<\/p>\n<p><strong>Interacción:<\/strong> Los niños suelen ser más listos, creativos y astutos de lo que se cree. Pueden tener muchos conocimientos sobre gente, lugares y actividades cercanas que pueden ayudar a los PJs, especialmente si hay un intercambio de comida, dinero u otras cosas de por medio.<\/p>\n<p><strong>Uso:<\/strong> Alguien o algo está robando niños del pueblo, y el alcalde ofrece pagar una gran suma a cualquiera que localice a la criatura y rescate a los niños. Uno de los PJs atrapa a un niño robando de su mochila por la noche; el niño dice que ha estado perdido en el bosque durante días.<\/p>\n<p><strong>Botín:<\/strong> Los niños suelen llevar muy poco encima, aunque pueden tener un recuerdo especial de su familia o de un amigo cercano.<\/p>\n<p><strong>Intromisiones del DJ:<\/strong> El niño grita, ríe o habla demasiado alto, llamando accidentalmente la atención de un guardia cercano hacia un personaje. Alguien piensa erróneamente que un personaje ha robado al niño, y le ataca.<\/p>"
+    },
+    "version": 3
+  },
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "name": "Niño",
+  "_id": "FtArc8oisQiC2a8V",
+  "items": []
+}

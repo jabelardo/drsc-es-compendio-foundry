@@ -1,0 +1,38 @@
+{
+  "img": "systems/cyphersystem/icons/items/artifact.svg",
+  "effects": [],
+  "system": {
+    "archived": false,
+    "settings": {
+      "general": {
+        "nameUnidentified": ""
+      }
+    },
+    "description": "<p><strong>Nivel:</strong> 1d6</p>\n<p><strong>Aspecto</strong>: Cesta amarilla tejida con asas de madera</p>\n<p><strong>Efecto:</strong> Esta cesta puede contener hasta un Cypher por nivel de artefacto, siempre que cada uno no sea más grande que un gato típico. Cyphers en la cesta no cuentan contra el límite de un personaje.</p>\n<p><strong>Agotamiento:</strong> 1 en 1d20 (comprobar cada vez que se añade un Cypher a la cesta)</p>",
+    "basic": {
+      "depletion": "1 in [[/r d20]]",
+      "identified": true,
+      "level": "1d6"
+    },
+    "version": 2
+  },
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "_stats": {
+    "modifiedTime": 1685302332332,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "yThCrv1jSfPXOC2U",
+    "createdTime": 1685298399481,
+    "systemVersion": "2.6.0",
+    "coreVersion": "10.291"
+  },
+  "name": "A Tisket a Tasket",
+  "flags": {},
+  "_id": "XyGxP6aD9N7lH9kp",
+  "sort": 0,
+  "type": "artifact",
+  "_key": "!items!XyGxP6aD9N7lH9kp"
+}

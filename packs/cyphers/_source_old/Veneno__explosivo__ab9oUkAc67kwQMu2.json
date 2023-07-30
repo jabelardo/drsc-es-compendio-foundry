@@ -1,0 +1,47 @@
+{
+  "img": "systems/cyphersystem/icons/items/cypher.svg",
+  "effects": [],
+  "folder": null,
+  "system": {
+    "archived": false,
+    "rollButton": {
+      "stepModifier": "eased",
+      "damage": 0,
+      "damagePerLOE": 3,
+      "bonus": 0,
+      "pool": "Pool",
+      "teen": "",
+      "additionalSteps": 0,
+      "effort1": 0,
+      "effort3": 0,
+      "assets": 0,
+      "effort2": 0,
+      "skill": "Practiced",
+      "additionalCost": 0
+    },
+    "description": "<p><strong>Nivel:</strong> 1d6 + 1</p>\n<p><strong>Efecto:</strong> Una vez que esta sustancia entra en el torrente sanguíneo, viaja hasta el cerebro y se reorganiza en un explosivo que detona cuando se activa, infligiendo 10 puntos de daño (ignora la Armadura). Tira 1d100 para determinar el veneno.</p>\n<table class=\"table table-dark table-striped table-sm\">\n <thead>\n </thead>\n <tbody>\n  <tr>\n   <td>01-25</td>\n   <td>El detonador se activa (debe estar a largo alcance).</td>\n  </tr>\n  <tr>\n   <td>26-40</td>\n   <td>Pasa un tiempo determinado.</td>\n  </tr>\n  <tr>\n   <td>41-50</td>\n   <td>La víctima realiza una acción específica.</td>\n  </tr>\n  <tr>\n   <td>51-55</td>\n   <td>Se canta o se toca una nota específica en un instrumento a corto alcance.</td>\n  </tr>\n  <tr>\n   <td>56-60</td>\n   <td>La víctima huele un olor específico dentro de su alcance inmediato.</td>\n  </tr>\n  <tr>\n   <td>61-80</td>\n   <td><p>La víctima se acerca a un alcance largo del detonador.</p></td>\n  </tr>\n  <tr>\n   <td>81-00</td>\n   <td>La víctima ya no está a largo alcance del detonador.</td>\n  </tr>\n </tbody>\n</table>",
+    "basic": {
+      "identified": true,
+      "level": "1d6 + 1"
+    },
+    "version": 2
+  },
+  "ownership": {
+    "default": 0,
+    "k2TkElLx959B0lm5": 3
+  },
+  "_stats": {
+    "modifiedTime": 1664959728915,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "rLeavHPrdkq6xjNt",
+    "createdTime": null,
+    "systemVersion": "2.0.0-a1",
+    "coreVersion": "10.286"
+  },
+  "name": "Veneno (explosivo)",
+  "flags": {},
+  "sort": 0,
+  "_id": "ab9oUkAc67kwQMu2",
+  "type": "cypher",
+  "_key": "!items!ab9oUkAc67kwQMu2"
+}

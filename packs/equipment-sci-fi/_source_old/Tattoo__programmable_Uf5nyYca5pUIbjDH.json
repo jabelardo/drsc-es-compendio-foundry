@@ -1,0 +1,36 @@
+{
+  "name": "Tatuaje, programable",
+  "type": "equipment",
+  "img": "systems/cyphersystem/icons/items/equipment.svg",
+  "system": {
+    "version": 2,
+    "description": "<p>Con tiempo y talento, alguien con un implante de tatuaje programable puede alterar por completo los diseños que aparecen en su piel, modificando las líneas y el color. Una pequeña alteración requiere unas pocas rondas, pero un cambio de tatuaje en todo el cuerpo, suponiendo que hay algo de arte implicado, puede tardar unos días en completarse.</p>",
+    "archived": false,
+    "basic": {
+      "level": 3,
+      "quantity": 1
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Item.EovkYXWVubqDMdtV"
+    }
+  },
+  "_stats": {
+    "systemId": "cyphersystem",
+    "systemVersion": "2.6.2",
+    "coreVersion": "11.301",
+    "createdTime": 1676620820081,
+    "modifiedTime": 1686394099619,
+    "lastModifiedBy": "ZyqFG5NpQtVrpwj7"
+  },
+  "folder": "40FMwVrL57gMPm5j",
+  "sort": 4700000,
+  "_id": "Uf5nyYca5pUIbjDH",
+  "_key": "!items!Uf5nyYca5pUIbjDH"
+}

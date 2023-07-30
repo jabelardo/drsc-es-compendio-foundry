@@ -1,0 +1,33 @@
+{
+  "img": "systems/cyphersystem/icons/items/cypher.svg",
+  "effects": [],
+  "system": {
+    "archived": false,
+    "settings": {"general": {"nameUnidentified": ""}},
+    "description": "<p><strong>Nivel:<\/strong> 1d6 + 2<\/p>\n<p><strong>Aspecto:<\/strong> Zapatos de plata, zapatillas de rubí o botas rojas.<\/p>\n<p><strong>Efecto:<\/strong> Cuando el portador dice en voz alta el nombre del lugar al que desea ir, las zapatillas de plata le llevan hasta allí en tres pasos. Ten en cuenta que, en la mayoría de los casos, las zapatillas sólo transportan al portador (aunque los animales de compañía y similares a veces pueden viajar con ellas).<\/p>\n<p>Una vez que las zapatillas de plata se utilizan para transportar a su portador, desaparecen. Sin embargo, se rumorea que vuelven mágicamente al mundo de alguna forma para otra persona que las necesite.<\/p>",
+    "basic": {
+      "identified": true,
+      "level": "1d6+2"
+    },
+    "version": 2
+  },
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "_stats": {
+    "modifiedTime": 1685280982981,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "yThCrv1jSfPXOC2U",
+    "createdTime": 1685280307200,
+    "systemVersion": "2.6.0",
+    "coreVersion": "10.291"
+  },
+  "name": "Zapatillas de plata",
+  "flags": {},
+  "_id": "Hl3E5itxgLJ1t9G8",
+  "sort": 0,
+  "type": "cypher",
+  "_key": "!items!Hl3E5itxgLJ1t9G8"
+}

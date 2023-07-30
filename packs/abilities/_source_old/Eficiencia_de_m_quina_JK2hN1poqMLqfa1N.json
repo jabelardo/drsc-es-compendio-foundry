@@ -1,0 +1,58 @@
+{
+  "img": "systems/cyphersystem/icons/items/ability.svg",
+  "effects": [],
+  "folder": null,
+  "system": {
+    "archived": false,
+    "settings": {
+      "general": {
+        "spellTier": "low",
+        "sorting": "Ability",
+        "unmaskedForm": "Mask"
+      },
+      "rollButton": {
+        "stepModifier": "eased",
+        "damage": 0,
+        "damagePerLOE": 3,
+        "bonus": 0,
+        "pool": "Pool",
+        "teen": "",
+        "additionalSteps": 0,
+        "effort1": 0,
+        "effort3": 0,
+        "assets": 0,
+        "effort2": 0,
+        "skill": "Practiced",
+        "additionalCost": 0
+      }
+    },
+    "description": "<p>Puedes hacer que un blaster dispare más lejos, sacar más velocidad de una moto de aire, mejorar la definición de una cámara, arreglar una luz para que sea más brillante, acelerar una conexión de red, etc. Aumentas el nivel de un objeto en 2 durante un minuto, o tratas el objeto como un recurso que alivia una tarea asociada en dos grados durante un minuto (a tu elección). Acción para iniciar.</p>",
+    "basic": {
+      "cost": "3",
+      "pool": "Intellect"
+    },
+    "version": 2
+  },
+  "ownership": {
+    "default": 0,
+    "k2TkElLx959B0lm5": 3
+  },
+  "_stats": {
+    "modifiedTime": 1664959721017,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "rLeavHPrdkq6xjNt",
+    "createdTime": null,
+    "systemVersion": "2.0.0-a1",
+    "coreVersion": "10.286"
+  },
+  "name": "Eficiencia de máquina",
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.cyphersystem-compendium.abilities.JK2hN1poqMLqfa1N"
+    }
+  },
+  "_id": "JK2hN1poqMLqfa1N",
+  "sort": 0,
+  "type": "ability",
+  "_key": "!items!JK2hN1poqMLqfa1N"
+}

@@ -1,0 +1,36 @@
+{
+  "name": "Herramientas de alquimista",
+  "type": "equipment",
+  "img": "systems/cyphersystem/icons/items/equipment.svg",
+  "system": {
+    "version": 2,
+    "description": "<p>Un robusto estuche de madera con pequeños frascos, varillas agitadoras, cuentagotas y otros materiales utilizados en alquimia. Concede un recurso para identificar Cyphers de pociones y líquidos misteriosos similares.</p>",
+    "archived": false,
+    "basic": {
+      "level": null,
+      "quantity": 1
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Item.qAOpn4EkrETr0iJ1"
+    }
+  },
+  "_stats": {
+    "systemId": "cyphersystem",
+    "systemVersion": "2.3.0",
+    "coreVersion": "10.291",
+    "createdTime": 1676109888842,
+    "modifiedTime": 1676109906831,
+    "lastModifiedBy": "yThCrv1jSfPXOC2U"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "X94EG6TR0bXcJwcY",
+  "_key": "!items!X94EG6TR0bXcJwcY"
+}

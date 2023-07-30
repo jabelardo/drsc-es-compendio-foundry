@@ -1,0 +1,128 @@
+{
+  "img": "modules/drsc-es-compendio-foundry/img/tokens/humanoid_magical.webp",
+  "_stats": {
+    "modifiedTime": 1685372599941,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "yThCrv1jSfPXOC2U",
+    "createdTime": 1685372463362,
+    "systemVersion": "2.6.0",
+    "coreVersion": "10.291"
+  },
+  "flags": {"core": {"sourceId": "Actor.tmRSxvnIDxWxK9kf"}},
+  "sort": 0,
+  "type": "npc",
+  "_key": "!actors!hnsxMLrv2mMtMf6w",
+  "prototypeToken": {
+    "displayBars": 40,
+    "displayName": 20,
+    "actorLink": false,
+    "texture": {
+      "scaleX": 1,
+      "offsetX": 0,
+      "scaleY": 1,
+      "offsetY": 0,
+      "src": "icons/svg/mystery-man.svg",
+      "rotation": 0,
+      "tint": null
+    },
+    "lockRotation": true,
+    "rotation": 0,
+    "detectionModes": [],
+    "flags": {"barbrawl": {"resourceBars": {}}},
+    "randomImg": false,
+    "bar1": {"attribute": "pools.health"},
+    "bar2": {"attribute": "basic.level"},
+    "disposition": 0,
+    "light": {
+      "attenuation": 0.5,
+      "color": null,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "animation": {
+        "intensity": 5,
+        "type": null,
+        "reverse": false,
+        "speed": 5
+      },
+      "saturation": 0,
+      "alpha": 0.5,
+      "contrast": 0,
+      "angle": 360,
+      "luminosity": 0.5,
+      "shadows": 0,
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "alpha": 1,
+    "name": "La Reina Roja",
+    "width": 1,
+    "sight": {
+      "saturation": 0,
+      "attenuation": 0.1,
+      "brightness": 0,
+      "color": null,
+      "visionMode": "basic",
+      "contrast": 0,
+      "range": null,
+      "angle": 360,
+      "enabled": false
+    },
+    "height": 1
+  },
+  "effects": [],
+  "system": {
+    "settings": {
+      "general": {
+        "initiativeBonus": 0,
+        "hideArchive": false
+      },
+      "equipment": {
+        "ammo": {"active": false},
+        "armor": {"active": false},
+        "attacks": {"active": false},
+        "materials": {
+          "active": false,
+          "label": ""
+        },
+        "cyphers": {
+          "active": false,
+          "label": ""
+        },
+        "oddities": {
+          "active": false,
+          "label": ""
+        },
+        "artifacts": {
+          "active": false,
+          "label": ""
+        }
+      }
+    },
+    "notes": "<p>La Reina Roja nunca ha gritado \"¡Que le corten la cabeza!\". De hecho, nunca ha gritado. Son unos modales horribles y, además, cuando sabes cómo manejar el poder, no necesitas todo ese ruido y caos. Basta con susurrar y quedarse quieta, y todo el mundo se callará educadamente y escuchará.<\/p>\n<p><strong>Entorno:<\/strong> Cenas educadas y reuniones sociales<\/p>\n<p><strong>Armadura:<\/strong> 1<\/p>\n<p><strong>Combate:<\/strong> Prefiere el combate verbal al físico e inflige 3 puntos de daño con un solo comentario cortante o una réplica mordaz.<\/p>\n<p><strong>Interacción:<\/strong> La Reina Roja es bastante correcta y habladora, la perfecta anfitriona y la perfecta invitada. La única vez que se enfada es cuando sale el tema de su hermana, la Reina de Corazones.<\/p>\n<p><strong>Uso:<\/strong> Mientras asisten a una fiesta para robar algo, los personajes son atrapados por la Reina Roja.<\/p>",
+    "pools": {"health": {
+      "max": 18,
+      "value": 18
+    }},
+    "description": "",
+    "combat": {
+      "damage": 3,
+      "armor": 0
+    },
+    "basic": {
+      "level": 6,
+      "biography": "<p>La Reina Roja nunca ha gritado \"¡Que le corten la cabeza!\". De hecho, nunca ha gritado. Son unos modales horribles y, además, cuando sabes cómo manejar el poder, no necesitas todo ese ruido y caos. Basta con susurrar y quedarse quieta, y todo el mundo se callará educadamente y escuchará.<\/p>\n<p><strong>Entorno:<\/strong> Cenas educadas y reuniones sociales<\/p>\n<p><strong>Armadura:<\/strong> 1<\/p>\n<p><strong>Combate:<\/strong> Prefiere el combate verbal al físico e inflige 3 puntos de daño con un solo comentario cortante o una réplica mordaz.<\/p>\n<p><strong>Interacción:<\/strong> La Reina Roja es bastante correcta y habladora, la perfecta anfitriona y la perfecta invitada. La única vez que se enfada es cuando sale el tema de su hermana, la Reina de Corazones.<\/p>\n<p><strong>Uso:<\/strong> Mientras asisten a una fiesta para robar algo, los personajes son atrapados por la Reina Roja.<\/p>"
+    },
+    "version": 3
+  },
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "name": "La Reina Roja",
+  "_id": "hnsxMLrv2mMtMf6w",
+  "items": []
+}

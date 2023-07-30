@@ -1,0 +1,38 @@
+{
+  "img": "systems/cyphersystem/icons/items/artifact.svg",
+  "effects": [],
+  "system": {
+    "archived": false,
+    "settings": {
+      "general": {
+        "nameUnidentified": ""
+      }
+    },
+    "description": "<p><strong>Nivel:</strong> 1d6 + 4</p>\n<p><strong>Aspecto:</strong> Espejo ornamentado que crece o disminuye de tamaño según las necesidades de su usuario.</p>\n<p><strong>Efecto:</strong> Cuando el usuario se mira en el espejo e interactúa con él, éste concede su petición, según sea capaz. Tira un d6 para determinar la habilidad del espejo:</p>\n<p>La mayoría de los espejos tienen personalidad propia. Algunos cantan sus, otros muestran imágenes y otros suspiran de aburrimiento cuando se les pregunta lo mismo una y otra vez.</p>\n<p>Los espejos nunca mienten. Excepto cuando lo hacen.</p>\n<p><strong>Agotamiento:</strong> 1 en 1d20</p>\n<table class=\"table table-dark table-striped table-sm\">\n <thead>\n  <tr>\n   <th scope=\"col\" class=\"text-center\">d6</th>\n   <th scope=\"col\">Capacidad</th>\n  </tr>\n </thead>\n <tbody>\n  <tr>\n   <td scope=\"row\" class=\"text-center fw-normal\">1</td>\n   <td>Responde a una pregunta sobre el presente (como \"¿Quién es la más bella de todas?\") con una simple respuesta de una o dos palabras.</td>\n  </tr>\n  <tr>\n   <td scope=\"row\" class=\"text-center fw-normal\">2</td>\n   <td>Permite al espectador ver a alguien que conoce (y que le conoce) desde cualquier lugar. La imagen dura sólo un instante, y el observado no se da cuenta de que ha sucedido.</td>\n  </tr>\n  <tr>\n   <td scope=\"row\" class=\"text-center fw-normal\">3</td>\n   <td>Si el espectador se coloca ante el espejo y grita su nombre tres veces, obtiene una visión de su futuro. Esta visión dura sólo un momento y no se garantiza que se haga realidad.</td>\n  </tr>\n  <tr>\n   <td scope=\"row\" class=\"text-center fw-normal\">4</td>\n   <td>Si el espectador se coloca ante el espejo a medianoche mientras sostiene una fuente de luz, puede ponerse en contacto con el fantasma o el espíritu de una persona o criatura cuyo nombre conozca. Otra cosa es que el ser acceda o no a hablar con él.</td>\n  </tr>\n  <tr>\n   <td scope=\"row\" class=\"text-center fw-normal\">5</td>\n   <td>Distorsiona la apariencia de todo lo que refleja, en particular magnificando los aspectos horribles y feos de las cosas y las personas e ignorando sus aspectos buenos y bellos. Mirarse en el espejo inflige 2 puntos de daño al Intelecto. Inclinar el espejo para reflejar un objeto le inflige 2 puntos de daño al mismo.</td>\n  </tr>\n  <tr>\n   <td scope=\"row\" class=\"text-center fw-normal\">6</td>\n   <td>Recubre la piel del usuario con su superficie reflectante, ofreciéndole protección. La primera vez que el usuario recibiría daño, el espejo se rompe en su lugar, reflejando el daño de vuelta al atacante del usuario.</td>\n  </tr>\n </tbody>\n</table>",
+    "basic": {
+      "depletion": "1 in [[/r d20]]",
+      "identified": true,
+      "level": "1d6+4"
+    },
+    "version": 2
+  },
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "_stats": {
+    "modifiedTime": 1685302332335,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "yThCrv1jSfPXOC2U",
+    "createdTime": 1685300362349,
+    "systemVersion": "2.6.0",
+    "coreVersion": "10.291"
+  },
+  "name": "Espejo espejo",
+  "flags": {},
+  "_id": "kV1QX3EuPpKobxWL",
+  "sort": 0,
+  "type": "artifact",
+  "_key": "!items!kV1QX3EuPpKobxWL"
+}

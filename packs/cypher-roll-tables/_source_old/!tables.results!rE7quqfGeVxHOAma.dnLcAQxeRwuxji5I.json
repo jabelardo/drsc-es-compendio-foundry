@@ -1,0 +1,16 @@
+{
+  "img": "systems/cyphersystem/icons/items/artifact.svg",
+  "documentCollection": "cyphersystem-compendium.artifacts-fairy-tale",
+  "flags": {},
+  "weight": 3,
+  "range": [
+    88,
+    90
+  ],
+  "documentId": "E99ChSmc3Xyq67z6",
+  "text": "Cuchillo de cuentos",
+  "_id": "dnLcAQxeRwuxji5I",
+  "type": 2,
+  "drawn": false,
+  "_key": "!tables.results!rE7quqfGeVxHOAma.dnLcAQxeRwuxji5I"
+}

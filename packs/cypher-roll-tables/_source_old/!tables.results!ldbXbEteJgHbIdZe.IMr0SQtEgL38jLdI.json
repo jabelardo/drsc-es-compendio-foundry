@@ -1,0 +1,16 @@
+{
+  "img": "icons/svg/d20-black.svg",
+  "documentCollection": "",
+  "flags": {},
+  "weight": 1,
+  "range": [
+    8,
+    8
+  ],
+  "documentId": null,
+  "_id": "IMr0SQtEgL38jLdI",
+  "text": "Aprendiste tus habilidades más rápido de lo que nunca habían visto tus profesores. Las autoridades se dieron cuenta y están prestando mucha atención.",
+  "type": 0,
+  "drawn": false,
+  "_key": "!tables.results!ldbXbEteJgHbIdZe.IMr0SQtEgL38jLdI"
+}

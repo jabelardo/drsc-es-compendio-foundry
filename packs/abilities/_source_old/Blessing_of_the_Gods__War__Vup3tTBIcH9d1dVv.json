@@ -1,0 +1,58 @@
+{
+  "_id": "Vup3tTBIcH9d1dVv",
+  "name": "Bendición de los dioses (Guerra )",
+  "type": "ability",
+  "img": "systems/cyphersystem/icons/items/ability.svg",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.cyphersystem-compendium.abilities.Vup3tTBIcH9d1dVv"
+    }
+  },
+  "system": {
+    "version": 2,
+    "description": "<p>Un objetivo que elijas a corto alcance (potencialmente tú mismo) inflige 2 puntos de daño adicional en su próximo ataque de arma con éxito. Acción.</p>",
+    "archived": false,
+    "settings": {
+      "rollButton": {
+        "pool": "Pool",
+        "skill": "Practiced",
+        "assets": 0,
+        "effort1": 0,
+        "effort2": 0,
+        "effort3": 0,
+        "stepModifier": "eased",
+        "additionalSteps": 0,
+        "additionalCost": 0,
+        "damage": 0,
+        "damagePerLOE": 3,
+        "teen": "",
+        "bonus": 0
+      },
+      "general": {
+        "sorting": "Ability",
+        "spellTier": "low",
+        "unmaskedForm": "Mask"
+      }
+    },
+    "basic": {
+      "cost": "1",
+      "pool": "Intellect"
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "k2TkElLx959B0lm5": 3
+  },
+  "_stats": {
+    "systemId": "cyphersystem",
+    "systemVersion": "2.0.0-a1",
+    "coreVersion": "10.286",
+    "createdTime": null,
+    "modifiedTime": 1664959714211,
+    "lastModifiedBy": "rLeavHPrdkq6xjNt"
+  },
+  "_key": "!items!Vup3tTBIcH9d1dVv"
+}

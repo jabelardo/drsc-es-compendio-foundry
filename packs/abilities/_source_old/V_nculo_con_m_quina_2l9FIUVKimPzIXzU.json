@@ -1,0 +1,58 @@
+{
+  "img": "systems/cyphersystem/icons/items/ability.svg",
+  "effects": [],
+  "folder": null,
+  "system": {
+    "archived": false,
+    "settings": {
+      "general": {
+        "spellTier": "low",
+        "sorting": "Ability",
+        "unmaskedForm": "Mask"
+      },
+      "rollButton": {
+        "stepModifier": "eased",
+        "damage": 0,
+        "damagePerLOE": 3,
+        "bonus": 0,
+        "pool": "Pool",
+        "teen": "",
+        "additionalSteps": 0,
+        "effort1": 0,
+        "effort3": 0,
+        "assets": 0,
+        "effort2": 0,
+        "skill": "Practiced",
+        "additionalCost": 0
+      }
+    },
+    "description": "<p>desde muy lejos, puedes activar y controlar un dispositivo (incluido un robot o un vehículo) con el que hayas establecido un vínculo. Por ejemplo, puedes detonar un Cypher manifiesto aunque lo tenga otra persona, o hacer que una torreta automatizada dispare donde tú indiques. La vinculación es un proceso que requiere 24 horas de meditación en presencia de la máquina. Acción.</p>",
+    "basic": {
+      "cost": "0",
+      "pool": "Pool"
+    },
+    "version": 2
+  },
+  "ownership": {
+    "default": 0,
+    "k2TkElLx959B0lm5": 3
+  },
+  "_stats": {
+    "modifiedTime": 1664959721000,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "rLeavHPrdkq6xjNt",
+    "createdTime": null,
+    "systemVersion": "2.0.0-a1",
+    "coreVersion": "10.286"
+  },
+  "name": "Vínculo con máquina",
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.cyphersystem-compendium.abilities.2l9FIUVKimPzIXzU"
+    }
+  },
+  "_id": "2l9FIUVKimPzIXzU",
+  "sort": 0,
+  "type": "ability",
+  "_key": "!items!2l9FIUVKimPzIXzU"
+}

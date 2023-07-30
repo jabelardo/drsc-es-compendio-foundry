@@ -1,0 +1,16 @@
+{
+  "img": "systems/cyphersystem/icons/items/cypher.svg",
+  "documentCollection": "cyphersystem-compendium.cyphers-fairy-tale",
+  "flags": {},
+  "weight": 1,
+  "range": [
+    41,
+    41
+  ],
+  "documentId": "tIa12LfIH6rdz5dL",
+  "text": "Pañuelo de Genio",
+  "_id": "aozbKuMnyz5jg1za",
+  "type": 2,
+  "drawn": false,
+  "_key": "!tables.results!CkH6ebWiUPmhjbw0.aozbKuMnyz5jg1za"
+}

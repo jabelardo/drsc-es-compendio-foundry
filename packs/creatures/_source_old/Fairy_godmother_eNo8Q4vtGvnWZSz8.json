@@ -1,0 +1,184 @@
+{
+  "img": "modules/drsc-es-compendio-foundry/img/tokens/fey_humanoid.webp",
+  "_stats": {
+    "modifiedTime": 1685371207488,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "yThCrv1jSfPXOC2U",
+    "createdTime": 1685370673398,
+    "systemVersion": "2.6.0",
+    "coreVersion": "10.291"
+  },
+  "flags": {"core": {"sourceId": "Actor.r55Iqte6IhZeGCty"}},
+  "sort": 0,
+  "type": "npc",
+  "_key": "!actors!eNo8Q4vtGvnWZSz8",
+  "prototypeToken": {
+    "displayBars": 50,
+    "displayName": 20,
+    "actorLink": false,
+    "texture": {
+      "scaleX": 1,
+      "offsetX": 0,
+      "scaleY": 1,
+      "offsetY": 0,
+      "src": "icons/svg/mystery-man.svg",
+      "rotation": 0,
+      "tint": null
+    },
+    "lockRotation": true,
+    "rotation": 0,
+    "detectionModes": [],
+    "flags": {"barbrawl": {"resourceBars": {
+      "bar1": {
+        "hideCombat": false,
+        "bgImage": "",
+        "hideNoCombat": false,
+        "hideFull": false,
+        "otherVisibility": 0,
+        "indentRight": null,
+        "subdivisionsOwner": false,
+        "id": "bar1",
+        "attribute": "pools.health",
+        "ownerVisibility": 50,
+        "hideEmpty": false,
+        "indentLeft": null,
+        "order": 0,
+        "shareHeight": false,
+        "invert": false,
+        "label": "",
+        "fgImage": "",
+        "maxcolor": "#80FF00",
+        "gmVisibility": -1,
+        "style": "user",
+        "mincolor": "#FF0000",
+        "position": "bottom-inner",
+        "opacity": null,
+        "invertDirection": false,
+        "subdivisions": null
+      },
+      "bar2": {
+        "hideCombat": false,
+        "bgImage": "",
+        "hideNoCombat": false,
+        "hideFull": false,
+        "otherVisibility": 0,
+        "indentRight": null,
+        "subdivisionsOwner": false,
+        "id": "bar2",
+        "attribute": "basic.level",
+        "ownerVisibility": 50,
+        "hideEmpty": false,
+        "indentLeft": null,
+        "order": 1,
+        "shareHeight": false,
+        "invert": false,
+        "max": null,
+        "label": "",
+        "fgImage": "",
+        "maxcolor": "#80B3FF",
+        "gmVisibility": -1,
+        "style": "user",
+        "mincolor": "#000080",
+        "position": "top-inner",
+        "opacity": null,
+        "invertDirection": false,
+        "subdivisions": null
+      }
+    }}},
+    "randomImg": false,
+    "bar1": {"attribute": "pools.health"},
+    "bar2": {"attribute": "basic.level"},
+    "disposition": 0,
+    "light": {
+      "attenuation": 0.5,
+      "color": null,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "animation": {
+        "intensity": 5,
+        "type": null,
+        "reverse": false,
+        "speed": 5
+      },
+      "saturation": 0,
+      "alpha": 0.5,
+      "contrast": 0,
+      "angle": 360,
+      "luminosity": 0.5,
+      "shadows": 0,
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "alpha": 1,
+    "name": "Hada madrina",
+    "width": 1,
+    "sight": {
+      "saturation": 0,
+      "attenuation": 0.1,
+      "brightness": 0,
+      "color": null,
+      "visionMode": "basic",
+      "contrast": 0,
+      "range": null,
+      "angle": 360,
+      "enabled": false
+    },
+    "height": 1
+  },
+  "effects": [],
+  "system": {
+    "settings": {
+      "general": {
+        "initiativeBonus": 0,
+        "hideArchive": false
+      },
+      "equipment": {
+        "ammo": {"active": false},
+        "armor": {"active": false},
+        "attacks": {"active": false},
+        "materials": {
+          "active": false,
+          "label": ""
+        },
+        "cyphers": {
+          "active": false,
+          "label": ""
+        },
+        "oddities": {
+          "active": false,
+          "label": ""
+        },
+        "artifacts": {
+          "active": false,
+          "label": ""
+        }
+      }
+    },
+    "notes": "<p>Las hadas madrinas son casi siempre seres benéficos, que suelen actuar como mentores, padres o protectores, al igual que los padrinos humanos. La diferencia, por supuesto, es que las hadas madrinas disponen de mucha más magia.<\/p>\n<p>En general, las hadas madrinas son amables, gentiles y cariñosas con casi todo el mundo, no sólo con sus ahijados. Por supuesto, no todas las hadas madrinas son buenas en su papel: algunas pueden actuar por interés propio y, sin querer (o a propósito), hacer daño a aquellos a los que deben proteger. Esto es especialmente cierto si sienten que no se les ha dado el respeto que merecen o se les ha ofendido de alguna manera.<\/p>\n<p>¿Y si hacen daño a alguien a quien se han comprometido a proteger? Cuidado, cuidado, porque no hay ira como la de un hada madrina.<\/p>\n<p><strong>Motivación:<\/strong> Proteger a sus protegidos, hacerse respetar<\/p>\n<p><strong>Entorno:<\/strong> Ciudades, pueblos y cualquier lugar donde alguien necesite ayuda<\/p>\n<p><strong>Salud:<\/strong> 24<\/p>\n<p><strong>Daño que inflige:<\/strong> 6 puntos<\/p>\n<p><strong>Armadura:<\/strong> 2 (mágica)<\/p>\n<p><strong>Movimiento:<\/strong> Corto; largo al volar<\/p>\n<p><strong>Combate:<\/strong> Las hadas madrinas atacan disparando un chorro de purpurina afilada hasta una larga distancia desde sus varitas mágicas (la purpurina llega a todos los rincones, por lo que ignora la Armadura). Las hadas madrinas pueden bendecir a sus amigos y aliados, y maldecir a sus enemigos.<\/p>\n<p>Las hadas madrinas pueden lanzar cualquiera de las habilidades y capacidades que pueden lanzar las hadas, así como algunas que les son específicas, entre las que se incluyen las siguientes:<\/p>\n<p><strong>Un poco de suerte:<\/strong> El hada madrina bendice a un personaje con suerte, concediéndole la oportunidad de volver a tirar una vez en el día siguiente sin gastar PX.<\/p>\n<p><strong>Un poco de infortunio:<\/strong> A pesar de su nombre, suele ser un hechizo beneficioso. Está diseñado para dar a un personaje cercano algo que superar para que pueda crecer más fuerte en temperamento o estatura. Cuando se lanza este hechizo, el personaje recibe una intromisión del DJ en su próxima acción (sin importar cuál sea su tirada) y recibe 1 PX para regalar (pero no uno para conservar).<\/p>\n<p><strong>Alteración:<\/strong> Puede convertir cualquier criatura dentro de un corto alcance en una criatura diferente (como un ratón en un caballo) y cualquier objeto en un objeto de forma similar (como una calabaza en un carruaje, o una bata en un vestido de baile). El efecto dura un día.<\/p>\n<p><strong>Profecía:<\/strong> Crea una predicción para el futuro de una sola persona. La predicción tiene una alta probabilidad de hacerse realidad, pero no es segura. (Las Profecías funcionan como intromisiones del DJ que tendrán lugar en el futuro; el jugador puede rechazar la profecía gastando una PX). No todas las profecías son negativas.<\/p>\n<p><strong>Interacción:<\/strong> La interacción con las hadas madrinas suele ser un poco desenfrenada, frenética y llena de \"¡Bibbidi-bobbidi-boo!\". Si les caes bien, es probable que resulten ser unas aliadas leales, firmes y útiles. Si no, bueno, esperemos que te guste que te conviertan en caballo, o algo peor.<\/p>\n<p><strong>Uso:<\/strong> Las hadas madrinas son un complemento divertido para los encuentros, sobre todo cuando los personajes se preparan para un baile, una pelea o una gran aventura.<\/p>\n<p><strong>Intromisiones del DJ:<\/strong> La magia del hada madrina sale mal y un personaje se convierte accidentalmente en un caballo.<\/p>",
+    "pools": {"health": {
+      "max": 24,
+      "value": 24
+    }},
+    "description": "",
+    "combat": {
+      "damage": 6,
+      "armor": 2
+    },
+    "basic": {
+      "level": 6,
+      "biography": "<p>Las hadas madrinas son casi siempre seres benéficos, que suelen actuar como mentores, padres o protectores, al igual que los padrinos humanos. La diferencia, por supuesto, es que las hadas madrinas disponen de mucha más magia.<\/p>\n<p>En general, las hadas madrinas son amables, gentiles y cariñosas con casi todo el mundo, no sólo con sus ahijados. Por supuesto, no todas las hadas madrinas son buenas en su papel: algunas pueden actuar por interés propio y, sin querer (o a propósito), hacer daño a aquellos a los que deben proteger. Esto es especialmente cierto si sienten que no se les ha dado el respeto que merecen o se les ha ofendido de alguna manera.<\/p>\n<p>¿Y si hacen daño a alguien a quien se han comprometido a proteger? Cuidado, cuidado, porque no hay ira como la de un hada madrina.<\/p>\n<p><strong>Motivación:<\/strong> Proteger a sus protegidos, hacerse respetar<\/p>\n<p><strong>Entorno:<\/strong> Ciudades, pueblos y cualquier lugar donde alguien necesite ayuda<\/p>\n<p><strong>Salud:<\/strong> 24<\/p>\n<p><strong>Daño que inflige:<\/strong> 6 puntos<\/p>\n<p><strong>Armadura:<\/strong> 2 (mágica)<\/p>\n<p><strong>Movimiento:<\/strong> Corto; largo al volar<\/p>\n<p><strong>Combate:<\/strong> Las hadas madrinas atacan disparando un chorro de purpurina afilada hasta una larga distancia desde sus varitas mágicas (la purpurina llega a todos los rincones, por lo que ignora la Armadura). Las hadas madrinas pueden bendecir a sus amigos y aliados, y maldecir a sus enemigos.<\/p>\n<p>Las hadas madrinas pueden lanzar cualquiera de las habilidades y capacidades que pueden lanzar las hadas, así como algunas que les son específicas, entre las que se incluyen las siguientes:<\/p>\n<p><strong>Un poco de suerte:<\/strong> El hada madrina bendice a un personaje con suerte, concediéndole la oportunidad de volver a tirar una vez en el día siguiente sin gastar PX.<\/p>\n<p><strong>Un poco de infortunio:<\/strong> A pesar de su nombre, suele ser un hechizo beneficioso. Está diseñado para dar a un personaje cercano algo que superar para que pueda crecer más fuerte en temperamento o estatura. Cuando se lanza este hechizo, el personaje recibe una intromisión del DJ en su próxima acción (sin importar cuál sea su tirada) y recibe 1 PX para regalar (pero no uno para conservar).<\/p>\n<p><strong>Alteración:<\/strong> Puede convertir cualquier criatura dentro de un corto alcance en una criatura diferente (como un ratón en un caballo) y cualquier objeto en un objeto de forma similar (como una calabaza en un carruaje, o una bata en un vestido de baile). El efecto dura un día.<\/p>\n<p><strong>Profecía:<\/strong> Crea una predicción para el futuro de una sola persona. La predicción tiene una alta probabilidad de hacerse realidad, pero no es segura. (Las Profecías funcionan como intromisiones del DJ que tendrán lugar en el futuro; el jugador puede rechazar la profecía gastando una PX). No todas las profecías son negativas.<\/p>\n<p><strong>Interacción:<\/strong> La interacción con las hadas madrinas suele ser un poco desenfrenada, frenética y llena de \"¡Bibbidi-bobbidi-boo!\". Si les caes bien, es probable que resulten ser unas aliadas leales, firmes y útiles. Si no, bueno, esperemos que te guste que te conviertan en caballo, o algo peor.<\/p>\n<p><strong>Uso:<\/strong> Las hadas madrinas son un complemento divertido para los encuentros, sobre todo cuando los personajes se preparan para un baile, una pelea o una gran aventura.<\/p>\n<p><strong>Intromisiones del DJ:<\/strong> La magia del hada madrina sale mal y un personaje se convierte accidentalmente en un caballo.<\/p>"
+    },
+    "version": 3
+  },
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "name": "Hada madrina",
+  "_id": "eNo8Q4vtGvnWZSz8",
+  "items": []
+}

@@ -1,0 +1,16 @@
+{
+  "img": "systems/cyphersystem/icons/items/cypher.svg",
+  "documentCollection": "cyphersystem-compendium.cyphers-horror",
+  "flags": {},
+  "weight": 2,
+  "range": [
+    13,
+    14
+  ],
+  "documentId": "yWn1TZGLEGMqkCI4",
+  "text": "Orificio horrible",
+  "_id": "nb67Vtl2ILAsTK4G",
+  "type": 2,
+  "drawn": false,
+  "_key": "!tables.results!A6O7opDO77GKNI4Q.nb67Vtl2ILAsTK4G"
+}

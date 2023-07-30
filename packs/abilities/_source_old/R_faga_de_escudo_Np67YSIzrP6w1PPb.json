@@ -1,0 +1,58 @@
+{
+  "img": "systems/cyphersystem/icons/items/ability.svg",
+  "effects": [],
+  "folder": null,
+  "system": {
+    "archived": false,
+    "settings": {
+      "general": {
+        "spellTier": "low",
+        "sorting": "Ability",
+        "unmaskedForm": "Mask"
+      },
+      "rollButton": {
+        "stepModifier": "eased",
+        "damage": 0,
+        "damagePerLOE": 3,
+        "bonus": 0,
+        "pool": "Pool",
+        "teen": "",
+        "additionalSteps": 0,
+        "effort1": "0",
+        "effort3": "0",
+        "assets": "0",
+        "effort2": "0",
+        "skill": "Practiced",
+        "additionalCost": 0
+      }
+    },
+    "description": "<p>Cuando realizas un ataque melé o a distancia y golpeas con tu Escudo de campo de fuerza, éste libera una explosión de energía que inflige 2 puntos de daño adicional al objetivo y a todo lo que esté dentro del alcance inmediato del objetivo. Si aplicaste Esfuerzo para infligir daño adicional como parte del ataque, cada nivel de Esfuerzo inflige sólo 2 puntos adicionales a todos los objetivos en lugar de 3 puntos. Si utilizas Ráfaga de escudo con un ataque melé, tú y las criaturas que están detrás de ti no se ven afectadas por esta explosión. Si usas Ráfaga de escudo con un ataque a distancia, el escudo se disipa tras el ataque y luego se vuelve a formar en tu poder. Capacitador.</p>",
+    "basic": {
+      "cost": "0",
+      "pool": "Pool"
+    },
+    "version": 2
+  },
+  "ownership": {
+    "default": 0,
+    "k2TkElLx959B0lm5": 3
+  },
+  "_stats": {
+    "modifiedTime": 1670335867275,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "yThCrv1jSfPXOC2U",
+    "createdTime": null,
+    "systemVersion": "2.1.0",
+    "coreVersion": "10.291"
+  },
+  "name": "Ráfaga de escudo",
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.cyphersystem-compendium.abilities.Np67YSIzrP6w1PPb"
+    }
+  },
+  "_id": "Np67YSIzrP6w1PPb",
+  "sort": 0,
+  "type": "ability",
+  "_key": "!items!Np67YSIzrP6w1PPb"
+}

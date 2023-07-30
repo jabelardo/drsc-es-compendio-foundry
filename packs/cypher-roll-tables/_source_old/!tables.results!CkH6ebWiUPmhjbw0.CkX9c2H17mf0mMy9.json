@@ -1,0 +1,16 @@
+{
+  "img": "systems/cyphersystem/icons/items/cypher.svg",
+  "documentCollection": "cyphersystem-compendium.cyphers-fairy-tale",
+  "flags": {},
+  "weight": 1,
+  "range": [
+    68,
+    68
+  ],
+  "documentId": "sXWKcA8RqSu50vD6",
+  "text": "Manzana envenenada",
+  "_id": "CkX9c2H17mf0mMy9",
+  "type": 2,
+  "drawn": false,
+  "_key": "!tables.results!CkH6ebWiUPmhjbw0.CkX9c2H17mf0mMy9"
+}

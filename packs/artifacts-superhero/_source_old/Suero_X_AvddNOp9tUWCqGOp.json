@@ -1,0 +1,48 @@
+{
+  "img": "systems/cyphersystem/icons/items/artifact.svg",
+  "effects": [],
+  "folder": null,
+  "system": {
+    "archived": false,
+    "rollButton": {
+      "stepModifier": "eased",
+      "damage": 0,
+      "damagePerLOE": 3,
+      "bonus": 0,
+      "pool": "Pool",
+      "teen": "",
+      "additionalSteps": 0,
+      "effort1": 0,
+      "effort3": 0,
+      "assets": 0,
+      "effort2": 0,
+      "skill": "Practiced",
+      "additionalCost": 0
+    },
+    "description": "<p><strong>Nivel:</strong> 1d6 + 2</p>\n<p><strong>Aspecto:</strong> Frasco o jeringa de líquido rojo</p>\n<p><strong>Efecto:</strong> Despoja a alguien de todos sus superpoderes (incluidas las habilidades concedidas por la magia, la psiónica, la mutación o la ciencia) durante veinticuatro horas. El objetivo sólo conserva las habilidades y capacidades mundanas, según lo acordado por el DJ y el jugador.</p>\n<p><strong>Agotamiento:</strong> Automático</p>",
+    "basic": {
+      "depletion": "automatic",
+      "identified": true,
+      "level": "1d6 + 2"
+    },
+    "version": 2
+  },
+  "ownership": {
+    "default": 0,
+    "k2TkElLx959B0lm5": 3
+  },
+  "_stats": {
+    "modifiedTime": 1664959727783,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "rLeavHPrdkq6xjNt",
+    "createdTime": null,
+    "systemVersion": "2.0.0-a1",
+    "coreVersion": "10.286"
+  },
+  "name": "Suero X",
+  "flags": {},
+  "sort": 0,
+  "_id": "AvddNOp9tUWCqGOp",
+  "type": "artifact",
+  "_key": "!items!AvddNOp9tUWCqGOp"
+}

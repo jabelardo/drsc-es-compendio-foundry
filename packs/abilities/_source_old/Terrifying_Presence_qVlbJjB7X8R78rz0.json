@@ -1,0 +1,54 @@
+{
+  "img": "systems/cyphersystem/icons/items/ability.svg",
+  "effects": [],
+  "folder": null,
+  "system": {
+    "archived": false,
+    "settings": {
+      "general": {
+        "spellTier": "low",
+        "sorting": "Ability",
+        "unmaskedForm": "Mask"
+      },
+      "rollButton": {
+        "stepModifier": "eased",
+        "damage": 0,
+        "damagePerLOE": 3,
+        "bonus": 0,
+        "pool": "Pool",
+        "teen": "",
+        "additionalSteps": 0,
+        "effort1": 0,
+        "effort3": 0,
+        "assets": 0,
+        "effort2": 0,
+        "skill": "Practiced",
+        "additionalCost": 0
+      }
+    },
+    "description": "<p>Convences a un objetivo inteligente de nivel 3 o inferior de que eres su peor pesadilla. éste debe estar a corta distancia y ser capaz de entenderte. Mientras no hagas nada más que hablar (no puedes ni moverte), el objetivo se paraliza por el miedo, huye o realiza alguna otra acción adecuada a las circunstancias. Además de las opciones normales para usar Esfuerzo, puedes elegir usar Esfuerzo para aumentar el nivel máximo del objetivo. Así, para aterrorizar a un objetivo de nivel 5 (dos niveles por encima del límite normal), debes aplicar dos niveles de Esfuerzo. Acción.<\/p>",
+    "basic": {
+      "cost": "2+",
+      "pool": "Intellect"
+    },
+    "version": 2
+  },
+  "ownership": {
+    "default": 0,
+    "k2TkElLx959B0lm5": 3
+  },
+  "_stats": {
+    "modifiedTime": 1664959725291,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "rLeavHPrdkq6xjNt",
+    "createdTime": null,
+    "systemVersion": "2.0.0-a1",
+    "coreVersion": "10.286"
+  },
+  "name": "Presencia aterradora",
+  "flags": {"core": {"sourceId": "Compendium.cyphersystem-compendium.abilities.qVlbJjB7X8R78rz0"}},
+  "_id": "qVlbJjB7X8R78rz0",
+  "sort": 0,
+  "type": "ability",
+  "_key": "!items!qVlbJjB7X8R78rz0"
+}

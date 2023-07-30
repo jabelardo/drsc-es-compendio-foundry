@@ -1,0 +1,47 @@
+{
+  "img": "systems/cyphersystem/icons/items/cypher.svg",
+  "effects": [],
+  "folder": null,
+  "system": {
+    "archived": false,
+    "rollButton": {
+      "stepModifier": "eased",
+      "damage": 0,
+      "damagePerLOE": 3,
+      "bonus": 0,
+      "pool": "Pool",
+      "teen": "",
+      "additionalSteps": 0,
+      "effort1": 0,
+      "effort3": 0,
+      "assets": 0,
+      "effort2": 0,
+      "skill": "Practiced",
+      "additionalCost": 0
+    },
+    "description": "<p><strong>Nivel:</strong> 1d6 + 1</p>\n<p><strong>Efecto:</strong> Este Cypher aumenta el alcance de una capacidad. Algo que sólo te afecta a ti ahora puede afectar a alguien a quien toques. Cualquier otra capacidad aumenta su alcance en una categoría (de tacto a inmediato, de inmediato a corto, de corto a largo, de largo a muy largo, de muy largo a 300 m [1000 pies], o el doble para cualquier alcance superior a muy largo).</p>",
+    "basic": {
+      "identified": true,
+      "level": "1d6 + 1"
+    },
+    "version": 2
+  },
+  "ownership": {
+    "default": 0,
+    "k2TkElLx959B0lm5": 3
+  },
+  "_stats": {
+    "modifiedTime": 1664959729873,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "rLeavHPrdkq6xjNt",
+    "createdTime": null,
+    "systemVersion": "2.0.0-a1",
+    "coreVersion": "10.286"
+  },
+  "name": "Reforzador de alcance",
+  "flags": {},
+  "sort": 0,
+  "_id": "AOWfJoOCbvwr9puF",
+  "type": "cypher",
+  "_key": "!items!AOWfJoOCbvwr9puF"
+}

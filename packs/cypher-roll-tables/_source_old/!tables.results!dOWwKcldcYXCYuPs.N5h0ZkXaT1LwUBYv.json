@@ -1,0 +1,16 @@
+{
+  "img": "icons/svg/d20-black.svg",
+  "documentCollection": "",
+  "flags": {},
+  "weight": 1,
+  "range": [
+    10,
+    10
+  ],
+  "documentId": null,
+  "_id": "N5h0ZkXaT1LwUBYv",
+  "text": "A veces se mueve por voluntad propia, pero nunca cuando alguien lo está mirando.",
+  "type": 0,
+  "drawn": false,
+  "_key": "!tables.results!dOWwKcldcYXCYuPs.N5h0ZkXaT1LwUBYv"
+}

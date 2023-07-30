@@ -1,0 +1,51 @@
+{
+  "name": "Vínculos de Trasfondo del Explorador",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    "tummYWMDMUeSsdCy",
+    "sCGyx0svGcQfgwlf",
+    "oxow02NmuwQTJOqj",
+    "RdrsuwCRqjkTLMhv",
+    "SsQlsREuhRpkGwyU",
+    "srjGIdXH1hTuJckJ",
+    "oh0Tpixiy4RiLqk1",
+    "oGw2TjDUc70b9Lal",
+    "CLYTOMMRH0Ke2Ezy",
+    "CeuUOkKUJEhU0KsP",
+    "IFarO7ip1s9BAhc1",
+    "Xrq0pVwafX4Wuwyz",
+    "EIc8wMbst66S2XEw",
+    "QBn2HMSONFW69Uw9",
+    "YKULXbzWhMM14Cnk",
+    "AwuZvpnX760jXQU9",
+    "iuj4g94XcnLANrhz",
+    "wb32dKM31G4Tbug1",
+    "7iHIUZi8rqzBK0Ps",
+    "vCcJIEH61aKmNsjq"
+  ],
+  "formula": "1d20",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "rLeavHPrdkq6xjNt": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.wvjP8mz2v7K5UyRn"
+    }
+  },
+  "_stats": {
+    "systemId": "cyphersystem",
+    "systemVersion": "2.6.2",
+    "coreVersion": "11.299",
+    "createdTime": 1666783290329,
+    "modifiedTime": 1685560146786,
+    "lastModifiedBy": "7luxagQiisUFvSQn"
+  },
+  "folder": "msIaT39hNVlursoR",
+  "sort": 200000,
+  "_id": "EPY1EXnGWOBK9kO1",
+  "_key": "!tables!EPY1EXnGWOBK9kO1"
+}

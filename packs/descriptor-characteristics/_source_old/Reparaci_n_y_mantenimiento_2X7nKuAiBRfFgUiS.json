@@ -1,0 +1,58 @@
+{
+  "name": "Reparación y mantenimiento",
+  "type": "ability",
+  "img": "systems/cyphersystem/icons/items/ability.svg",
+  "system": {
+    "version": 2,
+    "description": "<p>Como entidad de carne viva y maquinaria zumbante, primero debes tener éxito en una tarea de reparación de dificultad 2 antes de hacer una Tirada de Recuperación. Si fallas, la Tirada de Recuperación no se utiliza; sin embargo, se aplican las reglas normales para volver a intentarlo, y debes utilizar el Esfuerzo en una nueva tirada si deseas volver a intentarlo. Además de las opciones normales para usar Esfuerzo, puedes elegir usar el Esfuerzo para curar puntos adicionales a tus Reservas (cada nivel de Esfuerzo cura 2 puntos adicionales a tus Reservas si tienes éxito).</p>",
+    "archived": false,
+    "settings": {
+      "rollButton": {
+        "pool": "Pool",
+        "skill": "Practiced",
+        "assets": "0",
+        "effort1": "0",
+        "effort2": "0",
+        "effort3": "0",
+        "stepModifier": "eased",
+        "additionalSteps": 0,
+        "additionalCost": 0,
+        "damage": 0,
+        "damagePerLOE": 3,
+        "teen": "",
+        "bonus": 0
+      },
+      "general": {
+        "sorting": "Ability",
+        "spellTier": "low",
+        "unmaskedForm": "Mask"
+      }
+    },
+    "basic": {
+      "cost": "0",
+      "pool": "Pool"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "rLeavHPrdkq6xjNt": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Item.NGnfmFz50x4MHVSd"
+    }
+  },
+  "_stats": {
+    "systemId": "cyphersystem",
+    "systemVersion": "2.0.0-b3",
+    "coreVersion": "10.288",
+    "createdTime": 1666971826631,
+    "modifiedTime": 1666971840083,
+    "lastModifiedBy": "rLeavHPrdkq6xjNt"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "2X7nKuAiBRfFgUiS",
+  "_key": "!items!2X7nKuAiBRfFgUiS"
+}

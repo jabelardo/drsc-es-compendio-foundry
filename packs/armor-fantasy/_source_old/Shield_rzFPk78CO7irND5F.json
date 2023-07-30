@@ -1,0 +1,56 @@
+{
+  "name": "Escudo",
+  "type": "armor",
+  "img": "systems/cyphersystem/icons/items/armor.svg",
+  "effects": [],
+  "folder": "nD9Ciu9kxqxREut6",
+  "sort": 100000,
+  "flags": {},
+  "_id": "rzFPk78CO7irND5F",
+  "system": {
+    "version": 2,
+    "description": "<p>Proporciona un recurso a la Defensa por Velocidad. Los tamaños de los escudos varían desde un pequeño broquel a un gran escudo cometa (en el Sistema Cypher, la diferencia es principalmente de estilo, y a efectos de juego todos otorgan al portador el mismo beneficio).</p>",
+    "archived": false,
+    "basic": {
+      "type": "n/a",
+      "rating": 0,
+      "cost": 0,
+      "notes": "provides an asset to Speed defense rolls"
+    },
+    "settings": {
+      "general": {
+        "unmaskedForm": "Mask"
+      }
+    },
+    "active": true,
+    "price": "",
+    "rollButton": {
+      "pool": "Pool",
+      "skill": "Practiced",
+      "assets": 0,
+      "effort1": 0,
+      "effort2": 0,
+      "effort3": 0,
+      "stepModifier": "eased",
+      "additionalSteps": 0,
+      "additionalCost": 0,
+      "damage": 0,
+      "damagePerLOE": 3,
+      "teen": "",
+      "bonus": 0
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "k2TkElLx959B0lm5": 3
+  },
+  "_stats": {
+    "systemId": "cyphersystem",
+    "systemVersion": "2.6.2",
+    "coreVersion": "11.301",
+    "createdTime": null,
+    "modifiedTime": 1686393458148,
+    "lastModifiedBy": "ZyqFG5NpQtVrpwj7"
+  },
+  "_key": "!items!rzFPk78CO7irND5F"
+}

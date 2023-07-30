@@ -1,0 +1,54 @@
+{
+  "img": "systems/cyphersystem/icons/items/ability.svg",
+  "effects": [],
+  "folder": null,
+  "system": {
+    "archived": false,
+    "settings": {
+      "general": {
+        "spellTier": "low",
+        "sorting": "Ability",
+        "unmaskedForm": "Mask"
+      },
+      "rollButton": {
+        "stepModifier": "eased",
+        "damage": 0,
+        "damagePerLOE": 3,
+        "bonus": 0,
+        "pool": "Pool",
+        "teen": "",
+        "additionalSteps": 0,
+        "effort1": 0,
+        "effort3": 0,
+        "assets": 0,
+        "effort2": 0,
+        "skill": "Practiced",
+        "additionalCost": 0
+      }
+    },
+    "description": "<p>Intentas que el objetivo realice la acción que le indiques en su próximo turno. Si la acción que deseas que realice el objetivo puede causar un daño directo a sí mismo o a sus aliados, tu ataque mental se ve obstaculizado. Acción.<\/p>",
+    "basic": {
+      "cost": "4",
+      "pool": "Intellect"
+    },
+    "version": 2
+  },
+  "ownership": {
+    "default": 0,
+    "k2TkElLx959B0lm5": 3
+  },
+  "_stats": {
+    "modifiedTime": 1664959722782,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "rLeavHPrdkq6xjNt",
+    "createdTime": null,
+    "systemVersion": "2.0.0-a1",
+    "coreVersion": "10.286"
+  },
+  "name": "Sugestión psíquica",
+  "flags": {"core": {"sourceId": "Compendium.cyphersystem-compendium.abilities.iRqXVpngq6vfgtEn"}},
+  "_id": "iRqXVpngq6vfgtEn",
+  "sort": 0,
+  "type": "ability",
+  "_key": "!items!iRqXVpngq6vfgtEn"
+}

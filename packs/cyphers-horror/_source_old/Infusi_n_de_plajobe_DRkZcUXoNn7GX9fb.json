@@ -1,0 +1,37 @@
+{
+  "img": "systems/cyphersystem/icons/items/cypher.svg",
+  "effects": [],
+  "system": {
+    "archived": false,
+    "settings": {
+      "general": {
+        "nameUnidentified": ""
+      }
+    },
+    "description": "<p><strong>Nivel:</strong> 1d6</p>\n<p><strong>Aspecto:</strong> Frasco o inyección</p>\n<p><strong>Efecto:</strong> Impregna el cuerpo del usuario con una mezcla de plata coloidal (pl), ajo concentrado (ajo) y agua bendita (be), haciendo que el usuario sea repelente a la mayoría de los vampiros, que normalmente tienen aversión a uno o más de estos materiales. Los ataques de vampiros con armas cuerpo a cuerpo contra el usuario se ven obstaculizados. Cualquier vampiro PJ que intente alimentarse del usuario no obtiene sustento y debe hacer una tirada de Defensa por Vigor o sentir náuseas y ver obstaculizadas todas sus acciones durante un minuto. Cualquier vampiro PNJ que intente alimentarse del usuario no obtiene sustento y todas sus acciones se ven obstaculizadas durante un minuto. El efecto del Cypher persiste en el cuerpo del usuario durante un día (dos días si el Cypher es de nivel 4 o superior).</p>\n<p>Si se utiliza directamente contra un vampiro en lugar de aplicarse a una criatura viva, afecta al vampiro como lo harían normalmente la plata, el ajo y el agua bendita.</p>\n<p>Dado que el cuerpo humano no puede deshacerse de la plata coloidal, su ingesta excesiva provoca una enfermedad llamada argiria, que tiñe la piel de color púrpura o gris púrpura.</p>",
+    "basic": {
+      "identified": true,
+      "level": "1d6"
+    },
+    "version": 2
+  },
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "_stats": {
+    "modifiedTime": 1683655050999,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "yThCrv1jSfPXOC2U",
+    "createdTime": 1683654801239,
+    "systemVersion": "2.5.0",
+    "coreVersion": "10.291"
+  },
+  "name": "Infusión de plajobe",
+  "flags": {},
+  "_id": "DRkZcUXoNn7GX9fb",
+  "sort": 0,
+  "type": "cypher",
+  "_key": "!items!DRkZcUXoNn7GX9fb"
+}

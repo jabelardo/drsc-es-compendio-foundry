@@ -1,0 +1,58 @@
+{
+  "img": "systems/cyphersystem/icons/items/ability.svg",
+  "effects": [],
+  "folder": null,
+  "system": {
+    "archived": false,
+    "settings": {
+      "general": {
+        "spellTier": "low",
+        "sorting": "Ability",
+        "unmaskedForm": "Mask"
+      },
+      "rollButton": {
+        "stepModifier": "eased",
+        "damage": "0",
+        "damagePerLOE": "3",
+        "bonus": "0",
+        "pool": "Pool",
+        "teen": "",
+        "additionalSteps": "0",
+        "effort1": "0",
+        "effort3": "0",
+        "assets": "0",
+        "effort2": "0",
+        "skill": "Practiced",
+        "additionalCost": 0
+      }
+    },
+    "description": "<p>La suerte no es el caótico océano de azar que la mayoría de la gente cree que es. Si fallas en una tarea (incluyendo una tirada de ataque o una tirada de defensa), puedes cambiar el resultado del dado a un 20 natural. Aun así, eso podría no ser suficiente para tener éxito si la dificultad es superior a 6. Una vez que utilices esta capacidad, no estará disponible de nuevo hasta que realices una Tirada de Recuperación de diez horas. (<em>Suerte de ladrón</em> no funciona si sacas un 1 natural en un intento de tarea, a menos que también tengas y utilices la capacidad <em>Luchar contra el azar</em>). Capacitador.</p>",
+    "basic": {
+      "cost": "0",
+      "pool": "Pool"
+    },
+    "version": 2
+  },
+  "ownership": {
+    "default": 0,
+    "k2TkElLx959B0lm5": 3
+  },
+  "_stats": {
+    "modifiedTime": 1664959725322,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "rLeavHPrdkq6xjNt",
+    "createdTime": null,
+    "systemVersion": "2.0.0-a1",
+    "coreVersion": "10.286"
+  },
+  "name": "Suerte de ladrón",
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.cyphersystem-compendium.abilities.cWHqKGpI5z0aiSYC"
+    }
+  },
+  "_id": "cWHqKGpI5z0aiSYC",
+  "sort": 0,
+  "type": "ability",
+  "_key": "!items!cWHqKGpI5z0aiSYC"
+}

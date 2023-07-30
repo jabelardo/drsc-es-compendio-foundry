@@ -1,0 +1,16 @@
+{
+  "img": "systems/cyphersystem/icons/items/artifact.svg",
+  "documentCollection": "cyphersystem-compendium.artifacts-fairy-tale",
+  "flags": {},
+  "weight": 3,
+  "range": [
+    4,
+    6
+  ],
+  "documentId": "BF8iP11mlVxiz508",
+  "text": "16-18",
+  "_id": "g41NO7cM7KvOFvPo",
+  "type": 2,
+  "drawn": false,
+  "_key": "!tables.results!rE7quqfGeVxHOAma.g41NO7cM7KvOFvPo"
+}

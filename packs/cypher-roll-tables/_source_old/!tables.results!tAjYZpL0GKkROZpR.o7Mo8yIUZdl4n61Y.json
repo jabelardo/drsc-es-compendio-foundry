@@ -1,0 +1,16 @@
+{
+  "img": "systems/cyphersystem/icons/items/cypher.svg",
+  "flags": {},
+  "documentCollection": "cyphersystem-compendium.cyphers",
+  "weight": 2,
+  "range": [
+    37,
+    38
+  ],
+  "documentId": "MTgWJDJa0xrNOUMa",
+  "_id": "o7Mo8yIUZdl4n61Y",
+  "text": "37-38",
+  "type": 2,
+  "drawn": false,
+  "_key": "!tables.results!tAjYZpL0GKkROZpR.o7Mo8yIUZdl4n61Y"
+}

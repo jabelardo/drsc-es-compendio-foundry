@@ -1,0 +1,58 @@
+{
+  "img": "systems/cyphersystem/icons/items/ability.svg",
+  "effects": [],
+  "folder": null,
+  "system": {
+    "archived": false,
+    "settings": {
+      "general": {
+        "spellTier": "low",
+        "sorting": "Ability",
+        "unmaskedForm": "Mask"
+      },
+      "rollButton": {
+        "stepModifier": "eased",
+        "damage": 0,
+        "damagePerLOE": 3,
+        "bonus": 0,
+        "pool": "Pool",
+        "teen": "",
+        "additionalSteps": 0,
+        "effort1": 0,
+        "effort3": 0,
+        "assets": 0,
+        "effort2": 0,
+        "skill": "Practiced",
+        "additionalCost": 0
+      }
+    },
+    "description": "<p>Mientras tu Manto de llamas está activo, te conectas con tu halo y produces un autómata de fuego que tiene tu forma y tamaño general. Actúa según tus indicaciones en cada ronda. Dirigir al servidor es una acción, y sólo puedes controlarle cuando estás hasta una larga distancia de él. Sin una orden, el siervo continúa siguiendo tu orden anterior. También puedes darle una simple acción programada, como \"Espera aquí, y ataca a cualquiera que se acerque a corto alcance hasta que esté muerto\". El siervo dura diez minutos, es una criatura de nivel 5 e inflige 1 punto de daño extra de fuego cuando ataca. Acción para crear; acción para dirigir.</p>",
+    "basic": {
+      "cost": "6",
+      "pool": "Intellect"
+    },
+    "version": 2
+  },
+  "ownership": {
+    "default": 0,
+    "k2TkElLx959B0lm5": 3
+  },
+  "_stats": {
+    "modifiedTime": 1664959718206,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "rLeavHPrdkq6xjNt",
+    "createdTime": null,
+    "systemVersion": "2.0.0-a1",
+    "coreVersion": "10.286"
+  },
+  "name": "Siervo de fuego",
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.cyphersystem-compendium.abilities.NVdx8QjmTP5eOjDh"
+    }
+  },
+  "_id": "NVdx8QjmTP5eOjDh",
+  "sort": 0,
+  "type": "ability",
+  "_key": "!items!NVdx8QjmTP5eOjDh"
+}

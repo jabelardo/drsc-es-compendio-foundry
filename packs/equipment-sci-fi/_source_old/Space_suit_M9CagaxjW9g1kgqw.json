@@ -1,0 +1,32 @@
+{
+  "name": "Traje espacial",
+  "type": "equipment",
+  "img": "systems/cyphersystem/icons/items/equipment.svg",
+  "system": {
+    "version": 2,
+    "description": "<p>Protege al usuario del vacío y permite realizar actividades básicas normales en el espacio. Requiere unas cuatro rondas para ponérselo y sellarlo (si se hace más rápido se corre el riesgo de un mal sellado). Proporciona unas diez horas de atmo en el vacío sin reacondicionamiento. Tiene propulsores de maniobra sumamente limitados que ofrecen algo de oportunidad para corregir un salto mal realizado en G cero. Normalmente, lleva botas de nave integradas.</p><blockquote><p>&ldquo;Atmo&rdquo; es el término genérico para el aire oxigenado, respirable y a presión habitable.</p>\n</blockquote>",
+    "archived": false,
+    "basic": {
+      "level": 4,
+      "quantity": 1
+    }
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "cyphersystem",
+    "systemVersion": "2.6.2",
+    "coreVersion": "11.301",
+    "createdTime": 1676539048966,
+    "modifiedTime": 1686393831901,
+    "lastModifiedBy": "ZyqFG5NpQtVrpwj7"
+  },
+  "_id": "M9CagaxjW9g1kgqw",
+  "folder": "40FMwVrL57gMPm5j",
+  "sort": 1900000,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "_key": "!items!M9CagaxjW9g1kgqw"
+}

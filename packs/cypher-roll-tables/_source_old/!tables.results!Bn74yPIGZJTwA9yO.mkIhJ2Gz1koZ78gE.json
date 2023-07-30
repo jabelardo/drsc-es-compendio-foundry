@@ -1,0 +1,16 @@
+{
+  "img": "systems/cyphersystem/icons/items/cypher.svg",
+  "flags": {},
+  "documentCollection": "cyphersystem-compendium.cyphers",
+  "weight": 2,
+  "range": [
+    93,
+    94
+  ],
+  "documentId": "sgBfROg7iUCCezZ8",
+  "_id": "mkIhJ2Gz1koZ78gE",
+  "text": "93-94",
+  "type": 2,
+  "drawn": false,
+  "_key": "!tables.results!Bn74yPIGZJTwA9yO.mkIhJ2Gz1koZ78gE"
+}

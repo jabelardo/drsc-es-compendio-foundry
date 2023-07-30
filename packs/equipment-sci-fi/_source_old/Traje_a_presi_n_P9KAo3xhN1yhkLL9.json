@@ -1,0 +1,32 @@
+{
+  "name": "Traje a presión",
+  "type": "equipment",
+  "img": "systems/cyphersystem/icons/items/equipment.svg",
+  "system": {
+    "version": 2,
+    "description": "<p>Traje de cuerpo entero similar a un traje espacial, pero sólo apto para regiones de baja presión (no de vacío) como las que suelen encontrarse en Marte. Algunos llevan respiradores integrados (al doble del costo).</p>",
+    "archived": false,
+    "basic": {
+      "level": 3,
+      "quantity": 1
+    }
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "cyphersystem",
+    "systemVersion": "2.6.2",
+    "coreVersion": "11.301",
+    "createdTime": 1676538977112,
+    "modifiedTime": 1686393801895,
+    "lastModifiedBy": "ZyqFG5NpQtVrpwj7"
+  },
+  "_id": "P9KAo3xhN1yhkLL9",
+  "folder": "40FMwVrL57gMPm5j",
+  "sort": 1600000,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "_key": "!items!P9KAo3xhN1yhkLL9"
+}

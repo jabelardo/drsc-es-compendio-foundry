@@ -1,0 +1,128 @@
+{
+  "img": "modules/drsc-es-compendio-foundry/img/tokens/humanoid_mundane.webp",
+  "_stats": {
+    "modifiedTime": 1676797809463,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "yThCrv1jSfPXOC2U",
+    "createdTime": 1676297009445,
+    "systemVersion": "2.3.0",
+    "coreVersion": "10.291"
+  },
+  "flags": {"core": {"sourceId": "Actor.Vdgq5A8jGXepj03T"}},
+  "sort": 0,
+  "type": "npc",
+  "_key": "!actors!304aXmNe69L41vJm",
+  "prototypeToken": {
+    "displayBars": 40,
+    "displayName": 20,
+    "actorLink": false,
+    "texture": {
+      "scaleX": 1,
+      "offsetX": 0,
+      "scaleY": 1,
+      "offsetY": 0,
+      "src": "icons/svg/mystery-man.svg",
+      "rotation": 0,
+      "tint": null
+    },
+    "lockRotation": false,
+    "rotation": 0,
+    "detectionModes": [],
+    "flags": {},
+    "randomImg": false,
+    "bar1": {"attribute": "pools.health"},
+    "bar2": {"attribute": "basic.level"},
+    "disposition": 0,
+    "light": {
+      "attenuation": 0.5,
+      "color": null,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "animation": {
+        "intensity": 5,
+        "type": null,
+        "reverse": false,
+        "speed": 5
+      },
+      "saturation": 0,
+      "alpha": 0.5,
+      "contrast": 0,
+      "angle": 360,
+      "luminosity": 0.5,
+      "shadows": 0,
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "alpha": 1,
+    "name": "Ladrón",
+    "width": 1,
+    "sight": {
+      "saturation": 0,
+      "attenuation": 0.1,
+      "brightness": 0,
+      "color": null,
+      "visionMode": "basic",
+      "contrast": 0,
+      "range": null,
+      "angle": 360,
+      "enabled": false
+    },
+    "height": 1
+  },
+  "effects": [],
+  "system": {
+    "settings": {
+      "general": {
+        "initiativeBonus": 0,
+        "hideArchive": false
+      },
+      "equipment": {
+        "ammo": {"active": false},
+        "armor": {"active": false},
+        "attacks": {"active": false},
+        "materials": {
+          "active": false,
+          "label": ""
+        },
+        "cyphers": {
+          "active": false,
+          "label": ""
+        },
+        "oddities": {
+          "active": false,
+          "label": ""
+        },
+        "artifacts": {
+          "active": false,
+          "label": ""
+        }
+      }
+    },
+    "notes": "<p>Un ladrón se lleva cosas que no le pertenecen, preferiblemente sin que su víctima sea consciente del delito hasta que el ladrón esté a salvo. Los rateros y carteristas son los más comunes, pero los ladrones ambiciosos son conocidos por planear elaborados atraco para robar objetos valiosos de objetivos importantes.<\/p>\n<p><strong>Motivación:<\/strong> Codicia, curiosidad, riesgo<\/p>\n<p><strong>Salud:<\/strong> 12<\/p>\n<p><strong>Daño que inflige:<\/strong> 4 puntos<\/p>\n<p><strong>Armadura:<\/strong> 1<\/p>\n<p><strong>Movimiento:<\/strong> Corto<\/p>\n<p><strong>Ajustes: <\/strong>Nivel 5 para equilibrio, trepar, percepción, hurto y sigilo<\/p>\n<p><strong>Combate:<\/strong> Los ladrones prefieren las armas pequeñas que puedan ocultar -cuchillos, porras, etc.-, de modo que puedan hacerse pasar rápidamente por un transeúnte inocente. Su objetivo es escapar, no matar, por lo que a menudo recurren a trucos como abrojos, aceite derramado y bolitas de humo para distraer o retrasar a sus enemigos y tener la oportunidad de escapar. No ven mal usar veneno, normalmente un veneno somnífero que deja inconsciente al enemigo durante diez minutos si falla la Defensa por Vigor.<\/p>\n<p><strong>Interacción:<\/strong> Los ladrones tienen un amplio abanico de personalidades: nerviosos, arrogantes, confiados, sarcásticos y mucho más. Les gusta conocer los riesgos y las recompensas de lo que van a hacer, y no les gustan las sorpresas.<\/p>\n<p><strong>Uso:<\/strong> Un ladrón engreído roba un objeto a un personaje y se lo devuelve para demostrar que sus habilidades están a la altura. Una banda de carteristas tiene como objetivo las joyas o los Cyphers de un personaje.<\/p>\n<p><strong>Botín:<\/strong> Los ladrones suelen llevar herramientas ligeras, algunas armas pequeñas, equipo diverso para crear una distracción y un Cypher que planean usar o vender.<\/p>",
+    "pools": {"health": {
+      "max": 12,
+      "value": 12
+    }},
+    "description": "",
+    "combat": {
+      "damage": 4,
+      "armor": 1
+    },
+    "basic": {
+      "level": 4,
+      "biography": "<p>Un ladrón se lleva cosas que no le pertenecen, preferiblemente sin que su víctima sea consciente del delito hasta que el ladrón esté a salvo. Los rateros y carteristas son los más comunes, pero los ladrones ambiciosos son conocidos por planear elaborados atraco para robar objetos valiosos de objetivos importantes.<\/p>\n<p><strong>Motivación:<\/strong> Codicia, curiosidad, riesgo<\/p>\n<p><strong>Salud:<\/strong> 12<\/p>\n<p><strong>Daño que inflige:<\/strong> 4 puntos<\/p>\n<p><strong>Armadura:<\/strong> 1<\/p>\n<p><strong>Movimiento:<\/strong> Corto<\/p>\n<p><strong>Ajustes: <\/strong>Nivel 5 para equilibrio, trepar, percepción, hurto y sigilo<\/p>\n<p><strong>Combate:<\/strong> Los ladrones prefieren las armas pequeñas que puedan ocultar -cuchillos, porras, etc.-, de modo que puedan hacerse pasar rápidamente por un transeúnte inocente. Su objetivo es escapar, no matar, por lo que a menudo recurren a trucos como abrojos, aceite derramado y bolitas de humo para distraer o retrasar a sus enemigos y tener la oportunidad de escapar. No ven mal usar veneno, normalmente un veneno somnífero que deja inconsciente al enemigo durante diez minutos si falla la Defensa por Vigor.<\/p>\n<p><strong>Interacción:<\/strong> Los ladrones tienen un amplio abanico de personalidades: nerviosos, arrogantes, confiados, sarcásticos y mucho más. Les gusta conocer los riesgos y las recompensas de lo que van a hacer, y no les gustan las sorpresas.<\/p>\n<p><strong>Uso:<\/strong> Un ladrón engreído roba un objeto a un personaje y se lo devuelve para demostrar que sus habilidades están a la altura. Una banda de carteristas tiene como objetivo las joyas o los Cyphers de un personaje.<\/p>\n<p><strong>Botín:<\/strong> Los ladrones suelen llevar herramientas ligeras, algunas armas pequeñas, equipo diverso para crear una distracción y un Cypher que planean usar o vender.<\/p>"
+    },
+    "version": 2
+  },
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "name": "Ladrón",
+  "_id": "304aXmNe69L41vJm",
+  "items": []
+}

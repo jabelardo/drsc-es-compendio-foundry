@@ -1,0 +1,16 @@
+{
+  "img": "systems/cyphersystem/icons/items/artifact.svg",
+  "documentCollection": "cyphersystem-compendium.artifacts-fairy-tale",
+  "flags": {},
+  "weight": 3,
+  "range": [
+    54,
+    56
+  ],
+  "documentId": "mrKARCxZtkRRf5hy",
+  "text": "Polvo de pixie",
+  "_id": "xReMcoUqku5wjFxW",
+  "type": 2,
+  "drawn": false,
+  "_key": "!tables.results!rE7quqfGeVxHOAma.xReMcoUqku5wjFxW"
+}

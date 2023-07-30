@@ -1,0 +1,49 @@
+{
+  "img": "systems/cyphersystem/icons/items/artifact.svg",
+  "effects": [],
+  "system": {
+    "archived": false,
+    "settings": {"general": {"nameUnidentified": ""}},
+    "rollButton": {
+      "stepModifier": "eased",
+      "damage": 0,
+      "damagePerLOE": 3,
+      "bonus": 0,
+      "pool": "Pool",
+      "teen": "",
+      "additionalSteps": 0,
+      "effort1": 0,
+      "effort3": 0,
+      "assets": 0,
+      "effort2": 0,
+      "skill": "Practiced",
+      "additionalCost": 0
+    },
+    "description": "<p><strong>Nivel:<\/strong> 1d6 + 2<\/p>\n<p><strong>Aspecto:<\/strong> Báculo corto de madera<\/p>\n<p><strong>Efecto:<\/strong> El báculo tiene tres habilidades, cada una de las cuales requiere una acción para activarse.<\/p>\n<p><strong>Paso marítimo:<\/strong> Crea una ruta seca a través de una masa de agua. La ruta tiene aproximadamente 6 m [20 pies] de ancho, hasta 300 m [1.000 pies] de profundidad y es tan larga como la masa de agua. La ruta permanece abierta hasta cuatro horas, o el que la empuña puede colapsarla como acción.<\/p>\n<p><strong>Forma de serpiente:<\/strong> El báculo se transforma en una serpiente venenosa cuyo nivel es igual al nivel del artefacto. La serpiente tiene un ataque de mordisco que inflige 6 puntos de daño, más 3 puntos adicionales de daño por Velocidad (ignora Armadura) durante tres rondas con una tirada fallida de Defensa por Vigor. La serpiente obedece las órdenes verbales del portador, pero no puede hacer nada que una serpiente normal no pudiera hacer.<\/p>\n<p><strong>Agua de la piedra:<\/strong> Produce aproximadamente 38 litros [10 galones] de agua pura dentro del alcance inmediato, como si proviniera de un manantial natural en el suelo.<\/p>\n<p><strong>Agotamiento:<\/strong> 1 en 1d20<\/p>",
+    "basic": {
+      "depletion": "1 in [[/r 1d20 # Depletion roll]]",
+      "identified": true,
+      "level": "1d6+2"
+    },
+    "version": 2
+  },
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "_stats": {
+    "modifiedTime": 1676451419123,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "yThCrv1jSfPXOC2U",
+    "createdTime": 1676367597883,
+    "systemVersion": "2.3.0",
+    "coreVersion": "10.291"
+  },
+  "name": "Báculo del profeta",
+  "flags": {"core": {"sourceId": "Compendium.cyphersystem-compendium.artifacts-fantasy.26CM5dCpoGp1wQGV"}},
+  "sort": 0,
+  "_id": "joy8yjRTwJCr5qzZ",
+  "type": "artifact",
+  "_key": "!items!joy8yjRTwJCr5qzZ"
+}

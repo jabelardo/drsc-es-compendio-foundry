@@ -1,0 +1,51 @@
+{
+  "name": "Kit de disfraz",
+  "type": "equipment",
+  "img": "systems/cyphersystem/icons/items/equipment.svg",
+  "effects": [],
+  "folder": "9DJH3FNH007eXPB5",
+  "sort": 800000,
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.cyphersystem-compendium.equipment-modern.Kh6bhcajxt4cZDWH"
+    }
+  },
+  "_id": "mGvzhwfcLOR8Aami",
+  "system": {
+    "version": 2,
+    "description": "<p>Contiene tinte para el cabello, cosméticos, algunos postizos y otros pequeños accesorios; usarlo toma unos cuantos minutos, pero otorga un recurso en las tareas relacionadas con el disfraz y la suplantación de identidad.</p>",
+    "archived": false,
+    "basic": {
+      "level": 3,
+      "quantity": 1
+    },
+    "rollButton": {
+      "pool": "Pool",
+      "skill": "Practiced",
+      "assets": 0,
+      "effort1": 0,
+      "effort2": 0,
+      "effort3": 0,
+      "stepModifier": "eased",
+      "additionalSteps": 0,
+      "additionalCost": 0,
+      "damage": 0,
+      "damagePerLOE": 3,
+      "teen": "",
+      "bonus": 0
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "k2TkElLx959B0lm5": 3
+  },
+  "_stats": {
+    "systemId": "cyphersystem",
+    "systemVersion": "2.6.2",
+    "coreVersion": "11.301",
+    "createdTime": 1676537032540,
+    "modifiedTime": 1686394271137,
+    "lastModifiedBy": "ZyqFG5NpQtVrpwj7"
+  },
+  "_key": "!items!mGvzhwfcLOR8Aami"
+}

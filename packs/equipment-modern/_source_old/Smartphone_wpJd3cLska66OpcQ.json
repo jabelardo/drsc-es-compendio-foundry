@@ -1,0 +1,47 @@
+{
+  "name": "Smartphone",
+  "type": "equipment",
+  "img": "systems/cyphersystem/icons/items/equipment.svg",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "_id": "wpJd3cLska66OpcQ",
+  "system": {
+    "version": 2,
+    "description": "<p>Dispositivo de comunicación que realiza algunas de las funciones de un ordenador con una interfaz de pantalla táctil, acceso a Internet y capacidad para ejecutar varias aplicaciones. Proporciona un recurso para tareas de conocimiento que se puede investigar en internet, y luz brillante dentro del alcance inmediato. Sujeto a quedarse sin carga o romperse.</p>",
+    "archived": false,
+    "basic": {
+      "level": 2,
+      "quantity": 1
+    },
+    "rollButton": {
+      "pool": "Pool",
+      "skill": "Practiced",
+      "assets": 0,
+      "effort1": 0,
+      "effort2": 0,
+      "effort3": 0,
+      "stepModifier": "eased",
+      "additionalSteps": 0,
+      "additionalCost": 0,
+      "damage": 0,
+      "damagePerLOE": 3,
+      "teen": "",
+      "bonus": 0
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "k2TkElLx959B0lm5": 3
+  },
+  "_stats": {
+    "systemId": "cyphersystem",
+    "systemVersion": "2.3.0",
+    "coreVersion": "10.291",
+    "createdTime": null,
+    "modifiedTime": 1676534387134,
+    "lastModifiedBy": "yThCrv1jSfPXOC2U"
+  },
+  "_key": "!items!wpJd3cLska66OpcQ"
+}

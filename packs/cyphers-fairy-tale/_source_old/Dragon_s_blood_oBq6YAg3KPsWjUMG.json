@@ -1,0 +1,33 @@
+{
+  "img": "systems/cyphersystem/icons/items/cypher.svg",
+  "effects": [],
+  "system": {
+    "archived": false,
+    "settings": {"general": {"nameUnidentified": ""}},
+    "description": "<p><strong>Nivel:<\/strong> 1d6<\/p>\n<p><strong>Aspecto:<\/strong> Sangre de dragón en polvo<\/p>\n<p><strong>Efecto:<\/strong> Cuando se mezcla con líquido y se pinta sobre un ser vivo, otorga uno de los siguientes efectos por un día.<\/p>\n<table class=\"table table-dark table-striped table-sm\">\n <thead>\n  <tr>\n   <th scope=\"col\" class=\"text-center\">d6<\/th>\n   <th scope=\"col\">Efecto<\/th>\n  <\/tr>\n <\/thead>\n <tbody>\n  <tr>\n   <td scope=\"row\" class=\"text-center fw-normal\">1-2<\/td>\n   <td>+2 a Armadura<\/td>\n  <\/tr>\n  <tr>\n   <td scope=\"row\" class=\"text-center fw-normal\">3-4<\/td>\n   <td>Recurso para todas las tareas que impliquen magia<\/td>\n  <\/tr>\n  <tr>\n   <td scope=\"row\" class=\"text-center fw-normal\">5-6<\/td>\n   <td>Recurso para todas las tareas relacionadas con el romance, el sexo y la fertilidad<\/td>\n  <\/tr>\n <\/tbody>\n<\/table>",
+    "basic": {
+      "identified": true,
+      "level": "1d6"
+    },
+    "version": 2
+  },
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "_stats": {
+    "modifiedTime": 1685280982954,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "yThCrv1jSfPXOC2U",
+    "createdTime": 1685276935391,
+    "systemVersion": "2.6.0",
+    "coreVersion": "10.291"
+  },
+  "name": "Sangre de dragón",
+  "flags": {},
+  "_id": "oBq6YAg3KPsWjUMG",
+  "sort": 0,
+  "type": "cypher",
+  "_key": "!items!oBq6YAg3KPsWjUMG"
+}

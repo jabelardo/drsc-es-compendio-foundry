@@ -1,0 +1,54 @@
+{
+  "img": "systems/cyphersystem/icons/items/ability.svg",
+  "effects": [],
+  "folder": null,
+  "system": {
+    "archived": false,
+    "settings": {
+      "general": {
+        "spellTier": "low",
+        "sorting": "Ability",
+        "unmaskedForm": "Mask"
+      },
+      "rollButton": {
+        "stepModifier": "eased",
+        "damage": 0,
+        "damagePerLOE": 3,
+        "bonus": 0,
+        "pool": "Pool",
+        "teen": "",
+        "additionalSteps": 0,
+        "effort1": 0,
+        "effort3": 0,
+        "assets": 0,
+        "effort2": 0,
+        "skill": "Practiced",
+        "additionalCost": 0
+      }
+    },
+    "description": "<p>Puedes drenar la energía de una criatura viva tocándola y concentrándote durante un minuto o más. Cada minuto en contacto con la criatura y concentrado en ella le inflige 1 punto de daño (ignora la Armadura) y restaura 1 punto de tu Reserva de Vigor o Velocidad. Debido al largo tiempo que requiere esta capacidad, normalmente sólo puede utilizarse con una criatura dispuesta o indefensa. Si la criatura recibe suficiente daño para dejarla inconsciente o matarla, se vuelve cenizas o algún otro material inerte. Acción para iniciar.<\/p>",
+    "basic": {
+      "cost": "0",
+      "pool": "Pool"
+    },
+    "version": 2
+  },
+  "ownership": {
+    "default": 0,
+    "k2TkElLx959B0lm5": 3
+  },
+  "_stats": {
+    "modifiedTime": 1664959725855,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "rLeavHPrdkq6xjNt",
+    "createdTime": null,
+    "systemVersion": "2.0.0-a1",
+    "coreVersion": "10.286"
+  },
+  "name": "Consumo devorador",
+  "flags": {"core": {"sourceId": "Compendium.cyphersystem-compendium.abilities.P73TBXcNDbZCVsdE"}},
+  "_id": "P73TBXcNDbZCVsdE",
+  "sort": 0,
+  "type": "ability",
+  "_key": "!items!P73TBXcNDbZCVsdE"
+}

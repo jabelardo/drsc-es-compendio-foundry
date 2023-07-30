@@ -1,0 +1,34 @@
+{
+  "img": "systems/cyphersystem/icons/items/artifact.svg",
+  "effects": [],
+  "system": {
+    "archived": false,
+    "settings": {"general": {"nameUnidentified": ""}},
+    "description": "<p>Nivel: 1d6 + 3<\/p>\n<p><strong>Aspecto:<\/strong> Forma entrecruzada del tamaño de una canica de material desconocido<\/p>\n<p><strong>Efecto:<\/strong> Un objetivo dentro del alcance inmediato pierde su dimensión de anchura (que se pliega en una dimensión superior), dejándolo tan plano como el papel. El objetivo se adhiere a cualquier superficie a la que estuviera fijado a, colocado sobre o parado en, y asemeja un arte particularmente realista. La criatura afectada entra en estasis. Mientras está en estasis, no puede realizar acciones, no envejece y es inmune a daños y efectos. Permanece en estasis durante aproximadamente un día, hasta que el usuario devuelve la dimensión perdida o el artefacto se agota.<\/p>\n<p><strong>Agotamiento:<\/strong> 1 en 1d10<\/p>",
+    "basic": {
+      "depletion": "1 in [[/r d10]]",
+      "identified": true,
+      "level": "1d6+3"
+    },
+    "version": 2
+  },
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "_stats": {
+    "modifiedTime": 1676818571515,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "yThCrv1jSfPXOC2U",
+    "createdTime": 1676817955486,
+    "systemVersion": "2.3.0",
+    "coreVersion": "10.291"
+  },
+  "name": "Modulador dimensional",
+  "flags": {},
+  "_id": "krsthzgwJpFLEVML",
+  "sort": 0,
+  "type": "artifact",
+  "_key": "!items!krsthzgwJpFLEVML"
+}

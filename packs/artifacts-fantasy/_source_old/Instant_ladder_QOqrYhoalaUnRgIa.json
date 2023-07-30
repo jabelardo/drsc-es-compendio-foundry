@@ -1,0 +1,49 @@
+{
+  "img": "systems/cyphersystem/icons/items/artifact.svg",
+  "effects": [],
+  "system": {
+    "archived": false,
+    "settings": {"general": {"nameUnidentified": ""}},
+    "rollButton": {
+      "stepModifier": "eased",
+      "damage": 0,
+      "damagePerLOE": 3,
+      "bonus": 0,
+      "pool": "Pool",
+      "teen": "",
+      "additionalSteps": 0,
+      "effort1": 0,
+      "effort3": 0,
+      "assets": 0,
+      "effort2": 0,
+      "skill": "Practiced",
+      "additionalCost": 0
+    },
+    "description": "<p><strong>Nivel:<\/strong> 1d6<\/p>\n<p><strong>Aspecto:<\/strong> Pequeña barra de metal ligero con botones de gemas<\/p>\n<p><strong>Efecto:<\/strong> Cuando se activa, la varilla se extiende y produce peldaños para que pueda usarse como una escalera de hasta 9 m [28 pies] de largo. La escalera puede volver a su forma de vara desde cualquiera de sus extremos.<\/p>\n<p><strong>Agotamiento:<\/strong> 1 en 1d100<\/p>\n<p>Una criatura que no esté familiarizada con los botones de una escalera instantánea necesita pasar varias rondas averiguando la secuencia adecuada para expandirla o colapsarla.<\/p>",
+    "basic": {
+      "depletion": "1 in [[/r 1d100 # Depletion roll]]",
+      "identified": true,
+      "level": "1d6"
+    },
+    "version": 2
+  },
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "_stats": {
+    "modifiedTime": 1676451418999,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "yThCrv1jSfPXOC2U",
+    "createdTime": 1676367597889,
+    "systemVersion": "2.3.0",
+    "coreVersion": "10.291"
+  },
+  "name": "Escalera instantánea",
+  "flags": {"core": {"sourceId": "Compendium.cyphersystem-compendium.artifacts-fantasy.LAr8FyHODKhSDWO6"}},
+  "sort": 0,
+  "_id": "QOqrYhoalaUnRgIa",
+  "type": "artifact",
+  "_key": "!items!QOqrYhoalaUnRgIa"
+}

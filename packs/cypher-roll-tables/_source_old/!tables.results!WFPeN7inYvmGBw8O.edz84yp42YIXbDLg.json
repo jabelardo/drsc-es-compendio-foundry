@@ -1,0 +1,16 @@
+{
+  "img": "systems/cyphersystem/icons/items/cypher.svg",
+  "documentCollection": "cyphersystem-compendium.cyphers-horror",
+  "flags": {},
+  "weight": 3,
+  "range": [
+    16,
+    18
+  ],
+  "documentId": "DRkZcUXoNn7GX9fb",
+  "text": "Infusión de plajobe",
+  "_id": "edz84yp42YIXbDLg",
+  "type": 2,
+  "drawn": false,
+  "_key": "!tables.results!WFPeN7inYvmGBw8O.edz84yp42YIXbDLg"
+}

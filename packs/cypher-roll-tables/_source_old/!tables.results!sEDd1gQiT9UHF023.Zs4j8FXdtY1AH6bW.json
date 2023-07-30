@@ -1,0 +1,16 @@
+{
+  "img": "icons/svg/d20-black.svg",
+  "documentCollection": "",
+  "flags": {},
+  "weight": 1,
+  "range": [
+    11,
+    11
+  ],
+  "documentId": null,
+  "_id": "Zs4j8FXdtY1AH6bW",
+  "text": "Tu hermano mayor es un personaje infame que ha caído en desgracia.",
+  "type": 0,
+  "drawn": false,
+  "_key": "!tables.results!sEDd1gQiT9UHF023.Zs4j8FXdtY1AH6bW"
+}

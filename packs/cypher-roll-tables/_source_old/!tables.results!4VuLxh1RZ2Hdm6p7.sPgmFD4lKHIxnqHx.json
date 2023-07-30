@@ -1,0 +1,16 @@
+{
+  "img": "icons/svg/d20-black.svg",
+  "documentCollection": "",
+  "flags": {},
+  "weight": 2,
+  "range": [
+    19,
+    20
+  ],
+  "documentId": null,
+  "_id": "sPgmFD4lKHIxnqHx",
+  "text": "Diente tallado",
+  "type": 0,
+  "drawn": false,
+  "_key": "!tables.results!4VuLxh1RZ2Hdm6p7.sPgmFD4lKHIxnqHx"
+}

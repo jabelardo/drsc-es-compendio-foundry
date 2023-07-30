@@ -1,0 +1,32 @@
+{
+  "name": "Cápsula de hibernación",
+  "type": "equipment",
+  "img": "systems/cyphersystem/icons/items/equipment.svg",
+  "system": {
+    "version": 2,
+    "description": "<p>Una cápsula lo suficientemente grande como para contener a un humano, con mecanismos internos y energía capaces de poner a una persona en un profundo estado de metabolismo suspendido durante unos cien años, a menos que el programa termine antes o la cápsula se abra desde el exterior. A partir de entonces, cada cien años, el humano hibernante debe superar con éxito una tarea de Defensa por Vigor. La dificultad comienza en 1, pero aumenta en +1 cada tantos cientos de años que pasan.</p>",
+    "archived": false,
+    "basic": {
+      "level": 4,
+      "quantity": 1
+    }
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "cyphersystem",
+    "systemVersion": "2.6.2",
+    "coreVersion": "11.301",
+    "createdTime": 1676551950892,
+    "modifiedTime": 1686394055004,
+    "lastModifiedBy": "ZyqFG5NpQtVrpwj7"
+  },
+  "_id": "468IRJZrRuKshDCX",
+  "folder": "40FMwVrL57gMPm5j",
+  "sort": 4300000,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "_key": "!items!468IRJZrRuKshDCX"
+}

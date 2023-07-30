@@ -1,0 +1,57 @@
+{
+  "img": "systems/cyphersystem/icons/items/artifact.svg",
+  "effects": [],
+  "system": {
+    "archived": false,
+    "settings": {
+      "general": {
+        "nameUnidentified": ""
+      }
+    },
+    "rollButton": {
+      "stepModifier": "eased",
+      "damage": 0,
+      "damagePerLOE": 3,
+      "bonus": 0,
+      "pool": "Pool",
+      "teen": "",
+      "additionalSteps": 0,
+      "effort1": 0,
+      "effort3": 0,
+      "assets": 0,
+      "effort2": 0,
+      "skill": "Practiced",
+      "additionalCost": 0
+    },
+    "description": "<p><strong>Nivel:</strong> 1d6 + 2</p>\n<p><strong>Aspecto:</strong> Casco ligero de tela, cuero o metal</p>\n<p><strong>Efecto:</strong> El portador gana 3 de Armadura que protege sólo contra el daño de Intelecto. Además, se obstaculizan los intentos de afectar a la mente del portador (o se obstaculizan dos grados si el artefacto es de nivel 7 o superior).</p>\n<p><strong>Agotamiento:</strong> -</p>",
+    "basic": {
+      "depletion": "—",
+      "identified": true,
+      "level": "1d6+2"
+    },
+    "version": 2
+  },
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "_stats": {
+    "modifiedTime": 1676451419013,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "yThCrv1jSfPXOC2U",
+    "createdTime": 1676367597896,
+    "systemVersion": "2.3.0",
+    "coreVersion": "10.291"
+  },
+  "name": "Casco de escudo mental",
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.cyphersystem-compendium.artifacts-fantasy.d3LPmzUgi5jrpw4n"
+    }
+  },
+  "sort": 0,
+  "_id": "uJcBalDKhMRuhoda",
+  "type": "artifact",
+  "_key": "!items!uJcBalDKhMRuhoda"
+}

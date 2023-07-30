@@ -1,0 +1,58 @@
+{
+  "img": "systems/cyphersystem/icons/items/ability.svg",
+  "effects": [],
+  "folder": null,
+  "system": {
+    "archived": false,
+    "settings": {
+      "general": {
+        "spellTier": "low",
+        "sorting": "Ability",
+        "unmaskedForm": "Mask"
+      },
+      "rollButton": {
+        "stepModifier": "eased",
+        "damage": 0,
+        "damagePerLOE": 3,
+        "bonus": 0,
+        "pool": "Pool",
+        "teen": "",
+        "additionalSteps": 0,
+        "effort1": 0,
+        "effort3": 0,
+        "assets": 0,
+        "effort2": 0,
+        "skill": "Practiced",
+        "additionalCost": 0
+      }
+    },
+    "description": "<p>Todos los Cyphers manifiestos que utilices funcionan a un nivel superior al normal. Además, si se te da una semana y al menos diez objetos de la tabla de Chatarra, puedes manipular uno de tus Cyphers manifiestos, transformándolo en otro del mismo tipo que tenías en el pasado. El DJ y el jugador deben colaborar para asegurar que la transformación sea lógica - por ejemplo, probablemente no puedes transformar una píldora en un casco. Capacitador.</p>",
+    "basic": {
+      "cost": "0",
+      "pool": "Pool"
+    },
+    "version": 2
+  },
+  "ownership": {
+    "default": 0,
+    "k2TkElLx959B0lm5": 3
+  },
+  "_stats": {
+    "modifiedTime": 1664959723210,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "rLeavHPrdkq6xjNt",
+    "createdTime": null,
+    "systemVersion": "2.0.0-a1",
+    "coreVersion": "10.286"
+  },
+  "name": "Cyphers reciclados",
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.cyphersystem-compendium.abilities.EjBzy1Ue1AA8i6ry"
+    }
+  },
+  "_id": "EjBzy1Ue1AA8i6ry",
+  "sort": 0,
+  "type": "ability",
+  "_key": "!items!EjBzy1Ue1AA8i6ry"
+}

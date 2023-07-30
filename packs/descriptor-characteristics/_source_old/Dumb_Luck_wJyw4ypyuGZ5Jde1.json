@@ -1,0 +1,58 @@
+{
+  "name": "Suerte tonta",
+  "type": "ability",
+  "img": "systems/cyphersystem/icons/items/ability.svg",
+  "system": {
+    "version": 2,
+    "description": "<p>El DJ puede introducir una intromisión del DJ en ti, basada en tu torpeza, sin otorgarte ninguna PX (como si hubieras sacado un 1 en una tirada de d20). Sin embargo, si esto ocurre, el 50% de las veces, tu torpeza juega a tu favor. En lugar de perjudicarte (mucho), te ayuda, o perjudica a tus enemigos. Te resbalas, pero es justo a tiempo para esquivar un ataque. Te caes, pero haces tropezar a tus enemigos al chocar con sus piernas. Te das la vuelta demasiado rápido, pero acabas arrancando el arma de la mano de tu enemigo. Tú y el DJ deben trabajar juntos para determinar los detalles. Si el DJ lo desea, puede utilizar intromisiones del DJ basadas en tu torpeza normalmente (otorgando PX).</p>",
+    "archived": false,
+    "settings": {
+      "rollButton": {
+        "pool": "Pool",
+        "skill": "Practiced",
+        "assets": "0",
+        "effort1": "0",
+        "effort2": "0",
+        "effort3": "0",
+        "stepModifier": "eased",
+        "additionalSteps": 0,
+        "additionalCost": 0,
+        "damage": 0,
+        "damagePerLOE": 3,
+        "teen": "",
+        "bonus": 0
+      },
+      "general": {
+        "sorting": "Ability",
+        "spellTier": "low",
+        "unmaskedForm": "Mask"
+      }
+    },
+    "basic": {
+      "cost": "0",
+      "pool": "Pool"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "rLeavHPrdkq6xjNt": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Item.ETns7fPUg5TjGCsa"
+    }
+  },
+  "_stats": {
+    "systemId": "cyphersystem",
+    "systemVersion": "2.0.0-b3",
+    "coreVersion": "10.288",
+    "createdTime": 1666959858268,
+    "modifiedTime": 1666959866056,
+    "lastModifiedBy": "rLeavHPrdkq6xjNt"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "wJyw4ypyuGZ5Jde1",
+  "_key": "!items!wJyw4ypyuGZ5Jde1"
+}

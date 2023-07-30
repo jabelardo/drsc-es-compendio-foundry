@@ -1,0 +1,16 @@
+{
+  "img": "systems/cyphersystem/icons/items/cypher.svg",
+  "documentCollection": "cyphersystem-compendium.cyphers-horror",
+  "flags": {},
+  "weight": 1,
+  "range": [
+    17,
+    17
+  ],
+  "documentId": "4cJZ5BwpbnA2t6Pc",
+  "text": "Reanimador",
+  "_id": "BsoKCFkaO85wMBGS",
+  "type": 2,
+  "drawn": false,
+  "_key": "!tables.results!XlzSKRHx5dqVkYmD.BsoKCFkaO85wMBGS"
+}

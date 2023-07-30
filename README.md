@@ -4,6 +4,10 @@ Este es un módulo para su uso en conjunción con el [Cypher System game system 
 
 Ten en cuenta que los compendios, especialmente el de capacidades, contienen un gran número de ítems. No es aconsejable importar todo a un mundo, ya que afectaría al rendimiento e incluso podría provocar cuelgues de Foundry. Importa sólo lo que realmente necesites. En la mayoría de los casos, no es necesario importar nada.
 
+En este compendio he reunído una serie de recursos derivados, inspirados y/o adaptados de otros módulos de la comunidad de Cypher en Foundry VTT en ingles para hacer una solución "todo en uno" en español y con ello facilitar mi trabajo y el 
+
+Se incluyen elementos adicionales para los descripores, tipos, rasgos y aspectos para la creación de personajes que funcionan con la [Linking and Creation Tool](https://github.com/NiceTSY/nice-cypher-add-ons#creation-tool) del módulo [Nice(TSY) Cypher Add-Ons](https://github.com/NiceTSY/nice-cypher-add-ons).
+
 
 ## Soporte y Comunidad
 

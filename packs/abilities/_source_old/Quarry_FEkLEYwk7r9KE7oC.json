@@ -1,0 +1,54 @@
+{
+  "img": "systems/cyphersystem/icons/items/ability.svg",
+  "effects": [],
+  "folder": null,
+  "system": {
+    "archived": false,
+    "settings": {
+      "general": {
+        "spellTier": "low",
+        "sorting": "Ability",
+        "unmaskedForm": "Mask"
+      },
+      "rollButton": {
+        "stepModifier": "eased",
+        "damage": "0",
+        "damagePerLOE": "3",
+        "bonus": "0",
+        "pool": "Pool",
+        "teen": "",
+        "additionalSteps": "0",
+        "effort1": "0",
+        "effort3": "0",
+        "assets": "0",
+        "effort2": "0",
+        "skill": "Practiced",
+        "additionalCost": 0
+      }
+    },
+    "description": "<p>Elige una presa (una única criatura individual que puedas ver). Eres competente en todas las tareas que impliquen seguir, comprender, interactuar o luchar con esa criatura. Sólo puedes tener una presa a la vez. Acción para iniciar.<\/p>",
+    "basic": {
+      "cost": "2",
+      "pool": "Intellect"
+    },
+    "version": 2
+  },
+  "ownership": {
+    "default": 0,
+    "k2TkElLx959B0lm5": 3
+  },
+  "_stats": {
+    "modifiedTime": 1664959722875,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "rLeavHPrdkq6xjNt",
+    "createdTime": null,
+    "systemVersion": "2.0.0-a1",
+    "coreVersion": "10.286"
+  },
+  "name": "Presa",
+  "flags": {"core": {"sourceId": "Compendium.cyphersystem-compendium.abilities.FEkLEYwk7r9KE7oC"}},
+  "_id": "FEkLEYwk7r9KE7oC",
+  "sort": 0,
+  "type": "ability",
+  "_key": "!items!FEkLEYwk7r9KE7oC"
+}

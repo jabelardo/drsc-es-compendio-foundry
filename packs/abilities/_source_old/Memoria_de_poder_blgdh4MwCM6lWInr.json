@@ -1,0 +1,63 @@
+{
+  "img": "systems/cyphersystem/icons/items/ability.svg",
+  "effects": [],
+  "system": {
+    "archived": false,
+    "settings": {
+      "general": {
+        "spellTier": "low",
+        "sorting": "Ability",
+        "unmaskedForm": "Mask"
+      },
+      "linkedItems": {
+        "attack": "",
+        "skill": "",
+        "ability": ""
+      },
+      "rollButton": {
+        "stepModifier": "eased",
+        "damage": 0,
+        "damagePerLOE": 3,
+        "bonus": 0,
+        "pool": "Pool",
+        "teen": "",
+        "additionalSteps": 0,
+        "effort1": "0",
+        "effort3": "0",
+        "assets": "0",
+        "effort2": "0",
+        "skill": "Practiced",
+        "additionalCost": 0
+      }
+    },
+    "description": "<p>Cuando usas Copiar poder, sólo necesitas haber visto la capacidad usada en el último día (en vez de en la última hora), y al usar Esfuerzo se amplía hasta cuánto tiempo atrás puede llegar tu copiado en un día por nivel de Esfuerzo (en vez de una hora por nivel). Capacitador.</p>",
+    "basic": {
+      "cost": "0",
+      "pool": "Pool"
+    },
+    "version": 2
+  },
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "_stats": {
+    "modifiedTime": 1681933618255,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "yThCrv1jSfPXOC2U",
+    "createdTime": 1681932518170,
+    "systemVersion": "2.5.0",
+    "coreVersion": "10.291"
+  },
+  "name": "Memoria de poder",
+  "flags": {
+    "core": {
+      "sourceId": "Item.3g476Rfb09LaAVj4"
+    }
+  },
+  "sort": 0,
+  "_id": "blgdh4MwCM6lWInr",
+  "type": "ability",
+  "_key": "!items!blgdh4MwCM6lWInr"
+}

@@ -1,0 +1,47 @@
+{
+  "img": "systems/cyphersystem/icons/items/cypher.svg",
+  "effects": [],
+  "folder": null,
+  "system": {
+    "archived": false,
+    "rollButton": {
+      "stepModifier": "eased",
+      "damage": 0,
+      "damagePerLOE": 3,
+      "bonus": 0,
+      "pool": "Pool",
+      "teen": "",
+      "additionalSteps": 0,
+      "effort1": 0,
+      "effort3": 0,
+      "assets": 0,
+      "effort2": 0,
+      "skill": "Practiced",
+      "additionalCost": 0
+    },
+    "description": "<p><strong>Nivel:<\/strong> 1d6<\/p>\n<p><strong>Efecto:<\/strong> Con un movimiento de alcance largo, este misil inteligente rastrea y ataca a un objetivo específico (el cual debe estar a la vista cuando se selecciona). Si falla, sigue atacando una vez más por nivel del Cypher hasta que acierte. Por ejemplo, un Cazador/buscador de nivel 4 atacará un máximo de cinco veces. Tira un d100 para determinar el tipo de ataque.<\/p>\n<table class=\"table table-dark table-striped table-sm\">\n <thead>\n <\/thead>\n <tbody>\n  <tr>\n   <td>01-50<\/td>\n   <td>Inflige 8 puntos de daño.<\/td>\n  <\/tr>\n  <tr>\n   <td>51-80<\/td>\n   <td>Lleva una aguja envenenada que inflige 3 puntos de daño más veneno.<\/td>\n  <\/tr>\n  <tr>\n   <td>81-90<\/td>\n   <td>Explota, infligiendo 6 puntos de daño a todos los que estén dentro del alcance inmediato.<\/td>\n  <\/tr>\n  <tr>\n   <td>91-95<\/td>\n   <td>Da una descarga de 4 puntos de daño eléctrico y aturde durante una ronda por nivel del Cypher.<\/td>\n  <\/tr>\n  <tr>\n   <td>96-00<\/td>\n   <td>Cubre al objetivo con una sustancia pegajosa que se endurece de inmediato, manteniéndolo sujeto hasta que se libere con una acción de Vigor (dificultad igual al nivel del Cypher + 2).<\/td>\n  <\/tr>\n <\/tbody>\n<\/table>",
+    "basic": {
+      "identified": true,
+      "level": "1d6"
+    },
+    "version": 2
+  },
+  "ownership": {
+    "default": 0,
+    "k2TkElLx959B0lm5": 3
+  },
+  "_stats": {
+    "modifiedTime": 1664959728394,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "rLeavHPrdkq6xjNt",
+    "createdTime": null,
+    "systemVersion": "2.0.0-a1",
+    "coreVersion": "10.286"
+  },
+  "name": "Cazador/buscador",
+  "flags": {},
+  "sort": 0,
+  "_id": "7zM8O87dW3jbTnU6",
+  "type": "cypher",
+  "_key": "!items!7zM8O87dW3jbTnU6"
+}

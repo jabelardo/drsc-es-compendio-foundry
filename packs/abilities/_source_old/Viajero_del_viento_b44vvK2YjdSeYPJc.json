@@ -1,0 +1,58 @@
+{
+  "img": "systems/cyphersystem/icons/items/ability.svg",
+  "effects": [],
+  "folder": null,
+  "system": {
+    "archived": false,
+    "settings": {
+      "general": {
+        "spellTier": "low",
+        "sorting": "Ability",
+        "unmaskedForm": "Mask"
+      },
+      "rollButton": {
+        "stepModifier": "eased",
+        "damage": 0,
+        "damagePerLOE": 3,
+        "bonus": 0,
+        "pool": "Pool",
+        "teen": "",
+        "additionalSteps": 0,
+        "effort1": 0,
+        "effort3": 0,
+        "assets": 0,
+        "effort2": 0,
+        "skill": "Practiced",
+        "additionalCost": 0
+      }
+    },
+    "description": "<p>Condensas una amplia ala de materia oscura que puede transportarte por el aire durante un periodo de hasta una hora. Por cada nivel de Esfuerzo aplicado, puedes añadir una hora a la duración o transportar una criatura adicional de tu tamaño o menor. Debes tocar a las criaturas adicionales para que queden bajo tu ala. Deben permanecer relativamente quietas mientras dure el ala o se caerán. En términos de movimiento prolongado, vuelas a unos 32 km [20 millas] por hora y no te afecta el terreno. Acción para iniciar.</p>",
+    "basic": {
+      "cost": "4+",
+      "pool": "Intellect"
+    },
+    "version": 2
+  },
+  "ownership": {
+    "default": 0,
+    "k2TkElLx959B0lm5": 3
+  },
+  "_stats": {
+    "modifiedTime": 1664959726540,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "rLeavHPrdkq6xjNt",
+    "createdTime": null,
+    "systemVersion": "2.0.0-a1",
+    "coreVersion": "10.286"
+  },
+  "name": "Viajero del viento",
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.cyphersystem-compendium.abilities.b44vvK2YjdSeYPJc"
+    }
+  },
+  "_id": "b44vvK2YjdSeYPJc",
+  "sort": 0,
+  "type": "ability",
+  "_key": "!items!b44vvK2YjdSeYPJc"
+}

@@ -1,0 +1,16 @@
+{
+  "img": "systems/cyphersystem/icons/items/artifact.svg",
+  "documentCollection": "cyphersystem-compendium.artifacts-fairy-tale",
+  "flags": {},
+  "weight": 3,
+  "range": [
+    37,
+    39
+  ],
+  "documentId": "NQfQzmwOoday9kpX",
+  "text": "Cuerno de destrucción",
+  "_id": "dv0JCSyQyGy2x9iE",
+  "type": 2,
+  "drawn": false,
+  "_key": "!tables.results!rE7quqfGeVxHOAma.dv0JCSyQyGy2x9iE"
+}

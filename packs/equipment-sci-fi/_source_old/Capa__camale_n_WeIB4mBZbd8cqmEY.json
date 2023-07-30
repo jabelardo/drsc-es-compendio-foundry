@@ -1,0 +1,32 @@
+{
+  "name": "Capa, camaleón",
+  "type": "equipment",
+  "img": "systems/cyphersystem/icons/items/equipment.svg",
+  "system": {
+    "version": 2,
+    "description": "<p>Hace al usuario esencialmente invisible, salvo por distorsiones apenas perceptibles, durante un máximo de diez minutos. Proporciona un recurso y un nivel gratuito de Esfuerzo a las tareas de sigilo.</p><blockquote><p>Una capacidad que concede un nivel de Esfuerzo gratuito normalmente debe desbloquearse aplicando al menos un nivel de Esfuerzo, lo que en efecto proporciona un nivel de Esfuerzo adicional al pagado.</p></blockquote>",
+    "archived": false,
+    "basic": {
+      "level": 5,
+      "quantity": 1
+    }
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "cyphersystem",
+    "systemVersion": "2.6.2",
+    "coreVersion": "11.301",
+    "createdTime": 1676539281720,
+    "modifiedTime": 1686394167154,
+    "lastModifiedBy": "ZyqFG5NpQtVrpwj7"
+  },
+  "_id": "WeIB4mBZbd8cqmEY",
+  "folder": "7rmYjOb7uxsMhqw2",
+  "sort": 800000,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "_key": "!items!WeIB4mBZbd8cqmEY"
+}

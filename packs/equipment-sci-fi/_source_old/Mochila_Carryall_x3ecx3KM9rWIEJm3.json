@@ -1,0 +1,32 @@
+{
+  "name": "Mochila Carryall",
+  "type": "equipment",
+  "img": "systems/cyphersystem/icons/items/equipment.svg",
+  "system": {
+    "version": 2,
+    "description": "<p>Como la mochila, pero el plegado dimensional permite guardar un número arbitrario de objetos en su interior, siempre que quepan en la boca de 60 cm [2 pies] de diámetro de la mochila.</p>",
+    "archived": false,
+    "basic": {
+      "level": 5,
+      "quantity": 1
+    }
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "cyphersystem",
+    "systemVersion": "2.6.2",
+    "coreVersion": "11.301",
+    "createdTime": 1676539587196,
+    "modifiedTime": 1686394174154,
+    "lastModifiedBy": "ZyqFG5NpQtVrpwj7"
+  },
+  "_id": "x3ecx3KM9rWIEJm3",
+  "folder": "7rmYjOb7uxsMhqw2",
+  "sort": 900000,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "_key": "!items!x3ecx3KM9rWIEJm3"
+}

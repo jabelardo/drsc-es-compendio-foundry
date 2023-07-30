@@ -1,0 +1,128 @@
+{
+  "img": "modules/drsc-es-compendio-foundry/img/tokens/fey_humanoid.webp",
+  "_stats": {
+    "modifiedTime": 1685355620467,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "yThCrv1jSfPXOC2U",
+    "createdTime": 1667119083820,
+    "systemVersion": "2.6.0",
+    "coreVersion": "10.291"
+  },
+  "flags": {"core": {"sourceId": "Actor.WWztrLGwYskwe4yj"}},
+  "sort": 0,
+  "type": "npc",
+  "_key": "!actors!VK2Iv9hH0ITqmvV9",
+  "prototypeToken": {
+    "displayBars": 40,
+    "displayName": 20,
+    "actorLink": false,
+    "texture": {
+      "scaleX": 1,
+      "offsetX": 0,
+      "scaleY": 1,
+      "offsetY": 0,
+      "src": "icons/svg/mystery-man.svg",
+      "rotation": 0,
+      "tint": null
+    },
+    "lockRotation": false,
+    "rotation": 0,
+    "detectionModes": [],
+    "flags": {},
+    "randomImg": false,
+    "bar1": {"attribute": "pools.health"},
+    "bar2": {"attribute": "basic.level"},
+    "disposition": 0,
+    "light": {
+      "attenuation": 0.5,
+      "color": null,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "animation": {
+        "intensity": 5,
+        "type": null,
+        "reverse": false,
+        "speed": 5
+      },
+      "saturation": 0,
+      "alpha": 0.5,
+      "contrast": 0,
+      "angle": 360,
+      "luminosity": 0.5,
+      "shadows": 0,
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "alpha": 1,
+    "name": "Erlking",
+    "width": 1,
+    "sight": {
+      "saturation": 0,
+      "attenuation": 0.1,
+      "brightness": 0,
+      "color": null,
+      "visionMode": "basic",
+      "contrast": 0,
+      "range": null,
+      "angle": 360,
+      "enabled": false
+    },
+    "height": 1
+  },
+  "effects": [],
+  "system": {
+    "settings": {
+      "general": {
+        "initiativeBonus": 0,
+        "hideArchive": false
+      },
+      "equipment": {
+        "ammo": {"active": false},
+        "armor": {"active": false},
+        "attacks": {"active": false},
+        "materials": {
+          "active": false,
+          "label": ""
+        },
+        "cyphers": {
+          "active": false,
+          "label": ""
+        },
+        "oddities": {
+          "active": false,
+          "label": ""
+        },
+        "artifacts": {
+          "active": false,
+          "label": ""
+        }
+      }
+    },
+    "notes": "<p>Esta criatura vagamente humanoide es una acumulación animada de restos del bosque: corteza, dientes perdidos, maleza enmarañada y suciedad. Lleva una corona de hojas de roble y un manto de niebla.<\/p>\n<p>Sus ojos son agujeros y sus manos, ramitas afiladas. Un erlking es un espíritu hambriento y codicioso considerado Unseelie por la nobleza feérica de ese reino salvaje y malvado. A los erlkings les encanta cazar y comer niños, que son especialmente susceptibles a las promesas y encantos que tejen estas criaturas.<\/p>\n<p>Un erlking es un antiguo noble despojado de título, tierras e incluso forma, y exiliado a la noche por crímenes inimaginables en su crueldad. Las víctimas de un erlking se encuentran a la fría luz del sol, pálidas y sin sangre, con sus órganos vitales mordisqueados.<\/p>\n<p><strong>Motivación:<\/strong> Hambrientos de carne y de reclamar títulos despojados.<\/p>\n<p><strong>Entorno:<\/strong> Casi cualquier lugar boscoso por la noche <strong>Salud:<\/strong> 27<\/p>\n<p><strong>Daño que inflige:<\/strong> 6 puntos<\/p>\n<p><strong>Armadura:<\/strong> 4<\/p>\n<p><strong>Movimiento:<\/strong> Corto; inmediato al excavar<\/p>\n<p><strong>Ajustes:<\/strong> Nivel 7 para tareas de sigilo<\/p>\n<p><strong>Combate:<\/strong> Un erlking prefiere atacar desde lo oculto, y susurrar a un niño u otra criatura a corta distancia de su cama en la noche si la víctima falla una tarea de Defensa por Intelecto. Una criatura afectada permanece bajo el hechizo del erlking hasta una hora o hasta que sea atacada o dañada de otro modo.<\/p>\n<p>Cuando ataca físicamente, un erlking puede atacar tres veces en su turno con brazos de raíz. Un objetivo alcanzado por un zarcillo también debe tener éxito en una tirada de Defensa por Velocidad o quedar atrapado hasta que escape. El erlking inflige automáticamente 6 puntos de daño a cada criatura agarrada en cada ronda hasta que ésta tenga éxito en una tarea basada en Vigor para escapar.<\/p>\n<p>Las armas argentadas y de hierro frío ignoran la Armadura de un erlking. Si los restos de un erlking no se queman ni se destruyen de otro modo, brotará y crecerá un nuevo cuerpo a partir de su cadáver en el plazo de un día.<\/p>\n<p><strong>Interacción:<\/strong> Un erlking puede negociar si las criaturas tienen algo que desea, o si los objetivos están armados con armas argentadas o de hierro frío.<\/p>\n<p><strong>Uso:<\/strong> Un erlking sólo está activo de noche; de día, se esconde bajo un montículo de tierra con maleza indistinguible del terreno circundante.<\/p>\n<p><strong>Intromisiones del DJ:<\/strong> Un personaje sorprendido por un erlking en la oscuridad debe tener éxito en una tarea de Defensa por Intelecto o perder su siguiente acción mientras se desmaya, corre gritando o se queda paralizado de terror.<\/p>",
+    "pools": {"health": {
+      "max": 27,
+      "value": 27
+    }},
+    "description": "",
+    "combat": {
+      "damage": 6,
+      "armor": 4
+    },
+    "basic": {
+      "level": 6,
+      "biography": "<p>Esta criatura vagamente humanoide es una acumulación animada de restos del bosque: corteza, dientes perdidos, maleza enmarañada y suciedad. Lleva una corona de hojas de roble y un manto de niebla.<\/p>\n<p>Sus ojos son agujeros y sus manos, ramitas afiladas. Un erlking es un espíritu hambriento y codicioso considerado Unseelie por la nobleza feérica de ese reino salvaje y malvado. A los erlkings les encanta cazar y comer niños, que son especialmente susceptibles a las promesas y encantos que tejen estas criaturas.<\/p>\n<p>Un erlking es un antiguo noble despojado de título, tierras e incluso forma, y exiliado a la noche por crímenes inimaginables en su crueldad. Las víctimas de un erlking se encuentran a la fría luz del sol, pálidas y sin sangre, con sus órganos vitales mordisqueados.<\/p>\n<p><strong>Motivación:<\/strong> Hambrientos de carne y de reclamar títulos despojados.<\/p>\n<p><strong>Entorno:<\/strong> Casi cualquier lugar boscoso por la noche <strong>Salud:<\/strong> 27<\/p>\n<p><strong>Daño que inflige:<\/strong> 6 puntos<\/p>\n<p><strong>Armadura:<\/strong> 4<\/p>\n<p><strong>Movimiento:<\/strong> Corto; inmediato al excavar<\/p>\n<p><strong>Ajustes:<\/strong> Nivel 7 para tareas de sigilo<\/p>\n<p><strong>Combate:<\/strong> Un erlking prefiere atacar desde lo oculto, y susurrar a un niño u otra criatura a corta distancia de su cama en la noche si la víctima falla una tarea de Defensa por Intelecto. Una criatura afectada permanece bajo el hechizo del erlking hasta una hora o hasta que sea atacada o dañada de otro modo.<\/p>\n<p>Cuando ataca físicamente, un erlking puede atacar tres veces en su turno con brazos de raíz. Un objetivo alcanzado por un zarcillo también debe tener éxito en una tirada de Defensa por Velocidad o quedar atrapado hasta que escape. El erlking inflige automáticamente 6 puntos de daño a cada criatura agarrada en cada ronda hasta que ésta tenga éxito en una tarea basada en Vigor para escapar.<\/p>\n<p>Las armas argentadas y de hierro frío ignoran la Armadura de un erlking. Si los restos de un erlking no se queman ni se destruyen de otro modo, brotará y crecerá un nuevo cuerpo a partir de su cadáver en el plazo de un día.<\/p>\n<p><strong>Interacción:<\/strong> Un erlking puede negociar si las criaturas tienen algo que desea, o si los objetivos están armados con armas argentadas o de hierro frío.<\/p>\n<p><strong>Uso:<\/strong> Un erlking sólo está activo de noche; de día, se esconde bajo un montículo de tierra con maleza indistinguible del terreno circundante.<\/p>\n<p><strong>Intromisiones del DJ:<\/strong> Un personaje sorprendido por un erlking en la oscuridad debe tener éxito en una tarea de Defensa por Intelecto o perder su siguiente acción mientras se desmaya, corre gritando o se queda paralizado de terror.<\/p>"
+    },
+    "version": 2
+  },
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "rLeavHPrdkq6xjNt": 3
+  },
+  "name": "Erlking",
+  "_id": "VK2Iv9hH0ITqmvV9",
+  "items": []
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Armas Pesadas",
+  "sorting": "a",
+  "folder": null,
+  "type": "Item",
+  "_id": "gmBgNEe5tzRUMT3j",
+  "sort": 200000,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "systemId": "cyphersystem",
+    "systemVersion": "2.6.2",
+    "coreVersion": "11.301",
+    "createdTime": null,
+    "modifiedTime": 1686393510059,
+    "lastModifiedBy": "ZyqFG5NpQtVrpwj7"
+  },
+  "_key": "!folders!gmBgNEe5tzRUMT3j"
+}

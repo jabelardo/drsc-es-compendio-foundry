@@ -1,0 +1,49 @@
+{
+  "img": "systems/cyphersystem/icons/items/artifact.svg",
+  "effects": [],
+  "system": {
+    "archived": false,
+    "settings": {"general": {"nameUnidentified": ""}},
+    "rollButton": {
+      "stepModifier": "eased",
+      "damage": 0,
+      "damagePerLOE": 3,
+      "bonus": 0,
+      "pool": "Pool",
+      "teen": "",
+      "additionalSteps": 0,
+      "effort1": 0,
+      "effort3": 0,
+      "assets": 0,
+      "effort2": 0,
+      "skill": "Practiced",
+      "additionalCost": 0
+    },
+    "description": "<p><strong>Nivel:<\/strong> 1d6 + 1<\/p>\n<p>Forma Cristal pequeño<\/p>\n<p><strong>Efecto:<\/strong> El portador de este cristal puede comunicarse telepáticamente con un ser inmortal cuya ubicación se desconoce (probablemente otra dimensión o un reino divino o infernal). El usuario puede conversar con la inteligencia de forma continua, pero en general, el susurrador puede compartir un poco de información útil, perspicacia o consejo aproximadamente una vez al día. A veces, esto se traduce en un recurso sobre una de las acciones del usuario. Por ejemplo, la inteligencia puede sugerir la frase adecuada para hacerse amigo de un tendero y conseguir un buen trato, las herramientas adecuadas para intentar forzar una puerta o el lugar adecuado donde colocar un escudo para desviar un ataque entrante. A veces la información es más amplia, como el camino correcto para llegar a la siguiente ciudad o por qué un grupo de monstruos está atacando la caravana que vigila el portador.<\/p>\n<p>La disposición y la capacidad del susurrador para conversar varían considerablemente. A veces es bastante hablador y ofrece consejos. Otras veces, hay que convencerlo, engatusarlo o engañarlo para que dé información. Y a veces está totalmente ausente por razones que no quiere explicar. La base de conocimientos del susurrador es amplia, pero no omnisciente. No puede ver el futuro, pero a menudo puede predecir resultados basándose en la lógica.<\/p>\n<p><strong>Agotamiento:<\/strong> 1 en 1d20 (comprobar cada día)<\/p>",
+    "basic": {
+      "depletion": "1 in [[/r 1d20 # Depletion roll]]",
+      "identified": true,
+      "level": "1d6+1"
+    },
+    "version": 2
+  },
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "_stats": {
+    "modifiedTime": 1676451419167,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "yThCrv1jSfPXOC2U",
+    "createdTime": 1676367597898,
+    "systemVersion": "2.3.0",
+    "coreVersion": "10.291"
+  },
+  "name": "Susurrador en el éter",
+  "flags": {"core": {"sourceId": "Compendium.cyphersystem-compendium.artifacts-fantasy.l5w2rgM5VUwjsvrW"}},
+  "sort": 0,
+  "_id": "I1Yu9OBjZYCeOyBP",
+  "type": "artifact",
+  "_key": "!items!I1Yu9OBjZYCeOyBP"
+}

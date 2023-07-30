@@ -1,0 +1,54 @@
+{
+  "img": "systems/cyphersystem/icons/items/ability.svg",
+  "effects": [],
+  "folder": null,
+  "system": {
+    "archived": false,
+    "settings": {
+      "general": {
+        "spellTier": "low",
+        "sorting": "Ability",
+        "unmaskedForm": "Mask"
+      },
+      "rollButton": {
+        "stepModifier": "eased",
+        "damage": 0,
+        "damagePerLOE": 3,
+        "bonus": 0,
+        "pool": "Pool",
+        "teen": "",
+        "additionalSteps": 0,
+        "effort1": 0,
+        "effort3": 0,
+        "assets": 0,
+        "effort2": 0,
+        "skill": "Practiced",
+        "additionalCost": 0
+      }
+    },
+    "description": "<p>Si sacas un 1 natural al atacar con tu arma elegida, puedes ignorar o anular la intromisión del DJ en esa tirada. Nunca puedes ser desarmado de tu arma elegida, ni se te caerá accidentalmente. Capacitador.<\/p>",
+    "basic": {
+      "cost": "5",
+      "pool": "Intellect"
+    },
+    "version": 2
+  },
+  "ownership": {
+    "default": 0,
+    "k2TkElLx959B0lm5": 3
+  },
+  "_stats": {
+    "modifiedTime": 1664959721899,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "rLeavHPrdkq6xjNt",
+    "createdTime": null,
+    "systemVersion": "2.0.0-a1",
+    "coreVersion": "10.286"
+  },
+  "name": "Nunca pifiar",
+  "flags": {"core": {"sourceId": "Compendium.cyphersystem-compendium.abilities.imWLlYQs4LTaCTdS"}},
+  "_id": "imWLlYQs4LTaCTdS",
+  "sort": 0,
+  "type": "ability",
+  "_key": "!items!imWLlYQs4LTaCTdS"
+}

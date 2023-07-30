@@ -1,0 +1,58 @@
+{
+  "img": "systems/cyphersystem/icons/items/ability.svg",
+  "effects": [],
+  "folder": null,
+  "system": {
+    "archived": false,
+    "settings": {
+      "general": {
+        "spellTier": "low",
+        "sorting": "Ability",
+        "unmaskedForm": "Mask"
+      },
+      "rollButton": {
+        "stepModifier": "eased",
+        "damage": 0,
+        "damagePerLOE": 3,
+        "bonus": 0,
+        "pool": "Pool",
+        "teen": "",
+        "additionalSteps": 0,
+        "effort1": 0,
+        "effort3": 0,
+        "assets": 0,
+        "effort2": 0,
+        "skill": "Practiced",
+        "additionalCost": 0
+      }
+    },
+    "description": "<p>Cuando lo desees, mientras estés en combate, puedes entrar en un estado de frenesí. Mientras estás en este estado, no puedes usar puntos de Intelecto, pero ganas +1 a tu Ventaja de Vigor y a tu Ventaja de Velocidad. Este efecto dura todo el tiempo que desees, pero termina si no hay ningún combate al alcance de tus sentidos. Capacitador.</p>",
+    "basic": {
+      "cost": "1",
+      "pool": "Intellect"
+    },
+    "version": 2
+  },
+  "ownership": {
+    "default": 0,
+    "k2TkElLx959B0lm5": 3
+  },
+  "_stats": {
+    "modifiedTime": 1664959718722,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "rLeavHPrdkq6xjNt",
+    "createdTime": null,
+    "systemVersion": "2.0.0-a1",
+    "coreVersion": "10.286"
+  },
+  "name": "Frenesí",
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.cyphersystem-compendium.abilities.YGsGHp1rbu3Z7Kdd"
+    }
+  },
+  "_id": "YGsGHp1rbu3Z7Kdd",
+  "sort": 0,
+  "type": "ability",
+  "_key": "!items!YGsGHp1rbu3Z7Kdd"
+}

@@ -1,0 +1,54 @@
+{
+  "img": "systems/cyphersystem/icons/items/ability.svg",
+  "effects": [],
+  "folder": null,
+  "system": {
+    "archived": false,
+    "settings": {
+      "general": {
+        "spellTier": "low",
+        "sorting": "Ability",
+        "unmaskedForm": "Mask"
+      },
+      "rollButton": {
+        "stepModifier": "eased",
+        "damage": 0,
+        "damagePerLOE": 3,
+        "bonus": 0,
+        "pool": "Pool",
+        "teen": "",
+        "additionalSteps": 0,
+        "effort1": 0,
+        "effort3": 0,
+        "assets": 0,
+        "effort2": 0,
+        "skill": "Practiced",
+        "additionalCost": 0
+      }
+    },
+    "description": "<p>Especificas un área confinada -como una puerta abierta, un pasillo o un espacio entre dos árboles- en la que te encuentras. Durante los siguientes diez minutos, si alguien intenta entrar o pasar por esa zona y tú no lo deseas, realizas un ataque automático contra él. Si aciertas, no sólo le infliges daño, sino que debe detener su movimiento. Capacitador.<\/p>",
+    "basic": {
+      "cost": "3",
+      "pool": "Might"
+    },
+    "version": 2
+  },
+  "ownership": {
+    "default": 0,
+    "k2TkElLx959B0lm5": 3
+  },
+  "_stats": {
+    "modifiedTime": 1664959720875,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "rLeavHPrdkq6xjNt",
+    "createdTime": null,
+    "systemVersion": "2.0.0-a1",
+    "coreVersion": "10.286"
+  },
+  "name": "Muro viviente",
+  "flags": {"core": {"sourceId": "Compendium.cyphersystem-compendium.abilities.YeOtzG5ksxonD5RS"}},
+  "_id": "YeOtzG5ksxonD5RS",
+  "sort": 0,
+  "type": "ability",
+  "_key": "!items!YeOtzG5ksxonD5RS"
+}

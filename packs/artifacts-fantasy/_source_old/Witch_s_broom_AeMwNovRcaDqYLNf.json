@@ -1,0 +1,49 @@
+{
+  "img": "systems/cyphersystem/icons/items/artifact.svg",
+  "effects": [],
+  "system": {
+    "archived": false,
+    "settings": {"general": {"nameUnidentified": ""}},
+    "rollButton": {
+      "stepModifier": "eased",
+      "damage": 0,
+      "damagePerLOE": 3,
+      "bonus": 0,
+      "pool": "Pool",
+      "teen": "",
+      "additionalSteps": 0,
+      "effort1": 0,
+      "effort3": 0,
+      "assets": 0,
+      "effort2": 0,
+      "skill": "Practiced",
+      "additionalCost": 0
+    },
+    "description": "<p><strong>Nivel:<\/strong> 1d6 + 2<\/p>\n<p><strong>Aspecto:<\/strong> Una escoba de madera de 2 m [6 pies] de largo<\/p>\n<p><strong>Efecto:<\/strong> Como vehículo, la escoba puede ser conducida una distancia larga cada ronda. En viajes prolongados, puede moverse hasta 160 km [100 millas] por hora.<\/p>\n<p>El portador puede invocar a la escoba para que le conceda un potente estado alucinógeno que dura cuatro horas, durante las cuales todas las tareas se ven obstaculizadas. Una vez finalizadas las alucinaciones, las tareas de Intelecto del portador se ven aliviadas durante los diez minutos siguientes.<\/p>\n<p><strong>Agotamiento:<\/strong> 1 en 1d20<\/p>",
+    "basic": {
+      "depletion": "1 in [[/r 1d20 # Depletion roll]]",
+      "identified": true,
+      "level": "1d6+2"
+    },
+    "version": 2
+  },
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "_stats": {
+    "modifiedTime": 1676451419170,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "yThCrv1jSfPXOC2U",
+    "createdTime": 1676367597883,
+    "systemVersion": "2.3.0",
+    "coreVersion": "10.291"
+  },
+  "name": "Escoba de bruja",
+  "flags": {"core": {"sourceId": "Compendium.cyphersystem-compendium.artifacts-fantasy.36xosgOBwBVH8a2H"}},
+  "sort": 0,
+  "_id": "AeMwNovRcaDqYLNf",
+  "type": "artifact",
+  "_key": "!items!AeMwNovRcaDqYLNf"
+}

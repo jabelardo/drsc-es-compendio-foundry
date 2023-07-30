@@ -1,0 +1,44 @@
+{
+  "name": "Capa, impacto",
+  "type": "armor",
+  "img": "systems/cyphersystem/icons/items/armor.svg",
+  "system": {
+    "version": 2,
+    "description": "<p>Capa elegante con capucha. Si el portador sufre un ataque físico o energético, la prenda se endurece estratégicamente, funcionando como armadura pesada (+3 Armadura), y estorbando como armadura ligera. Nivel 5.</p>",
+    "archived": false,
+    "basic": {
+      "type": "heavy armor",
+      "rating": 3,
+      "cost": 1,
+      "notes": ""
+    },
+    "settings": {
+      "general": {
+        "unmaskedForm": "Mask"
+      }
+    },
+    "active": true
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Item.MD1ukkK8Fy4LVGWP"
+    }
+  },
+  "_stats": {
+    "systemId": "cyphersystem",
+    "systemVersion": "2.6.2",
+    "coreVersion": "11.299",
+    "createdTime": 1676628529506,
+    "modifiedTime": 1685560947687,
+    "lastModifiedBy": "7luxagQiisUFvSQn"
+  },
+  "folder": "EY56XoIdAFu930Uv",
+  "sort": 200000,
+  "_id": "lBwKs3quxhWeB2OQ",
+  "_key": "!items!lBwKs3quxhWeB2OQ"
+}

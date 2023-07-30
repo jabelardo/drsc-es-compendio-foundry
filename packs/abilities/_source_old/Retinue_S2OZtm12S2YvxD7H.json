@@ -1,0 +1,54 @@
+{
+  "img": "systems/cyphersystem/icons/items/ability.svg",
+  "effects": [],
+  "folder": null,
+  "system": {
+    "archived": false,
+    "settings": {
+      "general": {
+        "spellTier": "low",
+        "sorting": "Ability",
+        "unmaskedForm": "Mask"
+      },
+      "rollButton": {
+        "stepModifier": "eased",
+        "damage": 0,
+        "damagePerLOE": 3,
+        "bonus": 0,
+        "pool": "Pool",
+        "teen": "",
+        "additionalSteps": 0,
+        "effort1": 0,
+        "effort3": 0,
+        "assets": 0,
+        "effort2": 0,
+        "skill": "Practiced",
+        "additionalCost": 0
+      }
+    },
+    "description": "<p>Cuatro seguidores de nivel 2 se unen a ti (y a tu primer seguidor, si lo tienes). Uno de sus ajustes debe ser para tareas relacionadas con servir como tus asistentes personales. Además de otras tareas que podrían realizar individualmente en tu nombre, también pueden trabajar juntos para interferir si estás tratando de evitar a alguien, ayudar a ocultarte de la atención de los demás, ayudar a abrirte paso entre una multitud, etc. Si una situación se torna físicamente violenta, aportan un recurso a tus tareas de Defensa por Velocidad y, si lo ordenas, tratan de mantener la atención de un enemigo mientras escapas. Capacitador.<\/p>",
+    "basic": {
+      "cost": "0",
+      "pool": "Pool"
+    },
+    "version": 2
+  },
+  "ownership": {
+    "default": 0,
+    "k2TkElLx959B0lm5": 3
+  },
+  "_stats": {
+    "modifiedTime": 1664959723457,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "rLeavHPrdkq6xjNt",
+    "createdTime": null,
+    "systemVersion": "2.0.0-a1",
+    "coreVersion": "10.286"
+  },
+  "name": "Séquito",
+  "flags": {"core": {"sourceId": "Compendium.cyphersystem-compendium.abilities.S2OZtm12S2YvxD7H"}},
+  "_id": "S2OZtm12S2YvxD7H",
+  "sort": 0,
+  "type": "ability",
+  "_key": "!items!S2OZtm12S2YvxD7H"
+}

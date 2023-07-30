@@ -1,0 +1,128 @@
+{
+  "img": "modules/drsc-es-compendio-foundry/img/tokens/magical-beast.webp",
+  "_stats": {
+    "modifiedTime": 1676797808950,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "yThCrv1jSfPXOC2U",
+    "createdTime": 1676221511063,
+    "systemVersion": "2.3.0",
+    "coreVersion": "10.291"
+  },
+  "flags": {"core": {"sourceId": "Actor.ijt8m9j1A2g9LDN5"}},
+  "sort": 0,
+  "type": "npc",
+  "_key": "!actors!Es1O9FRMWwNIeOKw",
+  "prototypeToken": {
+    "displayBars": 40,
+    "displayName": 20,
+    "actorLink": false,
+    "texture": {
+      "scaleX": 1,
+      "offsetX": 0,
+      "scaleY": 1,
+      "offsetY": 0,
+      "src": "icons/svg/mystery-man.svg",
+      "rotation": 0,
+      "tint": null
+    },
+    "lockRotation": false,
+    "rotation": 0,
+    "detectionModes": [],
+    "flags": {},
+    "randomImg": false,
+    "bar1": {"attribute": "pools.health"},
+    "bar2": {"attribute": "basic.level"},
+    "disposition": 0,
+    "light": {
+      "attenuation": 0.5,
+      "color": null,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "animation": {
+        "intensity": 5,
+        "type": null,
+        "reverse": false,
+        "speed": 5
+      },
+      "saturation": 0,
+      "alpha": 0.5,
+      "contrast": 0,
+      "angle": 360,
+      "luminosity": 0.5,
+      "shadows": 0,
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "alpha": 1,
+    "name": "Basilisco",
+    "width": 1,
+    "sight": {
+      "saturation": 0,
+      "attenuation": 0.1,
+      "brightness": 0,
+      "color": null,
+      "visionMode": "basic",
+      "contrast": 0,
+      "range": null,
+      "angle": 360,
+      "enabled": false
+    },
+    "height": 1
+  },
+  "effects": [],
+  "system": {
+    "settings": {
+      "general": {
+        "initiativeBonus": 0,
+        "hideArchive": false
+      },
+      "equipment": {
+        "ammo": {"active": false},
+        "armor": {"active": false},
+        "attacks": {"active": false},
+        "materials": {
+          "active": false,
+          "label": ""
+        },
+        "cyphers": {
+          "active": false,
+          "label": ""
+        },
+        "oddities": {
+          "active": false,
+          "label": ""
+        },
+        "artifacts": {
+          "active": false,
+          "label": ""
+        }
+      }
+    },
+    "notes": "<p>Un basilisco es una especie de serpiente mágica que se parece a una cobra, tiene una serie de escamas en la cabeza a modo de corona y se arrastra erguida en lugar de deslizarse sobre el vientre. Se alimenta de serpientes y otras criaturas más pequeñas que ella y utiliza su aura venenosa para debilitar y matar a sus presas. Se sabe que emite un gruñido inquietante en lugar del típico silbido de serpiente. Un basilisco adulto mide entre 3 y 5,5 m [10 a 18 pies] de largo.<\/p>\n<p><strong>Motivación:<\/strong> Alimentación<\/p>\n<p><strong>Entorno:<\/strong> Bosques y llanuras<\/p>\n<p><strong>Salud: <\/strong>15<\/p>\n<p><strong>Daño que inflige:<\/strong> 5 puntos<\/p>\n<p><strong>Armadura:<\/strong> 1<\/p>\n<p><strong>Movimiento:<\/strong> Corto<\/p>\n<p><strong>Ajustes: <\/strong>Nivel 6 para percepción y sigilo<\/p>\n<p><strong>Combate:<\/strong> Un basilisco muerde como una serpiente, infligiendo 5 puntos de daño e inyectando un veneno que hace descender al objetivo un grado en el registro de daño si falla una tirada de Defensa por Vigor.<\/p>\n<p>El basilisco puede escupir su veneno a corta distancia, infligiendo 1 punto de daño y haciendo descender al objetivo un grado en el registro de daño si falla una tirada de Defensa por Vigor.<\/p>\n<p>El veneno del basilisco afecta a su respiración y, en su turno, todo lo que se encuentre a su alcance inmediato debe realizar una tirada de Defensa por Vigor o recibir 1 punto de daño por veneno. Debido a esta constante nube invisible de veneno, la guarida de un basilisco está rodeada por un área apestosa de vegetación muerta, tierra marchita y piedra desnuda.<\/p>\n<p>El veneno del basilisco es tan potente que incluso las criaturas inmunes al veneno pueden resultar dañadas por él, recibiendo 5 puntos de daño de Velocidad en lugar de descender en el registro de daño. (Una criatura inmune al veneno y al ácido es totalmente inmune a su veneno).<\/p>\n<p>Cualquiera a corta distancia de un basilisco que se encuentre con su mirada y falle una tirada de Defensa por Vigor se convierte en piedra. En combate, cuando un personaje a corta distancia ataca a un basilisco, debe desviar la mirada para atacar con seguridad (lo que obstaculiza su ataque en dos grados) o hacer una tirada de Defensa por Vigor. Con una tirada de Defensa por Vigor fallida, el personaje recibe 5 puntos de daño ambiental al mineralizarse parcialmente su carne; si el personaje muere por este daño, se convierte en piedra.<\/p>\n<p><strong>Interacción: <\/strong>Los basiliscos actúan como simples animales y responden amenazadoramente si se les molesta o provoca. Si no tiene hambre, un basilisco evita los conflictos y se esconde en su guarida.<\/p>\n<p><strong>Uso:<\/strong> Una zona asolada en un campo, zarzal o bosque sugiere que un basilisco se ha trasladado a la zona. Enjambres de serpientes entran en una aldea, huyendo de un basilisco que se acerca.<\/p>\n<p><strong>Botín: <\/strong>El veneno de basilisco es valioso, pero debe guardarse en un recipiente fuerte y sellado o el portador sucumbirá al veneno. Su sangre tiene propiedades alquímicas relacionadas con la transmutación de metales.<\/p>\n<p><strong>Intromisiones del DJ:<\/strong> El basilisco ataca rápidamente, mordiendo a la misma criatura dos veces en su turno.<\/p>",
+    "pools": {"health": {
+      "max": 15,
+      "value": 15
+    }},
+    "description": "",
+    "combat": {
+      "damage": 5,
+      "armor": 1
+    },
+    "basic": {
+      "level": 5,
+      "biography": "<p>Un basilisco es una especie de serpiente mágica que se parece a una cobra, tiene una serie de escamas en la cabeza a modo de corona y se arrastra erguida en lugar de deslizarse sobre el vientre. Se alimenta de serpientes y otras criaturas más pequeñas que ella y utiliza su aura venenosa para debilitar y matar a sus presas. Se sabe que emite un gruñido inquietante en lugar del típico silbido de serpiente. Un basilisco adulto mide entre 3 y 5,5 m [10 a 18 pies] de largo.<\/p>\n<p><strong>Motivación:<\/strong> Alimentación<\/p>\n<p><strong>Entorno:<\/strong> Bosques y llanuras<\/p>\n<p><strong>Salud: <\/strong>15<\/p>\n<p><strong>Daño que inflige:<\/strong> 5 puntos<\/p>\n<p><strong>Armadura:<\/strong> 1<\/p>\n<p><strong>Movimiento:<\/strong> Corto<\/p>\n<p><strong>Ajustes: <\/strong>Nivel 6 para percepción y sigilo<\/p>\n<p><strong>Combate:<\/strong> Un basilisco muerde como una serpiente, infligiendo 5 puntos de daño e inyectando un veneno que hace descender al objetivo un grado en el registro de daño si falla una tirada de Defensa por Vigor.<\/p>\n<p>El basilisco puede escupir su veneno a corta distancia, infligiendo 1 punto de daño y haciendo descender al objetivo un grado en el registro de daño si falla una tirada de Defensa por Vigor.<\/p>\n<p>El veneno del basilisco afecta a su respiración y, en su turno, todo lo que se encuentre a su alcance inmediato debe realizar una tirada de Defensa por Vigor o recibir 1 punto de daño por veneno. Debido a esta constante nube invisible de veneno, la guarida de un basilisco está rodeada por un área apestosa de vegetación muerta, tierra marchita y piedra desnuda.<\/p>\n<p>El veneno del basilisco es tan potente que incluso las criaturas inmunes al veneno pueden resultar dañadas por él, recibiendo 5 puntos de daño de Velocidad en lugar de descender en el registro de daño. (Una criatura inmune al veneno y al ácido es totalmente inmune a su veneno).<\/p>\n<p>Cualquiera a corta distancia de un basilisco que se encuentre con su mirada y falle una tirada de Defensa por Vigor se convierte en piedra. En combate, cuando un personaje a corta distancia ataca a un basilisco, debe desviar la mirada para atacar con seguridad (lo que obstaculiza su ataque en dos grados) o hacer una tirada de Defensa por Vigor. Con una tirada de Defensa por Vigor fallida, el personaje recibe 5 puntos de daño ambiental al mineralizarse parcialmente su carne; si el personaje muere por este daño, se convierte en piedra.<\/p>\n<p><strong>Interacción: <\/strong>Los basiliscos actúan como simples animales y responden amenazadoramente si se les molesta o provoca. Si no tiene hambre, un basilisco evita los conflictos y se esconde en su guarida.<\/p>\n<p><strong>Uso:<\/strong> Una zona asolada en un campo, zarzal o bosque sugiere que un basilisco se ha trasladado a la zona. Enjambres de serpientes entran en una aldea, huyendo de un basilisco que se acerca.<\/p>\n<p><strong>Botín: <\/strong>El veneno de basilisco es valioso, pero debe guardarse en un recipiente fuerte y sellado o el portador sucumbirá al veneno. Su sangre tiene propiedades alquímicas relacionadas con la transmutación de metales.<\/p>\n<p><strong>Intromisiones del DJ:<\/strong> El basilisco ataca rápidamente, mordiendo a la misma criatura dos veces en su turno.<\/p>"
+    },
+    "version": 2
+  },
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "name": "Basilisco",
+  "_id": "Es1O9FRMWwNIeOKw",
+  "items": []
+}

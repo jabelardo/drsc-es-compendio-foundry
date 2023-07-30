@@ -1,0 +1,16 @@
+{
+  "img": "systems/cyphersystem/icons/items/cypher.svg",
+  "documentCollection": "cyphersystem-compendium.cyphers-fantasy",
+  "flags": {},
+  "weight": 4,
+  "range": [
+    69,
+    72
+  ],
+  "documentId": "dACWPZq7T5kxVY8b",
+  "text": "Protección contra licántropos",
+  "_id": "v7b1oCntHe2HNy88",
+  "type": 2,
+  "drawn": false,
+  "_key": "!tables.results!a3RrTgxzpJRhBZgA.v7b1oCntHe2HNy88"
+}

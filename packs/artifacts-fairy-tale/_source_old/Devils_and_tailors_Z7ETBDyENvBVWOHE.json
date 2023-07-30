@@ -1,0 +1,34 @@
+{
+  "img": "systems/cyphersystem/icons/items/artifact.svg",
+  "effects": [],
+  "system": {
+    "archived": false,
+    "settings": {"general": {"nameUnidentified": ""}},
+    "description": "<p><strong>Nivel:<\/strong> 1d6 + 2<\/p>\n<p><strong>Aspecto:<\/strong> Tablero manchado de sangre con figuras de oro blanco, bronce y perlas.<\/p>\n<p><strong>Efecto:<\/strong> Jugar contra alguien en una partida de damas alivia todas las interacciones sociales positivas del usuario con su oponente. Mientras juega, el usuario puede hacer un movimiento e interactuar con su oponente como una sola acción. El juego dura un número de rondas igual al nivel del artefacto.<\/p>\n<p><strong>Agotamiento:<\/strong> 1 en 1d20 (comprobar cada partida jugada). Tras el agotamiento, el tablero sigue funcionando como un tablero normal.<\/p>\n<p>Puedes determinar el resultado de una partida haciendo que ambos jugadores tiren 2d6. El jugador con el mayor número de piezas que queden en el tablero (tirada más alta) es el ganador.<\/p>",
+    "basic": {
+      "depletion": "1 in [[/r d20]]",
+      "identified": true,
+      "level": "1d6+2"
+    },
+    "version": 2
+  },
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "_stats": {
+    "modifiedTime": 1685302332334,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "yThCrv1jSfPXOC2U",
+    "createdTime": 1685299085435,
+    "systemVersion": "2.6.0",
+    "coreVersion": "10.291"
+  },
+  "name": "Diablos y sastres",
+  "flags": {},
+  "_id": "Z7ETBDyENvBVWOHE",
+  "sort": 0,
+  "type": "artifact",
+  "_key": "!items!Z7ETBDyENvBVWOHE"
+}

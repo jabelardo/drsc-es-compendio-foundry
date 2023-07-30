@@ -1,0 +1,48 @@
+{
+  "img": "systems/cyphersystem/icons/items/artifact.svg",
+  "effects": [],
+  "folder": null,
+  "system": {
+    "archived": false,
+    "rollButton": {
+      "stepModifier": "eased",
+      "damage": 0,
+      "damagePerLOE": 3,
+      "bonus": 0,
+      "pool": "Pool",
+      "teen": "",
+      "additionalSteps": 0,
+      "effort1": 0,
+      "effort3": 0,
+      "assets": 0,
+      "effort2": 0,
+      "skill": "Practiced",
+      "additionalCost": 0
+    },
+    "description": "<p><strong>Nivel:</strong> 1d6 + 2</p>\n<p><strong>Aspecto:</strong> Pequeña estatuilla de un ángel alado</p>\n<p><strong>Efecto:</strong> Una vez activado, el espíritu de la estatuilla emerge y se convierte en un ángel alado de tamaño humano que brilla. Sigue a menos de 1 m [3 pies] del propietario de la estatuilla. Todo lo que se encuentre a distancia larga y ataque al propietario es atacado por el ángel guardian, que envía un rayo de energía que corroe la carne, causando un daño igual al nivel del artefacto. Una vez activado, funciona durante un día.</p>\n<p><strong>Agotamiento:</strong> 1 en 1d10</p>",
+    "basic": {
+      "depletion": "1 in [[/r 1d10]]",
+      "identified": true,
+      "level": "1d6 + 2"
+    },
+    "version": 2
+  },
+  "ownership": {
+    "default": 0,
+    "k2TkElLx959B0lm5": 3
+  },
+  "_stats": {
+    "modifiedTime": 1664959727501,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "rLeavHPrdkq6xjNt",
+    "createdTime": null,
+    "systemVersion": "2.0.0-a1",
+    "coreVersion": "10.286"
+  },
+  "name": "Ángel guardián",
+  "flags": {},
+  "sort": 0,
+  "_id": "Hanw3m7cRoN6XrsV",
+  "type": "artifact",
+  "_key": "!items!Hanw3m7cRoN6XrsV"
+}

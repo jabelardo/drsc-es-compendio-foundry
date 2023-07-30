@@ -1,0 +1,58 @@
+{
+  "name": "Karma",
+  "type": "ability",
+  "img": "systems/cyphersystem/icons/items/ability.svg",
+  "system": {
+    "version": 2,
+    "description": "<p>A veces, los desconocidos simplemente te ayudan. Para obtener la ayuda de un extraño, debes utilizar una Tirada de Recuperación de una acción, diez minutos o una hora (sin obtener su beneficio curativo), y el DJ determina la naturaleza de la ayuda que obtienes. Normalmente, el acto de amabilidad no es suficiente para dar la vuelta a una mala situación por completo, pero puede moderar una mala situación y conducir a nuevas oportunidades. Por ejemplo, si te capturan, un guardia afloja un poco tus ataduras, te trae agua o te entrega un mensaje.</p>",
+    "archived": false,
+    "settings": {
+      "rollButton": {
+        "pool": "Pool",
+        "skill": "Practiced",
+        "assets": "0",
+        "effort1": "0",
+        "effort2": "0",
+        "effort3": "0",
+        "stepModifier": "eased",
+        "additionalSteps": 0,
+        "additionalCost": 0,
+        "damage": 0,
+        "damagePerLOE": 3,
+        "teen": "",
+        "bonus": 0
+      },
+      "general": {
+        "sorting": "Ability",
+        "spellTier": "low",
+        "unmaskedForm": "Mask"
+      }
+    },
+    "basic": {
+      "cost": "0",
+      "pool": "Pool"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "rLeavHPrdkq6xjNt": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Item.yGtY6y2SPfzDdcXo"
+    }
+  },
+  "_stats": {
+    "systemId": "cyphersystem",
+    "systemVersion": "2.0.0-b3",
+    "coreVersion": "10.288",
+    "createdTime": 1666960153348,
+    "modifiedTime": 1666960162234,
+    "lastModifiedBy": "rLeavHPrdkq6xjNt"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "5kX6OM98txwPPO6a",
+  "_key": "!items!5kX6OM98txwPPO6a"
+}

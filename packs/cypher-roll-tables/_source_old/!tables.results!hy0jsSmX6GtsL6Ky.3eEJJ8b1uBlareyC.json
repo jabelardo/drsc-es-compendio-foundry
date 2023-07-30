@@ -1,0 +1,16 @@
+{
+  "img": "icons/svg/d20-black.svg",
+  "documentCollection": "",
+  "flags": {},
+  "weight": 1,
+  "range": [
+    15,
+    15
+  ],
+  "documentId": null,
+  "_id": "3eEJJ8b1uBlareyC",
+  "text": "Moneda mágica o flecha rota",
+  "type": 0,
+  "drawn": false,
+  "_key": "!tables.results!hy0jsSmX6GtsL6Ky.3eEJJ8b1uBlareyC"
+}

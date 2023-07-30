@@ -1,0 +1,38 @@
+{
+  "img": "systems/cyphersystem/icons/items/artifact.svg",
+  "effects": [],
+  "system": {
+    "archived": false,
+    "settings": {
+      "general": {
+        "nameUnidentified": ""
+      }
+    },
+    "description": "<p><strong>Nivel:</strong> 1d6</p>\n<p><strong>Aspecto:</strong> Elegante mochila que cambia de color para ocultarse a plena vista</p>\n<p><strong>Efecto:</strong> Cualquier objeto introducido en el interior del saco no puede ser detectado por los sentidos físicos ni por la magia. El saco puede contener un solo objeto, de cualquier tamaño y forma, a la vez. Cyphers en el bolso del afortunado no cuentan contra el límite de Cypher del usuario.</p>\n<p><strong>Agotamiento:</strong> 1 en 1d20 (comprobar cada vez que se añade un objeto a la mochila).</p>\n<p>Las bolsas mágicas tienen muchas formas, como monederos, sacos, mochilas y bolsillos. Algunas pueden usarse para ocultar a alguien de forma segura fuera de la vista, proporcionar un suministro interminable de oro o riquezas, o conceder deseos. La mayoría de las veces se entregan como recompensa por hacer grandes bondades o completar una tarea difícil.</p>",
+    "basic": {
+      "depletion": "1 in [[/r d20]]",
+      "identified": true,
+      "level": "1d6"
+    },
+    "version": 2
+  },
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "_stats": {
+    "modifiedTime": 1685302332334,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "yThCrv1jSfPXOC2U",
+    "createdTime": 1685299313651,
+    "systemVersion": "2.6.0",
+    "coreVersion": "10.291"
+  },
+  "name": "Bolso del afortunado",
+  "flags": {},
+  "_id": "0nv9G0YN2MyvwZ8H",
+  "sort": 0,
+  "type": "artifact",
+  "_key": "!items!0nv9G0YN2MyvwZ8H"
+}

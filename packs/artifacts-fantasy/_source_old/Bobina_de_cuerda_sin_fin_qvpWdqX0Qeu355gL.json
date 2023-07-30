@@ -1,0 +1,57 @@
+{
+  "img": "systems/cyphersystem/icons/items/artifact.svg",
+  "effects": [],
+  "system": {
+    "archived": false,
+    "settings": {
+      "general": {
+        "nameUnidentified": ""
+      }
+    },
+    "rollButton": {
+      "stepModifier": "eased",
+      "damage": 0,
+      "damagePerLOE": 3,
+      "bonus": 0,
+      "pool": "Pool",
+      "teen": "",
+      "additionalSteps": 0,
+      "effort1": 0,
+      "effort3": 0,
+      "assets": 0,
+      "effort2": 0,
+      "skill": "Practiced",
+      "additionalCost": 0
+    },
+    "description": "<p><strong>Nivel:</strong> 1d6</p>\n<p><strong>Aspecto:</strong> Bobina de cuerda</p>\n<p><strong>Efecto:</strong> La bobina de cuerda puede soltarse a razón de 15 m [50 pies] por ronda; sin embargo, no puede encontrarse el final de la cuerda por mucho que el usuario la desenrolle. La cuerda conserva su increíble longitud hasta que se vuelve a enrollar o hasta que se agota. Si se corta, cualquier longitud superior a los 15 m [50 pies] iniciales de la bobina se convierte en polvo tras uno o dos rondas.</p>\n<p><strong>Agotamiento:</strong> 1 en 1d20 (chequea cada uso que lo extienda más allá de 15 m [50 pies])</p>",
+    "basic": {
+      "depletion": "1 in [[/r 1d20 # Depletion roll]]",
+      "identified": true,
+      "level": "1d6"
+    },
+    "version": 2
+  },
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "_stats": {
+    "modifiedTime": 1676451418864,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "yThCrv1jSfPXOC2U",
+    "createdTime": 1676367597889,
+    "systemVersion": "2.3.0",
+    "coreVersion": "10.291"
+  },
+  "name": "Bobina de cuerda sin fin",
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.cyphersystem-compendium.artifacts-fantasy.JTE81o0WMFAf4PlZ"
+    }
+  },
+  "sort": 0,
+  "_id": "qvpWdqX0Qeu355gL",
+  "type": "artifact",
+  "_key": "!items!qvpWdqX0Qeu355gL"
+}

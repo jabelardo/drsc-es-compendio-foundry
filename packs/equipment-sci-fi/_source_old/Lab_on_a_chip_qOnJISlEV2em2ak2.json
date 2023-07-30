@@ -1,0 +1,32 @@
+{
+  "name": "Laboratorio en un chip",
+  "type": "equipment",
+  "img": "systems/cyphersystem/icons/items/equipment.svg",
+  "system": {
+    "version": 2,
+    "description": "<p>Cubo portátil de 15 cm [6 pulgadas] con muchas entradas y lecturas (y conexiones de red). Alivia en dos grados cualquier tarea de investigación en la que la percepción a pequeña escala pueda proporcionar información adicional, aunque el análisis requiere unos diez minutos.</p>",
+    "archived": false,
+    "basic": {
+      "level": null,
+      "quantity": 1
+    }
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "cyphersystem",
+    "systemVersion": "2.6.2",
+    "coreVersion": "11.301",
+    "createdTime": 1676537652129,
+    "modifiedTime": 1686393707833,
+    "lastModifiedBy": "ZyqFG5NpQtVrpwj7"
+  },
+  "_id": "qOnJISlEV2em2ak2",
+  "folder": "40FMwVrL57gMPm5j",
+  "sort": 900000,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "_key": "!items!qOnJISlEV2em2ak2"
+}

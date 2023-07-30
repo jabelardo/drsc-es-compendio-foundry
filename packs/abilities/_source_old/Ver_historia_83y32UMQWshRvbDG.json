@@ -1,0 +1,58 @@
+{
+  "img": "systems/cyphersystem/icons/items/ability.svg",
+  "effects": [],
+  "folder": null,
+  "system": {
+    "archived": false,
+    "settings": {
+      "general": {
+        "spellTier": "low",
+        "sorting": "Ability",
+        "unmaskedForm": "Mask"
+      },
+      "rollButton": {
+        "stepModifier": "eased",
+        "damage": 0,
+        "damagePerLOE": 3,
+        "bonus": 0,
+        "pool": "Pool",
+        "teen": "",
+        "additionalSteps": 0,
+        "effort1": 0,
+        "effort3": 0,
+        "assets": 0,
+        "effort2": 0,
+        "skill": "Practiced",
+        "additionalCost": 0
+      }
+    },
+    "description": "<p>Tocas un objeto, lees los ecos sutiles de su existencia a través del tiempo, haces al DJ una pregunta sobre el pasado del objeto y obtienes una respuesta general. Las respuestas suelen ser en forma de breves imágenes o sensaciones más que respuestas específicas en un idioma. El DJ asigna un nivel a la pregunta, de modo que cuanto más oscura sea la respuesta, más difícil será la tarea. \"En general, el conocimiento que podrías encontrar buscando en otro lugar que no sea tu ubicación actual es de nivel 1, y el conocimiento oscuro del pasado es de nivel 7. Después de usar esta capacidad, tienes un recurso en la identificación del objeto. Acción. (\"Oscuro\" es un término relativo -un sabio podría no saber cómo un vampiro adquirió un artefacto específico, pero para alguien que use Ver historia en ese artefacto sería fácil percibir ese evento).</p>",
+    "basic": {
+      "cost": "4",
+      "pool": "Intellect"
+    },
+    "version": 2
+  },
+  "ownership": {
+    "default": 0,
+    "k2TkElLx959B0lm5": 3
+  },
+  "_stats": {
+    "modifiedTime": 1664959723820,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "rLeavHPrdkq6xjNt",
+    "createdTime": null,
+    "systemVersion": "2.0.0-a1",
+    "coreVersion": "10.286"
+  },
+  "name": "Ver historia",
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.cyphersystem-compendium.abilities.83y32UMQWshRvbDG"
+    }
+  },
+  "_id": "83y32UMQWshRvbDG",
+  "sort": 0,
+  "type": "ability",
+  "_key": "!items!83y32UMQWshRvbDG"
+}

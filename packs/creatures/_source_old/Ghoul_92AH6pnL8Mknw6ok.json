@@ -1,0 +1,135 @@
+{
+  "img": "modules/drsc-es-compendio-foundry/img/tokens/undead_sentient.webp",
+  "_stats": {
+    "modifiedTime": 1676797809077,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "yThCrv1jSfPXOC2U",
+    "createdTime": null,
+    "systemVersion": "2.3.0",
+    "coreVersion": "10.291"
+  },
+  "flags": {},
+  "sort": 0,
+  "type": "npc",
+  "_key": "!actors!92AH6pnL8Mknw6ok",
+  "prototypeToken": {
+    "displayBars": 40,
+    "displayName": 20,
+    "actorLink": false,
+    "lockRotation": false,
+    "texture": {
+      "scaleX": 1,
+      "offsetX": 0,
+      "scaleY": 1,
+      "offsetY": 0,
+      "src": "icons/svg/mystery-man.svg",
+      "rotation": 0,
+      "tint": null
+    },
+    "rotation": 0,
+    "detectionModes": [],
+    "flags": {},
+    "randomImg": false,
+    "bar1": {"attribute": "pools.health"},
+    "bar2": {"attribute": "basic.level"},
+    "disposition": 0,
+    "light": {
+      "attenuation": 0.5,
+      "color": null,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "animation": {
+        "intensity": 5,
+        "reverse": false,
+        "type": null,
+        "speed": 5
+      },
+      "saturation": 0,
+      "alpha": 0.5,
+      "contrast": 0,
+      "angle": 360,
+      "luminosity": 0.5,
+      "shadows": 0,
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "alpha": 1,
+    "name": "Ghoul",
+    "width": 1,
+    "sight": {
+      "saturation": 0,
+      "brightness": 1,
+      "attenuation": 0.1,
+      "color": null,
+      "visionMode": "basic",
+      "contrast": 0,
+      "angle": 360,
+      "range": 0,
+      "enabled": false
+    },
+    "height": 1
+  },
+  "effects": [],
+  "folder": null,
+  "system": {
+    "settings": {
+      "skills": {},
+      "abilities": {},
+      "general": {
+        "initiativeBonus": 0,
+        "hideArchive": false
+      },
+      "equipment": {
+        "ammo": {"active": false},
+        "armor": {"active": false},
+        "attacks": {"active": false},
+        "materials": {
+          "active": false,
+          "label": ""
+        },
+        "cyphers": {
+          "active": false,
+          "label": ""
+        },
+        "oddities": {
+          "active": false,
+          "label": ""
+        },
+        "artifacts": {
+          "active": false,
+          "label": ""
+        }
+      }
+    },
+    "notes": "<p>Los ghoules pasan casi tanto tiempo bajo tierra como los cadáveres, pero están muy vivos. Sus cuerpos carecen de pelo y son tan suaves como la porcelana que sus rostros a veces se confunden con máscaras, aunque sean máscaras manchadas de sangre. Los ghoules salen a la superficie por la noche para recoger restos humanoides o robar de sus tumbas a los recién enterrados, aunque muchos prefieren comer de las víctimas aún vivas.<\/p>\n<p>La mayoría de los ghoules son comedores orgánicos de carne humana, pero unas pocas poblaciones de ghoules son más refinadas. éstos llevan ropa, tienen un lenguaje y unas costumbres sofisticadas, viven en grandes ciudades subterráneas diseñadas por ellos mismos y luchan con cuchillas de hueso blancas como la leche. Estos ghoules civilizados afirman tener el dominio sobre los restos de todos los humanos, según la antigua costumbre, aunque sólo a veces hagan valer ese privilegio. Se comen a los muertos para absorber los recuerdos residuales que quedan en los cadáveres.<\/p>\n<p><strong>Motivación:<\/strong> Alimentación (carne muerta); conocimiento (en ciertos casos raros)<\/p>\n<p><strong>Entorno:<\/strong> En cualquier lugar por encima del suelo durante la noche, normalmente en grupos de tres o más, o en guaridas subterráneas<\/p>\n<p><strong>Salud:<\/strong> 12<\/p>\n<p><strong>Daño que inflige:<\/strong> 5 puntos<\/p>\n<p><strong>Movimiento:<\/strong> Corto<\/p>\n<p><strong>Ajustes: <\/strong>Nivel 5 para dos áreas de conocimiento<\/p>\n<p><strong>Combate:<\/strong> La saliva de los ghoules contiene un agente paralizante. Los mordiscos de los ghoules (y las armas usadas por los ghoules) infligen daño y, si se falla la tirada de Defensa por Vigor, dejan al objetivo paralizado durante un minuto. Un objetivo paralizado puede intentar una tarea basada en el Vigor cada ronda para recuperar la movilidad, pero durante el siguiente minuto, los ataques, las defensas y las tareas de movimiento se ven obstaculizadas.<\/p>\n<p>Los ghoules pueden ver en la oscuridad. Son ciegos a plena luz del día, pero los ghoules civilizados que viajan a la superficie llevan lentes que les cubren los ojos, lo que les permite ver sin problemas a plena luz del sol.<\/p>\n<p><strong>Interacción:<\/strong> No se puede negociar con los ghouls comunes, aunque un raro ghoul civilizado es un excelente lingüista. Estos últimos están dispuestos a negociar a cambio del cuerpo de alguien que tenía conocimientos o que guardaba valiosos secretos en vida.<\/p>\n<p><strong>Uso:<\/strong> Si un PJ necesita información que no se puede obtener de otra manera, un viaje a una ciudad ghoul podría valer la pena, ya que se rumorea que las criaturas tienen bibliotecas oscuras bajo tierra que guardan conocimientos una vez conocidos por los humanos.<\/p>\n<p><strong>Botín:<\/strong> Si los PJs derrotan a un grupo de ghoules civilizados, podrían encontrar un Cypher y unos juegos de gafas negras que permiten al usuario mirar directamente al sol y verlo como un círculo pálido.<\/p>\n<p><strong>Intromisiones del DJ:<\/strong> El ghoul escupe en el ojo del personaje, introduciendo directamente el paralizante en el torrente sanguíneo de la víctima. La tirada de Defensa por Vigor de la víctima para evitar quedar paralizada se ve obstaculizada.<\/p>",
+    "pools": {"health": {
+      "max": 12,
+      "value": 12
+    }},
+    "description": "",
+    "combat": {
+      "damage": 5,
+      "armor": 0
+    },
+    "basic": {
+      "level": 1,
+      "biography": "<p>Los ghoules pasan casi tanto tiempo bajo tierra como los cadáveres, pero están muy vivos. Sus cuerpos carecen de pelo y son tan suaves como la porcelana que sus rostros a veces se confunden con máscaras, aunque sean máscaras manchadas de sangre. Los ghoules salen a la superficie por la noche para recoger restos humanoides o robar de sus tumbas a los recién enterrados, aunque muchos prefieren comer de las víctimas aún vivas.<\/p>\n<p>La mayoría de los ghoules son comedores orgánicos de carne humana, pero unas pocas poblaciones de ghoules son más refinadas. éstos llevan ropa, tienen un lenguaje y unas costumbres sofisticadas, viven en grandes ciudades subterráneas diseñadas por ellos mismos y luchan con cuchillas de hueso blancas como la leche. Estos ghoules civilizados afirman tener el dominio sobre los restos de todos los humanos, según la antigua costumbre, aunque sólo a veces hagan valer ese privilegio. Se comen a los muertos para absorber los recuerdos residuales que quedan en los cadáveres.<\/p>\n<p><strong>Motivación:<\/strong> Alimentación (carne muerta); conocimiento (en ciertos casos raros)<\/p>\n<p><strong>Entorno:<\/strong> En cualquier lugar por encima del suelo durante la noche, normalmente en grupos de tres o más, o en guaridas subterráneas<\/p>\n<p><strong>Salud:<\/strong> 12<\/p>\n<p><strong>Daño que inflige:<\/strong> 5 puntos<\/p>\n<p><strong>Movimiento:<\/strong> Corto<\/p>\n<p><strong>Ajustes: <\/strong>Nivel 5 para dos áreas de conocimiento<\/p>\n<p><strong>Combate:<\/strong> La saliva de los ghoules contiene un agente paralizante. Los mordiscos de los ghoules (y las armas usadas por los ghoules) infligen daño y, si se falla la tirada de Defensa por Vigor, dejan al objetivo paralizado durante un minuto. Un objetivo paralizado puede intentar una tarea basada en el Vigor cada ronda para recuperar la movilidad, pero durante el siguiente minuto, los ataques, las defensas y las tareas de movimiento se ven obstaculizadas.<\/p>\n<p>Los ghoules pueden ver en la oscuridad. Son ciegos a plena luz del día, pero los ghoules civilizados que viajan a la superficie llevan lentes que les cubren los ojos, lo que les permite ver sin problemas a plena luz del sol.<\/p>\n<p><strong>Interacción:<\/strong> No se puede negociar con los ghouls comunes, aunque un raro ghoul civilizado es un excelente lingüista. Estos últimos están dispuestos a negociar a cambio del cuerpo de alguien que tenía conocimientos o que guardaba valiosos secretos en vida.<\/p>\n<p><strong>Uso:<\/strong> Si un PJ necesita información que no se puede obtener de otra manera, un viaje a una ciudad ghoul podría valer la pena, ya que se rumorea que las criaturas tienen bibliotecas oscuras bajo tierra que guardan conocimientos una vez conocidos por los humanos.<\/p>\n<p><strong>Botín:<\/strong> Si los PJs derrotan a un grupo de ghoules civilizados, podrían encontrar un Cypher y unos juegos de gafas negras que permiten al usuario mirar directamente al sol y verlo como un círculo pálido.<\/p>\n<p><strong>Intromisiones del DJ:<\/strong> El ghoul escupe en el ojo del personaje, introduciendo directamente el paralizante en el torrente sanguíneo de la víctima. La tirada de Defensa por Vigor de la víctima para evitar quedar paralizada se ve obstaculizada.<\/p>"
+    },
+    "teen": {
+      "settings": {},
+      "pools": {},
+      "basic": {}
+    },
+    "version": 2
+  },
+  "ownership": {
+    "N1n5f3sdQOJFmoJe": 3,
+    "default": 0
+  },
+  "name": "Ghoul",
+  "_id": "92AH6pnL8Mknw6ok",
+  "items": []
+}

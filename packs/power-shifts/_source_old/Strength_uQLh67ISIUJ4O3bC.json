@@ -1,0 +1,50 @@
+{
+  "_id": "uQLh67ISIUJ4O3bC",
+  "name": "Fuerza",
+  "type": "power-shift",
+  "img": "systems/cyphersystem/icons/items/power-shift.svg",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "core": {
+      "sourceId": "Item.6FDdGvvSGXhMgPSn"
+    }
+  },
+  "system": {
+    "version": 2,
+    "description": "<p>Afecta a todas las tareas que impliquen fuerza, incluidos los saltos y el daño en ataques melé o lanzados (3 puntos adicionales de daño por turno), pero no las tiradas de ataque.</p>",
+    "archived": false,
+    "basic": {
+      "shifts": 1
+    },
+    "rollButton": {
+      "pool": "Pool",
+      "skill": "Practiced",
+      "assets": 0,
+      "effort1": 0,
+      "effort2": 0,
+      "effort3": 0,
+      "stepModifier": "eased",
+      "additionalSteps": 0,
+      "additionalCost": 0,
+      "damage": 0,
+      "damagePerLOE": 3,
+      "teen": "",
+      "bonus": 0
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "PuTLyROJQSt4BKQW": 3
+  },
+  "_stats": {
+    "systemId": "cyphersystem",
+    "systemVersion": "2.5.0",
+    "coreVersion": "10.291",
+    "createdTime": null,
+    "modifiedTime": 1682092615749,
+    "lastModifiedBy": "yThCrv1jSfPXOC2U"
+  },
+  "_key": "!items!uQLh67ISIUJ4O3bC"
+}

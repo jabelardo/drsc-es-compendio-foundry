@@ -1,0 +1,16 @@
+{
+  "img": "systems/cyphersystem/icons/items/cypher.svg",
+  "documentCollection": "cyphersystem-compendium.cyphers-fairy-tale",
+  "flags": {},
+  "weight": 1,
+  "range": [
+    11,
+    11
+  ],
+  "documentId": "eeWClO0ucsaeNRw4",
+  "text": "Pastel de mirlo",
+  "_id": "YAwItnimbRD5CiCQ",
+  "type": 2,
+  "drawn": false,
+  "_key": "!tables.results!CkH6ebWiUPmhjbw0.YAwItnimbRD5CiCQ"
+}

@@ -1,0 +1,16 @@
+{
+  "img": "systems/cyphersystem/icons/items/artifact.svg",
+  "documentCollection": "cyphersystem-compendium.artifacts-fairy-tale",
+  "flags": {},
+  "weight": 2,
+  "range": [
+    26,
+    27
+  ],
+  "documentId": "JE8jcs7VB0TJNPab",
+  "text": "Lámpara de genio",
+  "_id": "Xx1ZdGOldJHDOHHA",
+  "type": 2,
+  "drawn": false,
+  "_key": "!tables.results!rE7quqfGeVxHOAma.Xx1ZdGOldJHDOHHA"
+}

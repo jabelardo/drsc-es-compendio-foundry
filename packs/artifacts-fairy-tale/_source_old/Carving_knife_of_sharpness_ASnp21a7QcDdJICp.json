@@ -1,0 +1,34 @@
+{
+  "img": "systems/cyphersystem/icons/items/artifact.svg",
+  "effects": [],
+  "system": {
+    "archived": false,
+    "settings": {"general": {"nameUnidentified": ""}},
+    "description": "<p><strong>Nivel:<\/strong> 1d6 + 1<\/p>\n<p><strong>Aspecto:<\/strong> Cuchillo (arma ligera)<\/p>\n<p><strong>Efecto:<\/strong> Esta arma funciona como un cuchillo normal de su clase. Cuando su portador obtiene un efecto especial mayor al atacar, puede elegir cortar uno de los miembros del objetivo.<\/p>\n<p><strong>Agotamiento:<\/strong> 1 en 1d10 (tirada en cada efecto mayor)<\/p>\n<p>El DJ determina el efecto de la pérdida de un miembro; sin embargo, muchos seres mágicos pueden soportar la pérdida de miembros con mucho más aplomo del que mostraría una criatura mortal en una situación similar.<\/p>",
+    "basic": {
+      "depletion": "1 in [[/r d10]]",
+      "identified": true,
+      "level": "1d6+1"
+    },
+    "version": 2
+  },
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "_stats": {
+    "modifiedTime": 1685302332333,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "yThCrv1jSfPXOC2U",
+    "createdTime": 1685299002250,
+    "systemVersion": "2.6.0",
+    "coreVersion": "10.291"
+  },
+  "name": "Cuchillo tallador de gran filo",
+  "flags": {},
+  "_id": "ASnp21a7QcDdJICp",
+  "sort": 0,
+  "type": "artifact",
+  "_key": "!items!ASnp21a7QcDdJICp"
+}

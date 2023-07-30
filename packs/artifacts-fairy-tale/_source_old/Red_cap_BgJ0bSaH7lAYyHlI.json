@@ -1,0 +1,34 @@
+{
+  "img": "systems/cyphersystem/icons/items/artifact.svg",
+  "effects": [],
+  "system": {
+    "archived": false,
+    "settings": {"general": {"nameUnidentified": ""}},
+    "description": "<p><strong>Nivel:<\/strong> 1d6 + 3<\/p>\n<p><strong>Aspecto:<\/strong> Gorro de lana empapado en sangre humana<\/p>\n<p><strong>Efecto:<\/strong> El portador obtiene una tirada de recuperación extra cada día que no es una acción y no cuenta para su límite diario. Una vez que el portador utiliza esta tirada de recuperación, no puede volver a hacerlo hasta después de hacer una tirada de recuperación de diez horas y empapar el gorro en sangre humana fresca.<\/p>\n<p><strong>Agotamiento:<\/strong> 1 en 1d20 (comprobar cada día de uso)<\/p>",
+    "basic": {
+      "depletion": "1 in [[/r d20]]",
+      "identified": true,
+      "level": "1d6+3"
+    },
+    "version": 2
+  },
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "_stats": {
+    "modifiedTime": 1685302332335,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "yThCrv1jSfPXOC2U",
+    "createdTime": 1685300791599,
+    "systemVersion": "2.6.0",
+    "coreVersion": "10.291"
+  },
+  "name": "Gorro rojo",
+  "flags": {},
+  "_id": "BgJ0bSaH7lAYyHlI",
+  "sort": 0,
+  "type": "artifact",
+  "_key": "!items!BgJ0bSaH7lAYyHlI"
+}

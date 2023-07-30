@@ -1,0 +1,16 @@
+{
+  "img": "systems/cyphersystem/icons/items/cypher.svg",
+  "documentCollection": "cyphersystem-compendium.cyphers-fairy-tale",
+  "flags": {},
+  "weight": 1,
+  "range": [
+    55,
+    55
+  ],
+  "documentId": "0Mi9xL3CoXPImuQU",
+  "text": "Pepito Grillo",
+  "_id": "YHwmmb13Ec333zul",
+  "type": 2,
+  "drawn": false,
+  "_key": "!tables.results!CkH6ebWiUPmhjbw0.YHwmmb13Ec333zul"
+}

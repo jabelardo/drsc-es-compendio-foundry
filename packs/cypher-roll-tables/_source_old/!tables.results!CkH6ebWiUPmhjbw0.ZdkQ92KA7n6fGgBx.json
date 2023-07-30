@@ -1,0 +1,16 @@
+{
+  "img": "systems/cyphersystem/icons/items/cypher.svg",
+  "documentCollection": "cyphersystem-compendium.cyphers-fairy-tale",
+  "flags": {},
+  "weight": 1,
+  "range": [
+    60,
+    60
+  ],
+  "documentId": "Mc0RNZsiX1cDr1WW",
+  "text": "Habas mágicas",
+  "_id": "ZdkQ92KA7n6fGgBx",
+  "type": 2,
+  "drawn": false,
+  "_key": "!tables.results!CkH6ebWiUPmhjbw0.ZdkQ92KA7n6fGgBx"
+}

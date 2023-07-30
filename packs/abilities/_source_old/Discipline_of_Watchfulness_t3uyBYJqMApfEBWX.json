@@ -1,0 +1,54 @@
+{
+  "img": "systems/cyphersystem/icons/items/ability.svg",
+  "effects": [],
+  "folder": null,
+  "system": {
+    "archived": false,
+    "settings": {
+      "general": {
+        "spellTier": "low",
+        "sorting": "Ability",
+        "unmaskedForm": "Mask"
+      },
+      "rollButton": {
+        "stepModifier": "eased",
+        "damage": 0,
+        "damagePerLOE": 3,
+        "bonus": 0,
+        "pool": "Pool",
+        "teen": "",
+        "additionalSteps": 0,
+        "effort1": 0,
+        "effort3": 0,
+        "assets": 0,
+        "effort2": 0,
+        "skill": "Practiced",
+        "additionalCost": 0
+      }
+    },
+    "description": "<p>Mantienes a tus aliados atentos con preguntas ocasionales, bromas e incluso simulacros para aquellos que quieran participar. Luego de pasar 24 horas contigo, tus aliados pueden aplicar un nivel gratuito de Esfuerzo a cualquier tarea de iniciativa que intenten. Este beneficio es continuo mientras permanezcas en la compañía de tus aliados. Termina si te vas, pero se reanuda si vuelves a la compañía de los aliados en las siguientes 24 horas. Si dejas la compañía de los aliados durante más de 24 horas, deben pasar otras 24 horas juntos para reactivar el beneficio. Debes gastar el coste de puntos de Intelecto cada 24 horas que desees mantener el beneficio activo. Capacitador.<\/p>",
+    "basic": {
+      "cost": "7",
+      "pool": "Intellect"
+    },
+    "version": 2
+  },
+  "ownership": {
+    "default": 0,
+    "k2TkElLx959B0lm5": 3
+  },
+  "_stats": {
+    "modifiedTime": 1664959716386,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "rLeavHPrdkq6xjNt",
+    "createdTime": null,
+    "systemVersion": "2.0.0-a1",
+    "coreVersion": "10.286"
+  },
+  "name": "Disciplina de vigilancia",
+  "flags": {"core": {"sourceId": "Compendium.cyphersystem-compendium.abilities.t3uyBYJqMApfEBWX"}},
+  "_id": "t3uyBYJqMApfEBWX",
+  "sort": 0,
+  "type": "ability",
+  "_key": "!items!t3uyBYJqMApfEBWX"
+}

@@ -1,0 +1,32 @@
+{
+  "name": "Ropa elegante",
+  "type": "equipment",
+  "img": "systems/cyphersystem/icons/items/equipment.svg",
+  "system": {
+    "version": 2,
+    "description": "<p>Ropa adecuada para moverse en círculos de élite; proporciona un recurso a las tiradas de interacción en algunas situaciones.</p>",
+    "archived": false,
+    "basic": {
+      "level": 3,
+      "quantity": 1
+    }
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "cyphersystem",
+    "systemVersion": "2.3.0",
+    "coreVersion": "10.291",
+    "createdTime": 1676534666941,
+    "modifiedTime": 1676535628914,
+    "lastModifiedBy": "yThCrv1jSfPXOC2U"
+  },
+  "_id": "hBzr0nQkHPVoiydS",
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "_key": "!items!hBzr0nQkHPVoiydS"
+}

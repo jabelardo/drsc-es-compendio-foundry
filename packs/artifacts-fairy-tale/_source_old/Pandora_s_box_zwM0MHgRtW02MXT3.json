@@ -1,0 +1,34 @@
+{
+  "img": "systems/cyphersystem/icons/items/artifact.svg",
+  "effects": [],
+  "system": {
+    "archived": false,
+    "settings": {"general": {"nameUnidentified": ""}},
+    "description": "<p><strong>Nivel:<\/strong> 1d6 + 4<\/p>\n<p><strong>Aspecto:<\/strong> Elegante caja de oro con tapa abatible y cierre con llave<\/p>\n<p><strong>Efecto:<\/strong> Cuando se abre la caja, sale luz. La luz se funde en una forma dorada que representa una profunda sensación de paz y esperanza para la persona que abrió la caja. Durante un número de asaltos igual al nivel del artefacto, la forma dorada alivia todas las acciones realizadas por quien la abre. Alternativamente, quien la abre puede compartir el efecto de la forma dorada como su acción, aliviando todas las acciones realizadas por sus aliados a corta distancia (pero sin beneficiarse a sí mismo).<\/p>\n<p><strong>Agotamiento:<\/strong> 1 en 1d6<\/p>",
+    "basic": {
+      "depletion": "1 in [[/r d6]]",
+      "identified": true,
+      "level": "1d6+4"
+    },
+    "version": 2
+  },
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "_stats": {
+    "modifiedTime": 1685302332335,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "yThCrv1jSfPXOC2U",
+    "createdTime": 1685300633368,
+    "systemVersion": "2.6.0",
+    "coreVersion": "10.291"
+  },
+  "name": "Caja de Pandora",
+  "flags": {},
+  "_id": "zwM0MHgRtW02MXT3",
+  "sort": 0,
+  "type": "artifact",
+  "_key": "!items!zwM0MHgRtW02MXT3"
+}

@@ -1,0 +1,33 @@
+{
+  "img": "systems/cyphersystem/icons/items/cypher.svg",
+  "effects": [],
+  "system": {
+    "archived": false,
+    "settings": {"general": {"nameUnidentified": ""}},
+    "description": "<p><strong>Nivel:<\/strong> 1d6<\/p>\n<p><strong>Aspecto:<\/strong> Concha de caracol dorada<\/p>\n<p><strong>Efecto:<\/strong> Cuando se sopla suavemente, la concha se expande en una estructura simple con una puerta principal y paredes que dejan entrar una luz suave. Desde dentro de la estructura, mide unos 3 m por 3 m por 6 m [10 pies por 10 pies por 20 pies]. Desde el exterior, la concha sigue teniendo el mismo aspecto que antes, tanto en tamaño como en forma, por lo que es difícil que los demás se den cuenta. Una vez expandida, la estructura es permanente e inmóvil.<\/p>",
+    "basic": {
+      "identified": true,
+      "level": "1d6"
+    },
+    "version": 2
+  },
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "_stats": {
+    "modifiedTime": 1685280982960,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "yThCrv1jSfPXOC2U",
+    "createdTime": 1685277758674,
+    "systemVersion": "2.6.0",
+    "coreVersion": "10.291"
+  },
+  "name": "Concha dorada",
+  "flags": {},
+  "_id": "foeQv80sZ1EuKx7b",
+  "sort": 0,
+  "type": "cypher",
+  "_key": "!items!foeQv80sZ1EuKx7b"
+}

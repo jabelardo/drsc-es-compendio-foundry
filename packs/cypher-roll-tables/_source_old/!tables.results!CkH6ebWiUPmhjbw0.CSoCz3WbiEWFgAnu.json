@@ -1,0 +1,16 @@
+{
+  "img": "systems/cyphersystem/icons/items/cypher.svg",
+  "documentCollection": "cyphersystem-compendium.cyphers-fairy-tale",
+  "flags": {},
+  "weight": 1,
+  "range": [
+    96,
+    96
+  ],
+  "documentId": "6hapVRH2KhWUjdJc",
+  "text": "Escalera de bruja",
+  "_id": "CSoCz3WbiEWFgAnu",
+  "type": 2,
+  "drawn": false,
+  "_key": "!tables.results!CkH6ebWiUPmhjbw0.CSoCz3WbiEWFgAnu"
+}

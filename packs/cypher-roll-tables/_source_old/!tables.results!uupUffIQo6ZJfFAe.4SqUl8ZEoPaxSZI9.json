@@ -1,0 +1,16 @@
+{
+  "img": "systems/cyphersystem/icons/items/artifact.svg",
+  "documentCollection": "cyphersystem-compendium.artifacts-fantasy",
+  "flags": {},
+  "weight": 3,
+  "range": [
+    35,
+    37
+  ],
+  "documentId": "kKeisD2Jgm7211Mp",
+  "text": "35-37",
+  "_id": "4SqUl8ZEoPaxSZI9",
+  "type": 2,
+  "drawn": false,
+  "_key": "!tables.results!uupUffIQo6ZJfFAe.4SqUl8ZEoPaxSZI9"
+}

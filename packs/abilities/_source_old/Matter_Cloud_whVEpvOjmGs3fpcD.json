@@ -1,0 +1,54 @@
+{
+  "img": "systems/cyphersystem/icons/items/ability.svg",
+  "effects": [],
+  "folder": null,
+  "system": {
+    "archived": false,
+    "settings": {
+      "general": {
+        "spellTier": "low",
+        "sorting": "Ability",
+        "unmaskedForm": "Mask"
+      },
+      "rollButton": {
+        "stepModifier": "eased",
+        "damage": 0,
+        "damagePerLOE": 3,
+        "bonus": 0,
+        "pool": "Pool",
+        "teen": "",
+        "additionalSteps": 0,
+        "effort1": 0,
+        "effort3": 0,
+        "assets": 0,
+        "effort2": 0,
+        "skill": "Practiced",
+        "additionalCost": 0
+      }
+    },
+    "description": "<p>Los guijarros, la tierra, la arena y los escombros se elevan en el aire a tu alrededor para formar una nube arremolinada. La nube se extiende hasta un alcance inmediato, se mueve contigo y dura un minuto. Cuando termina, todos los materiales caen al suelo a tu alrededor. La nube hace más difícil que otras criaturas te ataquen, lo que te da un recurso en las tiradas de Defensa por Velocidad. Además, mientras la nube esté a tu alrededor, puedes usar una acción para azotar el material de modo que abrase todo lo que esté a tu alcance inmediato, infligiendo 1 punto de daño a cada criatura y objeto en la zona. Acción para iniciar.<\/p>",
+    "basic": {
+      "cost": "5",
+      "pool": "Intellect"
+    },
+    "version": 2
+  },
+  "ownership": {
+    "default": 0,
+    "k2TkElLx959B0lm5": 3
+  },
+  "_stats": {
+    "modifiedTime": 1664959721283,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "rLeavHPrdkq6xjNt",
+    "createdTime": null,
+    "systemVersion": "2.0.0-a1",
+    "coreVersion": "10.286"
+  },
+  "name": "Nube de materia",
+  "flags": {"core": {"sourceId": "Compendium.cyphersystem-compendium.abilities.whVEpvOjmGs3fpcD"}},
+  "_id": "whVEpvOjmGs3fpcD",
+  "sort": 0,
+  "type": "ability",
+  "_key": "!items!whVEpvOjmGs3fpcD"
+}

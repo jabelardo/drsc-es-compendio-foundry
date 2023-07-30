@@ -1,0 +1,49 @@
+{
+  "img": "systems/cyphersystem/icons/items/artifact.svg",
+  "effects": [],
+  "system": {
+    "archived": false,
+    "settings": {"general": {"nameUnidentified": ""}},
+    "rollButton": {
+      "stepModifier": "eased",
+      "damage": 0,
+      "damagePerLOE": 3,
+      "bonus": 0,
+      "pool": "Pool",
+      "teen": "",
+      "additionalSteps": 0,
+      "effort1": 0,
+      "effort3": 0,
+      "assets": 0,
+      "effort2": 0,
+      "skill": "Practiced",
+      "additionalCost": 0
+    },
+    "description": "<p><strong>Nivel:<\/strong> 1d6 + 3<\/p>\n<p><strong>Aspecto:<\/strong> Traje completo de armadura ligera, media o pesada.<\/p>\n<p><strong>Efecto:<\/strong> Esta armadura está cuidadosamente elaborada y reforzada con magia para ser más fuerte y protectora que las armaduras típicas. Es una armadura según su tipo (ligera, media o pesada), pero otorga un +1 de Armadura adicional a lo que proporcionaría normalmente. Por ejemplo, la cota de malla es una armadura media (2 de Armadura), por lo que la cota de malla fantasmal proporciona 3 de Armadura.<\/p>\n<p>Cuando se activa, la armadura convierte aleatoriamente al portador en fantasmal e inmaterial durante diez minutos (o durante una hora si el artefacto es de nivel 9 o superior), lo que obstaculiza los ataques al portador en dos grados sin obstaculizar ninguna de las capacidades del personaje. Las armas o ataques multidimensionales especiales (como las capacidades destinadas a dañar a los fantasmas) ignoran esta defensa.<\/p>\n<p><strong>Agotamiento:<\/strong> 1 en 1d10 (para la capacidades de defensa fantasmal, pero tras el agotamiento, el traje sigue funcionando como una armadura normal y proporciona su valor de Armadura completo).<\/p>\n<p>Para determinar al azar el tipo de armadura fantasmal, consulta Descripciones de armas de fantasía.<\/p>",
+    "basic": {
+      "depletion": "1 in [[/r 1d10 # Depletion roll]]",
+      "identified": true,
+      "level": "1d6+3"
+    },
+    "version": 2
+  },
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "_stats": {
+    "modifiedTime": 1676451418968,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "yThCrv1jSfPXOC2U",
+    "createdTime": 1676367597888,
+    "systemVersion": "2.3.0",
+    "coreVersion": "10.291"
+  },
+  "name": "Armadura fantasmal",
+  "flags": {"core": {"sourceId": "Compendium.cyphersystem-compendium.artifacts-fantasy.Eoi3d0re7ovRVxW7"}},
+  "sort": 0,
+  "_id": "ET3xyPetsqLloWL9",
+  "type": "artifact",
+  "_key": "!items!ET3xyPetsqLloWL9"
+}

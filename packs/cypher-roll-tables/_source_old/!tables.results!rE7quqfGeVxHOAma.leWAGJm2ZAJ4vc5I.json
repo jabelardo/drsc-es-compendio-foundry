@@ -1,0 +1,16 @@
+{
+  "img": "systems/cyphersystem/icons/items/artifact.svg",
+  "documentCollection": "cyphersystem-compendium.artifacts-fairy-tale",
+  "flags": {},
+  "weight": 3,
+  "range": [
+    63,
+    65
+  ],
+  "documentId": "J7sRMNiB34J4gQNr",
+  "text": "Espada autogolpeante",
+  "_id": "leWAGJm2ZAJ4vc5I",
+  "type": 2,
+  "drawn": false,
+  "_key": "!tables.results!rE7quqfGeVxHOAma.leWAGJm2ZAJ4vc5I"
+}

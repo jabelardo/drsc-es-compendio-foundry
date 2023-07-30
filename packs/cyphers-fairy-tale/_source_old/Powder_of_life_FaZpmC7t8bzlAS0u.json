@@ -1,0 +1,33 @@
+{
+  "img": "systems/cyphersystem/icons/items/cypher.svg",
+  "effects": [],
+  "system": {
+    "archived": false,
+    "settings": {"general": {"nameUnidentified": ""}},
+    "description": "<p><strong>Nivel:<\/strong> 1d6 + 3<\/p>\n<p><strong>Aspecto:<\/strong> Polvo que se lleva en una caja de pimienta<\/p>\n<p><strong>Efecto:<\/strong> Al rociar un objeto inanimado, el polvo le da vida. , el polvo le da vida. El objeto no cambia en nada: un pequeño gato de cristal sigue siendo un pequeño gato de cristal, salvo que ahora está vivo. El objeto vivo actúa como una criatura de nivel 2 con mente propia. Aunque tiene una afinidad u obligación con el que le dio vida, no obedece órdenes.<\/p>\n<p>Los objetos animados por el polvo de la vida deben tener atributos que representen su forma y naturaleza. Por ejemplo, un soldadito de plomo traído a la vida probablemente tenga Armadura 1 y tal vez un arma ligera, mientras que un conejo de peluche podría ser de nivel 3 en defensa por Velocidad, esconderse y escabullirse.<\/p>",
+    "basic": {
+      "identified": true,
+      "level": "1d6+3"
+    },
+    "version": 2
+  },
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "_stats": {
+    "modifiedTime": 1685280982968,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "yThCrv1jSfPXOC2U",
+    "createdTime": 1685279500447,
+    "systemVersion": "2.6.0",
+    "coreVersion": "10.291"
+  },
+  "name": "Polvo de vida",
+  "flags": {},
+  "_id": "FaZpmC7t8bzlAS0u",
+  "sort": 0,
+  "type": "cypher",
+  "_key": "!items!FaZpmC7t8bzlAS0u"
+}

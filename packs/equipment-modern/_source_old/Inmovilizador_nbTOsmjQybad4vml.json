@@ -1,0 +1,51 @@
+{
+  "name": "Inmovilizador",
+  "type": "equipment",
+  "img": "systems/cyphersystem/icons/items/equipment.svg",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.cyphersystem-compendium.equipment-modern.CCHqv8dyuq7EGVHL"
+    }
+  },
+  "system": {
+    "version": 2,
+    "description": "<p>Las esposas ordinarias de precio moderado sujetan a los objetivos por las muñecas, obstaculizando la tareas de liberarse en dos grados. Las camisas de fuerza envuelven al objetivo de forma más segura, obstaculizando la tarea de liberarse en tres grados.</p>",
+    "archived": false,
+    "basic": {
+      "level": 3,
+      "quantity": 1
+    },
+    "rollButton": {
+      "pool": "Pool",
+      "skill": "Practiced",
+      "assets": 0,
+      "effort1": 0,
+      "effort2": 0,
+      "effort3": 0,
+      "stepModifier": "eased",
+      "additionalSteps": 0,
+      "additionalCost": 0,
+      "damage": 0,
+      "damagePerLOE": 3,
+      "teen": "",
+      "bonus": 0
+    }
+  },
+  "_stats": {
+    "systemId": "cyphersystem",
+    "systemVersion": "2.3.0",
+    "coreVersion": "10.291",
+    "createdTime": 1676536162949,
+    "modifiedTime": 1676536929385,
+    "lastModifiedBy": "yThCrv1jSfPXOC2U"
+  },
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "nbTOsmjQybad4vml",
+  "_key": "!items!nbTOsmjQybad4vml"
+}

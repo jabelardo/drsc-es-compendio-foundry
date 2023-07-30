@@ -1,0 +1,135 @@
+{
+  "img": "modules/drsc-es-compendio-foundry/img/tokens/humanoid_magical.webp",
+  "_stats": {
+    "modifiedTime": 1685374223908,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "yThCrv1jSfPXOC2U",
+    "createdTime": null,
+    "systemVersion": "2.6.0",
+    "coreVersion": "10.291"
+  },
+  "flags": {},
+  "sort": 0,
+  "type": "npc",
+  "_key": "!actors!2nv7KEvkNXsUOykU",
+  "prototypeToken": {
+    "displayBars": 40,
+    "displayName": 20,
+    "actorLink": false,
+    "lockRotation": false,
+    "texture": {
+      "scaleX": 1,
+      "offsetX": 0,
+      "scaleY": 1,
+      "offsetY": 0,
+      "src": "icons/svg/mystery-man.svg",
+      "rotation": 0,
+      "tint": null
+    },
+    "rotation": 0,
+    "detectionModes": [],
+    "flags": {},
+    "randomImg": false,
+    "bar1": {"attribute": "pools.health"},
+    "bar2": {"attribute": "basic.level"},
+    "disposition": 0,
+    "light": {
+      "attenuation": 0.5,
+      "color": null,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "animation": {
+        "intensity": 5,
+        "reverse": false,
+        "type": null,
+        "speed": 5
+      },
+      "saturation": 0,
+      "alpha": 0.5,
+      "contrast": 0,
+      "angle": 360,
+      "luminosity": 0.5,
+      "shadows": 0,
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "alpha": 1,
+    "name": "Bruja",
+    "width": 1,
+    "sight": {
+      "saturation": 0,
+      "brightness": 1,
+      "attenuation": 0.1,
+      "color": null,
+      "visionMode": "basic",
+      "contrast": 0,
+      "angle": 360,
+      "range": 0,
+      "enabled": false
+    },
+    "height": 1
+  },
+  "effects": [],
+  "folder": null,
+  "system": {
+    "settings": {
+      "skills": {},
+      "abilities": {},
+      "general": {
+        "initiativeBonus": 0,
+        "hideArchive": false
+      },
+      "equipment": {
+        "ammo": {"active": false},
+        "armor": {"active": false},
+        "attacks": {"active": false},
+        "materials": {
+          "active": false,
+          "label": ""
+        },
+        "cyphers": {
+          "active": false,
+          "label": ""
+        },
+        "oddities": {
+          "active": false,
+          "label": ""
+        },
+        "artifacts": {
+          "active": false,
+          "label": ""
+        }
+      }
+    },
+    "notes": "<p>Estudiaban las viejas costumbres en la oscuridad de la luna. Oyeron el arrastre de cosas sin nombre por el bosque oscuro, observaron la convección de las burbujas en el caldero y atendieron a las instrucciones murmuradas de arpías marchitas y a mensajes desmenuzados trazados en hojas muertas. Entonces, una medianoche, todo cobró sentido. Había nacido otra bruja.<\/p>\n<p>Cuando las brujas pierden de vista su humanidad y utilizan sus poderes en beneficio propio sin tener en cuenta a los demás, el poder que canalizan las deforma, tanto mental como físicamente. Sin embargo, pueden ocultar estas transformaciones bajo capas de ilusión.<\/p>\n<p><strong>Motivación:<\/strong> Dominación de otros, conocimiento<\/p>\n<p><strong>Entorno:<\/strong> Casi en cualquier lugar, normalmente solo, pero a veces como parte de un aquelarre de tres a siete brujas<\/p>\n<p><strong>Salud:<\/strong> 21<\/p>\n<p><strong>Daño que inflige:<\/strong> 5 puntos<\/p>\n<p><strong>Movimiento:<\/strong> Corto; largo cuando vuela (en una escoba)<\/p>\n<p><strong>Ajustes: <\/strong>Nivel 7 para engaño y disfraz; nivel 6 para Defensa por Velocidad debido al familiar; nivel 6 para conocimiento de los bosques y secretos oscuros<\/p>\n<p><strong>Combate:<\/strong> Cuando es atacado, una bruja cuenta con la ayuda de su familiar para mejorar su Defensa por Velocidad. El familiar puede ser un gran gato negro, un búho, una gran serpiente o cualquier otra criatura. Matar al familiar de una bruja es tan impactante para la bruja que sus ataques y su Defensa por Velocidad se ven obstaculizados durante unos días. También es una forma de asegurar que la bruja nunca perdone a su enemigo o conceda piedad.<\/p>\n<p>(<strong>Familiar:<\/strong> nivel 3; salud 9; Armadura 1)<\/p>\n<p>Una bruja puede utilizar su hoja ritual para atacar a una criatura que esté a su alcance inmediato, pero prefiere utilizar maldiciones, incluidas las que se describen a continuación. Una bruja no puede usar la misma maldición más de una vez cada dos rondas.<\/p>\n<ul>\n <li><p><strong>Encanto:<\/strong> Las víctimas a corto alcance que fallan una tirada de Defensa por Intelecto son esclavizadas. Las víctimas se vuelven contra sus aliados o realizan alguna otra acción descrita por su nuevo amo. La maldición dura un minuto, o hasta que las víctimas tengan éxito en una tirada de Defensa por Intelecto; cada vez que fallan una tirada, la siguiente se ve obstaculizada en un grado adicional.<\/p><\/li>\n <li><p><strong>Rayo de embrujo: <\/strong>Una víctima a largo alcance es atacada con rayos de fuego, frío o psíquico, a elección de la bruja. Los rayos psíquicos infligen 3 puntos de daño de Intelecto (ignoran la Armadura).<\/p><\/li>\n <li><p><strong>Marchitar:<\/strong> Una víctima a largo alcance y hasta dos criaturas junto a la víctima deben tener éxito en una tirada de Defensa por Vigor o recibir 3 puntos de daño de Velocidad (ignora la Armadura). En cada ronda posterior, una víctima que haya fallado la tirada anterior debe hacer otra tirada de Defensa por Vigor con el mismo resultado si falla.<\/p><\/li>\n <li><p><strong>Vitalidad:<\/strong> La bruja recupera 11 puntos de salud y gana +3 a la Armadura durante un minuto. Los usos múltiples no mejoran más la Armadura.<\/p><\/li>\n<\/ul>\n<p><strong>Interacción: <\/strong>La mayoría de las brujas son engañosas e intrigantes, pero algunas van en contra del estereotipo. Todas las brujas están dispuestas a negociar, aunque las taimadas suelen hacerlo de mala fe.<\/p>\n<p><strong>Uso:<\/strong> Los PJs necesitan un libro antiguo para continuar su investigación. Se dice que la anciana que vive en el lindero del bosque tiene el único ejemplar.<\/p>\n<p><strong>Botín:<\/strong> Una bruja suele llevar un artefacto o dos encima, posiblemente incluyendo una escoba voladora (que tiene una tirada de agotamiento de 1 en 1d10).<\/p>\n<p><strong>Intromisiones del DJ:<\/strong> Después de que un personaje tenga éxito en una tirada de defensa contra algún efecto de maldición activo de la bruja, ésta le lanza de inmediato un rayo de embrujo. Si el personaje es alcanzado, el efecto de maldición en curso también continúa.<\/p>",
+    "pools": {"health": {
+      "max": 21,
+      "value": 21
+    }},
+    "description": "",
+    "combat": {
+      "damage": 5,
+      "armor": 0
+    },
+    "basic": {
+      "level": 5,
+      "biography": "<p>Estudiaban las viejas costumbres en la oscuridad de la luna. Oyeron el arrastre de cosas sin nombre por el bosque oscuro, observaron la convección de las burbujas en el caldero y atendieron a las instrucciones murmuradas de arpías marchitas y a mensajes desmenuzados trazados en hojas muertas. Entonces, una medianoche, todo cobró sentido. Había nacido otra bruja.<\/p>\n<p>Cuando las brujas pierden de vista su humanidad y utilizan sus poderes en beneficio propio sin tener en cuenta a los demás, el poder que canalizan las deforma, tanto mental como físicamente. Sin embargo, pueden ocultar estas transformaciones bajo capas de ilusión.<\/p>\n<p><strong>Motivación:<\/strong> Dominación de otros, conocimiento<\/p>\n<p><strong>Entorno:<\/strong> Casi en cualquier lugar, normalmente solo, pero a veces como parte de un aquelarre de tres a siete brujas<\/p>\n<p><strong>Salud:<\/strong> 21<\/p>\n<p><strong>Daño que inflige:<\/strong> 5 puntos<\/p>\n<p><strong>Movimiento:<\/strong> Corto; largo cuando vuela (en una escoba)<\/p>\n<p><strong>Ajustes: <\/strong>Nivel 7 para engaño y disfraz; nivel 6 para Defensa por Velocidad debido al familiar; nivel 6 para conocimiento de los bosques y secretos oscuros<\/p>\n<p><strong>Combate:<\/strong> Cuando es atacado, una bruja cuenta con la ayuda de su familiar para mejorar su Defensa por Velocidad. El familiar puede ser un gran gato negro, un búho, una gran serpiente o cualquier otra criatura. Matar al familiar de una bruja es tan impactante para la bruja que sus ataques y su Defensa por Velocidad se ven obstaculizados durante unos días. También es una forma de asegurar que la bruja nunca perdone a su enemigo o conceda piedad.<\/p>\n<p>(<strong>Familiar:<\/strong> nivel 3; salud 9; Armadura 1)<\/p>\n<p>Una bruja puede utilizar su hoja ritual para atacar a una criatura que esté a su alcance inmediato, pero prefiere utilizar maldiciones, incluidas las que se describen a continuación. Una bruja no puede usar la misma maldición más de una vez cada dos rondas.<\/p>\n<ul>\n <li><p><strong>Encanto:<\/strong> Las víctimas a corto alcance que fallan una tirada de Defensa por Intelecto son esclavizadas. Las víctimas se vuelven contra sus aliados o realizan alguna otra acción descrita por su nuevo amo. La maldición dura un minuto, o hasta que las víctimas tengan éxito en una tirada de Defensa por Intelecto; cada vez que fallan una tirada, la siguiente se ve obstaculizada en un grado adicional.<\/p><\/li>\n <li><p><strong>Rayo de embrujo: <\/strong>Una víctima a largo alcance es atacada con rayos de fuego, frío o psíquico, a elección de la bruja. Los rayos psíquicos infligen 3 puntos de daño de Intelecto (ignoran la Armadura).<\/p><\/li>\n <li><p><strong>Marchitar:<\/strong> Una víctima a largo alcance y hasta dos criaturas junto a la víctima deben tener éxito en una tirada de Defensa por Vigor o recibir 3 puntos de daño de Velocidad (ignora la Armadura). En cada ronda posterior, una víctima que haya fallado la tirada anterior debe hacer otra tirada de Defensa por Vigor con el mismo resultado si falla.<\/p><\/li>\n <li><p><strong>Vitalidad:<\/strong> La bruja recupera 11 puntos de salud y gana +3 a la Armadura durante un minuto. Los usos múltiples no mejoran más la Armadura.<\/p><\/li>\n<\/ul>\n<p><strong>Interacción: <\/strong>La mayoría de las brujas son engañosas e intrigantes, pero algunas van en contra del estereotipo. Todas las brujas están dispuestas a negociar, aunque las taimadas suelen hacerlo de mala fe.<\/p>\n<p><strong>Uso:<\/strong> Los PJs necesitan un libro antiguo para continuar su investigación. Se dice que la anciana que vive en el lindero del bosque tiene el único ejemplar.<\/p>\n<p><strong>Botín:<\/strong> Una bruja suele llevar un artefacto o dos encima, posiblemente incluyendo una escoba voladora (que tiene una tirada de agotamiento de 1 en 1d10).<\/p>\n<p><strong>Intromisiones del DJ:<\/strong> Después de que un personaje tenga éxito en una tirada de defensa contra algún efecto de maldición activo de la bruja, ésta le lanza de inmediato un rayo de embrujo. Si el personaje es alcanzado, el efecto de maldición en curso también continúa.<\/p>"
+    },
+    "teen": {
+      "settings": {},
+      "pools": {},
+      "basic": {}
+    },
+    "version": 2
+  },
+  "ownership": {
+    "N1n5f3sdQOJFmoJe": 3,
+    "default": 0
+  },
+  "name": "Bruja",
+  "_id": "2nv7KEvkNXsUOykU",
+  "items": []
+}

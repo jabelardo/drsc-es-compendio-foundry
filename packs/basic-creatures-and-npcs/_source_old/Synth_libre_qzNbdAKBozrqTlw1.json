@@ -1,0 +1,125 @@
+{
+  "img": "modules/drsc-es-compendio-foundry/img/tokens/construct_technological.webp",
+  "_stats": {
+    "modifiedTime": 1676797809972,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "yThCrv1jSfPXOC2U",
+    "createdTime": 1676620375353,
+    "systemVersion": "2.3.0",
+    "coreVersion": "10.291"
+  },
+  "flags": {},
+  "sort": 0,
+  "type": "npc",
+  "_key": "!actors!qzNbdAKBozrqTlw1",
+  "prototypeToken": {
+    "displayBars": 40,
+    "displayName": 20,
+    "actorLink": false,
+    "texture": {
+      "scaleX": 1,
+      "offsetX": 0,
+      "scaleY": 1,
+      "offsetY": 0,
+      "src": "icons/svg/mystery-man.svg",
+      "rotation": 0,
+      "tint": null
+    },
+    "lockRotation": false,
+    "rotation": 0,
+    "detectionModes": [],
+    "flags": {},
+    "randomImg": false,
+    "bar1": {"attribute": "pools.health"},
+    "bar2": {"attribute": "basic.level"},
+    "disposition": 0,
+    "light": {
+      "attenuation": 0.5,
+      "color": null,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "animation": {
+        "intensity": 5,
+        "type": null,
+        "reverse": false,
+        "speed": 5
+      },
+      "saturation": 0,
+      "alpha": 0.5,
+      "contrast": 0,
+      "angle": 360,
+      "luminosity": 0.5,
+      "shadows": 0,
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "alpha": 1,
+    "name": "Synth libre",
+    "width": 1,
+    "sight": {
+      "saturation": 0,
+      "attenuation": 0.1,
+      "brightness": 0,
+      "color": null,
+      "visionMode": "basic",
+      "contrast": 0,
+      "range": null,
+      "angle": 360,
+      "enabled": false
+    },
+    "height": 1
+  },
+  "effects": [],
+  "system": {
+    "settings": {
+      "general": {
+        "initiativeBonus": 0,
+        "hideArchive": false
+      },
+      "equipment": {
+        "ammo": {"active": false},
+        "armor": {"active": false},
+        "attacks": {"active": false},
+        "materials": {
+          "active": false,
+          "label": ""
+        },
+        "cyphers": {
+          "active": false,
+          "label": ""
+        },
+        "oddities": {
+          "active": false,
+          "label": ""
+        },
+        "artifacts": {
+          "active": false,
+          "label": ""
+        }
+      }
+    },
+    "notes": "<p>Los synth son una mezcla de partes biológicas y mecánicas tan avanzada que en algunos casos es imposible distinguir entre una criatura viva y un synth. Son IAs fuertes en cuerpos físicos. Otras variedades de synths están construidos (o se han modificado a sí mismos) para que sea obvio que no son biológicos. En cualquier caso, los synths son a menudo más robustos y duraderos que una entidad biológica media. Aun así, en algunos escenarios, los synths son relegados a ser sirvientes, como si fueran simples robots y autones. En otros entornos, unos pocos, algunos o todos los humanos migraron hace tiempo a cuerpos synths, dejando atrás su biología en la prehistoria y convirtiéndose en posthumanos. Se trata como un seguidor de nivel 3, lo que permite a los synths ajustes en hasta tres tareas, dependiendo del synth en particular. Como mínimo, todos los synths tienen 2 de Armadura y recuperan 1 punto de salud perdida por ronda si son dañados.<\/p><p>Como el synth compañero, pero con ajustes para hasta cinco tareas.<\/p><p>*Un synth libre normalmente no puede ser comprado, por definición, pero puede ser contratado, con un coste caro por cada semana de servicio requerida.<\/p>",
+    "pools": {"health": {
+      "max": 15,
+      "value": 15
+    }},
+    "description": "",
+    "combat": {
+      "damage": 5,
+      "armor": 2
+    },
+    "basic": {"level": 5},
+    "version": 2
+  },
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "name": "Synth libre",
+  "_id": "qzNbdAKBozrqTlw1",
+  "items": []
+}

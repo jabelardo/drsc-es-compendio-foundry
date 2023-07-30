@@ -1,0 +1,191 @@
+{
+  "img": "modules/drsc-es-compendio-foundry/img/tokens/fey_humanoid.webp",
+  "_stats": {
+    "modifiedTime": 1683061888179,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "yThCrv1jSfPXOC2U",
+    "createdTime": null,
+    "systemVersion": "2.5.0",
+    "coreVersion": "10.291"
+  },
+  "flags": {},
+  "sort": 0,
+  "type": "npc",
+  "_key": "!actors!KrHZmg9AKHxbGRnk",
+  "prototypeToken": {
+    "displayBars": 50,
+    "displayName": 20,
+    "actorLink": false,
+    "lockRotation": false,
+    "texture": {
+      "scaleX": 1,
+      "offsetX": 0,
+      "scaleY": 1,
+      "offsetY": 0,
+      "src": "icons/svg/mystery-man.svg",
+      "rotation": 0,
+      "tint": null
+    },
+    "rotation": 0,
+    "detectionModes": [],
+    "flags": {"barbrawl": {"resourceBars": {
+      "bar1": {
+        "hideCombat": false,
+        "bgImage": "",
+        "hideNoCombat": false,
+        "hideFull": false,
+        "otherVisibility": 0,
+        "indentRight": null,
+        "subdivisionsOwner": false,
+        "id": "bar1",
+        "attribute": "pools.health",
+        "ownerVisibility": 50,
+        "hideEmpty": false,
+        "indentLeft": null,
+        "order": 0,
+        "shareHeight": false,
+        "invert": false,
+        "label": "",
+        "fgImage": "",
+        "maxcolor": "#80FF00",
+        "gmVisibility": -1,
+        "style": "user",
+        "mincolor": "#FF0000",
+        "position": "bottom-inner",
+        "opacity": null,
+        "invertDirection": false,
+        "subdivisions": null
+      },
+      "bar2": {
+        "hideCombat": false,
+        "bgImage": "",
+        "hideNoCombat": false,
+        "hideFull": false,
+        "otherVisibility": 0,
+        "indentRight": null,
+        "subdivisionsOwner": false,
+        "id": "bar2",
+        "attribute": "basic.level",
+        "ownerVisibility": 50,
+        "hideEmpty": false,
+        "indentLeft": null,
+        "order": 1,
+        "shareHeight": false,
+        "invert": false,
+        "max": null,
+        "label": "",
+        "fgImage": "",
+        "maxcolor": "#80B3FF",
+        "gmVisibility": -1,
+        "style": "user",
+        "mincolor": "#000080",
+        "position": "top-inner",
+        "opacity": null,
+        "invertDirection": false,
+        "subdivisions": null
+      }
+    }}},
+    "randomImg": false,
+    "bar1": {"attribute": "pools.health"},
+    "bar2": {"attribute": "basic.level"},
+    "disposition": 0,
+    "light": {
+      "attenuation": 0.5,
+      "color": null,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "animation": {
+        "intensity": 5,
+        "reverse": false,
+        "type": null,
+        "speed": 5
+      },
+      "saturation": 0,
+      "alpha": 0.5,
+      "contrast": 0,
+      "angle": 360,
+      "luminosity": 0.5,
+      "shadows": 0,
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "alpha": 1,
+    "name": "Princesa/Príncipe del verano",
+    "width": 1,
+    "sight": {
+      "saturation": 0,
+      "brightness": 1,
+      "attenuation": 0.1,
+      "color": null,
+      "visionMode": "basic",
+      "contrast": 0,
+      "angle": 360,
+      "range": 0,
+      "enabled": false
+    },
+    "height": 1
+  },
+  "effects": [],
+  "folder": null,
+  "system": {
+    "settings": {
+      "skills": {},
+      "abilities": {},
+      "general": {
+        "initiativeBonus": 0,
+        "hideArchive": false
+      },
+      "equipment": {
+        "ammo": {"active": false},
+        "armor": {"active": false},
+        "attacks": {"active": false},
+        "materials": {
+          "active": false,
+          "label": ""
+        },
+        "cyphers": {
+          "active": false,
+          "label": ""
+        },
+        "oddities": {
+          "active": false,
+          "label": ""
+        },
+        "artifacts": {
+          "active": false,
+          "label": ""
+        }
+      }
+    },
+    "notes": "<p>La nobleza feérica es tan numerosa como las semillas de álamo en la brisa de junio. Pero eso no significa que cada uno no sea único, con una personalidad peculiar y un papel específico que desempeñar en la misteriosa Corte del Verano. Demostrando vida, vigor, depredación, crecimiento y competencia, las princesas y príncipes del verano son, por lo general, seres de calidez y generosidad. Pero si se les coge durante el cambio de estación, pueden ser adversarios mortales con igual facilidad. Los nobles feéricos se visten con costosas prendas diáfanas y fluidas, y a menudo llevan algún signo de su noble linaje, como una corona o una diadema.<\/p>\n<p><strong>Motivación:<\/strong> Impredecible; defender el territorio y las prerrogativas de los feéricos<\/p>\n<p><strong>Entorno:<\/strong> Casi cualquier región salvaje en solitario o al mando de un pequeño grupo de criaturas feéricas menores<\/p>\n<p><strong>Salud:<\/strong> 22<\/p>\n<p><strong>Daño que inflige:<\/strong> 5 puntos<\/p>\n<p><strong>Armadura:<\/strong> 2<\/p>\n<p><strong>Movimiento:<\/strong> Corto; corto cuando se desliza en el viento<\/p>\n<p><strong>Ajustes: <\/strong>Nivel 7 para tareas relacionadas con el engaño, el disfraz, los modales cortesanos y las interacciones positivas<\/p>\n<p><strong>Combate:<\/strong> La mayoría de las princesas y príncipes feéricos van armados con una elegante espada y posiblemente un arco tallado en madera de plata. Además, cada una conoce uno o más hechizos feéricos. Los hechizos feéricos incluyen los siguientes.<\/p>\n<ul>\n <li><p><strong>Sonrisa brillante:<\/strong> El objetivo debe tener éxito en una tarea de Defensa por Intelecto o hacer la voluntad de la criatura feérica durante un minuto.<\/p><\/li>\n <li><p><strong>Aguamiel de oro:<\/strong> Los aliados que beben del frasco del hada ganan un recurso a todas las tareas de defensa durante diez horas.<\/p><\/li>\n <li><p><strong>Recompensa nocturna:<\/strong> El objetivo sufre 5 puntos de daño de Intelecto (ignora la Armadura) y debe hacer una tirada de Defensa por Intelecto o quedarse dormido hasta un minuto.<\/p><\/li>\n <li><p><strong>Confianza en el verano:<\/strong> Los objetivos seleccionados a corta distancia tienen un recurso en las tareas relacionadas con la resistencia al miedo y la actuación audaz.<\/p><\/li>\n <li><p><strong>Espinas:<\/strong> El objetivo sufre 5 puntos de daño de Velocidad (ignora la Armadura) y debe tener éxito en una tarea de Defensa por Vigor o perder su próximo turno enredado en vides espinosas que crecen rápidamente.<\/p><\/li>\n<\/ul>\n<p>Los príncipes y princesas del verano recuperan 2 puntos de salud por ronda mientras su salud esté por encima de 0, a menos que hayan sido dañados con un arma de plata o de hierro frío.<\/p>\n<p><strong>Interacción:<\/strong> La mayoría de los feéricos están dispuestos a hablar, y los de la Corte de Verano están especialmente dispuestos a hacer tratos. Sin embargo, las personas que negocian con los nobles feéricos deben tener cuidado para evitar ser engañados.<\/p>\n<p><strong>Uso:<\/strong> Los personajes encuentran a un noble feérico herido y necesitado de ayuda.<\/p>\n<p><strong>Botín:<\/strong> Además de ropas finas, equipo fino y una suma considerable de dinero, un príncipe o princesa del verano puede llevar algunas Cyphers e incluso un artefacto de hadas.<\/p>\n<p><strong>Intromisiones del DJ:<\/strong> El personaje queda cegado hasta un minuto por un rayo de luz solar brillante a menos que tenga éxito en una tarea de Defensa por Vigor.<\/p>",
+    "pools": {"health": {
+      "max": 22,
+      "value": 22
+    }},
+    "description": "",
+    "combat": {
+      "damage": 5,
+      "armor": 2
+    },
+    "basic": {
+      "level": 5,
+      "biography": "<p>La nobleza feérica es tan numerosa como las semillas de álamo en la brisa de junio. Pero eso no significa que cada uno no sea único, con una personalidad peculiar y un papel específico que desempeñar en la misteriosa Corte del Verano. Demostrando vida, vigor, depredación, crecimiento y competencia, las princesas y príncipes del verano son, por lo general, seres de calidez y generosidad. Pero si se les coge durante el cambio de estación, pueden ser adversarios mortales con igual facilidad. Los nobles feéricos se visten con costosas prendas diáfanas y fluidas, y a menudo llevan algún signo de su noble linaje, como una corona o una diadema.<\/p>\n<p><strong>Motivación:<\/strong> Impredecible; defender el territorio y las prerrogativas de los feéricos<\/p>\n<p><strong>Entorno:<\/strong> Casi cualquier región salvaje en solitario o al mando de un pequeño grupo de criaturas feéricas menores<\/p>\n<p><strong>Salud:<\/strong> 22<\/p>\n<p><strong>Daño que inflige:<\/strong> 5 puntos<\/p>\n<p><strong>Armadura:<\/strong> 2<\/p>\n<p><strong>Movimiento:<\/strong> Corto; corto cuando se desliza en el viento<\/p>\n<p><strong>Ajustes: <\/strong>Nivel 7 para tareas relacionadas con el engaño, el disfraz, los modales cortesanos y las interacciones positivas<\/p>\n<p><strong>Combate:<\/strong> La mayoría de las princesas y príncipes feéricos van armados con una elegante espada y posiblemente un arco tallado en madera de plata. Además, cada una conoce uno o más hechizos feéricos. Los hechizos feéricos incluyen los siguientes.<\/p>\n<ul>\n <li><p><strong>Sonrisa brillante:<\/strong> El objetivo debe tener éxito en una tarea de Defensa por Intelecto o hacer la voluntad de la criatura feérica durante un minuto.<\/p><\/li>\n <li><p><strong>Aguamiel de oro:<\/strong> Los aliados que beben del frasco del hada ganan un recurso a todas las tareas de defensa durante diez horas.<\/p><\/li>\n <li><p><strong>Recompensa nocturna:<\/strong> El objetivo sufre 5 puntos de daño de Intelecto (ignora la Armadura) y debe hacer una tirada de Defensa por Intelecto o quedarse dormido hasta un minuto.<\/p><\/li>\n <li><p><strong>Confianza en el verano:<\/strong> Los objetivos seleccionados a corta distancia tienen un recurso en las tareas relacionadas con la resistencia al miedo y la actuación audaz.<\/p><\/li>\n <li><p><strong>Espinas:<\/strong> El objetivo sufre 5 puntos de daño de Velocidad (ignora la Armadura) y debe tener éxito en una tarea de Defensa por Vigor o perder su próximo turno enredado en vides espinosas que crecen rápidamente.<\/p><\/li>\n<\/ul>\n<p>Los príncipes y princesas del verano recuperan 2 puntos de salud por ronda mientras su salud esté por encima de 0, a menos que hayan sido dañados con un arma de plata o de hierro frío.<\/p>\n<p><strong>Interacción:<\/strong> La mayoría de los feéricos están dispuestos a hablar, y los de la Corte de Verano están especialmente dispuestos a hacer tratos. Sin embargo, las personas que negocian con los nobles feéricos deben tener cuidado para evitar ser engañados.<\/p>\n<p><strong>Uso:<\/strong> Los personajes encuentran a un noble feérico herido y necesitado de ayuda.<\/p>\n<p><strong>Botín:<\/strong> Además de ropas finas, equipo fino y una suma considerable de dinero, un príncipe o princesa del verano puede llevar algunas Cyphers e incluso un artefacto de hadas.<\/p>\n<p><strong>Intromisiones del DJ:<\/strong> El personaje queda cegado hasta un minuto por un rayo de luz solar brillante a menos que tenga éxito en una tarea de Defensa por Vigor.<\/p>"
+    },
+    "teen": {
+      "settings": {},
+      "pools": {},
+      "basic": {}
+    },
+    "version": 2
+  },
+  "ownership": {
+    "N1n5f3sdQOJFmoJe": 3,
+    "default": 0
+  },
+  "name": "Princesa/Príncipe del verano",
+  "_id": "KrHZmg9AKHxbGRnk",
+  "items": []
+}

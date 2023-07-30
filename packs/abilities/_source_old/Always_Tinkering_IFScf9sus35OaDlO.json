@@ -1,0 +1,59 @@
+{
+  "img": "systems/cyphersystem/icons/items/ability.svg",
+  "effects": [],
+  "system": {
+    "archived": false,
+    "settings": {
+      "general": {
+        "spellTier": "low",
+        "sorting": "Ability",
+        "unmaskedForm": "Mask"
+      },
+      "linkedItems": {
+        "attack": "",
+        "skill": "",
+        "ability": ""
+      },
+      "rollButton": {
+        "stepModifier": "eased",
+        "damage": 0,
+        "damagePerLOE": 3,
+        "bonus": 0,
+        "pool": "Pool",
+        "teen": "",
+        "additionalSteps": 0,
+        "effort1": "0",
+        "effort3": "0",
+        "assets": "0",
+        "effort2": "0",
+        "skill": "Practiced",
+        "additionalCost": 0
+      }
+    },
+    "description": "<p>Si tienes alguna herramienta o material, y llevas menos Cyphers que tu límite, puedes crear un Cypher manifiesto si tienes una hora de tiempo para ello. El nuevo Cypher es aleatorio y siempre 2 niveles más bajo de lo normal (mínimo 1). También es temperamental y frágil. Se llaman Cyphers temperamentales. Si se lo das a otra persona para que lo use, se estropea inmediatamente, quedando inservible. Acción para iniciar; una hora para completar.<\/p>",
+    "basic": {
+      "cost": "0",
+      "pool": "Pool"
+    },
+    "version": 2
+  },
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "_stats": {
+    "modifiedTime": 1681934353083,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "yThCrv1jSfPXOC2U",
+    "createdTime": 1681929602288,
+    "systemVersion": "2.5.0",
+    "coreVersion": "10.291"
+  },
+  "name": "Siempre trasteando",
+  "flags": {"core": {"sourceId": "Item.iTCrkg4lGWKtQ3AQ"}},
+  "sort": 0,
+  "_id": "IFScf9sus35OaDlO",
+  "type": "ability",
+  "_key": "!items!IFScf9sus35OaDlO"
+}

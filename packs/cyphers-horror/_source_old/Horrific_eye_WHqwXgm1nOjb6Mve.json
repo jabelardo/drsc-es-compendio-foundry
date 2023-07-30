@@ -1,0 +1,33 @@
+{
+  "img": "systems/cyphersystem/icons/items/cypher.svg",
+  "effects": [],
+  "system": {
+    "archived": false,
+    "settings": {"general": {"nameUnidentified": ""}},
+    "description": "<p><strong>Nivel:<\/strong> 1d6 + 1<\/p>\n<p><strong>Aspecto:<\/strong> Inyección o hechizo<\/p>\n<p><strong>Efecto:<\/strong> El cuerpo del usuario hace crecer rápidamente un ojo monstruoso (incluyendo un tallo ocular retráctil si el nivel de Cypher es 6 o superior) en el lugar donde el Cypher es aplicado a su cuerpo. El usuario puede ver a través de este ojo como si fuera uno de los suyos propios (incluyendo cualquier sentido extraordinario basado en la visión que el usuario tenga normalmente). El ojo proporciona al usuario un recurso en las tiradas de percepción basadas en la visión y, dependiendo de dónde esté situado, puede permitirle mirar furtivamente por las esquinas. El daño al ojo no afecta al usuario (el ojo puede recibir 1 punto de daño dirigido a él antes de dejar de funcionar). El ojo dura un día por nivel de Cypher.<\/p>",
+    "basic": {
+      "identified": true,
+      "level": "1d6+1"
+    },
+    "version": 2
+  },
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "_stats": {
+    "modifiedTime": 1683655050998,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "yThCrv1jSfPXOC2U",
+    "createdTime": 1683653597089,
+    "systemVersion": "2.5.0",
+    "coreVersion": "10.291"
+  },
+  "name": "Ojo horrible",
+  "flags": {},
+  "_id": "WHqwXgm1nOjb6Mve",
+  "sort": 0,
+  "type": "cypher",
+  "_key": "!items!WHqwXgm1nOjb6Mve"
+}

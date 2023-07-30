@@ -1,0 +1,32 @@
+{
+  "name": "Miel",
+  "type": "equipment",
+  "img": "systems/cyphersystem/icons/items/equipment.svg",
+  "system": {
+    "version": 2,
+    "description": "",
+    "archived": false,
+    "basic": {
+      "level": null,
+      "quantity": 1
+    }
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "cyphersystem",
+    "systemVersion": "2.6.0",
+    "coreVersion": "10.291",
+    "createdTime": 1685266068772,
+    "modifiedTime": 1685266992746,
+    "lastModifiedBy": "yThCrv1jSfPXOC2U"
+  },
+  "_id": "Mpwx2uKcB623hdcd",
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "_key": "!items!Mpwx2uKcB623hdcd"
+}

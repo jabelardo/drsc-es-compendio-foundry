@@ -1,0 +1,128 @@
+{
+  "img": "modules/drsc-es-compendio-foundry/img/tokens/humanoid_mundane.webp",
+  "_stats": {
+    "modifiedTime": 1676797809303,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "yThCrv1jSfPXOC2U",
+    "createdTime": 1676460267434,
+    "systemVersion": "2.3.0",
+    "coreVersion": "10.291"
+  },
+  "flags": {"core": {"sourceId": "Actor.r7u55jP7cwWe9u9j"}},
+  "sort": 0,
+  "type": "npc",
+  "_key": "!actors!sbTJJl5q80quKcXu",
+  "prototypeToken": {
+    "displayBars": 40,
+    "displayName": 20,
+    "actorLink": false,
+    "texture": {
+      "scaleX": 1,
+      "offsetX": 0,
+      "scaleY": 1,
+      "offsetY": 0,
+      "src": "icons/svg/mystery-man.svg",
+      "rotation": 0,
+      "tint": null
+    },
+    "lockRotation": false,
+    "rotation": 0,
+    "detectionModes": [],
+    "flags": {},
+    "randomImg": false,
+    "bar1": {"attribute": "pools.health"},
+    "bar2": {"attribute": "basic.level"},
+    "disposition": 0,
+    "light": {
+      "attenuation": 0.5,
+      "color": null,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "animation": {
+        "intensity": 5,
+        "type": null,
+        "reverse": false,
+        "speed": 5
+      },
+      "saturation": 0,
+      "alpha": 0.5,
+      "contrast": 0,
+      "angle": 360,
+      "luminosity": 0.5,
+      "shadows": 0,
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "alpha": 1,
+    "name": "Marine de asalto",
+    "width": 1,
+    "sight": {
+      "saturation": 0,
+      "attenuation": 0.1,
+      "brightness": 0,
+      "color": null,
+      "visionMode": "basic",
+      "contrast": 0,
+      "range": null,
+      "angle": 360,
+      "enabled": false
+    },
+    "height": 1
+  },
+  "effects": [],
+  "system": {
+    "settings": {
+      "general": {
+        "initiativeBonus": 0,
+        "hideArchive": false
+      },
+      "equipment": {
+        "ammo": {"active": false},
+        "armor": {"active": false},
+        "attacks": {"active": false},
+        "materials": {
+          "active": false,
+          "label": ""
+        },
+        "cyphers": {
+          "active": false,
+          "label": ""
+        },
+        "oddities": {
+          "active": false,
+          "label": ""
+        },
+        "artifacts": {
+          "active": false,
+          "label": ""
+        }
+      }
+    },
+    "notes": "<p>El credo de los marines de asalto es un mantra repetido a menudo: \"Nunca me rendiré, sabiendo perfectamente que podría morir al servicio de la causa\". Ataviados con avanzados trajes de combate, drogados con un cóctel de fármacos militares experimentales y capaces de utilizar un conjunto de armas teledirigidas cibernéticas y conectadas a la red, pocas cosas pueden hacer frente a un equipo de fuego de marines de asalto. Los marines de asalto suelen trabajar para naciones-estado, conglomerados y entidades similares. Llevan a cabo su misión sin piedad, incluso si esa misión es acabar con un rival. Los marines de asalto que cuestionan sus órdenes son rápidamente despachados por sus compañeros.<\/p>\n<p><strong>Motivación:<\/strong> Alcanzar los objetivos de la misión<\/p>\n<p><strong>Entorno:<\/strong> Solo o en equipos de fuego de tres, en cualquier lugar donde las naciones-estado o entidades similares tengan un interés financiero o militar<\/p>\n<p><strong>Salud:<\/strong> 15<\/p>\n<p><strong>Daño que inflige:<\/strong> 6 puntos<\/p>\n<p><strong>Armadura:<\/strong> 4<\/p>\n<p><strong>Movimiento:<\/strong> Largo; vuela una larga distancia cada ronda<\/p>\n<p><strong>Ajustes<\/strong>: Nivel 6 para percepción; nivel 5 para ataques debido al neuro-traje de combate.<\/p>\n<p><strong>Combate: <\/strong>Gracias a su traje de combate, un marine de asalto tiene muchas opciones en combate. Pueden desplegar una hoja electrificada para atacar a todos los enemigos que se encuentren a su alcance inmediato como una sola acción, o utilizar un rifle pesado de energía de largo alcance que inflige 6 puntos de daño.<\/p>\n<p>Un marine de asalto puede desplegar dos drones cañón de nivel 3 que disparan rayos de energía a dos objetivos diferentes a una distancia de hasta 800 m [2600 pies], infligiendo 6 puntos de daño. Si los drones se centran en un único objetivo, un impacto exitoso inflige 9 puntos de daño y desciende al objetivo un grado en su registro de daño. Los drones sólo pueden atacar una o dos veces antes de volver a sus receptáculos en el traje del marine de asalto durante varias rondas para recargarse.<\/p>\n<p><strong>Interacción:<\/strong> Un marine de asalto puede negociar, pero es difícil conseguir que actúe en contra de su misión.<\/p>\n<p><strong>Uso:<\/strong> Un equipo de fuego de marines de asalto es enviado para eliminar a los PJs o a alguien que los PJs conozcan bajo sospecha de ser elementos radicales con los que hay que acabar.<\/p>\n<p><strong>Botín:<\/strong> A pesar de estar bio-bloqueados para cada marine de asalto particular, alguien que tenga éxito en una tarea de Intelecto de dificultad 8 podría reprogramar el traje y ganar un traje de batalla propio, menos los drones (que salen volando o se detonan).<\/p>\n<p><strong>Intromisiones del DJ:<\/strong> Un personaje que apunta a un dron cañón en vez de al marine de asalto impacta al dron, pero el dron reacciona lanzándose hacia el personaje y explotando, infligiendo 6 puntos de daño al personaje y a cualquiera que se encuentre a su alcance inmediato.<\/p>",
+    "pools": {"health": {
+      "max": 15,
+      "value": 15
+    }},
+    "description": "",
+    "combat": {
+      "damage": 6,
+      "armor": 4
+    },
+    "basic": {
+      "level": 4,
+      "biography": "<p>El credo de los marines de asalto es un mantra repetido a menudo: \"Nunca me rendiré, sabiendo perfectamente que podría morir al servicio de la causa\". Ataviados con avanzados trajes de combate, drogados con un cóctel de fármacos militares experimentales y capaces de utilizar un conjunto de armas teledirigidas cibernéticas y conectadas a la red, pocas cosas pueden hacer frente a un equipo de fuego de marines de asalto. Los marines de asalto suelen trabajar para naciones-estado, conglomerados y entidades similares. Llevan a cabo su misión sin piedad, incluso si esa misión es acabar con un rival. Los marines de asalto que cuestionan sus órdenes son rápidamente despachados por sus compañeros.<\/p>\n<p><strong>Motivación:<\/strong> Alcanzar los objetivos de la misión<\/p>\n<p><strong>Entorno:<\/strong> Solo o en equipos de fuego de tres, en cualquier lugar donde las naciones-estado o entidades similares tengan un interés financiero o militar<\/p>\n<p><strong>Salud:<\/strong> 15<\/p>\n<p><strong>Daño que inflige:<\/strong> 6 puntos<\/p>\n<p><strong>Armadura:<\/strong> 4<\/p>\n<p><strong>Movimiento:<\/strong> Largo; vuela una larga distancia cada ronda<\/p>\n<p><strong>Ajustes<\/strong>: Nivel 6 para percepción; nivel 5 para ataques debido al neuro-traje de combate.<\/p>\n<p><strong>Combate: <\/strong>Gracias a su traje de combate, un marine de asalto tiene muchas opciones en combate. Pueden desplegar una hoja electrificada para atacar a todos los enemigos que se encuentren a su alcance inmediato como una sola acción, o utilizar un rifle pesado de energía de largo alcance que inflige 6 puntos de daño.<\/p>\n<p>Un marine de asalto puede desplegar dos drones cañón de nivel 3 que disparan rayos de energía a dos objetivos diferentes a una distancia de hasta 800 m [2600 pies], infligiendo 6 puntos de daño. Si los drones se centran en un único objetivo, un impacto exitoso inflige 9 puntos de daño y desciende al objetivo un grado en su registro de daño. Los drones sólo pueden atacar una o dos veces antes de volver a sus receptáculos en el traje del marine de asalto durante varias rondas para recargarse.<\/p>\n<p><strong>Interacción:<\/strong> Un marine de asalto puede negociar, pero es difícil conseguir que actúe en contra de su misión.<\/p>\n<p><strong>Uso:<\/strong> Un equipo de fuego de marines de asalto es enviado para eliminar a los PJs o a alguien que los PJs conozcan bajo sospecha de ser elementos radicales con los que hay que acabar.<\/p>\n<p><strong>Botín:<\/strong> A pesar de estar bio-bloqueados para cada marine de asalto particular, alguien que tenga éxito en una tarea de Intelecto de dificultad 8 podría reprogramar el traje y ganar un traje de batalla propio, menos los drones (que salen volando o se detonan).<\/p>\n<p><strong>Intromisiones del DJ:<\/strong> Un personaje que apunta a un dron cañón en vez de al marine de asalto impacta al dron, pero el dron reacciona lanzándose hacia el personaje y explotando, infligiendo 6 puntos de daño al personaje y a cualquiera que se encuentre a su alcance inmediato.<\/p>"
+    },
+    "version": 2
+  },
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "name": "Marine de asalto",
+  "_id": "sbTJJl5q80quKcXu",
+  "items": []
+}

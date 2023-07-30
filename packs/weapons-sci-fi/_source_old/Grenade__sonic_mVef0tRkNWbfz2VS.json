@@ -1,0 +1,62 @@
+{
+  "name": "Granada sónica",
+  "type": "attack",
+  "img": "systems/cyphersystem/icons/items/attack.svg",
+  "effects": [],
+  "folder": "z5Ty4e2m8f8yhMuB",
+  "sort": 200000,
+  "flags": {},
+  "_id": "mVef0tRkNWbfz2VS",
+  "system": {
+    "version": 2,
+    "description": "<p>Un solo uso; puede lanzarse a corta distancia; explota para infligir 2 puntos de daño en un radio inmediato. Si se falla la tirada de Defensa por Vigor, el objetivo pierde su siguiente turno. Nivel 4.</p>",
+    "archived": false,
+    "settings": {
+      "rollButton": {
+        "pool": "Pool",
+        "skill": "Practiced",
+        "assets": "0",
+        "effort1": "0",
+        "effort2": "0",
+        "effort3": "0",
+        "stepModifier": "eased",
+        "additionalSteps": 0,
+        "additionalCost": 0,
+        "damage": 0,
+        "damagePerLOE": 3,
+        "teen": "",
+        "bonus": 0
+      },
+      "linkedItems": {
+        "ability": "",
+        "attack": "",
+        "skill": ""
+      },
+      "general": {
+        "unmaskedForm": "Mask"
+      }
+    },
+    "basic": {
+      "type": "n/a",
+      "damage": 2,
+      "modifier": "eased",
+      "steps": 0,
+      "range": "short range",
+      "notes": "explosive weapon",
+      "skillRating": "Practiced"
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "k2TkElLx959B0lm5": 3
+  },
+  "_stats": {
+    "systemId": "cyphersystem",
+    "systemVersion": "2.6.2",
+    "coreVersion": "11.301",
+    "createdTime": null,
+    "modifiedTime": 1686392809433,
+    "lastModifiedBy": "ZyqFG5NpQtVrpwj7"
+  },
+  "_key": "!items!mVef0tRkNWbfz2VS"
+}

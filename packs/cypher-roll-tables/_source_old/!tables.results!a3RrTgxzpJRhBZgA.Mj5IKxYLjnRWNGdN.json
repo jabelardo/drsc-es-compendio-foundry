@@ -1,0 +1,16 @@
+{
+  "img": "systems/cyphersystem/icons/items/cypher.svg",
+  "documentCollection": "cyphersystem-compendium.cyphers-fantasy",
+  "flags": {},
+  "weight": 5,
+  "range": [
+    35,
+    39
+  ],
+  "documentId": "N6eTa8ko9FeMOWkF",
+  "text": "Protección contra dragones",
+  "_id": "Mj5IKxYLjnRWNGdN",
+  "type": 2,
+  "drawn": false,
+  "_key": "!tables.results!a3RrTgxzpJRhBZgA.Mj5IKxYLjnRWNGdN"
+}

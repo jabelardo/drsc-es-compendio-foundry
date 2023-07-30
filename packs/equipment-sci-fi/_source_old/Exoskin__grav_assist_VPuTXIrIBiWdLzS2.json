@@ -1,0 +1,32 @@
+{
+  "name": "Exoskin, grav-assist",
+  "type": "equipment",
+  "img": "systems/cyphersystem/icons/items/equipment.svg",
+  "system": {
+    "version": 2,
+    "description": "<p>Exoesqueleto antropomórfico motorizado que permite funcionar con total normalidad en entornos de alta gravedad de hasta 5 G. Los exoesqueletos están relacionados con los mechs de carga. Aumenta la categoría de coste en uno para otorgar +1 Armadura.</p>",
+    "archived": false,
+    "basic": {
+      "level": 3,
+      "quantity": 1
+    }
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "cyphersystem",
+    "systemVersion": "2.6.2",
+    "coreVersion": "11.301",
+    "createdTime": 1676538912776,
+    "modifiedTime": 1686393775630,
+    "lastModifiedBy": "ZyqFG5NpQtVrpwj7"
+  },
+  "_id": "VPuTXIrIBiWdLzS2",
+  "folder": "40FMwVrL57gMPm5j",
+  "sort": 1400000,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "_key": "!items!VPuTXIrIBiWdLzS2"
+}

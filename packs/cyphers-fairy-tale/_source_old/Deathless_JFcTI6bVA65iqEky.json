@@ -1,0 +1,33 @@
+{
+  "img": "systems/cyphersystem/icons/items/cypher.svg",
+  "effects": [],
+  "system": {
+    "archived": false,
+    "settings": {"general": {"nameUnidentified": ""}},
+    "description": "<p><strong>Nivel:<\/strong> 1d6 + 3<\/p>\n<p><strong>Aspecto:<\/strong> Aguja dentro de un huevo<\/p>\n<p><strong>Efecto:<\/strong> Cuando un personaje coloca su alma dentro de la aguja y coloca la aguja dentro del huevo, queda protegido de su próxima muerte. Cuando el personaje muere, vuelve a la vida en la siguiente ronda, con todos sus Reservas llenas.<\/p>\n<p>El uso de la Inmortalidad no protege al personaje de recibir daño o de descender en el registro de daño. Colocar el alma y volver a la vida son acciones. Una vez que el Cypher contiene el alma del usuario, ya no cuenta para su límite de Cyphers.<\/p>\n<p>Si alguien se apodera del alma de otra persona, tiene un gran poder sobre ella (por ejemplo, puede reducir en tres grados todas las acciones en su contra). Aquellos que usen una Inmortalidad deben asegurarse de que está bien escondida y bien protegida.<\/p>",
+    "basic": {
+      "identified": true,
+      "level": "1d6+3"
+    },
+    "version": 2
+  },
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "_stats": {
+    "modifiedTime": 1685280982954,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "yThCrv1jSfPXOC2U",
+    "createdTime": 1685276716791,
+    "systemVersion": "2.6.0",
+    "coreVersion": "10.291"
+  },
+  "name": "Inmortalidad",
+  "flags": {},
+  "_id": "JFcTI6bVA65iqEky",
+  "sort": 0,
+  "type": "cypher",
+  "_key": "!items!JFcTI6bVA65iqEky"
+}

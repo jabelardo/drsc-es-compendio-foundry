@@ -1,0 +1,36 @@
+{
+  "name": "Balines de Honda",
+  "type": "ammo",
+  "img": "systems/cyphersystem/icons/items/ammo.svg",
+  "system": {
+    "version": 2,
+    "description": "",
+    "archived": false,
+    "basic": {
+      "level": null,
+      "quantity": 20
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Item.wWSmSt06Sla9E8UT"
+    }
+  },
+  "_stats": {
+    "systemId": "cyphersystem",
+    "systemVersion": "2.3.0",
+    "coreVersion": "10.291",
+    "createdTime": 1676108215819,
+    "modifiedTime": 1676108228686,
+    "lastModifiedBy": "yThCrv1jSfPXOC2U"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "X8ka31dSew6QVeWl",
+  "_key": "!items!X8ka31dSew6QVeWl"
+}

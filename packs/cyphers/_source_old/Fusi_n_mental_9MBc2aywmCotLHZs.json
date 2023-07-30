@@ -1,0 +1,47 @@
+{
+  "img": "systems/cyphersystem/icons/items/cypher.svg",
+  "effects": [],
+  "folder": null,
+  "system": {
+    "archived": false,
+    "rollButton": {
+      "stepModifier": "eased",
+      "damage": 0,
+      "damagePerLOE": 3,
+      "bonus": 0,
+      "pool": "Pool",
+      "teen": "",
+      "additionalSteps": 0,
+      "effort1": 0,
+      "effort3": 0,
+      "assets": 0,
+      "effort2": 0,
+      "skill": "Practiced",
+      "additionalCost": 0
+    },
+    "description": "<p><strong>Nivel:</strong> 1d6 + 1</p>\n<p><strong>Efecto:</strong> Permite al usuario hablar telepáticamente con las criaturas que puede ver a corta distancia durante un máximo de una hora. El usuario no puede leer los pensamientos de un objetivo, excepto los que se \"transmiten\" específicamente.</p>\n<p>(En algunos juegos, la telepatía trasciende las barreras lingüísticas normales (si el objetivo tiene una mente que permite la comunicación telepática). En otros, puede que sólo capte emociones o conceptos generales de pensamientos en otro idioma. También puede variar en función de la habilidad utilizada).</p>",
+    "basic": {
+      "identified": true,
+      "level": "1d6 + 1"
+    },
+    "version": 2
+  },
+  "ownership": {
+    "default": 0,
+    "k2TkElLx959B0lm5": 3
+  },
+  "_stats": {
+    "modifiedTime": 1664959728634,
+    "systemId": "cyphersystem",
+    "lastModifiedBy": "rLeavHPrdkq6xjNt",
+    "createdTime": null,
+    "systemVersion": "2.0.0-a1",
+    "coreVersion": "10.286"
+  },
+  "name": "Fusión mental",
+  "flags": {},
+  "sort": 0,
+  "_id": "9MBc2aywmCotLHZs",
+  "type": "cypher",
+  "_key": "!items!9MBc2aywmCotLHZs"
+}

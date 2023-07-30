@@ -1,0 +1,16 @@
+{
+  "img": "systems/cyphersystem/icons/items/cypher.svg",
+  "documentCollection": "cyphersystem-compendium.cyphers-horror",
+  "flags": {},
+  "weight": 8,
+  "range": [
+    1,
+    8
+  ],
+  "documentId": "tclXQb5Wr5bXOoAw",
+  "text": "Sirena anatema (fantasmas)",
+  "_id": "flsFeXNJgzHKXrWO",
+  "type": 2,
+  "drawn": false,
+  "_key": "!tables.results!fHHTo7TZNz9DcrHf.flsFeXNJgzHKXrWO"
+}

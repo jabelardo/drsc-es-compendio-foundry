@@ -1,0 +1,32 @@
+{
+  "name": "Juego de cartas/de mesa/digital",
+  "type": "equipment",
+  "img": "systems/cyphersystem/icons/items/equipment.svg",
+  "system": {
+    "version": 2,
+    "description": "<p>Adecuado para pasar el rato y estrechar lazos entre amigos y desconocidos.</p>",
+    "archived": false,
+    "basic": {
+      "level": 2,
+      "quantity": 1
+    }
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "cyphersystem",
+    "systemVersion": "2.3.0",
+    "coreVersion": "10.291",
+    "createdTime": 1676535580099,
+    "modifiedTime": 1676535628915,
+    "lastModifiedBy": "yThCrv1jSfPXOC2U"
+  },
+  "_id": "qT9k8JBonyDiKIOt",
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "_key": "!items!qT9k8JBonyDiKIOt"
+}

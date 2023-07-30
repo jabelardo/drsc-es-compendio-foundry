@@ -1,0 +1,44 @@
+{
+  "name": "Armadura de impacto pintada",
+  "type": "armor",
+  "img": "systems/cyphersystem/icons/items/armor.svg",
+  "system": {
+    "version": 2,
+    "description": "<p>No es una armadura; ofrece +1 a la Armadura, se aplica rociando nanosolución desde un aplicador en espray sobre la ropa y la piel, dura diez minutos; cada aplicador se agota 1 en [[/r 1d10]] usos. Nivel 5.</p>",
+    "archived": false,
+    "basic": {
+      "type": "n/a",
+      "rating": 1,
+      "cost": 0,
+      "notes": ""
+    },
+    "settings": {
+      "general": {
+        "unmaskedForm": "Mask"
+      }
+    },
+    "active": true
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "yThCrv1jSfPXOC2U": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Item.Vfu8IVebtTdaWmMD"
+    }
+  },
+  "_stats": {
+    "systemId": "cyphersystem",
+    "systemVersion": "2.6.2",
+    "coreVersion": "11.301",
+    "createdTime": 1676627089376,
+    "modifiedTime": 1686392743130,
+    "lastModifiedBy": "ZyqFG5NpQtVrpwj7"
+  },
+  "folder": "w2CY8PvOmWwNxKTs",
+  "sort": 200000,
+  "_id": "TDM6TaE0OoiB4pvd",
+  "_key": "!items!TDM6TaE0OoiB4pvd"
+}
