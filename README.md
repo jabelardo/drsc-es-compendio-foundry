@@ -38,7 +38,7 @@ Este módulo esta basado en la estructura del [Cypher SRD Compendium](https://gi
 
 ### Gráficos
 
-Todos los gráficos en `icons/` han sido tomados de [game-icons.net](https://game-icons.net).
+Todos los gráficos en `icons/` y `img/tokens`  han sido tomados de [game-icons.net](https://game-icons.net) bajo licencia [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/).
 
 - [Delapouite](https://delapouite.com/)
 - [Lorc](https://lorcblog.blogspot.com/)
