@@ -1,16 +1,3 @@
-2023/07/30-13:43:57.964 5b8 Recovering log #443
-2023/07/30-13:43:57.965 5b8 Level-0 table #445: started
-2023/07/30-13:43:57.969 5b8 Level-0 table #445: 80132 bytes OK
-2023/07/30-13:43:57.979 5b8 Delete type=0 #443
-2023/07/30-13:43:57.979 5b8 Delete type=3 #442
-2023/07/30-13:51:52.287 574c Level-0 table #448: started
-2023/07/30-13:51:52.287 574c Level-0 table #448: 0 bytes OK
-2023/07/30-13:51:52.290 574c Delete type=0 #446
-2023/07/30-13:51:52.297 574c Manual compaction at level-0 from '!items!0VkKJcPSO7Scn7Ef' @ 72057594037927935 : 1 .. '!items!zqv51NhAhlMBm2lG' @ 0 : 0; will stop at '!items!zqv51NhAhlMBm2lG' @ 329 : 1
-2023/07/30-13:51:52.297 574c Compacting 1@0 + 1@1 files
-2023/07/30-13:51:52.302 574c Generated table #449@0: 155 keys, 80132 bytes
-2023/07/30-13:51:52.302 574c Compacted 1@0 + 1@1 files => 80132 bytes
-2023/07/30-13:51:52.304 574c compacted to: files[ 0 1 0 0 0 0 0 ]
-2023/07/30-13:51:52.304 574c Delete type=2 #359
-2023/07/30-13:51:52.305 574c Delete type=2 #445
-2023/07/30-13:51:52.313 574c Manual compaction at level-0 from '!items!zqv51NhAhlMBm2lG' @ 329 : 1 .. '!items!zqv51NhAhlMBm2lG' @ 0 : 0; will stop at (end)
+2023/07/30-13:52:59.915 3788 Recovering log #447
+2023/07/30-13:52:59.922 3788 Delete type=0 #447
+2023/07/30-13:52:59.923 3788 Delete type=3 #444
