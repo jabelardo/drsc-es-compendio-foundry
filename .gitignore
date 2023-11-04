@@ -1,8 +1,8 @@
 en/
 createdbes/
-packs/*/_source/
-packs/*/_source_en/
-packs/*/_source_es/
-packs/*/_source_old/
+packs/**/_source/
+packs/**/_source_en/
+packs/**/_source_es/
+packs/**/_source_old/
 *.lock
 packs\ -\ with older souce folders/*
