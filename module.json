@@ -2,15 +2,15 @@
   "id": "drsc-es-compendio-foundry",
   "title": "Compendio del DRS de Cypher en Español",
   "description": "Un compendio del Documento de Referencia del Sistema Cypher en Español para Foundry VTT.",
-  "version": "1.2.2",
+  "version": "1.2.3",
   "compatibility": {
     "minimum": "11",
-    "verified": "11.302",
-    "maximum": "11"
+    "verified": "12.331",
+    "maximum": "12"
   },
   "url": "https://github.com/jabelardo/drsc-es-compendio-foundry",
   "manifest": "https://raw.githubusercontent.com/jabelardo/drsc-es-compendio-foundry/main/module.json",
-  "download": "https://github.com/jabelardo/drsc-es-compendio-foundry/releases/download/1.2.2/release.zip",
+  "download": "https://github.com/jabelardo/drsc-es-compendio-foundry/releases/download/1.2.3/release.zip",
   "authors": [
     {
       "name": "Jose Abelardo Gutierrez Saturno",
@@ -27,7 +27,7 @@
         "manifest": "https://raw.githubusercontent.com/mrkwnzl/cyphersystem-foundryvtt/main/system.json",
         "compatibility": {
           "minimum": "2.6.1",
-          "verified": "2.7.0"
+          "verified": "3.2.1"
         }
       }
     ]
