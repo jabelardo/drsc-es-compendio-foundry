@@ -2,11 +2,10 @@
   "id": "drsc-es-compendio-foundry",
   "title": "Compendio del DRS de Cypher en Español",
   "description": "Un compendio del Documento de Referencia del Sistema Cypher en Español para Foundry VTT.",
-  "version": "1.2.3",
+  "version": "1.2.4",
   "compatibility": {
     "minimum": "11",
-    "verified": "12.331",
-    "maximum": "12"
+    "maximum": "14"
   },
   "url": "https://github.com/jabelardo/drsc-es-compendio-foundry",
   "manifest": "https://raw.githubusercontent.com/jabelardo/drsc-es-compendio-foundry/main/module.json",
